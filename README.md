@@ -3,6 +3,7 @@
 This project converts the official TTC (Toronto Transit Commission) JSON alerts into a clean, emoji-fied RSS feed. 
 
 ![Update Status](https://github.com/LiventNick/TTC-Alerts-RSS/actions/workflows/update_feed.yml/badge.svg)
+![Cloudflare Status](https://img.shields.io/github/deployments/LiventNick/TTC-Alerts-RSS/production?label=Cloudflare%20Worker&logo=cloudflare)
 
 ## 📡 Feeds
 - **Static (Updated every 10m):** [https://liventnick.github.io/TTC-Alerts-RSS/ttc_feed.xml](https://liventnick.github.io/TTC-Alerts-RSS/ttc_feed.xml)
