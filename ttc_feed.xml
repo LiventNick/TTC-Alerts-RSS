@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Feb 2026 19:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 20:21:30 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
@@ -21,13 +21,6 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed between Martin Grove and Humber College stations.]]></title>
-            <description><![CDATA[Line 6 Finch West Regular service has resumed between Martin Grove and Humber College stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63309</guid>
-            <pubDate>2026-02-25T14:31:03.84Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚇 At College Station, the Yonge & Carlton northeast corner entrance is closed due to flooding. Alternatively, customers can use the Yonge & Carlton southeast entrance, or the southwest corner entrance at Yonge & College (College Park Shops).  See other service alerts.]]></title>
             <description><![CDATA[At College Station, the Yonge & Carlton northeast corner entrance is closed due to flooding. Alternatively, customers can use the Yonge & Carlton southeast entrance, or the southwest corner entrance at Yonge & College (College Park Shops).  <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -42,25 +35,11 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 26 Dupont: Detour via Symington Ave, Bloor St W, Keele St and Annette St due to construction.]]></title>
-            <description><![CDATA[26 Dupont: Detour via Symington Ave, Bloor St W, Keele St and Annette St due to construction.]]></description>
+            <title><![CDATA[🚌 26 Dupont: Detour via Symington Ave, Bloor St W and Dundas St W due to construction.]]></title>
+            <description><![CDATA[26 Dupont: Detour via Symington Ave, Bloor St W and Dundas St W due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63292</guid>
-            <pubDate>2026-02-25T08:06:31.243Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 42 Cummer: Detour via Bayview Ave, Finch Ave E and Leslie St due to a fallen tree blocking roadway.]]></title>
-            <description><![CDATA[42 Cummer: Detour via Bayview Ave, Finch Ave E and Leslie St due to a fallen tree blocking roadway.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63288</guid>
-            <pubDate>2026-02-25T06:25:54.027Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to a watermain break.]]></title>
-            <description><![CDATA[72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to a watermain break.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63302</guid>
-            <pubDate>2026-02-25T10:31:19.807Z</pubDate>
+            <pubDate>2026-02-25T14:45:52.767Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Gerrard St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
@@ -203,25 +182,11 @@
             <pubDate>2026-02-24T13:32:48.207Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Coxwell: Escalator 11D3E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service February 25, 2026.]]></title>
-            <description><![CDATA[Coxwell: Escalator 11D3E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service February 25, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63203</guid>
-            <pubDate>2026-02-23T10:45:46.367Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ St Clair: Escalator 16Y3E out of service from Line 1 Finch platform to south concourse while we perform maintenance. Escalator is expected to be back in service February 26, 2026.]]></title>
             <description><![CDATA[St Clair: Escalator 16Y3E out of service from Line 1 Finch platform to south concourse while we perform maintenance. Escalator is expected to be back in service February 26, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63202</guid>
             <pubDate>2026-02-23T10:47:13.227Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Lawrence: Escalator 19Y8E out of service from Line 1 platform to north concourse while we perform maintenance. Escalator is expected to be back in service February 25, 2026.]]></title>
-            <description><![CDATA[Lawrence: Escalator 19Y8E out of service from Line 1 platform to north concourse while we perform maintenance. Escalator is expected to be back in service February 25, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63201</guid>
-            <pubDate>2026-02-23T10:44:34.903Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Highway 407: Escalator 14S6E out of service from concourse to bus platform while we perform maintenance. Escalator is expected to be back in service February 26, 2026.]]></title>
