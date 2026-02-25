@@ -4,9 +4,9 @@ This project converts the official TTC (Toronto Transit Commission) JSON alerts 
 
 ![Update Status](https://github.com/LiventNick/TTC-Alerts-RSS/actions/workflows/update_feed.yml/badge.svg)
 
-## 📡 Live Feed URLs
-- **Primary (GitHub Pages):** [https://liventnick.github.io/TTC-Alerts-RSS/ttc_feed.xml](https://liventnick.github.io/TTC-Alerts-RSS/ttc_feed.xml)
-- **Failback (Cloudflare Worker):** COMING SOON
+## 📡 Feeds
+- **Static (Updated every 10m):** [https://liventnick.github.io/TTC-Alerts-RSS/ttc_feed.xml](https://liventnick.github.io/TTC-Alerts-RSS/ttc_feed.xml)
+- **Live (Real-time):** [https://ttc-alerts-rss.liventnick.xyz](https://ttc-alerts-rss.liventnick.xyz)
 
 ## ✨ Features
 - **Auto-Updating:** Updates every 10 minutes via GitHub Actions.
