@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Feb 2026 16:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 16:48:34 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
@@ -21,18 +21,18 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed between Don Valley and Laird stations.]]></title>
-            <description><![CDATA[Line 5 Eglinton Regular service has resumed between Don Valley and Laird stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63294</guid>
-            <pubDate>2026-02-25T10:59:57.537Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚇 At College Station, the Yonge & Carlton northeast corner entrance is closed due to flooding. Alternatively, customers can use the Yonge & Carlton southeast entrance, or the southwest corner entrance at Yonge & College (College Park Shops).  See other service alerts.]]></title>
             <description><![CDATA[At College Station, the Yonge & Carlton northeast corner entrance is closed due to flooding. Alternatively, customers can use the Yonge & Carlton southeast entrance, or the southwest corner entrance at Yonge & College (College Park Shops).  <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63060</guid>
             <pubDate>2026-02-21T05:07:23.66Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour via Church St and Dundas St E due to a collision.]]></title>
+            <description><![CDATA[501 Queen: Detour via Church St and Dundas St E due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63305</guid>
+            <pubDate>2026-02-25T11:41:02.15Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 504 King: Detour eastbound via Church St and Eastern Ave due to a loose catch basin cover.]]></title>
