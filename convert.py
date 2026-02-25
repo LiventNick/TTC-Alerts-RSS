@@ -8,19 +8,32 @@ API_URL = "https://alerts.ttc.ca/api/alerts/live-alerts"
 OUTPUT_FILE = "ttc_feed.xml"
 
 def create_rss():
+    # Adding a User-Agent makes us look like a real browser
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
     try:
-        response = requests.get(API_URL)
+        response = requests.get(API_URL, headers=headers)
+        response.raise_for_status() # This will stop the script if the API blocks us
         data = response.json()
         
         rss_items = ""
         # Combine routes and accessibility alerts
-        all_alerts = data.get('routes', []) + data.get('accessibility', [])
+        # We use .get([],) to ensure it doesn't crash if one list is missing
+        routes = data.get('routes') if data.get('routes') is not None else []
+        access = data.get('accessibility') if data.get('accessibility') is not None else []
+        all_alerts = routes + access
 
         for alert in all_alerts:
-            title = alert.get('headerText') or alert.get('title')
-            desc = alert.get('description') or "No detailed description available."
+            title = alert.get('headerText') or alert.get('title') or "TTC Alert"
+            desc = alert.get('description') or "View details on the TTC website."
+            # Clean up the description if it's empty but headerText has info
+            if desc == "" and title:
+                desc = title
+                
             link = "https://www.ttc.ca/service-alerts"
-            guid = alert.get('id')
+            guid = str(alert.get('id'))
             pub_date = alert.get('lastUpdated')
 
             rss_items += f"""
@@ -45,9 +58,12 @@ def create_rss():
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(rss_feed)
+        print("Successfully created ttc_feed.xml")
             
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error occurred: {e}")
+        # Re-raise the error so the GitHub Action knows it failed
+        raise e
 
 if __name__ == "__main__":
     create_rss()
