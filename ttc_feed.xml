@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Feb 2026 20:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 21:02:37 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
@@ -21,11 +21,11 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 At College Station, the Yonge & Carlton northeast corner entrance is closed due to flooding. Alternatively, customers can use the Yonge & Carlton southeast entrance, or the southwest corner entrance at Yonge & College (College Park Shops).  See other service alerts.]]></title>
-            <description><![CDATA[At College Station, the Yonge & Carlton northeast corner entrance is closed due to flooding. Alternatively, customers can use the Yonge & Carlton southeast entrance, or the southwest corner entrance at Yonge & College (College Park Shops).  <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
+            <title><![CDATA[🚋 505 Dundas Regular service has resumed westbound near Dundas St East at Munro St.]]></title>
+            <description><![CDATA[505 Dundas Regular service has resumed westbound near Dundas St East at Munro St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63060</guid>
-            <pubDate>2026-02-21T05:07:23.66Z</pubDate>
+            <guid isPermaLink="false">63317</guid>
+            <pubDate>2026-02-25T15:57:05.053Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -133,6 +133,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Queen's Park: Elevator 3Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[Queen's Park: Elevator 3Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63316</guid>
+            <pubDate>2026-02-25T15:35:46.647Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Cedarvale: Elevator 4S2L out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance.]]></title>
             <description><![CDATA[Cedarvale: Elevator 4S2L out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -147,11 +154,11 @@
             <pubDate>2026-02-25T13:48:05.95Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance while we perform maintenance.]]></title>
-            <description><![CDATA[Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Warden: Elevator back in service between concourse and Warden Avenue entrance.]]></title>
+            <description><![CDATA[Warden: Elevator back in service between concourse and Warden Avenue entrance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63306</guid>
-            <pubDate>2026-02-25T13:16:08.077Z</pubDate>
+            <pubDate>2026-02-25T15:48:48.05Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Castle Frank: Elevator 5D1L out of service between Castle Frank Rd entrance and Line 2 Kipling (westbound) platform while we perform maintenance.]]></title>
