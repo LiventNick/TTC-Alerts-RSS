@@ -1,3 +1,10 @@
 name = "ttc-alerts-rss"
 main = "worker.js"
 compatibility_date = "2026-02-25"
+[observability]
+enabled = true
+
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+invocation_logs = true
