@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Feb 2026 17:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 18:44:28 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
@@ -28,18 +28,11 @@
             <pubDate>2026-02-21T05:07:23.66Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour via Church St and Dundas St E due to a collision.]]></title>
-            <description><![CDATA[501 Queen: Detour via Church St and Dundas St E due to a collision.]]></description>
+            <title><![CDATA[🚋 501 Queen: Detour eastbound via Church St and Dundas St E due to a collision.]]></title>
+            <description><![CDATA[501 Queen: Detour eastbound via Church St and Dundas St E due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63305</guid>
-            <pubDate>2026-02-25T11:41:02.15Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King: Detour eastbound via Church St and Eastern Ave due to a loose catch basin cover.]]></title>
-            <description><![CDATA[504 King: Detour eastbound via Church St and Eastern Ave due to a loose catch basin cover.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63304</guid>
-            <pubDate>2026-02-25T10:43:25.003Z</pubDate>
+            <pubDate>2026-02-25T12:47:14.437Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -54,6 +47,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63292</guid>
             <pubDate>2026-02-25T08:06:31.243Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 37 Islington: Detour via Rathburn Rd, Kipling Ave and Eglinton Ave W due to a collision.]]></title>
+            <description><![CDATA[37 Islington: Detour via Rathburn Rd, Kipling Ave and Eglinton Ave W due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63307</guid>
+            <pubDate>2026-02-25T13:41:02.307Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 42 Cummer: Detour via Bayview Ave, Finch Ave E and Leslie St due to a fallen tree blocking roadway.]]></title>
@@ -161,6 +161,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance while we perform maintenance.]]></title>
+            <description><![CDATA[Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63306</guid>
+            <pubDate>2026-02-25T13:16:08.077Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Castle Frank: Elevator 5D1L out of service between Castle Frank Rd entrance and Line 2 Kipling (westbound) platform while we perform maintenance.]]></title>
             <description><![CDATA[Castle Frank: Elevator 5D1L out of service between Castle Frank Rd entrance and Line 2 Kipling (westbound) platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -256,7 +263,7 @@
             <description><![CDATA[Don Valley: Elevator 2 out of service between concourse and Don Mills Road east side entrance and bus terminal due to the Ontario Line construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62523</guid>
-            <pubDate>2026-02-24T16:29:38.333Z</pubDate>
+            <pubDate>2026-02-25T13:18:05.427Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S8E out of service from concourse to Dupont St north side entrance due to a technical problem. Escalator is expected to be back in service February 27, 2026.]]></title>
