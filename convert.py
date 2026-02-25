@@ -23,17 +23,25 @@ def create_rss():
         all_alerts = routes + access
 
         for alert in all_alerts:
-            # 1. Get initial title and description
-            title = alert.get('headerText') or alert.get('title') or ""
-            desc = alert.get('description') or ""
+            # 1. Grab potential title sources in order of "cleanliness"
+            # customHeaderText is usually the best for 'WEBSITE' style alerts
+            api_title = alert.get('headerText') or alert.get('title') or ""
+            api_custom = alert.get('customHeaderText') or ""
+            api_desc = alert.get('description') or ""
             
-            # 2. Fix the "WEBSITE" title issue
-            if title.upper() == "WEBSITE":
-                # Use the first 50 characters of description as a title instead
-                title = f"Station Alert: {desc[:60]}..." if desc else "General Station Alert"
+            # 2. Logic to fix "WEBSITE" or missing titles
+            if not api_title or api_title.upper() == "WEBSITE":
+                # Use customHeaderText if available, otherwise take the description
+                title = api_custom if api_custom else api_desc
+            else:
+                title = api_title
 
-            # 3. Choose Emoji based on routeType or Alert content
-            emoji = "⚠️" # Default
+            # 3. Strip any HTML tags from the title (like <a> links)
+            import re
+            title = re.sub('<[^<]+?>', '', title).strip()
+            
+            # 4. Emoji Logic
+            emoji = "⚠️"
             r_type = str(alert.get('routeType', '')).lower()
             
             if "subway" in r_type: emoji = "🚇"
@@ -41,15 +49,13 @@ def create_rss():
             elif "bus" in r_type: emoji = "🚌"
             elif "elevator" in r_type or "escalator" in r_type: emoji = "♿"
             
-            # Special check for "Slower than usual" (Reduced Speed Zones)
             if "slower than usual" in title.lower():
                 emoji = "🐢"
 
             full_title = f"{emoji} {title}"
             
-            # 4. Finalize description logic
-            # If description is empty or just the title again, provide context
-            final_desc = desc if desc and len(desc) > 5 else title
+            # 5. Description Logic (Keeping the HTML links here is fine)
+            final_desc = api_desc if api_desc else title
                 
             link = "https://www.ttc.ca/service-alerts"
             guid = str(alert.get('id'))
