@@ -11,7 +11,8 @@ This project converts the official TTC (Toronto Transit Commission) JSON alerts 
 ## ✨ Features
 - **Auto-Updating:** Updates every 10 minutes via GitHub Actions.
 - **Smart Titles:** Automatically replaces generic "WEBSITE" headers with descriptive text.
-- **Emoji Support:** - 🚇 Subway
+- **Emoji Support:**
+  - 🚇 Subway
   - 🚌 Bus
   - 🚋 Streetcar
   - 🐢 Slow Zones (Reduced Speed)
