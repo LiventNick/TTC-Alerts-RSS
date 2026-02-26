@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Feb 2026 19:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 20:04:55 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
@@ -21,11 +21,11 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 507 Long Branch Regular service has resumed between Long Branch Loop and Lake Shore Blvd West at Kipling Ave.]]></title>
-            <description><![CDATA[507 Long Branch Regular service has resumed between Long Branch Loop and Lake Shore Blvd West at Kipling Ave.]]></description>
+            <title><![CDATA[🚋 506 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we respond to a medical emergency.]]></title>
+            <description><![CDATA[506 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we respond to a medical emergency.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63362</guid>
-            <pubDate>2026-02-26T14:16:17.993Z</pubDate>
+            <guid isPermaLink="false">63365</guid>
+            <pubDate>2026-02-26T14:57:02.85Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -131,6 +131,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Finch: Elevator 22Y4L out of service between Passenger Pick-up and Drop-off entrance and fares concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Finch: Elevator 22Y4L out of service between Passenger Pick-up and Drop-off entrance and fares concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63364</guid>
+            <pubDate>2026-02-26T14:37:41.07Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Elevator 23Y2L out of service between concourse and Line 1 southbound platform while we perform maintenance.]]></title>
