@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Feb 2026 18:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 19:30:13 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: No service between Sheppard-Yonge and Finch stations due to a security incident.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: No service between Sheppard-Yonge and Finch stations due to a security incident.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63361</guid>
-            <pubDate>2026-02-26T13:19:34.153Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></description>
@@ -28,11 +21,11 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays eastbound from Keele to St George stations while we fix a track problem.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Delays eastbound from Keele to St George stations while we fix a track problem.]]></description>
+            <title><![CDATA[🚋 507 Long Branch Regular service has resumed between Long Branch Loop and Lake Shore Blvd West at Kipling Ave.]]></title>
+            <description><![CDATA[507 Long Branch Regular service has resumed between Long Branch Loop and Lake Shore Blvd West at Kipling Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63359</guid>
-            <pubDate>2026-02-26T12:57:05.67Z</pubDate>
+            <guid isPermaLink="false">63362</guid>
+            <pubDate>2026-02-26T14:16:17.993Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
