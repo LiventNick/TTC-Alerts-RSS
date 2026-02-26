@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Feb 2026 17:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 18:32:28 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: No service between Sheppard-Yonge and Finch stations due to a security incident.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: No service between Sheppard-Yonge and Finch stations due to a security incident.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63361</guid>
+            <pubDate>2026-02-26T13:19:34.153Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></description>
@@ -19,6 +26,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63127</guid>
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays eastbound from Keele to St George stations while we fix a track problem.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Delays eastbound from Keele to St George stations while we fix a track problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63359</guid>
+            <pubDate>2026-02-26T12:57:05.67Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -35,39 +49,11 @@
             <pubDate>2026-02-26T09:02:21.153Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 38 Highland Creek: Detour via Ellesmere Rd and Midland Ave due to a collision.]]></title>
-            <description><![CDATA[38 Highland Creek: Detour via Ellesmere Rd and Midland Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63350</guid>
-            <pubDate>2026-02-26T11:19:05.337Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
             <description><![CDATA[72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-26T02:14:06.137Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 131 Nugget: Detour westbound via Ellesmere Rd and Midland Ave due to a collision.]]></title>
-            <description><![CDATA[131 Nugget: Detour westbound via Ellesmere Rd and Midland Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63353</guid>
-            <pubDate>2026-02-26T11:19:07.71Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 133 Neilson: Detour northbound via Ellesmere Rd and Midland Ave due to a collision.]]></title>
-            <description><![CDATA[133 Neilson: Detour northbound via Ellesmere Rd and Midland Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63352</guid>
-            <pubDate>2026-02-26T11:19:06.96Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 938 Highland Creek Express: Detour westbound via Ellesmere Rd and Midland Ave due to a collision.]]></title>
-            <description><![CDATA[938 Highland Creek Express: Detour westbound via Ellesmere Rd and Midland Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63351</guid>
-            <pubDate>2026-02-26T11:19:06.15Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -154,18 +140,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Finch West: Elevator 11S2L out of service between Keele St west side entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Finch West: Elevator 11S2L out of service between Keele St west side entrance and concourse while we perform maintenance.]]></description>
+            <title><![CDATA[♿ North York Centre: Elevator 23Y2L out of service between concourse and Line 1 southbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[North York Centre: Elevator 23Y2L out of service between concourse and Line 1 southbound platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63348</guid>
-            <pubDate>2026-02-26T10:48:58.297Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Wilson: Elevator 8S3L out of service between concourse, lower bus platform and upper bus platform while we perform maintenance.]]></title>
-            <description><![CDATA[Wilson: Elevator 8S3L out of service between concourse, lower bus platform and upper bus platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63343</guid>
-            <pubDate>2026-02-26T09:22:18.91Z</pubDate>
+            <guid isPermaLink="false">63360</guid>
+            <pubDate>2026-02-26T12:58:13.647Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Avenue: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse while we perform maintenance.]]></title>
