@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Feb 2026 22:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 23:31:32 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at Eglinton station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at Eglinton station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63374</guid>
+            <pubDate>2026-02-26T18:29:24.797Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></description>
@@ -21,11 +28,11 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton Regular service has resumed between Main Street Station at Bay 7 and Coxwell Ave at Lower Gerrard St East.]]></title>
-            <description><![CDATA[506 Carlton Regular service has resumed between Main Street Station at Bay 7 and Coxwell Ave at Lower Gerrard St East.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes a track switch issue. Shuttle buses are running between Finch West and Jane and Finch.]]></title>
+            <description><![CDATA[Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes a track switch issue. Shuttle buses are running between Finch West and Jane and Finch.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63368</guid>
-            <pubDate>2026-02-26T17:38:12.283Z</pubDate>
+            <guid isPermaLink="false">63373</guid>
+            <pubDate>2026-02-26T18:30:30.95Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -138,20 +145,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63369</guid>
             <pubDate>2026-02-26T17:36:45.797Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St Andrew: Elevator out of service between 145 King St W entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[St Andrew: Elevator out of service between 145 King St W entrance and concourse while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63367</guid>
-            <pubDate>2026-02-26T16:42:17.173Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ North York Centre: Elevator back in service between concourse and Line 1 southbound platform.]]></title>
-            <description><![CDATA[North York Centre: Elevator back in service between concourse and Line 1 southbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63360</guid>
-            <pubDate>2026-02-26T17:47:56.57Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Avenue: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse while we perform maintenance.]]></title>
