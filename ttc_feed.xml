@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Feb 2026 08:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 09:28:34 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
@@ -21,18 +21,11 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 301 Queen Regular service has resumed between Humber Loop at the Queensway and Lake Shore Blvd West at Kipling Ave.]]></title>
-            <description><![CDATA[301 Queen Regular service has resumed between Humber Loop at the Queensway and Lake Shore Blvd West at Kipling Ave.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63338</guid>
-            <pubDate>2026-02-26T03:24:45.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 310 Spadina: Streetcars have been replaced by buses between Union Station and Spadina Station due to emergency overhead power repairs.]]></title>
-            <description><![CDATA[310 Spadina: Streetcars have been replaced by buses between Union Station and Spadina Station due to emergency overhead power repairs.]]></description>
+            <title><![CDATA[🚋 310 Spadina: Streetcars have been replaced by buses between Union Station Streetcar Platform and Spadina Station Streetcar Platform due to emergency overhead power repairs.]]></title>
+            <description><![CDATA[310 Spadina: Streetcars have been replaced by buses between Union Station Streetcar Platform and Spadina Station Streetcar Platform due to emergency overhead power repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63336</guid>
-            <pubDate>2026-02-26T02:13:34.893Z</pubDate>
+            <pubDate>2026-02-26T04:11:19.607Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
