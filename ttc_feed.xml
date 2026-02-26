@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Feb 2026 11:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 12:00:50 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
@@ -119,6 +119,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Avenue: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Avenue: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63340</guid>
+            <pubDate>2026-02-26T06:40:50.68Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to the Ontario Line construction. Elevator is expected to be back in service February 27, 2026.]]></title>
             <description><![CDATA[St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to the Ontario Line construction. Elevator is expected to be back in service February 27, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -126,11 +133,11 @@
             <pubDate>2026-02-25T16:42:13.77Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ St Andrew: Elevator 6Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[St Andrew: Elevator 6Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ St Andrew: Elevator back in service between concourse and Line 1 centre platform.]]></title>
+            <description><![CDATA[St Andrew: Elevator back in service between concourse and Line 1 centre platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63289</guid>
-            <pubDate>2026-02-25T07:59:23.773Z</pubDate>
+            <pubDate>2026-02-26T06:49:10.843Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Cedarvale: Elevator 5 out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while we perform maintenance.]]></title>
