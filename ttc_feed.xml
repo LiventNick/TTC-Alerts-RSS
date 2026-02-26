@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Feb 2026 23:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 02:48:46 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-25T05:16:07.087Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 104 Faywood: Detour via Overbrook Pl and Evans Ave due to a Toronto Fire investigation.]]></title>
+            <description><![CDATA[104 Faywood: Detour via Overbrook Pl and Evans Ave due to a Toronto Fire investigation.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63324</guid>
+            <pubDate>2026-02-25T21:34:22.81Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -124,13 +131,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63319</guid>
             <pubDate>2026-02-25T16:42:13.77Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Eglinton: Elevator 4 out of service between Eglinton Avenue south side entrance, Line 1 concourse, and Line 5 upper concourse west side while we perform maintenance.]]></title>
-            <description><![CDATA[Eglinton: Elevator 4 out of service between Eglinton Avenue south side entrance, Line 1 concourse, and Line 5 upper concourse west side while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63308</guid>
-            <pubDate>2026-02-25T13:48:05.95Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Castle Frank: Elevator 5D1L out of service between Castle Frank Rd entrance and Line 2 Kipling (westbound) platform while we perform maintenance.]]></title>
