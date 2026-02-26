@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Feb 2026 13:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 14:38:24 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
@@ -26,6 +26,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63206</guid>
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 26 Dupont: Detour via Symington Ave, Bloor St W and Dundas St W due to construction.]]></title>
+            <description><![CDATA[26 Dupont: Detour via Symington Ave, Bloor St W and Dundas St W due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63342</guid>
+            <pubDate>2026-02-26T09:02:21.153Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 38 Highland Creek: Detour westbound via Ellesmere Rd and Midland Ave due to a collision.]]></title>
+            <description><![CDATA[38 Highland Creek: Detour westbound via Ellesmere Rd and Midland Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63344</guid>
+            <pubDate>2026-02-26T09:35:42.44Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
@@ -119,11 +133,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Wilson: Elevator 8S1L out of service between Line 1 platform and street due to a technical problem.]]></title>
-            <description><![CDATA[Wilson: Elevator 8S1L out of service between Line 1 platform and street due to a technical problem.]]></description>
+            <title><![CDATA[♿ Wilson: Elevator 8S3L out of service between concourse, lower bus platform and upper bus platform while we perform maintenance.]]></title>
+            <description><![CDATA[Wilson: Elevator 8S3L out of service between concourse, lower bus platform and upper bus platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63341</guid>
-            <pubDate>2026-02-26T07:37:53.897Z</pubDate>
+            <guid isPermaLink="false">63343</guid>
+            <pubDate>2026-02-26T09:22:18.91Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Avenue: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse while we perform maintenance.]]></title>
