@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Feb 2026 04:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 05:44:42 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -21,25 +21,18 @@
             <pubDate>2026-02-22T09:07:31.213Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63130</guid>
+            <pubDate>2026-02-25T23:59:04.077Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63127</guid>
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504A King Regular service has resumed between Distillery Loop and King St East at Church St West Side.]]></title>
-            <description><![CDATA[504A Streetcars are turning back via Church, Richmond, Victoria, Adelaide, and Church to route.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63326</guid>
-            <pubDate>2026-02-25T23:25:58.003Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504D King Regular service has resumed near King St East at Sumach St.]]></title>
-            <description><![CDATA[504D King buses are diverting eastbound via Queen, Parliament, to route due to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63328</guid>
-            <pubDate>2026-02-25T23:25:45.3Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -61,13 +54,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-25T05:16:07.087Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 84 Sheppard West Regular service has resumed eastbound from Sheppard Ave West at Keele St to Sheppard Ave West at Tuscan Gate.]]></title>
-            <description><![CDATA[84 Sheppard West Regular service has resumed eastbound from Sheppard Ave West at Keele St to Sheppard Ave West at Tuscan Gate.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63331</guid>
-            <pubDate>2026-02-25T23:21:25.943Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
