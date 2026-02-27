@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 04:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 05:38:22 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between Vaughan and Pioneer Village stations.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between Vaughan and Pioneer Village stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63394</guid>
+            <pubDate>2026-02-27T00:34:32.597Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned signal work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned signal work. Shuttle buses are running.]]></description>
@@ -21,6 +28,13 @@
             <pubDate>2026-02-22T09:07:31.213Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63131</guid>
+            <pubDate>2026-02-26T23:59:02.727Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -33,13 +47,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63376</guid>
             <pubDate>2026-02-26T18:42:20.643Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 506 Carlton: Delays eastbound from College St at Grace St to Gerrard St East at Broadview Ave due to traffic congestion.]]></title>
-            <description><![CDATA[506 Carlton: Delays eastbound from College St at Grace St to Gerrard St East at Broadview Ave due to traffic congestion.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63390</guid>
-            <pubDate>2026-02-26T22:57:29.997Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -68,6 +75,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63387</guid>
             <pubDate>2026-02-26T21:52:39.617Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 900 Airport Express: No service between Kipling Station at Bus Bay 4 and Pearson Airport Terminal 3 (Arrivals Level Columns C8-C12) due to a blocked road.]]></title>
+            <description><![CDATA[900 Airport Express: No service between Kipling Station at Bus Bay 4 and Pearson Airport Terminal 3 (Arrivals Level Columns C8-C12) due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63393</guid>
+            <pubDate>2026-02-26T23:56:12.617Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -154,13 +168,6 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Dupont: Elevator 2S1L out of service between Spadina Ave east side entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Dupont: Elevator 2S1L out of service between Spadina Ave east side entrance and concourse while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63385</guid>
-            <pubDate>2026-02-26T21:05:02.717Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Victoria Park: Elevator 14D3L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
             <description><![CDATA[Victoria Park: Elevator 14D3L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -201,27 +208,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63250</guid>
             <pubDate>2026-02-25T16:44:22.043Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St Clair: Escalator 16Y3E out of service from Line 1 Finch platform to south concourse while we perform maintenance. Escalator is expected to be back in service February 26, 2026.]]></title>
-            <description><![CDATA[St Clair: Escalator 16Y3E out of service from Line 1 Finch platform to south concourse while we perform maintenance. Escalator is expected to be back in service February 26, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63202</guid>
-            <pubDate>2026-02-23T10:47:13.227Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Highway 407: Escalator 14S6E out of service from concourse to bus platform while we perform maintenance. Escalator is expected to be back in service February 26, 2026.]]></title>
-            <description><![CDATA[Highway 407: Escalator 14S6E out of service from concourse to bus platform while we perform maintenance. Escalator is expected to be back in service February 26, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63200</guid>
-            <pubDate>2026-02-23T10:43:51.013Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Vaughan Metropolitan Centre: Escalator 15S2E out of service from concourse to Millway Ave west side entrance while we perform maintenance. Escalator is expected to be back in service February 26, 2026.]]></title>
-            <description><![CDATA[Vaughan Metropolitan Centre: Escalator 15S2E out of service from concourse to Millway Ave west side entrance while we perform maintenance. Escalator is expected to be back in service February 26, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63199</guid>
-            <pubDate>2026-02-23T10:43:11.42Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard-Yonge: Elevator out of service between Sheppard Ave E south side entrance and Line 4 eastbound platform while we perform maintenance.]]></title>
