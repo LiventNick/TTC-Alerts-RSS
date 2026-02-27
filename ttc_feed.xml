@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 02:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 04:27:46 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned signal work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned signal work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63126</guid>
+            <pubDate>2026-02-26T23:00:01.347Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63122</guid>
             <pubDate>2026-02-22T09:07:31.213Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed eastbound at Jane station.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed eastbound at Jane station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63388</guid>
-            <pubDate>2026-02-26T21:42:55.653Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
@@ -35,6 +35,13 @@
             <pubDate>2026-02-26T18:42:20.643Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 506 Carlton: Delays eastbound from College St at Grace St to Gerrard St East at Broadview Ave due to traffic congestion.]]></title>
+            <description><![CDATA[506 Carlton: Delays eastbound from College St at Grace St to Gerrard St East at Broadview Ave due to traffic congestion.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63390</guid>
+            <pubDate>2026-02-26T22:57:29.997Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
             <description><![CDATA[510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -42,18 +49,25 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 503 Kingston Road Streetcar replacement buses are diverting westbound via Broadview, Dundas, River, to route due to construction at Eastern Avenue and Broadview. .  See other service alerts.]]></title>
+            <description><![CDATA[503 Kingston Road Streetcar replacement buses are diverting westbound via Broadview, Dundas, River, to route due to construction at Eastern Avenue and Broadview. .  <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63391</guid>
+            <pubDate>2026-02-26T23:24:30.377Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
             <description><![CDATA[72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
-            <pubDate>2026-02-26T02:14:06.137Z</pubDate>
+            <pubDate>2026-02-26T22:30:06.013Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 88 South Leaside: Detour eastbound via Laird Dr and Vanderhoof Ave due to a watermain break.]]></title>
             <description><![CDATA[88 South Leaside: Detour eastbound via Laird Dr and Vanderhoof Ave due to a watermain break.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63387</guid>
-            <pubDate>2026-02-26T21:40:22.54Z</pubDate>
+            <pubDate>2026-02-26T21:52:39.617Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
