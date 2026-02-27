@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 14:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 15:39:08 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63127</guid>
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes a switch problem. Shuttle buses are running between Finch West and Jane and Finch.]]></title>
+            <description><![CDATA[Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes a switch problem. Shuttle buses are running between Finch West and Jane and Finch.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63413</guid>
+            <pubDate>2026-02-27T10:28:04.573Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -74,7 +81,7 @@
             <description><![CDATA[Line 1 Yonge-University: Subway trains will move slower than usual southbound from St Clair West to Dupont stations while we work on switch issues.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62965</guid>
-            <pubDate>2026-02-23T10:32:09.24Z</pubDate>
+            <pubDate>2026-02-27T10:14:35.673Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual northbound from Bloor-Yonge to Rosedale stations while we work on track issues.]]></title>
