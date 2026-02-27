@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 22:00:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 22:40:05 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between St George and Lawrence West stations.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between St George and Lawrence West stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63449</guid>
+            <pubDate>2026-02-27T17:34:27.627Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></description>
@@ -21,6 +28,13 @@
             <pubDate>2026-02-27T15:47:16.843Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed at Cedarvale station.]]></title>
+            <description><![CDATA[Line 5 Eglinton Regular service has resumed at Cedarvale station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63448</guid>
+            <pubDate>2026-02-27T17:35:36.273Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a track switch issue. Shuttle buses are running between Finch West and Driftwood.]]></title>
             <description><![CDATA[Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a track switch issue. Shuttle buses are running between Finch West and Driftwood.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -28,11 +42,11 @@
             <pubDate>2026-02-27T15:55:49.653Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: Detour eastbound via Broadview Ave, Queen St E and Coxwell Ave due to a blocked track.]]></title>
-            <description><![CDATA[506 Carlton: Detour eastbound via Broadview Ave, Queen St E and Coxwell Ave due to a blocked track.]]></description>
+            <title><![CDATA[🚋 506 Carlton Regular service has resumed eastbound near Gerrard St East at Broadview Ave.]]></title>
+            <description><![CDATA[506 Carlton Regular service has resumed eastbound near Gerrard St East at Broadview Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63444</guid>
-            <pubDate>2026-02-27T16:28:26.017Z</pubDate>
+            <pubDate>2026-02-27T17:34:20.917Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -54,6 +68,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 73 Royal York: Detour northbound via Finch Ave W and Highway 27 due to a collision.]]></title>
+            <description><![CDATA[73 Royal York: Detour northbound via Finch Ave W and Highway 27 due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63446</guid>
+            <pubDate>2026-02-27T17:16:30.987Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 126 Christie: Detour via Bloor St W, Ossington Ave and Dupont St due to a blocked road.]]></title>
