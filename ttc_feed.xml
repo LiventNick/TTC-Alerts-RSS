@@ -4,14 +4,42 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 18:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 19:01:32 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed at Bay station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed at Bay station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63426</guid>
+            <pubDate>2026-02-27T13:53:15.763Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63418</guid>
             <pubDate>2026-02-27T11:54:07.77Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton: Delays between Mount Dennis and Cedarvale stations due to a fire investigation. Shuttle buses are running between Mount Dennis and Cedarvale.]]></title>
+            <description><![CDATA[Line 5 Eglinton: Delays between Mount Dennis and Cedarvale stations due to a fire investigation. Shuttle buses are running between Mount Dennis and Cedarvale.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63425</guid>
+            <pubDate>2026-02-27T13:57:43.417Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour via Shaw St, King St W and Dufferin St while we respond to a medical emergency.]]></title>
+            <description><![CDATA[501 Queen: Detour via Shaw St, King St W and Dufferin St while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63429</guid>
+            <pubDate>2026-02-27T13:53:43.163Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton Regular service has resumed eastbound from Gerrard St East at Marjory Ave to Coxwell Ave at Gerrard St East.]]></title>
+            <description><![CDATA[506 Carlton Regular service has resumed eastbound from Gerrard St East at Marjory Ave to Coxwell Ave at Gerrard St East.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63421</guid>
+            <pubDate>2026-02-27T14:00:52.31Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -33,6 +61,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 134 Progress: Detour northbound via Bushby Dr, Consilium Pl and Corporate Dr due to a collision.]]></title>
+            <description><![CDATA[134 Progress: Detour northbound via Bushby Dr, Consilium Pl and Corporate Dr due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63427</guid>
+            <pubDate>2026-02-27T13:51:21.167Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
