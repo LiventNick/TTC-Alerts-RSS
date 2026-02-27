@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 22:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 23:33:36 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Keele and St George stations.]]></title>
+            <description><![CDATA[Customers can use GO Transit service for the cost of a TTC fare at neighboring GO Transit stations at Kipling, Dundas West and Union stations, as well as Mimico GO Station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63436</guid>
+            <pubDate>2026-02-27T18:33:06.097Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63418</guid>
             <pubDate>2026-02-27T11:54:07.77Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Keele and St George stations while we respond to an injury on the tracks. Shuttle buses are running between Keele and St George.]]></title>
-            <description><![CDATA[Customers can use GO Transit service for the cost of a TTC fare at neighboring GO Transit stations at Kipling, Dundas West and Union stations, as well as Mimico GO Station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63436</guid>
-            <pubDate>2026-02-27T17:57:43.367Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a track switch issue. Shuttle buses are running between Finch West and Driftwood.]]></title>
@@ -49,18 +49,11 @@
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 73 Royal York Regular service has resumed northbound near Albion Rd at Martin Grove Rd.]]></title>
-            <description><![CDATA[73 Royal York Regular service has resumed northbound near Albion Rd at Martin Grove Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63446</guid>
-            <pubDate>2026-02-27T17:53:06.003Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 126 Christie: Detour via Bloor St W, Ossington Ave and Dupont St due to a blocked road.]]></title>
-            <description><![CDATA[126 Christie: Detour via Bloor St W, Ossington Ave and Dupont St due to a blocked road.]]></description>
+            <title><![CDATA[🚌 126 Christie Regular service has resumed near Christie Station North Side.]]></title>
+            <description><![CDATA[126 Christie Regular service has resumed near Christie Station North Side.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63442</guid>
-            <pubDate>2026-02-27T16:10:52.827Z</pubDate>
+            <pubDate>2026-02-27T18:19:16.777Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -145,6 +138,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Finch West: Elevator 11S3L out of service between Keele St east side entrance and bus platform and concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Finch West: Elevator 11S3L out of service between Keele St east side entrance and bus platform and concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63450</guid>
+            <pubDate>2026-02-27T18:31:31.16Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Cedarvale: Elevator 5 out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while we perform maintenance.]]></title>
