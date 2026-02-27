@@ -4,29 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 08:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 08:58:13 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned signal work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned signal work. Shuttle buses are running.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63126</guid>
-            <pubDate>2026-02-26T23:00:01.347Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, February 23 to Thursday, February 26, due to planned signal work. Shuttle buses will operate.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63122</guid>
-            <pubDate>2026-02-22T09:07:31.213Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63131</guid>
-            <pubDate>2026-02-26T23:59:02.727Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></description>
@@ -35,11 +14,11 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 304 King: Detour eastbound via Queen St W and Shaw St while we fix a mechanical problem.]]></title>
-            <description><![CDATA[304 King: Detour eastbound via Queen St W and Shaw St while we fix a mechanical problem.]]></description>
+            <title><![CDATA[🚋 306 Carlton: Detour westbound via Parliament St, Dundas St E and Church St due to a security incident.]]></title>
+            <description><![CDATA[306 Carlton: Detour westbound via Parliament St, Dundas St E and Church St due to a security incident.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63399</guid>
-            <pubDate>2026-02-27T03:03:15.117Z</pubDate>
+            <guid isPermaLink="false">63400</guid>
+            <pubDate>2026-02-27T03:45:40.997Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 310 Spadina: Streetcars have been replaced by buses between Union Station and Spadina Station  due to emergency overhead power repairs.]]></title>
