@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 13:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 14:04:15 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,18 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: No service between Tobermory and Finch West stations while we work on switch issues. Shuttle buses are running between Tobermory and Finch West.]]></title>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Tobermory and Finch West stations while the maintainer fixes a switch problem. Shuttle buses are running between Tobermory and Finch West.]]></title>
             <description><![CDATA[One shuttle train operating from Finch West to Tobermory Stop.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63401</guid>
-            <pubDate>2026-02-27T06:14:32.667Z</pubDate>
+            <pubDate>2026-02-27T08:15:42.617Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen Regular service has resumed eastbound near Queen St East at Carlaw Ave.]]></title>
+            <description><![CDATA[501 Queen Regular service has resumed eastbound near Queen St East at Carlaw Ave.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63409</guid>
+            <pubDate>2026-02-27T08:55:17.363Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -40,6 +47,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63402</guid>
             <pubDate>2026-02-27T05:47:54.83Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 132 Milner: Detour eastbound via Mclevin Ave, Pennyhill Dr and Hupfield Trl due to snow removal.]]></title>
+            <description><![CDATA[132 Milner: Detour eastbound via Mclevin Ave, Pennyhill Dr and Hupfield Trl due to snow removal.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63408</guid>
+            <pubDate>2026-02-27T08:28:37.107Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -126,11 +140,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ York Mills: Elevator back in service between concourse and Line 1 centre platform.]]></title>
-            <description><![CDATA[York Mills: Elevator back in service between concourse and Line 1 centre platform.]]></description>
+            <title><![CDATA[♿ St Clair West: Elevator back in service between bus and streetcar platform, south concourse and Line 1 southbound platform.]]></title>
+            <description><![CDATA[St Clair West: Elevator back in service between bus and streetcar platform, south concourse and Line 1 southbound platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63404</guid>
-            <pubDate>2026-02-27T07:55:04.37Z</pubDate>
+            <guid isPermaLink="false">63407</guid>
+            <pubDate>2026-02-27T09:02:41.083Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to the Ontario Line construction. Elevator is expected to be back in service February 27, 2026.]]></title>
