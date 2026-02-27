@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 15:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 16:06:53 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
@@ -28,6 +28,13 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚌 47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></title>
+            <description><![CDATA[47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63414</guid>
+            <pubDate>2026-02-27T10:59:13.117Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
             <description><![CDATA[72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -40,13 +47,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63402</guid>
             <pubDate>2026-02-27T05:47:54.83Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 132 Milner: Detour eastbound via Mclevin Ave, Pennyhill Dr and Hupfield Trl due to snow removal.]]></title>
-            <description><![CDATA[132 Milner: Detour eastbound via Mclevin Ave, Pennyhill Dr and Hupfield Trl due to snow removal.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63408</guid>
-            <pubDate>2026-02-27T08:28:37.107Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
