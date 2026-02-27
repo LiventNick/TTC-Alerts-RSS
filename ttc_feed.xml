@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 16:55:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 17:37:14 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63418</guid>
             <pubDate>2026-02-27T11:54:07.77Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 505 Dundas: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave due to police activity.]]></title>
-            <description><![CDATA[505 Dundas: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave due to police activity.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63417</guid>
-            <pubDate>2026-02-27T11:53:52.387Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -42,11 +35,11 @@
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 88 South Leaside: Detour eastbound via Vanderhoof Ave due to a watermain break.]]></title>
-            <description><![CDATA[88 South Leaside: Detour eastbound via Vanderhoof Ave due to a watermain break.]]></description>
+            <title><![CDATA[🚌 88 South Leaside Regular service has resumed eastbound near Vanderhoof Ave at Brentcliffe Rd.]]></title>
+            <description><![CDATA[88 South Leaside Regular service has resumed eastbound near Vanderhoof Ave at Brentcliffe Rd.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63402</guid>
-            <pubDate>2026-02-27T05:47:54.83Z</pubDate>
+            <pubDate>2026-02-27T12:25:46.627Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -131,6 +124,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bathurst: Elevator 3B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Bathurst: Elevator 3B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63420</guid>
+            <pubDate>2026-02-27T11:56:56.103Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to the Ontario Line construction. Elevator is expected to be back in service February 27, 2026.]]></title>
