@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 08:58:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 09:54:27 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,18 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 306 Carlton: Detour westbound via Parliament St, Dundas St E and Church St due to a security incident.]]></title>
-            <description><![CDATA[306 Carlton: Detour westbound via Parliament St, Dundas St E and Church St due to a security incident.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Tobermory and Finch West stations while we work on switch issues. Shuttle buses are running.]]></title>
+            <description><![CDATA[Service turning back from Tobermory.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63401</guid>
+            <pubDate>2026-02-27T04:15:33.883Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 306 Carlton Regular service has resumed westbound near Carlton St at Jarvis St.]]></title>
+            <description><![CDATA[306 Carlton Regular service has resumed westbound near Carlton St at Jarvis St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63400</guid>
-            <pubDate>2026-02-27T03:45:40.997Z</pubDate>
+            <pubDate>2026-02-27T04:49:25.047Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 310 Spadina: Streetcars have been replaced by buses between Union Station and Spadina Station  due to emergency overhead power repairs.]]></title>
@@ -40,13 +47,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 336 Finch West: Detour via Rexdale Blvd, Goreway Dr, Nashua Dr and Derry Rd E due to a collision.]]></title>
-            <description><![CDATA[336 Finch West: Detour via Rexdale Blvd, Goreway Dr, Nashua Dr and Derry Rd E due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63398</guid>
-            <pubDate>2026-02-27T03:01:55.287Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
