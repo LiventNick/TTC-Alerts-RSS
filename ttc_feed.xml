@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 19:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 20:02:43 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-02-27T11:54:07.77Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes a mechanical problem. Shuttle buses are running between Finch West and Tobermory.]]></title>
-            <description><![CDATA[Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes a mechanical problem. Shuttle buses are running between Finch West and Tobermory.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed between Finch West and Tobermory stations.]]></title>
+            <description><![CDATA[Line 6 Finch West Regular service has resumed between Finch West and Tobermory stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63432</guid>
-            <pubDate>2026-02-27T14:20:37.737Z</pubDate>
+            <pubDate>2026-02-27T14:49:40.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -40,6 +40,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 100 Flemingdon Park: Delays near Overlea Blvd at Thorncliffe Park Dr (West) due to traffic congestion.]]></title>
+            <description><![CDATA[100 Flemingdon Park: Delays near Overlea Blvd at Thorncliffe Park Dr (West) due to traffic congestion.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63433</guid>
+            <pubDate>2026-02-27T14:56:09.12Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 134 Progress: Detour northbound via Bushby Dr, Consilium Pl and Corporate Dr due to a collision.]]></title>
