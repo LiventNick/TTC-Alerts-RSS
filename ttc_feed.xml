@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 11:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 13:01:57 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
@@ -126,25 +126,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ York Mills: Elevator 20Y1L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[York Mills: Elevator 20Y1L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ York Mills: Elevator back in service between concourse and Line 1 centre platform.]]></title>
+            <description><![CDATA[York Mills: Elevator back in service between concourse and Line 1 centre platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63404</guid>
-            <pubDate>2026-02-27T06:29:08.977Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bloor-Yonge: Elevator 13Y3L out of service between south concourse and Line 1 southbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Bloor-Yonge: Elevator 13Y3L out of service between south concourse and Line 1 southbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63403</guid>
-            <pubDate>2026-02-27T05:48:20.777Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Yorkdale: Elevator 7S1L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[Yorkdale: Elevator 7S1L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63379</guid>
-            <pubDate>2026-02-26T20:08:33.07Z</pubDate>
+            <pubDate>2026-02-27T07:55:04.37Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to the Ontario Line construction. Elevator is expected to be back in service February 27, 2026.]]></title>
