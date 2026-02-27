@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 10:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 11:20:30 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, February 23 to Friday, February 27, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: No service between Tobermory and Finch West stations while we work on switch issues. Shuttle buses are running.]]></title>
-            <description><![CDATA[Service turning back from Tobermory.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Tobermory and Finch West stations while we work on switch issues. Shuttle buses are running between Tobermory and Finch West.]]></title>
+            <description><![CDATA[One shuttle train operating from Finch West to Tobermory Stop.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63401</guid>
-            <pubDate>2026-02-27T04:15:33.883Z</pubDate>
+            <pubDate>2026-02-27T06:14:32.667Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 88 South Leaside: Detour eastbound via Vanderhoof Ave due to a watermain break.]]></title>
+            <description><![CDATA[88 South Leaside: Detour eastbound via Vanderhoof Ave due to a watermain break.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63402</guid>
+            <pubDate>2026-02-27T05:47:54.83Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -117,6 +124,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bloor-Yonge: Elevator 13Y3L out of service between south concourse and Line 1 southbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Bloor-Yonge: Elevator 13Y3L out of service between south concourse and Line 1 southbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63403</guid>
+            <pubDate>2026-02-27T05:48:20.777Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Elevator 7S1L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
