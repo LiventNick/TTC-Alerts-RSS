@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 06:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 07:32:13 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -35,11 +35,11 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 305 Dundas: Detour via Parliament St, Gerrard St E and Broadview Ave due to weather conditions.]]></title>
-            <description><![CDATA[305 Dundas: Detour via Parliament St, Gerrard St E and Broadview Ave due to weather conditions.]]></description>
+            <title><![CDATA[🚋 310 Spadina: Streetcars have been replaced by buses between Union Station and Spadina Station  due to emergency overhead power repairs.]]></title>
+            <description><![CDATA[One 310 Spadina Streetcar is operating between Queen's Quay Loop and Union Station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63395</guid>
-            <pubDate>2026-02-27T01:23:33.707Z</pubDate>
+            <guid isPermaLink="false">63396</guid>
+            <pubDate>2026-02-27T02:01:39.597Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -49,11 +49,11 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 503 Kingston Road Streetcar replacement buses are diverting westbound via Broadview, Dundas, River, to route due to construction at Eastern Avenue and Broadview. .  See other service alerts.]]></title>
-            <description><![CDATA[503 Kingston Road Streetcar replacement buses are diverting westbound via Broadview, Dundas, River, to route due to construction at Eastern Avenue and Broadview. .  <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
+            <title><![CDATA[🚋 503 Kingston Road Streetcar replacement buses have resumed regular service, westbound, at Eastern Avenue and Broadview.  See other service alerts.]]></title>
+            <description><![CDATA[503 Kingston Road Streetcar replacement buses have resumed regular service, westbound, at Eastern Avenue and Broadview.  <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63391</guid>
-            <pubDate>2026-02-26T23:24:30.377Z</pubDate>
+            <guid isPermaLink="false">63397</guid>
+            <pubDate>2026-02-27T02:24:22.37Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
@@ -61,13 +61,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 88 South Leaside Regular service has resumed eastbound from Brentcliffe Rd at Vanderhoof Ave to Overlea Blvd at Millwood Rd East Side.]]></title>
-            <description><![CDATA[88 South Leaside Regular service has resumed eastbound from Brentcliffe Rd at Vanderhoof Ave to Overlea Blvd at Millwood Rd East Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63387</guid>
-            <pubDate>2026-02-27T01:25:00.94Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
