@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 21:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 21:46:38 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
@@ -28,6 +28,13 @@
             <pubDate>2026-02-27T15:55:49.653Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 506 Carlton: Detour eastbound via Broadview Ave, Queen St E and Coxwell Ave due to a blocked track.]]></title>
+            <description><![CDATA[506 Carlton: Detour eastbound via Broadview Ave, Queen St E and Coxwell Ave due to a blocked track.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63444</guid>
+            <pubDate>2026-02-27T16:28:26.017Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
             <description><![CDATA[510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -49,25 +56,11 @@
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 100 Flemingdon Park: Delays near Overlea Blvd at Thorncliffe Park Dr (West) due to traffic congestion.]]></title>
-            <description><![CDATA[100 Flemingdon Park: Delays near Overlea Blvd at Thorncliffe Park Dr (West) due to traffic congestion.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63433</guid>
-            <pubDate>2026-02-27T14:56:09.12Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 126 Christie: Detour via Bloor St W, Ossington Ave and Dupont St due to a blocked road.]]></title>
             <description><![CDATA[126 Christie: Detour via Bloor St W, Ossington Ave and Dupont St due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63442</guid>
             <pubDate>2026-02-27T16:10:52.827Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 134 Progress: Detour northbound via Bushby Dr, Consilium Pl and Corporate Dr due to a collision.]]></title>
-            <description><![CDATA[134 Progress: Detour northbound via Bushby Dr, Consilium Pl and Corporate Dr due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63427</guid>
-            <pubDate>2026-02-27T13:51:21.167Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -152,6 +145,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Cedarvale: Elevator 5 out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[Cedarvale: Elevator 5 out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63443</guid>
+            <pubDate>2026-02-27T16:16:53.013Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to the Ontario Line construction. Elevator is expected to be back in service March 30, 2026.]]></title>
