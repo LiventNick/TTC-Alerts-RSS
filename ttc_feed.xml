@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 07:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 08:06:22 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -35,6 +35,13 @@
             <pubDate>2026-02-22T09:11:02.377Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 304 King: Detour eastbound via Queen St W and Shaw St while we fix a mechanical problem.]]></title>
+            <description><![CDATA[304 King: Detour eastbound via Queen St W and Shaw St while we fix a mechanical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63399</guid>
+            <pubDate>2026-02-27T03:03:15.117Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 310 Spadina: Streetcars have been replaced by buses between Union Station and Spadina Station  due to emergency overhead power repairs.]]></title>
             <description><![CDATA[One 310 Spadina Streetcar is operating between Queen's Quay Loop and Union Station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -49,18 +56,18 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 503 Kingston Road Streetcar replacement buses have resumed regular service, westbound, at Eastern Avenue and Broadview.  See other service alerts.]]></title>
-            <description><![CDATA[503 Kingston Road Streetcar replacement buses have resumed regular service, westbound, at Eastern Avenue and Broadview.  <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63397</guid>
-            <pubDate>2026-02-27T02:24:22.37Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
             <description><![CDATA[72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 336 Finch West: Detour via Rexdale Blvd, Goreway Dr, Nashua Dr and Derry Rd E due to a collision.]]></title>
+            <description><![CDATA[336 Finch West: Detour via Rexdale Blvd, Goreway Dr, Nashua Dr and Derry Rd E due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63398</guid>
+            <pubDate>2026-02-27T03:01:55.287Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
