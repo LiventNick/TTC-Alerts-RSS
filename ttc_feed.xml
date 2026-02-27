@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Feb 2026 23:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 23:54:17 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Keele and St George stations.]]></title>
-            <description><![CDATA[Customers can use GO Transit service for the cost of a TTC fare at neighboring GO Transit stations at Kipling, Dundas West and Union stations, as well as Mimico GO Station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63436</guid>
-            <pubDate>2026-02-27T18:33:06.097Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></description>
@@ -35,6 +28,13 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚌 26 Dupont Regular service has resumed near Dupont St at Bedford Rd.]]></title>
+            <description><![CDATA[26 Dupont Regular service has resumed near Dupont St at Bedford Rd.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63452</guid>
+            <pubDate>2026-02-27T18:50:11.49Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></title>
             <description><![CDATA[47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -49,11 +49,11 @@
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 126 Christie Regular service has resumed near Christie Station North Side.]]></title>
-            <description><![CDATA[126 Christie Regular service has resumed near Christie Station North Side.]]></description>
+            <title><![CDATA[🚌 126 Christie: Detour southbound via Dupont St, Ossington Ave and Bloor St W due to a blocked road.]]></title>
+            <description><![CDATA[126 Christie: Detour southbound via Dupont St, Ossington Ave and Bloor St W due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63442</guid>
-            <pubDate>2026-02-27T18:19:16.777Z</pubDate>
+            <guid isPermaLink="false">63451</guid>
+            <pubDate>2026-02-27T18:35:01.243Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
