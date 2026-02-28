@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 20:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 20:53:49 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: No service between Vaughan and Pioneer Village stations while we respond to an injury on the tracks.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: No service between Vaughan and Pioneer Village stations while we respond to an injury on the tracks.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63508</guid>
-            <pubDate>2026-02-28T15:13:39.367Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63487</guid>
             <pubDate>2026-02-28T05:00:01.08Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Kipling and Jane stations due to smoke at track level at Islington Station. Shuttle buses are on the way.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: No service between Kipling and Jane stations due to smoke at track level at Islington Station. Shuttle buses are on the way.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63511</guid>
+            <pubDate>2026-02-28T15:49:40.167Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
@@ -33,20 +33,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63441</guid>
             <pubDate>2026-02-28T05:58:43.233Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 501 Queen Regular service has resumed westbound from Queen St West at Spadina Ave to Queen St West at Shaw St.]]></title>
-            <description><![CDATA[501 Queen Regular service has resumed westbound from Queen St West at Spadina Ave to Queen St West at Shaw St.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63509</guid>
-            <pubDate>2026-02-28T15:30:17.247Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King Regular service has resumed westbound from Distillery Loop to King St East at Church St West Side.]]></title>
-            <description><![CDATA[504 King Regular service has resumed westbound from Distillery Loop to King St East at Church St West Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63507</guid>
-            <pubDate>2026-02-28T15:21:39.34Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -131,13 +117,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Union: Elevator back in service between concourse and Line 1 Finch platform.]]></title>
-            <description><![CDATA[Union: Elevator back in service between concourse and Line 1 Finch platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63503</guid>
-            <pubDate>2026-02-28T15:28:12.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></title>
