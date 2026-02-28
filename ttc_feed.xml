@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 05:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 06:19:34 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63441</guid>
             <pubDate>2026-02-27T15:55:49.653Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a collision.]]></title>
+            <description><![CDATA[506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63479</guid>
+            <pubDate>2026-02-28T00:53:28.45Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -56,11 +63,11 @@
             <pubDate>2026-02-28T00:14:58.717Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 126 Christie: Detour southbound via Dupont St, Ossington Ave and Bloor St W due to a blocked road.]]></title>
-            <description><![CDATA[126 Christie: Detour southbound via Dupont St, Ossington Ave and Bloor St W due to a blocked road.]]></description>
+            <title><![CDATA[🚌 126 Christie Regular service has resumed southbound near Christie St at Dupont St.]]></title>
+            <description><![CDATA[126 Christie Regular service has resumed southbound near Christie St at Dupont St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63451</guid>
-            <pubDate>2026-02-27T18:35:01.243Z</pubDate>
+            <pubDate>2026-02-28T01:17:42.74Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
