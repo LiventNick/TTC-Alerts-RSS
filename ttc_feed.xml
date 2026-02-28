@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 05:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 05:47:48 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -28,11 +28,11 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 19 Bay: Detour via Gerrard St W, Yonge St and Wellesley St W due to a collision.]]></title>
-            <description><![CDATA[19 Bay: Detour via Gerrard St W, Yonge St and Wellesley St W due to a collision.]]></description>
+            <title><![CDATA[🚌 24 Victoria Park: Detour southbound via Lawrence Ave E, Pharmacy Ave and Surrey Ave due to a collision.]]></title>
+            <description><![CDATA[24 Victoria Park: Detour southbound via Lawrence Ave E, Pharmacy Ave and Surrey Ave due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63476</guid>
-            <pubDate>2026-02-27T23:55:32.087Z</pubDate>
+            <guid isPermaLink="false">63477</guid>
+            <pubDate>2026-02-28T00:19:54.483Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></title>
@@ -42,13 +42,6 @@
             <pubDate>2026-02-27T11:47:06.36Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 54 Lawrence East Regular service has resumed westbound from Lawrence Ave East at McCowan Rd to Lawrence Ave East at East Ave - Rouge Hill GO Station.]]></title>
-            <description><![CDATA[54 Lawrence East Regular service has resumed westbound from Lawrence Ave East at McCowan Rd to Lawrence Ave East at East Ave - Rouge Hill GO Station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63473</guid>
-            <pubDate>2026-02-27T23:52:41.707Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
             <description><![CDATA[72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -56,11 +49,11 @@
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 89 Weston: Buses are not stopping southbound from Mount Dennis Station at Bus Bay 3 to Eglinton Ave West at Mt Dennis Station due to a blocked road.]]></title>
-            <description><![CDATA[89 Weston: Buses are not stopping southbound from Mount Dennis Station at Bus Bay 3 to Eglinton Ave West at Mt Dennis Station due to a blocked road.]]></description>
+            <title><![CDATA[🚌 89 Weston: Buses are not stopping southbound at Mount Dennis Station at Bus Bay 3 due to construction.]]></title>
+            <description><![CDATA[89 Weston: Buses are not stopping southbound at Mount Dennis Station at Bus Bay 3 due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63472</guid>
-            <pubDate>2026-02-27T23:37:30.427Z</pubDate>
+            <pubDate>2026-02-28T00:14:58.717Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 126 Christie: Detour southbound via Dupont St, Ossington Ave and Bloor St W due to a blocked road.]]></title>
@@ -68,13 +61,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63451</guid>
             <pubDate>2026-02-27T18:35:01.243Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 154 Curran Hall Regular service has resumed westbound from Lawrence Ave East at McCowan Rd to Lawrence Ave East at Brimley Rd West Side.]]></title>
-            <description><![CDATA[154 Curran Hall Regular service has resumed westbound from Lawrence Ave East at McCowan Rd to Lawrence Ave East at Brimley Rd West Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63474</guid>
-            <pubDate>2026-02-27T23:52:14.107Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -264,13 +250,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62008</guid>
             <pubDate>2026-02-21T22:45:35.107Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Spadina: Escalator back in service from Line 1 Finch via Union platform to south concourse.]]></title>
-            <description><![CDATA[Spadina: Escalator back in service from Line 1 Finch via Union platform to south concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">62007</guid>
-            <pubDate>2026-02-27T23:59:00.977Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Islington: Escalator 15B5E out of service from concourse to Islington Ave east side entrance due to construction. Escalator is expected to be back in service December 22, 2026.]]></title>
