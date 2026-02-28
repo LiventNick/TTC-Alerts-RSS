@@ -4,14 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 07:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 08:31:38 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: This weekend, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63419</guid>
-            <pubDate>2026-02-27T23:59:01.683Z</pubDate>
+            <guid isPermaLink="false">63483</guid>
+            <pubDate>2026-02-28T03:20:52.41Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a track switch issue. Shuttle buses are running between Finch West and Driftwood.]]></title>
@@ -21,18 +21,11 @@
             <pubDate>2026-02-27T15:55:49.653Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour westbound via Coxwell Ave, Gerrard St E and Parliament St due to a collision.]]></title>
-            <description><![CDATA[501 Queen: Detour westbound via Coxwell Ave, Gerrard St E and Parliament St due to a collision.]]></description>
+            <title><![CDATA[🚋 305 Dundas: Detour eastbound via Bathurst St, College St and Bay St while we respond to a medical emergency.]]></title>
+            <description><![CDATA[305 Dundas: Detour eastbound via Bathurst St, College St and Bay St while we respond to a medical emergency.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63481</guid>
-            <pubDate>2026-02-28T02:49:26.57Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 505 Dundas: Detour westbound via Gerrard St E and Parliament St due to a collision.]]></title>
-            <description><![CDATA[505 Dundas: Detour westbound via Gerrard St E and Parliament St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63482</guid>
-            <pubDate>2026-02-28T02:31:01.983Z</pubDate>
+            <guid isPermaLink="false">63486</guid>
+            <pubDate>2026-02-28T03:18:52.913Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
