@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 16:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 16:51:24 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed southbound at Dupont station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed southbound at Dupont station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63500</guid>
-            <pubDate>2026-02-28T11:26:49.467Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
@@ -35,11 +28,11 @@
             <pubDate>2026-02-28T05:58:43.233Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Bathurst St, Eglinton Ave W and Chaplin Cres due to a blocked road.]]></title>
-            <description><![CDATA[14 Glencairn: Detour eastbound via Bathurst St, Eglinton Ave W and Chaplin Cres due to a blocked road.]]></description>
+            <title><![CDATA[🚌 47 Lansdowne: Detour southbound via Rogers Rd, Old Weston Rd and St Clair Ave W due to a collision.]]></title>
+            <description><![CDATA[47 Lansdowne: Detour southbound via Rogers Rd, Old Weston Rd and St Clair Ave W due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63498</guid>
-            <pubDate>2026-02-28T10:16:58.063Z</pubDate>
+            <guid isPermaLink="false">63501</guid>
+            <pubDate>2026-02-28T11:28:02.127Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
