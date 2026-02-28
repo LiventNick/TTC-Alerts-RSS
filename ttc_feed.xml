@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 07:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 07:52:16 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[501 Queen: Detour westbound via Coxwell Ave, Gerrard St E and Parliament St due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63481</guid>
-            <pubDate>2026-02-28T02:29:01.077Z</pubDate>
+            <pubDate>2026-02-28T02:49:26.57Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 505 Dundas: Detour westbound via Gerrard St E and Parliament St due to a collision.]]></title>
@@ -42,25 +42,11 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 47 Lansdowne Regular service has resumed near Lansdowne Ave at Davenport Rd.]]></title>
-            <description><![CDATA[47 Lansdowne Regular service has resumed near Lansdowne Ave at Davenport Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63414</guid>
-            <pubDate>2026-02-28T02:23:00.97Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
             <description><![CDATA[72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63282</guid>
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 89 Weston: Buses are not stopping southbound at Mount Dennis Station at Bus Bay 3 due to construction.]]></title>
-            <description><![CDATA[89 Weston: Buses are not stopping southbound at Mount Dennis Station at Bus Bay 3 due to construction.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63472</guid>
-            <pubDate>2026-02-28T00:14:58.717Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
