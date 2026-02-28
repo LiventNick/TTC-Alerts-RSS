@@ -4,21 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 04:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 05:01:36 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: This weekend, starting at 11:59 p.m. tonight, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63418</guid>
-            <pubDate>2026-02-27T11:54:07.77Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Broadview and St George stations due to a medical emergency at Castle Frank.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: No service between Broadview and St George stations due to a medical emergency at Castle Frank.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63468</guid>
-            <pubDate>2026-02-27T22:53:25.337Z</pubDate>
+            <guid isPermaLink="false">63419</guid>
+            <pubDate>2026-02-27T23:59:01.683Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a track switch issue. Shuttle buses are running between Finch West and Driftwood.]]></title>
@@ -35,11 +28,25 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚌 19 Bay: Detour via Gerrard St W, Yonge St and Wellesley St W due to a collision.]]></title>
+            <description><![CDATA[19 Bay: Detour via Gerrard St W, Yonge St and Wellesley St W due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63476</guid>
+            <pubDate>2026-02-27T23:55:32.087Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></title>
             <description><![CDATA[47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63414</guid>
             <pubDate>2026-02-27T11:47:06.36Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 54 Lawrence East Regular service has resumed westbound from Lawrence Ave East at McCowan Rd to Lawrence Ave East at East Ave - Rouge Hill GO Station.]]></title>
+            <description><![CDATA[54 Lawrence East Regular service has resumed westbound from Lawrence Ave East at McCowan Rd to Lawrence Ave East at East Ave - Rouge Hill GO Station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63473</guid>
+            <pubDate>2026-02-27T23:52:41.707Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
@@ -49,11 +56,25 @@
             <pubDate>2026-02-26T22:30:06.013Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚌 89 Weston: Buses are not stopping southbound from Mount Dennis Station at Bus Bay 3 to Eglinton Ave West at Mt Dennis Station due to a blocked road.]]></title>
+            <description><![CDATA[89 Weston: Buses are not stopping southbound from Mount Dennis Station at Bus Bay 3 to Eglinton Ave West at Mt Dennis Station due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63472</guid>
+            <pubDate>2026-02-27T23:37:30.427Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 126 Christie: Detour southbound via Dupont St, Ossington Ave and Bloor St W due to a blocked road.]]></title>
             <description><![CDATA[126 Christie: Detour southbound via Dupont St, Ossington Ave and Bloor St W due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63451</guid>
             <pubDate>2026-02-27T18:35:01.243Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 154 Curran Hall Regular service has resumed westbound from Lawrence Ave East at McCowan Rd to Lawrence Ave East at Brimley Rd West Side.]]></title>
+            <description><![CDATA[154 Curran Hall Regular service has resumed westbound from Lawrence Ave East at McCowan Rd to Lawrence Ave East at Brimley Rd West Side.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63474</guid>
+            <pubDate>2026-02-27T23:52:14.107Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -138,6 +159,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></title>
+            <description><![CDATA[Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63475</guid>
+            <pubDate>2026-02-27T23:51:15.693Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63471</guid>
+            <pubDate>2026-02-27T23:22:45.927Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Cedarvale: Elevator 5 out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform due to a technical problem.]]></title>
@@ -231,11 +266,11 @@
             <pubDate>2026-02-21T22:45:35.107Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service February 27, 2026.]]></title>
-            <description><![CDATA[Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service February 27, 2026.]]></description>
+            <title><![CDATA[♿ Spadina: Escalator back in service from Line 1 Finch via Union platform to south concourse.]]></title>
+            <description><![CDATA[Spadina: Escalator back in service from Line 1 Finch via Union platform to south concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62007</guid>
-            <pubDate>2026-02-21T22:43:50.277Z</pubDate>
+            <pubDate>2026-02-27T23:59:00.977Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Islington: Escalator 15B5E out of service from concourse to Islington Ave east side entrance due to construction. Escalator is expected to be back in service December 22, 2026.]]></title>
