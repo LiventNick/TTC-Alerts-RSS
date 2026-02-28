@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 10:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 11:27:44 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,11 +21,18 @@
             <pubDate>2026-02-28T03:20:52.41Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a track switch issue. Shuttle buses are running between Finch West and Driftwood.]]></title>
-            <description><![CDATA[Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a track switch issue. Shuttle buses are running between Finch West and Driftwood.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Tobermory stations due to a switch issue.]]></title>
+            <description><![CDATA[Line 6 Finch West: Delays between Finch West and Tobermory stations due to a switch issue.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63441</guid>
-            <pubDate>2026-02-27T15:55:49.653Z</pubDate>
+            <pubDate>2026-02-28T05:58:43.233Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 511 Bathurst: Delays southbound from Bathurst Station at Bay 6 to Exhibition Loop due to an earlier delay.]]></title>
+            <description><![CDATA[511 Bathurst: Delays southbound from Bathurst Station at Bay 6 to Exhibition Loop due to an earlier delay.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63489</guid>
+            <pubDate>2026-02-28T06:12:26.1Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
@@ -117,6 +124,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Broadview: Elevator 6D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Broadview: Elevator 6D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63491</guid>
+            <pubDate>2026-02-28T06:22:31.433Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Osgoode: Elevator 5Y1L out of service between concourse and Line 1 centre platform due to a technical problem.]]></title>
