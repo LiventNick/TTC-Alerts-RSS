@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 23:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 23:57:35 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63514</guid>
             <pubDate>2026-02-28T16:26:10.27Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 507 Long Branch Regular service has resumed between Humber Loop at the Queensway and Lake Shore Blvd West at Kipling Ave.]]></title>
-            <description><![CDATA[507 Long Branch Regular service has resumed between Humber Loop at the Queensway and Lake Shore Blvd West at Kipling Ave.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63519</guid>
-            <pubDate>2026-02-28T18:41:10.467Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
