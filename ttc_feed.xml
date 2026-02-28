@@ -4,22 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 20:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 21:22:10 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63487</guid>
-            <pubDate>2026-02-28T05:00:01.08Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Kipling and Jane stations due to smoke at track level at Islington Station. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: No service between Kipling and Jane stations due to smoke at track level at Islington Station. Shuttle buses are on the way.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63511</guid>
-            <pubDate>2026-02-28T15:49:40.167Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: This weekend, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></description>
@@ -28,11 +14,18 @@
             <pubDate>2026-02-28T03:20:52.41Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Tobermory stations due to a switch issue.]]></title>
-            <description><![CDATA[Line 6 Finch West: Delays between Finch West and Tobermory stations due to a switch issue.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed between Milvan Rumike and Finch West stations.]]></title>
+            <description><![CDATA[Line 6 Finch West Regular service has resumed between Milvan Rumike and Finch West stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63441</guid>
-            <pubDate>2026-02-28T05:58:43.233Z</pubDate>
+            <guid isPermaLink="false">63512</guid>
+            <pubDate>2026-02-28T16:16:31.82Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour westbound via Shaw St and King St E due to a collision.]]></title>
+            <description><![CDATA[501 Queen: Detour westbound via Shaw St and King St E due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63513</guid>
+            <pubDate>2026-02-28T16:10:53.9Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
