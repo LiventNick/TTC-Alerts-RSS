@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 14:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 14:50:07 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -126,11 +126,11 @@
             <pubDate>2026-02-28T05:52:35.737Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Spadina: Elevator back in service between south concourse and Line 2 westbound platform.]]></title>
+            <description><![CDATA[Spadina: Elevator back in service between south concourse and Line 2 westbound platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63480</guid>
-            <pubDate>2026-02-28T02:28:47.127Z</pubDate>
+            <pubDate>2026-02-28T09:45:22.03Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></title>
@@ -147,18 +147,18 @@
             <pubDate>2026-02-27T19:08:47.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to the Ontario Line construction. Elevator is expected to be back in service March 30, 2026.]]></title>
-            <description><![CDATA[St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to the Ontario Line construction. Elevator is expected to be back in service March 30, 2026.]]></description>
+            <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
+            <description><![CDATA[St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63319</guid>
-            <pubDate>2026-02-27T13:02:00.19Z</pubDate>
+            <pubDate>2026-02-28T09:39:58.49Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></title>
-            <description><![CDATA[Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></description>
+            <title><![CDATA[♿ Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63250</guid>
-            <pubDate>2026-02-25T16:44:22.043Z</pubDate>
+            <pubDate>2026-02-28T09:40:57.483Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard-Yonge: Elevator out of service between Sheppard Ave E south side entrance and Line 4 eastbound platform while we perform maintenance.]]></title>
