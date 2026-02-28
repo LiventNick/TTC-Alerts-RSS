@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 15:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 15:39:30 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -28,11 +28,11 @@
             <pubDate>2026-02-28T05:58:43.233Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></title>
-            <description><![CDATA[505 Dundas Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></description>
+            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Bathurst St, Eglinton Ave W and Chaplin Cres due to a blocked road.]]></title>
+            <description><![CDATA[14 Glencairn: Detour eastbound via Bathurst St, Eglinton Ave W and Chaplin Cres due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63497</guid>
-            <pubDate>2026-02-28T10:09:01.65Z</pubDate>
+            <guid isPermaLink="false">63498</guid>
+            <pubDate>2026-02-28T10:16:58.063Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -117,20 +117,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Broadview: Elevator 6D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Broadview: Elevator 6D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63491</guid>
-            <pubDate>2026-02-28T06:22:31.433Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Osgoode: Elevator 5Y1L out of service between concourse and Line 1 centre platform due to a technical problem.]]></title>
-            <description><![CDATA[Osgoode: Elevator 5Y1L out of service between concourse and Line 1 centre platform due to a technical problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63488</guid>
-            <pubDate>2026-02-28T05:52:35.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></title>
