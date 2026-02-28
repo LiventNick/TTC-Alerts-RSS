@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 14:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 15:10:39 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63441</guid>
             <pubDate>2026-02-28T05:58:43.233Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 505 Dundas Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></title>
+            <description><![CDATA[505 Dundas Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63497</guid>
+            <pubDate>2026-02-28T10:09:01.65Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -124,13 +131,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63488</guid>
             <pubDate>2026-02-28T05:52:35.737Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Spadina: Elevator back in service between south concourse and Line 2 westbound platform.]]></title>
-            <description><![CDATA[Spadina: Elevator back in service between south concourse and Line 2 westbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63480</guid>
-            <pubDate>2026-02-28T09:45:22.03Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></title>
