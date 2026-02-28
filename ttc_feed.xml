@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 11:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 12:54:48 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: Trains are not stopping at St Andrew station due to a security incident.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Trains are not stopping at St Andrew station due to a security incident.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63492</guid>
+            <pubDate>2026-02-28T07:52:55.567Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
