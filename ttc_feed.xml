@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 06:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 07:35:10 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,6 +21,20 @@
             <pubDate>2026-02-27T15:55:49.653Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 501 Queen: Detour westbound via Coxwell Ave, Gerrard St E and Parliament St due to a collision.]]></title>
+            <description><![CDATA[501 Queen: Detour westbound via Coxwell Ave, Gerrard St E and Parliament St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63481</guid>
+            <pubDate>2026-02-28T02:29:01.077Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 505 Dundas: Detour westbound via Gerrard St E and Parliament St due to a collision.]]></title>
+            <description><![CDATA[505 Dundas: Detour westbound via Gerrard St E and Parliament St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63482</guid>
+            <pubDate>2026-02-28T02:31:01.983Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
             <description><![CDATA[510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -28,18 +42,11 @@
             <pubDate>2026-02-25T05:50:43.91Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 24 Victoria Park: Detour southbound via Lawrence Ave E, Pharmacy Ave and Surrey Ave due to a collision.]]></title>
-            <description><![CDATA[24 Victoria Park: Detour southbound via Lawrence Ave E, Pharmacy Ave and Surrey Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63477</guid>
-            <pubDate>2026-02-28T00:19:54.483Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></title>
-            <description><![CDATA[47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></description>
+            <title><![CDATA[🚌 47 Lansdowne Regular service has resumed near Lansdowne Ave at Davenport Rd.]]></title>
+            <description><![CDATA[47 Lansdowne Regular service has resumed near Lansdowne Ave at Davenport Rd.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63414</guid>
-            <pubDate>2026-02-28T01:20:51.007Z</pubDate>
+            <pubDate>2026-02-28T02:23:00.97Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
@@ -138,6 +145,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63480</guid>
+            <pubDate>2026-02-28T02:28:47.127Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></title>
