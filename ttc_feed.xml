@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 17:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 18:44:07 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63501</guid>
             <pubDate>2026-02-28T11:28:02.127Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 134 Progress: Detour via Consilium Pl and Progress Ave due to snow removal.]]></title>
+            <description><![CDATA[134 Progress: Detour via Consilium Pl and Progress Ave due to snow removal.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63502</guid>
+            <pubDate>2026-02-28T13:13:57.467Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -117,6 +124,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Union: Elevator 7Y2L out of service between concourse and Line 1 Finch platform while we perform maintenance.]]></title>
+            <description><![CDATA[Union: Elevator 7Y2L out of service between concourse and Line 1 Finch platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63503</guid>
+            <pubDate>2026-02-28T13:35:57.197Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></title>
