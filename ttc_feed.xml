@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 21:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 21:43:30 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: This weekend, there will be no subway service between Keele and St George stations due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,18 +14,18 @@
             <pubDate>2026-02-28T03:20:52.41Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed between Milvan Rumike and Finch West stations.]]></title>
-            <description><![CDATA[Line 6 Finch West Regular service has resumed between Milvan Rumike and Finch West stations.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a switch problem.]]></title>
+            <description><![CDATA[Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a switch problem.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63512</guid>
-            <pubDate>2026-02-28T16:16:31.82Z</pubDate>
+            <guid isPermaLink="false">63514</guid>
+            <pubDate>2026-02-28T16:26:10.27Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour westbound via Shaw St and King St E due to a collision.]]></title>
-            <description><![CDATA[501 Queen: Detour westbound via Shaw St and King St E due to a collision.]]></description>
+            <title><![CDATA[🚋 501 Queen Regular service has resumed westbound from Queen St West at Shaw St to Queen St West at Roncesvalles Ave.]]></title>
+            <description><![CDATA[501 Queen Regular service has resumed westbound from Queen St West at Shaw St to Queen St West at Roncesvalles Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63513</guid>
-            <pubDate>2026-02-28T16:10:53.9Z</pubDate>
+            <pubDate>2026-02-28T16:33:51.563Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
