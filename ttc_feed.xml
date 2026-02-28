@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Feb 2026 06:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 06:59:26 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63441</guid>
             <pubDate>2026-02-27T15:55:49.653Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a collision.]]></title>
-            <description><![CDATA[506 Carlton: Detour via Ossington Ave, Dundas St W and Bay St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63479</guid>
-            <pubDate>2026-02-28T00:53:28.45Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Station Streetcar Platform and Queens Quay West at Lower Spadina Ave East Side due to emergency overhead power repairs.]]></title>
@@ -46,7 +39,7 @@
             <description><![CDATA[47 Lansdowne: Detour via Caledonia Park Rd, Davenport Rd, Symington Ave and Dupont St due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63414</guid>
-            <pubDate>2026-02-27T11:47:06.36Z</pubDate>
+            <pubDate>2026-02-28T01:20:51.007Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour northbound via Dundas St E, Jones Ave and Danforth Ave due to emergency watermain repairs.]]></title>
@@ -61,13 +54,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63472</guid>
             <pubDate>2026-02-28T00:14:58.717Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 126 Christie Regular service has resumed southbound near Christie St at Dupont St.]]></title>
-            <description><![CDATA[126 Christie Regular service has resumed southbound near Christie St at Dupont St.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63451</guid>
-            <pubDate>2026-02-28T01:17:42.74Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -159,13 +145,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63475</guid>
             <pubDate>2026-02-27T23:51:15.693Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63471</guid>
-            <pubDate>2026-02-27T23:22:45.927Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Cedarvale: Elevator 5 out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform due to a technical problem.]]></title>
