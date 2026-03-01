@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 01 Mar 2026 06:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 07:02:18 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -12,6 +12,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63516</guid>
             <pubDate>2026-02-28T17:32:01.207Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 503 Kingston Rd: No service westbound from King St East at Sherbourne St to King St West at Jarvis St West Side due to a collision.]]></title>
+            <description><![CDATA[503 Kingston Rd: No service westbound from King St East at Sherbourne St to King St West at Jarvis St West Side due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63529</guid>
+            <pubDate>2026-03-01T01:30:58.75Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King Regular service has resumed eastbound from King St West at Spadina Ave East Side to Queen St West at University Ave - Osgoode Station.]]></title>
+            <description><![CDATA[504 King Regular service has resumed eastbound from King St West at Spadina Ave East Side to Queen St West at University Ave - Osgoode Station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63531</guid>
+            <pubDate>2026-03-01T01:49:34.94Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King: No service between Cherry St at Front St East and King St East at Church St West Side due to a collision.]]></title>
+            <description><![CDATA[504 King: No service between Cherry St at Front St East and King St East at Church St West Side due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63530</guid>
+            <pubDate>2026-03-01T01:36:54.757Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 89 Weston: Detour southbound via Eglinton Ave W and Black Creek Dr due to construction.]]></title>
