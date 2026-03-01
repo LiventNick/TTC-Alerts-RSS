@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 01 Mar 2026 16:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 16:43:01 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -14,11 +14,32 @@
             <pubDate>2026-02-28T17:32:01.207Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚌 15 Evans: Detour eastbound via Manitoba St, Grand Ave and The Queensway due to a collision.]]></title>
+            <description><![CDATA[15 Evans: Detour eastbound via Manitoba St, Grand Ave and The Queensway due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63544</guid>
+            <pubDate>2026-03-01T11:26:48.023Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Queen St E, Close Ave, King St, Jameson Ave and Queen St E due to a blocked road.]]></title>
             <description><![CDATA[47 Lansdowne: Detour northbound via Queen St E, Close Ave, King St, Jameson Ave and Queen St E due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63535</guid>
             <pubDate>2026-03-01T06:16:14.74Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 76 Royal York South: Detour northbound via Manitoba St, Grand Ave and The Queensway due to a collision.]]></title>
+            <description><![CDATA[76 Royal York South: Detour northbound via Manitoba St, Grand Ave and The Queensway due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63543</guid>
+            <pubDate>2026-03-01T11:26:47.337Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 102 Markham Rd Regular service has resumed southbound from Markham Rd at Castlemore Ave to Markham Rd at Bur Oak Ave - Mount Joy GO Station.]]></title>
+            <description><![CDATA[102 Markham Rd Regular service has resumed southbound from Markham Rd at Castlemore Ave to Markham Rd at Bur Oak Ave - Mount Joy GO Station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63545</guid>
+            <pubDate>2026-03-01T11:39:42.223Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
