@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 01 Mar 2026 21:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 22:33:47 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63516</guid>
             <pubDate>2026-02-28T17:32:01.207Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed between Mount Dennis and Cedarvale stations.]]></title>
+            <description><![CDATA[Line 5 Eglinton Regular service has resumed between Mount Dennis and Cedarvale stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63555</guid>
+            <pubDate>2026-03-01T17:29:27.24Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 503 Kingston Rd: Detour westbound via Front St E, Berkeley St and King St E due to construction.]]></title>
