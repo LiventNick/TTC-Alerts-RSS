@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 01 Mar 2026 03:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 05:03:09 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-02-28T17:32:01.207Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a mechanical problem.]]></title>
-            <description><![CDATA[Line 6 Finch West: Delays between Finch West and Tobermory stations while the maintainer fixes a mechanical problem.]]></description>
+            <title><![CDATA[🚌 89 Weston: Detour southbound via Eglinton Ave W and Black Creek Dr due to construction.]]></title>
+            <description><![CDATA[89 Weston: Detour southbound via Eglinton Ave W and Black Creek Dr due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63521</guid>
-            <pubDate>2026-02-28T20:06:43.707Z</pubDate>
+            <guid isPermaLink="false">63523</guid>
+            <pubDate>2026-02-28T23:10:31.907Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
