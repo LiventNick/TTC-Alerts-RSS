@@ -4,8 +4,22 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 01 Mar 2026 14:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 14:56:31 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed northbound at Rosedale station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed northbound at Rosedale station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63539</guid>
+            <pubDate>2026-03-01T09:42:32.927Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Victoria Park and Broadview stations.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Victoria Park and Broadview stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63540</guid>
+            <pubDate>2026-03-01T09:48:11.45Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
