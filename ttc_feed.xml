@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 01 Mar 2026 20:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 21:24:34 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: No service between King and Osgoode stations due to a fire.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: No service between King and Osgoode stations due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63551</guid>
+            <pubDate>2026-03-01T16:19:53.107Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
@@ -14,11 +21,25 @@
             <pubDate>2026-02-28T17:32:01.207Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: Detour westbound via Parliament St, College St and Bay St while we respond to a medical emergency.]]></title>
-            <description><![CDATA[505 Dundas: Detour westbound via Parliament St, College St and Bay St while we respond to a medical emergency.]]></description>
+            <title><![CDATA[🚋 503 Kingston Rd: Detour westbound via Front St E, Berkeley St and King St E due to construction.]]></title>
+            <description><![CDATA[503 Kingston Rd: Detour westbound via Front St E, Berkeley St and King St E due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63549</guid>
-            <pubDate>2026-03-01T15:43:12.37Z</pubDate>
+            <guid isPermaLink="false">63550</guid>
+            <pubDate>2026-03-01T15:59:12.197Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 509 Harbourfront: No service between Union Station Streetcar Platform and Queens Quay/Ferry Docks Station due to a fire.]]></title>
+            <description><![CDATA[509 Harbourfront: No service between Union Station Streetcar Platform and Queens Quay/Ferry Docks Station due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63552</guid>
+            <pubDate>2026-03-01T16:23:06.097Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 510 Spadina: No service between Union Station Streetcar Platform and Queens Quay/Ferry Docks Station due to a fire.]]></title>
+            <description><![CDATA[510 Spadina: No service between Union Station Streetcar Platform and Queens Quay/Ferry Docks Station due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63553</guid>
+            <pubDate>2026-03-01T16:23:07.673Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Queen St E, Close Ave, King St, Jameson Ave and Queen St E due to a blocked road.]]></title>
