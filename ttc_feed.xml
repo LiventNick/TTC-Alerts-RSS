@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 02 Mar 2026 23:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 23:53:24 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 114 Queens Quay East: Detour eastbound via Harbour St and Yonge St due to a blocked road.]]></title>
+            <description><![CDATA[114 Queens Quay East: Detour eastbound via Harbour St and Yonge St due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63619</guid>
+            <pubDate>2026-03-02T18:49:18.387Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -116,7 +123,7 @@
             <description><![CDATA[York Mills: Escalator 20Y1E out of service from Line 1 platform to Old York Mills Rd entrance due to a technical problem. Escalator is expected to be back in service March 2, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63617</guid>
-            <pubDate>2026-03-02T18:24:36.82Z</pubDate>
+            <pubDate>2026-03-02T18:35:01.04Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
