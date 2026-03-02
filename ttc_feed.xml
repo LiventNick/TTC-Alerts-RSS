@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 02 Mar 2026 02:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 04:48:59 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63516</guid>
             <pubDate>2026-02-28T17:32:01.207Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King: Detour via Church St, Richmond St E, Victoria St, Adelaide St E and Church St while we respond to a medical emergency.]]></title>
+            <description><![CDATA[504 King: Detour via Church St, Richmond St E, Victoria St, Adelaide St E and Church St while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63560</guid>
+            <pubDate>2026-03-01T23:23:12.693Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504B King: Detour via Parliament St, Eastern Ave and Sumach while we respond to a medical emergency.]]></title>
+            <description><![CDATA[504B King: Detour via Parliament St, Eastern Ave and Sumach while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63561</guid>
+            <pubDate>2026-03-01T23:26:22.387Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Queen St E, Close Ave, King St, Jameson Ave and Queen St E due to a blocked road.]]></title>
