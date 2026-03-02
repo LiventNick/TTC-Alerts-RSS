@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 02 Mar 2026 13:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 14:12:31 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at Eglinton station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at Eglinton station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63591</guid>
-            <pubDate>2026-03-02T08:16:52.23Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></description>
@@ -26,62 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 13 Avenue Rd Regular service has resumed near Eglinton Station at Bus Bay 10.]]></title>
-            <description><![CDATA[13 Avenue Rd Regular service has resumed near Eglinton Station at Bus Bay 10.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63592</guid>
-            <pubDate>2026-03-02T08:16:26.217Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 34 Eglinton Regular service has resumed near Eglinton Station at Bus Bay 10.]]></title>
-            <description><![CDATA[34 Eglinton Regular service has resumed near Eglinton Station at Bus Bay 10.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63593</guid>
-            <pubDate>2026-03-02T08:15:44.56Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 56 Leaside Regular service has resumed near Eglinton Station at Bus Bay 10.]]></title>
-            <description><![CDATA[56 Leaside Regular service has resumed near Eglinton Station at Bus Bay 10.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63594</guid>
-            <pubDate>2026-03-02T08:15:51.59Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 61 Avenue Rd North Regular service has resumed near Eglinton Station at Bus Bay 10.]]></title>
-            <description><![CDATA[61 Avenue Rd North Regular service has resumed near Eglinton Station at Bus Bay 10.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63595</guid>
-            <pubDate>2026-03-02T08:15:58.61Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 74 Mount Pleasant Regular service has resumed near Eglinton Station at Bus Bay 10.]]></title>
-            <description><![CDATA[74 Mount Pleasant Regular service has resumed near Eglinton Station at Bus Bay 10.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63596</guid>
-            <pubDate>2026-03-02T08:16:05.473Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 97 Yonge Regular service has resumed near Eglinton Station at Bus Bay 10.]]></title>
-            <description><![CDATA[97 Yonge Regular service has resumed near Eglinton Station at Bus Bay 10.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63597</guid>
-            <pubDate>2026-03-02T08:16:12.463Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 103 Mount Pleasant North Regular service has resumed near Eglinton Station at Bus Bay 10.]]></title>
-            <description><![CDATA[103 Mount Pleasant North Regular service has resumed near Eglinton Station at Bus Bay 10.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63598</guid>
-            <pubDate>2026-03-02T08:16:19.37Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 354 Lawrence East Regular service has resumed near Eglinton Station at Bus Bay 10.]]></title>
-            <description><![CDATA[354 Lawrence East Regular service has resumed near Eglinton Station at Bus Bay 10.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63599</guid>
-            <pubDate>2026-03-02T08:15:37.26Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -166,6 +103,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63600</guid>
+            <pubDate>2026-03-02T09:11:59.863Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B1E out of service from Line 2 platform to bus platform while we perform maintenance. Escalator is expected to be back in service March 2, 2026.]]></title>
