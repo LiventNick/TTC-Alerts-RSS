@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 02 Mar 2026 19:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 20:44:45 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 107 Alness-Chesswood Regular service has resumed near Flint Rd at Supertest Rd.]]></title>
-            <description><![CDATA[107 Alness-Chesswood Regular service has resumed near Flint Rd at Supertest Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63612</guid>
-            <pubDate>2026-03-02T14:50:58.537Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -133,18 +126,11 @@
             <pubDate>2026-03-02T13:48:03.42Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Lansdowne: Elevator back in service between concourse and Line 2 (Kipling) westbound.]]></title>
-            <description><![CDATA[Lansdowne: Elevator back in service between concourse and Line 2 (Kipling) westbound.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63608</guid>
-            <pubDate>2026-03-02T14:55:25.26Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St Clair West: Elevator 3S2L out of service between bus and streetcar platform, south concourse and Line 1 southbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[St Clair West: Elevator 3S2L out of service between bus and streetcar platform, south concourse and Line 1 southbound platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ St Clair West: Elevator back in service between bus and streetcar platform, south concourse and Line 1 southbound platform.]]></title>
+            <description><![CDATA[St Clair West: Elevator back in service between bus and streetcar platform, south concourse and Line 1 southbound platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63605</guid>
-            <pubDate>2026-03-02T12:48:43.187Z</pubDate>
+            <pubDate>2026-03-02T15:33:54.043Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
@@ -154,18 +140,11 @@
             <pubDate>2026-03-02T12:44:50.87Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Davisville: Elevator 17Y4L out of service between bus platform and concourse while we perform maintenance. Elevator is expected to be back in service March 2, 2026.]]></title>
-            <description><![CDATA[Davisville: Elevator 17Y4L out of service between bus platform and concourse while we perform maintenance. Elevator is expected to be back in service March 2, 2026.]]></description>
+            <title><![CDATA[♿ Davisville: Elevator back in service between bus platform and concourse.]]></title>
+            <description><![CDATA[Davisville: Elevator back in service between bus platform and concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63585</guid>
-            <pubDate>2026-03-02T11:30:01.783Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Don Mills: Elevator 61P2L out of service between bus platform and concourse while we perform maintenance. Elevator is expected to be back in service March 2, 2026.]]></title>
-            <description><![CDATA[Don Mills: Elevator 61P2L out of service between bus platform and concourse while we perform maintenance. Elevator is expected to be back in service March 2, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63583</guid>
-            <pubDate>2026-03-02T11:30:01.55Z</pubDate>
+            <pubDate>2026-03-02T15:30:03.077Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair West: Escalator 3S11E out of service from north concourse to Line 1 Finch via Union platform while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></title>
