@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 02 Mar 2026 11:00:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 11:41:25 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -124,6 +124,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63443</guid>
             <pubDate>2026-02-27T19:08:47.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
+            <description><![CDATA[Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance due to construction. Elevator is expected to be back in service March 30, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63424</guid>
+            <pubDate>2026-03-02T06:30:01.457Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Warden: Elevator 15D1L out of service between concourse and Line 2 platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
+            <description><![CDATA[Warden: Elevator 15D1L out of service between concourse and Line 2 platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63423</guid>
+            <pubDate>2026-03-02T06:30:01.207Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
