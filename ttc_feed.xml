@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 02 Mar 2026 05:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 06:39:12 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
@@ -14,18 +14,18 @@
             <pubDate>2026-02-28T17:32:01.207Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 504 King: No service between Dufferin Gate Loop and Dufferin St at King St West while we deal with an operational problem.]]></title>
+            <description><![CDATA[504 King: No service between Dufferin Gate Loop and Dufferin St at King St West while we deal with an operational problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63564</guid>
+            <pubDate>2026-03-02T01:31:17.03Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Queen St E, Close Ave, King St, Jameson Ave and Queen St E due to a blocked road.]]></title>
             <description><![CDATA[47 Lansdowne: Detour northbound via Queen St E, Close Ave, King St, Jameson Ave and Queen St E due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63535</guid>
             <pubDate>2026-03-01T06:16:14.74Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 89 Weston Regular service has resumed southbound from Weston Rd at Little Ave to Weston Rd at Lawrence Ave West.]]></title>
-            <description><![CDATA[89 Weston Regular service has resumed southbound from Weston Rd at Little Ave to Weston Rd at Lawrence Ave West.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63562</guid>
-            <pubDate>2026-03-02T00:33:49.1Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
