@@ -4,28 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 02 Mar 2026 10:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 11:00:29 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Keele and St George stations.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Keele and St George stations.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63516</guid>
-            <pubDate>2026-03-02T05:00:00.977Z</pubDate>
+            <guid isPermaLink="false">63571</guid>
+            <pubDate>2026-03-02T05:17:56.753Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: Detour via Spadina Ave, Dundas St W and Parliament St due to a blocked track.]]></title>
-            <description><![CDATA[506 Carlton: Detour via Spadina Ave, Dundas St W and Parliament St due to a blocked track.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned track work. Shuttle buses will operate.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63565</guid>
-            <pubDate>2026-03-02T05:04:12.347Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Queen St E, Close Ave, King St, Jameson Ave and Queen St E due to a blocked road.]]></title>
-            <description><![CDATA[47 Lansdowne: Detour northbound via Queen St E, Close Ave, King St, Jameson Ave and Queen St E due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63535</guid>
-            <pubDate>2026-03-01T06:16:14.74Z</pubDate>
+            <guid isPermaLink="false">63566</guid>
+            <pubDate>2026-03-02T05:16:22.383Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
