@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 03 Mar 2026 16:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 17:53:00 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63668</guid>
             <pubDate>2026-03-03T09:23:44.933Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 102 Markham Rd: Detour southbound via Tapscott Rd and Select Ave due to a collision.]]></title>
+            <description><![CDATA[102 Markham Rd: Detour southbound via Tapscott Rd and Select Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63672</guid>
+            <pubDate>2026-03-03T12:21:45.25Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -140,11 +147,18 @@
             <pubDate>2026-03-03T11:00:06.227Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Don Mills: Elevator 61P3L out of service between concourse and Line 4 platform while we perform maintenance. Elevator is expected to be back in service March 3, 2026.]]></title>
-            <description><![CDATA[Don Mills: Elevator 61P3L out of service between concourse and Line 4 platform while we perform maintenance. Elevator is expected to be back in service March 3, 2026.]]></description>
+            <title><![CDATA[♿ Vaughan Metropolitan Centre: Elevator 15S2L out of service between Millway Ave west side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 3, 2026.]]></title>
+            <description><![CDATA[Vaughan Metropolitan Centre: Elevator 15S2L out of service between Millway Ave west side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 3, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63657</guid>
-            <pubDate>2026-03-03T09:30:03.49Z</pubDate>
+            <guid isPermaLink="false">63660</guid>
+            <pubDate>2026-03-03T12:00:03.503Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 3, 2026.]]></title>
+            <description><![CDATA[Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 3, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63658</guid>
+            <pubDate>2026-03-03T12:00:03.24Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
@@ -152,13 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63610</guid>
             <pubDate>2026-03-02T13:48:03.42Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Wellesley: Escalator 12Y1E out of service from Line 1 Vaughan via Union platform to Wellesley St entrance while we perform an inspection. Escalator is expected to be back in service March 3, 2026.]]></title>
-            <description><![CDATA[Wellesley: Escalator 12Y1E out of service from Line 1 Vaughan via Union platform to Wellesley St entrance while we perform an inspection. Escalator is expected to be back in service March 3, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63609</guid>
-            <pubDate>2026-03-03T11:00:05.963Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
