@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 02 Mar 2026 23:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 02:13:42 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -14,6 +14,13 @@
             <pubDate>2026-03-02T05:17:56.753Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed at Greenwood station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed at Greenwood station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63625</guid>
+            <pubDate>2026-03-02T21:04:57.77Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -21,11 +28,32 @@
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 114 Queens Quay East: Detour eastbound via Harbour St and Yonge St due to a blocked road.]]></title>
-            <description><![CDATA[114 Queens Quay East: Detour eastbound via Harbour St and Yonge St due to a blocked road.]]></description>
+            <title><![CDATA[🚌 31 Greenwood Regular service has resumed near Greenwood Station at Bus Bay 2.]]></title>
+            <description><![CDATA[31 Greenwood Regular service has resumed near Greenwood Station at Bus Bay 2.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63626</guid>
+            <pubDate>2026-03-02T21:05:18.05Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 51 Leslie Regular service has resumed near Greenwood Station at Bus Bay 2.]]></title>
+            <description><![CDATA[51 Leslie Regular service has resumed near Greenwood Station at Bus Bay 2.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63627</guid>
+            <pubDate>2026-03-02T21:05:11.253Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 114 Queens Quay East Regular service has resumed eastbound near Queens Quay West at Bay St East Side.]]></title>
+            <description><![CDATA[114 Queens Quay East Regular service has resumed eastbound near Queens Quay West at Bay St East Side.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63619</guid>
-            <pubDate>2026-03-02T18:49:18.387Z</pubDate>
+            <pubDate>2026-03-02T21:06:47.297Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 131 Nugget: Detour westbound via Morningside Ave and Sewells Rd due to a blocked road.]]></title>
+            <description><![CDATA[131 Nugget: Detour westbound via Morningside Ave and Sewells Rd due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63623</guid>
+            <pubDate>2026-03-02T20:10:56.377Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -119,11 +147,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ York Mills: Escalator 20Y1E out of service from Line 1 platform to Old York Mills Rd entrance due to a technical problem. Escalator is expected to be back in service March 2, 2026.]]></title>
-            <description><![CDATA[York Mills: Escalator 20Y1E out of service from Line 1 platform to Old York Mills Rd entrance due to a technical problem. Escalator is expected to be back in service March 2, 2026.]]></description>
+            <title><![CDATA[♿ Old Mill: Escalator 13B1E out of service from Line 2 Kipling platform to Old Mill Trail entrance while we perform maintenance. Escalator is expected to be back in service March 2, 2026.]]></title>
+            <description><![CDATA[Old Mill: Escalator 13B1E out of service from Line 2 Kipling platform to Old Mill Trail entrance while we perform maintenance. Escalator is expected to be back in service March 2, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63617</guid>
-            <pubDate>2026-03-02T18:35:01.04Z</pubDate>
+            <guid isPermaLink="false">63618</guid>
+            <pubDate>2026-03-02T20:00:02.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
