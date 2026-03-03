@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 03 Mar 2026 09:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 10:41:15 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes an overhead power issue. Shuttle buses are running between Finch West and Humber College.]]></title>
+            <description><![CDATA[Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes an overhead power issue. Shuttle buses are running between Finch West and Humber College.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63654</guid>
+            <pubDate>2026-03-03T05:28:31.573Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -112,18 +119,18 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Old Mill: Escalator 13B2E out of service from Line 2 Kennedy platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 3, 2026.]]></title>
-            <description><![CDATA[Old Mill: Escalator 13B2E out of service from Line 2 Kennedy platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 3, 2026.]]></description>
+            <title><![CDATA[♿ Old Mill: Escalator back in service from Line 2 Kennedy platform to Old Mill Trail entrance.]]></title>
+            <description><![CDATA[Old Mill: Escalator back in service from Line 2 Kennedy platform to Old Mill Trail entrance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63636</guid>
-            <pubDate>2026-03-02T22:30:02.76Z</pubDate>
+            <pubDate>2026-03-03T05:30:03.247Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Old Mill: Escalator 13B1E out of service from Line 2 Kipling platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 3, 2026.]]></title>
-            <description><![CDATA[Old Mill: Escalator 13B1E out of service from Line 2 Kipling platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 3, 2026.]]></description>
+            <title><![CDATA[♿ Old Mill: Escalator back in service from Line 2 Kipling platform to Old Mill Trail entrance.]]></title>
+            <description><![CDATA[Old Mill: Escalator back in service from Line 2 Kipling platform to Old Mill Trail entrance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63635</guid>
-            <pubDate>2026-03-02T22:30:02.747Z</pubDate>
+            <pubDate>2026-03-03T05:30:02.497Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ King: Escalator 8Y5E out of service from Line 1 Vaughan via Union platform to Yonge St at Melinda St (exit only) while we perform maintenance. Escalator is expected to be back in service March 3, 2026.]]></title>
