@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 03 Mar 2026 15:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 15:57:51 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes an overhead power issue. Shuttle buses are running between Finch West and Humber College.]]></title>
-            <description><![CDATA[Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes an overhead power issue. Shuttle buses are running between Finch West and Humber College.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63654</guid>
-            <pubDate>2026-03-03T05:28:31.573Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 506 Carlton: Delays between Main Street Station at Bay 7 and High Park Loop due to construction.]]></title>
@@ -109,7 +102,7 @@
             <description><![CDATA[Line 2 Bloor-Danforth: Subway trains will move slower than usual eastbound from Keele to Dundas West stations while we work on track issues.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62530</guid>
-            <pubDate>2026-02-24T11:09:04.153Z</pubDate>
+            <pubDate>2026-03-03T10:49:03.227Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 2 Bloor-Danforth: Subway trains will move slower than usual eastbound from Sherbourne to Castle Frank stations while we work on track issues.]]></title>
@@ -131,6 +124,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63667</guid>
             <pubDate>2026-03-03T08:58:32.543Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Wilson: Escalator 8S7E out of service from lower bus platform to underpass (to bus platform) while we perform maintenance. Escalator is expected to be back in service March 3, 2026.]]></title>
+            <description><![CDATA[Wilson: Escalator 8S7E out of service from lower bus platform to underpass (to bus platform) while we perform maintenance. Escalator is expected to be back in service March 3, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63664</guid>
+            <pubDate>2026-03-03T10:30:02.487Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Wilson: Escalator 8S4E out of service from underpass (to passenger pick-up) to Wilson Ave north side entrance and concourse while we perform maintenance. Escalator is expected to be back in service March 3, 2026.]]></title>
