@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 03 Mar 2026 08:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 08:58:14 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 304 King: No service between King St East at Church St East Side and Distillery Loop while we respond to a medical emergency.]]></title>
-            <description><![CDATA[304 King: No service between King St East at Church St East Side and Distillery Loop while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63652</guid>
-            <pubDate>2026-03-03T03:00:24.887Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -117,13 +110,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Osgoode: Escalator 5Y2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 3, 2026.]]></title>
-            <description><![CDATA[Osgoode: Escalator 5Y2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 3, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63648</guid>
-            <pubDate>2026-03-03T00:30:02.717Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Old Mill: Escalator 13B2E out of service from Line 2 Kennedy platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 3, 2026.]]></title>
