@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 03 Mar 2026 20:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 20:47:32 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -124,27 +124,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63671</guid>
             <pubDate>2026-03-03T11:33:26.353Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Wilson: Escalator 8S7E out of service from lower bus platform to underpass (to bus platform) while we perform maintenance. Escalator is expected to be back in service March 3, 2026.]]></title>
-            <description><![CDATA[Wilson: Escalator 8S7E out of service from lower bus platform to underpass (to bus platform) while we perform maintenance. Escalator is expected to be back in service March 3, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63664</guid>
-            <pubDate>2026-03-03T10:30:02.487Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Chester: Elevator back in service between Chester Ave west side entrance and Line 2 eastbound platform.]]></title>
-            <description><![CDATA[Chester: Elevator back in service between Chester Ave west side entrance and Line 2 eastbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63662</guid>
-            <pubDate>2026-03-03T15:00:01.527Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Don Mills: Elevator back in service between Sheppard Ave E south side entrance and concourse.]]></title>
-            <description><![CDATA[Don Mills: Elevator back in service between Sheppard Ave E south side entrance and concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63658</guid>
-            <pubDate>2026-03-03T15:00:01.137Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
