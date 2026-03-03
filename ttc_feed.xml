@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 03 Mar 2026 21:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 21:52:32 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King Regular service has resumed westbound from King St West at Shaw St to King St West at Peter St.]]></title>
+            <description><![CDATA[504 King Regular service has resumed westbound from King St West at Shaw St to King St West at Peter St.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63675</guid>
+            <pubDate>2026-03-03T16:47:31.09Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 506 Carlton: Delays between Main Street Station at Bay 7 and High Park Loop due to construction.]]></title>
