@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 03 Mar 2026 06:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 07:27:26 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned tunnel work. Shuttle buses are running.]]></title>
@@ -33,20 +33,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King: Detour eastbound via Shaw St, Queen St W, York St, Adelaide St E and Church St while we respond to a medical emergency.]]></title>
-            <description><![CDATA[504 King: Detour eastbound via Shaw St, Queen St W, York St, Adelaide St E and Church St while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63650</guid>
-            <pubDate>2026-03-03T01:18:12.99Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 506 Carlton: Delays between College St at Bathurst St and High Park Loop due to construction.]]></title>
-            <description><![CDATA[506 Carlton: Delays between College St at Bathurst St and High Park Loop due to construction.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63640</guid>
-            <pubDate>2026-03-02T21:35:08.123Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
