@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 03 Mar 2026 23:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 23:38:37 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -14,13 +14,6 @@
             <pubDate>2026-03-02T05:17:56.753Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed at Victoria Park station.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed at Victoria Park station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63679</guid>
-            <pubDate>2026-03-03T17:58:02.833Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -28,25 +21,18 @@
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King Regular service has resumed eastbound near King St West at Yonge St East Side - King Station.]]></title>
-            <description><![CDATA[504 King Regular service has resumed eastbound near King St West at Yonge St East Side - King Station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63678</guid>
-            <pubDate>2026-03-03T17:46:09.157Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 506 Carlton Regular service has resumed between Main Street Station at Bay 7 and High Park Loop.]]></title>
-            <description><![CDATA[506 Carlton Regular service has resumed between Main Street Station at Bay 7 and High Park Loop.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63668</guid>
-            <pubDate>2026-03-03T17:54:02.61Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 35 Jane: Detour northbound via Shoreham Dr, Murray Ross Pkwy and Steeles Ave W due to a collision.]]></title>
-            <description><![CDATA[35 Jane: Detour northbound via Shoreham Dr, Murray Ross Pkwy and Steeles Ave W due to a collision.]]></description>
+            <title><![CDATA[🚌 35 Jane Regular service has resumed northbound from Jane St at Shoreham Dr to Jane St at Hullmar Dr.]]></title>
+            <description><![CDATA[35 Jane Regular service has resumed northbound from Jane St at Shoreham Dr to Jane St at Hullmar Dr.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63676</guid>
-            <pubDate>2026-03-03T17:27:03.11Z</pubDate>
+            <pubDate>2026-03-03T18:28:25.32Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 84D Sheppard West Regular service has resumed westbound from Oakdale Rd at Finch Ave West - Humber Reactivation Care to Norfinch Dr at Steeles Ave West.]]></title>
+            <description><![CDATA[84D Sheppard West Regular service has resumed westbound from Oakdale Rd at Finch Ave West - Humber Reactivation Care to Norfinch Dr at Steeles Ave West.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63680</guid>
+            <pubDate>2026-03-03T18:28:28.117Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
