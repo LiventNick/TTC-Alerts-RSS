@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 04 Mar 2026 13:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 14:24:53 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -133,13 +133,6 @@
             <pubDate>2026-03-04T07:15:24.63Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Islington: Escalator 15B1E out of service from Line 2 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></title>
-            <description><![CDATA[Islington: Escalator 15B1E out of service from Line 2 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63711</guid>
-            <pubDate>2026-03-04T07:30:01.047Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Highway 407: Elevator 14S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 4, 2026.]]></title>
             <description><![CDATA[Highway 407: Elevator 14S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 4, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -208,13 +201,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63580</guid>
             <pubDate>2026-03-02T07:30:01.047Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></title>
-            <description><![CDATA[Kipling: Escalator 16B5E out of service from concourse to Line 2 platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63475</guid>
-            <pubDate>2026-02-27T23:51:15.693Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Cedarvale: Elevator 5 out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform due to a technical problem.]]></title>
