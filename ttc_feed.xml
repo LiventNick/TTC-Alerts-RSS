@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 04 Mar 2026 02:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 04:23:06 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned tunnel work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned tunnel work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63573</guid>
+            <pubDate>2026-03-03T23:00:01.297Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></description>
@@ -19,6 +26,34 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton: Delays eastbound at Don Valley station while we respond to an emergency alarm.]]></title>
+            <description><![CDATA[Line 5 Eglinton: Delays eastbound at Don Valley station while we respond to an emergency alarm.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63696</guid>
+            <pubDate>2026-03-03T22:27:08.89Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton: Delays eastbound at Don Valley station while we respond to an emergency alarm.]]></title>
+            <description><![CDATA[Line 5 Eglinton: Delays eastbound at Don Valley station while we respond to an emergency alarm.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63695</guid>
+            <pubDate>2026-03-03T22:27:07.813Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 39 Finch East: Detour eastbound via Morningside Ave, Sewells Rd and Littles Rd due to a collision.]]></title>
+            <description><![CDATA[39 Finch East: Detour eastbound via Morningside Ave, Sewells Rd and Littles Rd due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63692</guid>
+            <pubDate>2026-03-03T22:18:56.897Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 116 Morningside: Detour eastbound via Sewells Rd, Neilson Ave and Finch Ave E due to a collision.]]></title>
+            <description><![CDATA[116 Morningside: Detour eastbound via Sewells Rd, Neilson Ave and Finch Ave E due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63693</guid>
+            <pubDate>2026-03-03T21:49:47.123Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -110,6 +145,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Spadina: Elevator 2B3L out of service between south concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Spadina: Elevator 2B3L out of service between south concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63694</guid>
+            <pubDate>2026-03-03T22:10:50.953Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Old Mill: Escalator 13B2E out of service from Line 2 Kennedy platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 4, 2026.]]></title>
+            <description><![CDATA[Old Mill: Escalator 13B2E out of service from Line 2 Kennedy platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 4, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63690</guid>
+            <pubDate>2026-03-03T22:30:01.093Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Old Mill: Escalator 13B1E out of service from Line 2 Kipling platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 4, 2026.]]></title>
+            <description><![CDATA[Old Mill: Escalator 13B1E out of service from Line 2 Kipling platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 4, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63689</guid>
+            <pubDate>2026-03-03T22:30:01.047Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Queen: Escalator 9Y2E out of service from south underpass to Line 1 Vaughan via Union platform while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></title>
