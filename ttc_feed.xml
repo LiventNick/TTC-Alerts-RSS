@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 04 Mar 2026 16:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 17:40:10 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -119,6 +119,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ High Park: Escalator 10B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></title>
+            <description><![CDATA[High Park: Escalator 10B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63729</guid>
+            <pubDate>2026-03-04T12:21:05.733Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Glencairn: Escalator 5S1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></title>
             <description><![CDATA[Glencairn: Escalator 5S1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -131,13 +138,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63715</guid>
             <pubDate>2026-03-04T11:00:03.217Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Royal York: Escalator 14B1E out of service from west concourse to Royal York Rd entrance while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></title>
-            <description><![CDATA[Royal York: Escalator 14B1E out of service from west concourse to Royal York Rd entrance while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63714</guid>
-            <pubDate>2026-03-04T09:30:00.963Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Highway 407: Elevator 14S2L out of service between parking lot entrance, concourse and bus platform while we perform maintenance. Elevator is expected to be back in service March 4, 2026.]]></title>
