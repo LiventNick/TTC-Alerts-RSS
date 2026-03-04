@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 04 Mar 2026 20:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 21:01:29 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -21,25 +21,46 @@
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a fallen tree. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a fallen tree. Shuttle buses are on the way.]]></description>
+            <title><![CDATA[🚋 506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a fallen tree. Shuttle buses are running between High Park Loop and College St at Lansdowne Ave.]]></title>
+            <description><![CDATA[506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to a fallen tree. Shuttle buses are running between High Park Loop and College St at Lansdowne Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63724</guid>
-            <pubDate>2026-03-04T13:36:00.387Z</pubDate>
+            <pubDate>2026-03-04T15:35:27.74Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Bathurst St, Eglinton Ave W and Chaplin Cres due to a blocked road.]]></title>
-            <description><![CDATA[14 Glencairn: Detour eastbound via Bathurst St, Eglinton Ave W and Chaplin Cres due to a blocked road.]]></description>
+            <title><![CDATA[🚌 37, 37A Islington: Detour northbound via Rexdale Blvd and Islington Ave due to a fire.]]></title>
+            <description><![CDATA[37, 37A Islington: Detour northbound via Rexdale Blvd and Islington Ave due to a fire.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63733</guid>
-            <pubDate>2026-03-04T13:51:46.807Z</pubDate>
+            <guid isPermaLink="false">63742</guid>
+            <pubDate>2026-03-04T15:57:09.903Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 126 Christie: Detour southbound via Davenport Rd, Ossington Ave and Dupont St due to a collision.]]></title>
-            <description><![CDATA[126 Christie: Detour southbound via Davenport Rd, Ossington Ave and Dupont St due to a collision.]]></description>
+            <title><![CDATA[🚌 37, 37A Islington: Detour southbound via Leduc Dr, Redwater Dr and Kipling Ave due to a fire.]]></title>
+            <description><![CDATA[37, 37A Islington: Detour southbound via Leduc Dr, Redwater Dr and Kipling Ave due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63741</guid>
+            <pubDate>2026-03-04T15:55:54.953Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 37, 37A Islington: Detour northbound via Rexdale Blvd and Islington Ave due to a fire.]]></title>
+            <description><![CDATA[37, 37A Islington: Detour northbound via Rexdale Blvd and Islington Ave due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63742-1</guid>
+            <pubDate>2026-03-04T15:57:09.903Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 37, 37A Islington: Detour southbound via Leduc Dr, Redwater Dr and Kipling Ave due to a fire.]]></title>
+            <description><![CDATA[37, 37A Islington: Detour southbound via Leduc Dr, Redwater Dr and Kipling Ave due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63741-1</guid>
+            <pubDate>2026-03-04T15:55:54.953Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 126 Christie Regular service has resumed southbound from Christie St at Davenport Rd to Christie St at Dupont St.]]></title>
+            <description><![CDATA[126 Christie Regular service has resumed southbound from Christie St at Davenport Rd to Christie St at Dupont St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63740</guid>
-            <pubDate>2026-03-04T15:27:41.98Z</pubDate>
+            <pubDate>2026-03-04T15:52:23.073Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -140,13 +161,6 @@
             <pubDate>2026-03-04T14:24:55.073Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Glencairn: Escalator back in service from Line 1 platform to concourse.]]></title>
-            <description><![CDATA[Glencairn: Escalator back in service from Line 1 platform to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63723</guid>
-            <pubDate>2026-03-04T15:30:01.227Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
             <description><![CDATA[Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -175,13 +189,6 @@
             <pubDate>2026-03-04T05:30:00.997Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Wilson: Escalator back in service from concourse to Line 1 platform.]]></title>
-            <description><![CDATA[Wilson: Escalator back in service from concourse to Line 1 platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63666</guid>
-            <pubDate>2026-03-04T15:30:03.43Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
             <description><![CDATA[St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -194,13 +201,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63600</guid>
             <pubDate>2026-03-02T12:44:50.87Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St Clair West: Escalator back in service from north concourse to Line 1 Finch via Union platform.]]></title>
-            <description><![CDATA[St Clair West: Escalator back in service from north concourse to Line 1 Finch via Union platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63580</guid>
-            <pubDate>2026-03-04T15:30:02.6Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Cedarvale: Elevator 5 out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform due to a technical problem.]]></title>
