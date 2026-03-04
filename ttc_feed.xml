@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 04 Mar 2026 09:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 10:41:15 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -112,18 +112,32 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Old Mill: Escalator 13B2E out of service from Line 2 Kennedy platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 4, 2026.]]></title>
-            <description><![CDATA[Old Mill: Escalator 13B2E out of service from Line 2 Kennedy platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 4, 2026.]]></description>
+            <title><![CDATA[♿ Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63690</guid>
-            <pubDate>2026-03-03T22:30:01.093Z</pubDate>
+            <guid isPermaLink="false">63704</guid>
+            <pubDate>2026-03-04T05:09:10.353Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Old Mill: Escalator 13B1E out of service from Line 2 Kipling platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 4, 2026.]]></title>
-            <description><![CDATA[Old Mill: Escalator 13B1E out of service from Line 2 Kipling platform to Old Mill Trail entrance due to construction. Escalator is expected to be back in service March 4, 2026.]]></description>
+            <title><![CDATA[♿ Dupont: Escalator 2S5E out of service from concourse to Dupont St south side entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[Dupont: Escalator 2S5E out of service from concourse to Dupont St south side entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63689</guid>
-            <pubDate>2026-03-03T22:30:01.047Z</pubDate>
+            <guid isPermaLink="false">63703</guid>
+            <pubDate>2026-03-04T05:08:32.37Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Queen's Park: Escalator 3Y4E out of service from concourse to College Street southwest entrance while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></title>
+            <description><![CDATA[Queen's Park: Escalator 3Y4E out of service from concourse to College Street southwest entrance while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63702</guid>
+            <pubDate>2026-03-04T05:30:01.013Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Queen's Park: Escalator 3Y3E out of service from College Street southwest entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></title>
+            <description><![CDATA[Queen's Park: Escalator 3Y3E out of service from College Street southwest entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63701</guid>
+            <pubDate>2026-03-04T05:30:00.997Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Vaughan Metropolitan Centre: Elevator 15S2L out of service between Millway Ave west side entrance and concourse while we perform maintenance.]]></title>
