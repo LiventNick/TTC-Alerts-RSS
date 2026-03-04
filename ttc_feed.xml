@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 04 Mar 2026 11:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 12:25:22 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -21,25 +21,18 @@
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 512 St Clair Regular service has resumed between St Clair West Station at Bay 3 and St Clair Station at Bay 2.]]></title>
-            <description><![CDATA[Replacement Buses are operating between St Clair Station and St clair West Station. All Bus routes are servicing St Clair West Station from outside the Station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63706</guid>
-            <pubDate>2026-03-04T06:43:03.097Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 41 Keele: Detour via Sheppard Ave W, Jane St and Wilson Ave due to a collision.]]></title>
-            <description><![CDATA[41 Keele: Detour via Sheppard Ave W, Jane St and Wilson Ave due to a collision.]]></description>
+            <title><![CDATA[🚌 41 Keele Regular service has resumed near Keele Station at Bus Bay 4.]]></title>
+            <description><![CDATA[41 Keele Regular service has resumed near Keele Station at Bus Bay 4.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63705</guid>
-            <pubDate>2026-03-04T06:33:25.87Z</pubDate>
+            <pubDate>2026-03-04T07:18:26.947Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 941 Keele Express: Detour via Sheppard Ave W, Jane St and Wilson Ave due to a collision.]]></title>
-            <description><![CDATA[941 Keele Express: Detour via Sheppard Ave W, Jane St and Wilson Ave due to a collision.]]></description>
+            <title><![CDATA[🚌 941 Keele Express Regular service has resumed near Keele Station at Bus Bay 4.]]></title>
+            <description><![CDATA[941 Keele Express Regular service has resumed near Keele Station at Bus Bay 4.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63707</guid>
-            <pubDate>2026-03-04T06:33:26.747Z</pubDate>
+            <pubDate>2026-03-04T07:18:12.663Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -133,6 +126,27 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Don Mills: Elevator 61P6L out of service between Fairview Mall entrance and bus platform while we perform maintenance. Elevator is expected to be back in service March 4, 2026.]]></title>
+            <description><![CDATA[Don Mills: Elevator 61P6L out of service between Fairview Mall entrance and bus platform while we perform maintenance. Elevator is expected to be back in service March 4, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63712</guid>
+            <pubDate>2026-03-04T07:15:24.63Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Highway 407: Elevator 14S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 4, 2026.]]></title>
+            <description><![CDATA[Highway 407: Elevator 14S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 4, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63709</guid>
+            <pubDate>2026-03-04T07:12:15.837Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Pape: Elevator 8D1L out of service between Pape Ave entrance, concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 4, 2026.]]></title>
+            <description><![CDATA[Pape: Elevator 8D1L out of service between Pape Ave entrance, concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 4, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63708</guid>
+            <pubDate>2026-03-04T07:10:03.293Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
             <description><![CDATA[Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -159,6 +173,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63701</guid>
             <pubDate>2026-03-04T05:30:00.997Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Wilson: Escalator 8S2E out of service from Line 1 platform to Wilson Ave north side entrance and concourse while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></title>
+            <description><![CDATA[Wilson: Escalator 8S2E out of service from Line 1 platform to Wilson Ave north side entrance and concourse while we perform maintenance. Escalator is expected to be back in service March 4, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63665</guid>
+            <pubDate>2026-03-04T07:00:00.96Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
