@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 05 Mar 2026 20:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 21:01:58 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at College station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at College station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63825</guid>
-            <pubDate>2026-03-05T15:12:19.09Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></description>
@@ -26,76 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 52 Lawrence West: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
-            <description><![CDATA[52 Lawrence West: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63813</guid>
-            <pubDate>2026-03-05T13:43:13.147Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 54 Lawrence East Regular service has resumed near Lawrence Station at Bus Bay 1.]]></title>
-            <description><![CDATA[54 Lawrence East Regular service has resumed near Lawrence Station at Bus Bay 1.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63814</guid>
-            <pubDate>2026-03-05T15:19:24.483Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 59 Maple Leaf Regular service has resumed near Lawrence Station at Bus Bay 1.]]></title>
-            <description><![CDATA[59 Maple Leaf Regular service has resumed near Lawrence Station at Bus Bay 1.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63815</guid>
-            <pubDate>2026-03-05T15:19:31.333Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 74 Mount Pleasant: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
-            <description><![CDATA[74 Mount Pleasant: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63816</guid>
-            <pubDate>2026-03-05T13:43:15.677Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 97 Yonge: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
-            <description><![CDATA[97 Yonge: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63817</guid>
-            <pubDate>2026-03-05T13:43:16.41Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 109 Ranee: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
-            <description><![CDATA[109 Ranee: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63818</guid>
-            <pubDate>2026-03-05T13:43:17.147Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 124 Sunnybrook: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
-            <description><![CDATA[124 Sunnybrook: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63819</guid>
-            <pubDate>2026-03-05T13:43:17.91Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 162 Lawrence-Donway: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
-            <description><![CDATA[162 Lawrence-Donway: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63820</guid>
-            <pubDate>2026-03-05T13:43:18.707Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 952 Lawrence West Express: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
-            <description><![CDATA[952 Lawrence West Express: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63821</guid>
-            <pubDate>2026-03-05T13:43:19.507Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 954 Lawrence East Express Regular service has resumed near Lawrence Station at Bus Bay 1.]]></title>
-            <description><![CDATA[954 Lawrence East Express Regular service has resumed near Lawrence Station at Bus Bay 1.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63822</guid>
-            <pubDate>2026-03-05T15:19:17.463Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -189,25 +112,25 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Sherbourne: Elevator 4D1L out of service between Sherbourne Street entrance, concourse and Line 2 Kennedy (eastbound) while we perform maintenance.]]></title>
+            <description><![CDATA[Sherbourne: Elevator 4D1L out of service between Sherbourne Street entrance, concourse and Line 2 Kennedy (eastbound) while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63827</guid>
+            <pubDate>2026-03-05T15:31:34.44Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63826</guid>
+            <pubDate>2026-03-05T15:30:30.503Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></title>
             <description><![CDATA[Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63824</guid>
             <pubDate>2026-03-05T14:26:43.993Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ York University: Escalator 12S4E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></title>
-            <description><![CDATA[York University: Escalator 12S4E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63721</guid>
-            <pubDate>2026-03-05T10:30:01.64Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Downsview Park: Escalator 10S2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></title>
-            <description><![CDATA[Downsview Park: Escalator 10S2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63719</guid>
-            <pubDate>2026-03-05T10:30:01.657Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
@@ -264,20 +187,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63438</guid>
             <pubDate>2026-03-05T15:18:34.747Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bayview: Escalator 55P3E out of service from Line 4 platform to west concourse while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></title>
-            <description><![CDATA[Bayview: Escalator 55P3E out of service from Line 4 platform to west concourse while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63435</guid>
-            <pubDate>2026-03-02T08:00:00.933Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator 13S7E out of service from lower south concourse to upper south concourse while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator 13S7E out of service from lower south concourse to upper south concourse while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63434</guid>
-            <pubDate>2026-03-02T08:00:00.963Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
@@ -383,13 +292,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62005</guid>
             <pubDate>2026-02-21T22:41:48.71Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Yorkdale: Escalator 7S3E out of service from Yorkdale Service Rd entrance to Line 1 Centre platform while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></title>
-            <description><![CDATA[Yorkdale: Escalator 7S3E out of service from Yorkdale Service Rd entrance to Line 1 Centre platform while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">62004</guid>
-            <pubDate>2026-03-03T09:15:06.68Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Broadview: Escalator 6D3E out of service from concourse to Broadview Ave entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
