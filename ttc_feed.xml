@@ -4,14 +4,28 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 05 Mar 2026 21:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 21:48:46 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between Vaughan and Pioneer Village stations.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between Vaughan and Pioneer Village stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63831</guid>
+            <pubDate>2026-03-05T16:48:06.46Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63571</guid>
             <pubDate>2026-03-02T05:17:56.753Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Broadview and Ossington stations.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Broadview and Ossington stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63830</guid>
+            <pubDate>2026-03-05T16:40:17.8Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned track work. Shuttle buses will operate.]]></title>
@@ -124,13 +138,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63826</guid>
             <pubDate>2026-03-05T15:30:30.503Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63824</guid>
-            <pubDate>2026-03-05T14:26:43.993Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
