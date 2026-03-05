@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 05 Mar 2026 18:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 19:38:20 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -21,11 +21,74 @@
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 116 Morningside: Detour eastbound via Mantis Rd, Bobolink Ave, Wharnsby Dr and Nightstar Rd due to construction.]]></title>
-            <description><![CDATA[116 Morningside: Detour eastbound via Mantis Rd, Bobolink Ave, Wharnsby Dr and Nightstar Rd due to construction.]]></description>
+            <title><![CDATA[🚌 52 Lawrence West: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[52 Lawrence West: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63790</guid>
-            <pubDate>2026-03-05T11:50:44.747Z</pubDate>
+            <guid isPermaLink="false">63813</guid>
+            <pubDate>2026-03-05T13:43:13.147Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 54 Lawrence East: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[54 Lawrence East: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63814</guid>
+            <pubDate>2026-03-05T13:43:14.053Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 59 Maple Leaf: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[59 Maple Leaf: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63815</guid>
+            <pubDate>2026-03-05T13:43:14.91Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 74 Mount Pleasant: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[74 Mount Pleasant: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63816</guid>
+            <pubDate>2026-03-05T13:43:15.677Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 97 Yonge: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[97 Yonge: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63817</guid>
+            <pubDate>2026-03-05T13:43:16.41Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 109 Ranee: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[109 Ranee: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63818</guid>
+            <pubDate>2026-03-05T13:43:17.147Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 124 Sunnybrook: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[124 Sunnybrook: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63819</guid>
+            <pubDate>2026-03-05T13:43:17.91Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 162 Lawrence-Donway: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[162 Lawrence-Donway: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63820</guid>
+            <pubDate>2026-03-05T13:43:18.707Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 952 Lawrence West Express: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[952 Lawrence West Express: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63821</guid>
+            <pubDate>2026-03-05T13:43:19.507Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 954 Lawrence East Express: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></title>
+            <description><![CDATA[954 Lawrence East Express: Buses are not stopping near Lawrence Station at Bus Bay 1 due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63822</guid>
+            <pubDate>2026-03-05T13:43:20.24Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -117,6 +180,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63824</guid>
+            <pubDate>2026-03-05T14:26:43.993Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair West: Escalator 3S10E out of service from south concourse to Line 1 Vaughan platform while we perform an inspection. Escalator is expected to be back in service March 5, 2026.]]></title>
