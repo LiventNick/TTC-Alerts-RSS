@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 05 Mar 2026 14:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 15:03:22 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-02T05:17:56.753Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Jane and Ossington stations while we respond to an injury on the tracks. Shuttle buses are running between Jane and Ossington.]]></title>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Jane and Ossington stations.]]></title>
             <description><![CDATA[GO Transit is available at Kipling, Dundas West, Union and Mimico for the cost of a TTC fare.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63788</guid>
-            <pubDate>2026-03-05T08:43:51.257Z</pubDate>
+            <pubDate>2026-03-05T09:55:10.283Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There will be no subway service between Keele and St George stations, starting 11:59 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned track work. Shuttle buses will operate.]]></title>
@@ -145,13 +145,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63774</guid>
             <pubDate>2026-03-05T07:02:54.63Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Leslie: Elevator back in service between bus platform, concourse and Line 4 centre platform.]]></title>
-            <description><![CDATA[Leslie: Elevator back in service between bus platform, concourse and Line 4 centre platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63773</guid>
-            <pubDate>2026-03-05T09:00:02.01Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ King: Escalator 8Y6E out of service from north concourse to Scotia Plaza entrance while we perform maintenance. Escalator is expected to be back in service March 5, 2026.]]></title>
