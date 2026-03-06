@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 06 Mar 2026 21:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 21:41:50 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at Queen station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at Queen station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63912</guid>
-            <pubDate>2026-03-06T15:53:06.663Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></description>
@@ -26,20 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63866</guid>
             <pubDate>2026-03-06T12:05:12.09Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 116 Morningside Regular service has resumed eastbound near Morningside Ave at Kingston Rd.]]></title>
-            <description><![CDATA[116 Morningside Regular service has resumed eastbound near Morningside Ave at Kingston Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63911</guid>
-            <pubDate>2026-03-06T15:55:04.617Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 129 Mccowan North: Detour southbound via Wilfred Murison Ave, Stonebridge Dr, Saratoga Dr and Manhattan Dr due to a collision.]]></title>
-            <description><![CDATA[129 Mccowan North: Detour southbound via Wilfred Murison Ave, Stonebridge Dr, Saratoga Dr and Manhattan Dr due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63909</guid>
-            <pubDate>2026-03-06T14:58:53.03Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -271,13 +250,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62362</guid>
             <pubDate>2026-03-06T13:59:33.933Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bessarion: Escalator 57P3E out of service from concourse to Line 4 platform due to a technical problem. Escalator is expected to be back in service March 6, 2026.]]></title>
-            <description><![CDATA[Bessarion: Escalator 57P3E out of service from concourse to Line 4 platform due to a technical problem. Escalator is expected to be back in service March 6, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">62296</guid>
-            <pubDate>2026-02-26T08:07:45.717Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch: Escalator 22Y11E out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
