@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 06 Mar 2026 06:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 07:24:18 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned tunnel work. Shuttle buses are running.]]></title>
@@ -19,20 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63570</guid>
             <pubDate>2026-03-05T23:59:01.887Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 96 Wilson: Detour via Claireville Dr due to a blocked road.]]></title>
-            <description><![CDATA[96 Wilson: Detour via Claireville Dr due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63837</guid>
-            <pubDate>2026-03-05T19:23:46.68Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 158 Trethewey: Detour via Todd Baylis Blvd, Industry St, Ray Ave, Weston Rd and Jane St due to a collision.]]></title>
-            <description><![CDATA[158 Trethewey: Detour via Todd Baylis Blvd, Industry St, Ray Ave, Weston Rd and Jane St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63848</guid>
-            <pubDate>2026-03-06T00:25:38.537Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
