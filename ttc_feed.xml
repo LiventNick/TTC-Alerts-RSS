@@ -4,28 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 06 Mar 2026 20:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 21:00:10 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at Queen station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at Queen station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63912</guid>
+            <pubDate>2026-03-06T15:53:06.663Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 24 Victoria Park Regular service has resumed southbound near Yorkland Blvd (North) at Yorkland Rd.]]></title>
-            <description><![CDATA[24 Victoria Park Regular service has resumed southbound near Yorkland Blvd (North) at Yorkland Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63900</guid>
-            <pubDate>2026-03-06T15:25:10.717Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 24 Victoria Park Regular service has resumed northbound near Yorkland Blvd (North) at Yorkland Rd East Side.]]></title>
-            <description><![CDATA[24 Victoria Park Regular service has resumed northbound near Yorkland Blvd (North) at Yorkland Rd East Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63899</guid>
-            <pubDate>2026-03-06T15:24:16.277Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
@@ -35,11 +28,11 @@
             <pubDate>2026-03-06T12:05:12.09Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 116 Morningside: Detour eastbound via Kingston Rd, Amiens Rd and Tefft Rd due to a collision.]]></title>
-            <description><![CDATA[116 Morningside: Detour eastbound via Kingston Rd, Amiens Rd and Tefft Rd due to a collision.]]></description>
+            <title><![CDATA[🚌 116 Morningside Regular service has resumed eastbound near Morningside Ave at Kingston Rd.]]></title>
+            <description><![CDATA[116 Morningside Regular service has resumed eastbound near Morningside Ave at Kingston Rd.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63911</guid>
-            <pubDate>2026-03-06T15:27:39.92Z</pubDate>
+            <pubDate>2026-03-06T15:55:04.617Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 129 Mccowan North: Detour southbound via Wilfred Murison Ave, Stonebridge Dr, Saratoga Dr and Manhattan Dr due to a collision.]]></title>
@@ -47,20 +40,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63909</guid>
             <pubDate>2026-03-06T14:58:53.03Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 167 Pharmacy North Regular service has resumed near Yorkland Blvd (North) at Yorkland Rd.]]></title>
-            <description><![CDATA[167 Pharmacy North Regular service has resumed near Yorkland Blvd (North) at Yorkland Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63902</guid>
-            <pubDate>2026-03-06T15:25:17.903Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 167 Pharmacy North Regular service has resumed near Yorkland Blvd (North) at Yorkland Rd East Side.]]></title>
-            <description><![CDATA[167 Pharmacy North Regular service has resumed near Yorkland Blvd (North) at Yorkland Rd East Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63901</guid>
-            <pubDate>2026-03-06T15:24:48.883Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -168,25 +147,11 @@
             <pubDate>2026-03-06T15:30:01.627Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ York University: Elevator back in service between York Blvd south side entrance and concourse.]]></title>
-            <description><![CDATA[York University: Elevator back in service between York Blvd south side entrance and concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63897</guid>
-            <pubDate>2026-03-06T15:32:22.143Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service March 31, 2026.]]></title>
             <description><![CDATA[Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service March 31, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63878</guid>
             <pubDate>2026-03-06T12:14:37.99Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Glencairn: Escalator back in service from Glencairn Ave north side entrance to concourse.]]></title>
-            <description><![CDATA[Glencairn: Escalator back in service from Glencairn Ave north side entrance to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63865</guid>
-            <pubDate>2026-03-06T15:30:07.83Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B1E out of service from Line 2 platform to bus platform while we perform maintenance. Escalator is expected to be back in service July 11, 2026.]]></title>
@@ -208,34 +173,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63826</guid>
             <pubDate>2026-03-05T15:30:30.503Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ York University: Escalator back in service from Line 1 platform to concourse.]]></title>
-            <description><![CDATA[York University: Escalator back in service from Line 1 platform to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63789</guid>
-            <pubDate>2026-03-06T15:30:04.247Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Highway 407: Escalator back in service from Line 1 platform to concourse.]]></title>
-            <description><![CDATA[Highway 407: Escalator back in service from Line 1 platform to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63787</guid>
-            <pubDate>2026-03-06T15:30:02.997Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Finch West: Escalator back in service from Line 1 platform to concourse.]]></title>
-            <description><![CDATA[Finch West: Escalator back in service from Line 1 platform to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63786</guid>
-            <pubDate>2026-03-06T15:30:05.373Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator back in service from upper south concourse to bus platform.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator back in service from upper south concourse to bus platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63782</guid>
-            <pubDate>2026-03-06T15:30:03.187Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
@@ -278,20 +215,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63600</guid>
             <pubDate>2026-03-02T12:44:50.87Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Greenwood: Escalator back in service from concourse to Greenwood Ave entrance.]]></title>
-            <description><![CDATA[Greenwood: Escalator back in service from concourse to Greenwood Ave entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63439</guid>
-            <pubDate>2026-03-06T15:30:01.703Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Dufferin: Escalator back in service from Line 2 Kennedy platform to concourse.]]></title>
-            <description><![CDATA[Dufferin: Escalator back in service from Line 2 Kennedy platform to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63438</guid>
-            <pubDate>2026-03-06T15:30:02.47Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
