@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 06 Mar 2026 16:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 16:58:07 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Broadview and St George stations.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Broadview and St George stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63869</guid>
-            <pubDate>2026-03-06T11:00:45.433Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></description>
@@ -21,11 +14,18 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: No service between Sloane and Pharmacy stations due to an LRT/Auto Collision. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[Line 5 Eglinton: No service between Sloane and Pharmacy stations due to an LRT/Auto Collision. Shuttle buses are on the way.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Trains are not stopping at Main Street station due to a security incident.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Trains are not stopping at Main Street station due to a security incident.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63870</guid>
+            <pubDate>2026-03-06T11:57:12.687Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton: No service between Sloane and Pharmacy stations due to an LRT/Auto Collision. Shuttle buses are running between Sloane and Hakimi Lebovic.]]></title>
+            <description><![CDATA[Line 5 Eglinton: No service between Sloane and Pharmacy stations due to an LRT/Auto Collision. Shuttle buses are running between Sloane and Hakimi Lebovic.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63868</guid>
-            <pubDate>2026-03-06T10:22:04.087Z</pubDate>
+            <pubDate>2026-03-06T11:10:17.553Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Eglinton Ave W, Ronald Ave, Schell Ave and Caledonia Rd due to construction.]]></title>
@@ -133,25 +133,11 @@
             <pubDate>2026-03-06T10:30:01.927Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Glencairn: Escalator back in service from concourse to Glencairn Ave south side entrance.]]></title>
-            <description><![CDATA[Glencairn: Escalator back in service from concourse to Glencairn Ave south side entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63864</guid>
-            <pubDate>2026-03-06T11:00:04.627Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance. Elevator is expected to be back in service March 6, 2026.]]></title>
             <description><![CDATA[Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance. Elevator is expected to be back in service March 6, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63863</guid>
             <pubDate>2026-03-06T11:00:02.72Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Donlands: Elevator back in service between concourse and Line 2 westbound platform.]]></title>
-            <description><![CDATA[Donlands: Elevator back in service between concourse and Line 2 westbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63862</guid>
-            <pubDate>2026-03-06T11:00:06.44Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bayview: Elevator 55P2L out of service between west concourse and Line 4 centre platform while we perform maintenance. Elevator is expected to be back in service March 6, 2026.]]></title>
@@ -161,32 +147,11 @@
             <pubDate>2026-03-06T11:00:01.937Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Bayview: Elevator back in service between Bayview Ave east side entrance and west concourse.]]></title>
-            <description><![CDATA[Bayview: Elevator back in service between Bayview Ave east side entrance and west concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63860</guid>
-            <pubDate>2026-03-06T11:00:06.207Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Pioneer Village: Elevator 13S2L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 6, 2026.]]></title>
             <description><![CDATA[Pioneer Village: Elevator 13S2L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 6, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63859</guid>
             <pubDate>2026-03-06T11:00:02.437Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Pioneer Village: Elevator back in service between Steeles Ave W north side entrance and north concourse.]]></title>
-            <description><![CDATA[Pioneer Village: Elevator back in service between Steeles Ave W north side entrance and north concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63858</guid>
-            <pubDate>2026-03-06T11:00:06.003Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Ossington: Elevator back in service between concourse and Line 2 westbound platform.]]></title>
-            <description><![CDATA[Ossington: Elevator back in service between concourse and Line 2 westbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63856</guid>
-            <pubDate>2026-03-06T11:00:05.767Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B1E out of service from Line 2 platform to bus platform while we perform maintenance. Escalator is expected to be back in service July 11, 2026.]]></title>
@@ -231,25 +196,11 @@
             <pubDate>2026-03-06T10:30:01.847Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Finch West: Escalator back in service from concourse to Line 1 platform.]]></title>
-            <description><![CDATA[Finch West: Escalator back in service from concourse to Line 1 platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63784</guid>
-            <pubDate>2026-03-06T11:00:03.75Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Pioneer Village: Escalator 13S9E out of service from upper south concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></title>
             <description><![CDATA[Pioneer Village: Escalator 13S9E out of service from upper south concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63782</guid>
             <pubDate>2026-03-06T10:30:01.753Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator back in service from upper south concourse to lower south concourse.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator back in service from upper south concourse to lower south concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63781</guid>
-            <pubDate>2026-03-06T11:00:02.797Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S6E out of service from Dupont St south side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
