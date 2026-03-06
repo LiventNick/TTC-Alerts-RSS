@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 06 Mar 2026 23:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 23:44:37 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed at Castle Frank station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed at Castle Frank station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63918</guid>
+            <pubDate>2026-03-06T18:33:57.687Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></description>
@@ -19,6 +26,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63866</guid>
             <pubDate>2026-03-06T12:05:12.09Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 65 Parliament Regular service has resumed near Castle Frank Station at Bus Bay 1.]]></title>
+            <description><![CDATA[65 Parliament Regular service has resumed near Castle Frank Station at Bus Bay 1.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63919</guid>
+            <pubDate>2026-03-06T18:33:38.543Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 94 Wellesley Regular service has resumed near Castle Frank Station at Bus Bay 2.]]></title>
+            <description><![CDATA[94 Wellesley Regular service has resumed near Castle Frank Station at Bus Bay 2.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63920</guid>
+            <pubDate>2026-03-06T18:33:25.197Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -110,6 +131,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Coxwell: Elevator 11D1L out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Coxwell: Elevator 11D1L out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63921</guid>
+            <pubDate>2026-03-06T18:42:28.073Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Greenwood: Escalator 10D3E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></title>
