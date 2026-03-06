@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 06 Mar 2026 19:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 19:50:18 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
@@ -161,11 +161,11 @@
             <pubDate>2026-03-06T10:30:01.927Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance. Elevator is expected to be back in service March 6, 2026.]]></title>
-            <description><![CDATA[Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance. Elevator is expected to be back in service March 6, 2026.]]></description>
+            <title><![CDATA[♿ Greenwood: Elevator back in service Street to Concourse to Line 2 Kennedy Platform.]]></title>
+            <description><![CDATA[Greenwood: Elevator back in service Street to Concourse to Line 2 Kennedy Platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63863</guid>
-            <pubDate>2026-03-06T11:00:02.72Z</pubDate>
+            <pubDate>2026-03-06T14:40:06.71Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Pioneer Village: Elevator 13S2L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 6, 2026.]]></title>
