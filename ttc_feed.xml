@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 06 Mar 2026 10:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 10:59:22 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: No service between Main Street Station at Bay 7 and Coxwell Ave at Lower Gerrard St East due to a collision.]]></title>
+            <description><![CDATA[506 Carlton: No service between Main Street Station at Bay 7 and Coxwell Ave at Lower Gerrard St East due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63853</guid>
+            <pubDate>2026-03-06T05:57:29.187Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 73 Royal York: Detour via Highway 27 N, Finch Ave W and Martin Grove Rd due to a collision.]]></title>
+            <description><![CDATA[73 Royal York: Detour via Highway 27 N, Finch Ave W and Martin Grove Rd due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63852</guid>
+            <pubDate>2026-03-06T05:55:49.237Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 94 Wellesley: Detour via Harbord St, Bathurst St and Bloor St W due to a blocked road.]]></title>
+            <description><![CDATA[94 Wellesley: Detour via Harbord St, Bathurst St and Bloor St W due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63854</guid>
+            <pubDate>2026-03-06T05:57:50.32Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
