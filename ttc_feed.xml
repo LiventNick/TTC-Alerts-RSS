@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 05 Mar 2026 23:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 00:07:15 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Finch and Eglinton stations, starting 11 p.m., nightly Monday, March 2 to Thursday, March 5, due to planned tunnel work. Shuttle buses will operate.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63566</guid>
             <pubDate>2026-03-02T05:16:22.383Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays between Main Street and Woodbine stations while we fix a signal problem.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Delays between Main Street and Woodbine stations while we fix a signal problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63833</guid>
+            <pubDate>2026-03-05T18:51:35.983Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 5 Eglinton: No service between Don Valley and Eglinton stations while the maintainer fixes a mechanical problem. Shuttle buses are running between Don Valley and Eglinton.]]></title>
@@ -117,6 +124,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Kipling: Escalator 16B1E out of service from Line 2 platform to bus platform while we perform maintenance.]]></title>
+            <description><![CDATA[Kipling: Escalator 16B1E out of service from Line 2 platform to bus platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63836</guid>
+            <pubDate>2026-03-05T18:57:38.773Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Cedarvale: Escalator 4S3E out of service from Line 1 Vaughan platform to Eglinton Ave W entrance due to an investigation. Escalator is expected to be back in service March 5, 2026.]]></title>
+            <description><![CDATA[Cedarvale: Escalator 4S3E out of service from Line 1 Vaughan platform to Eglinton Ave W entrance due to an investigation. Escalator is expected to be back in service March 5, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63835</guid>
+            <pubDate>2026-03-05T18:55:00.883Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bloor-Yonge: Escalator 3D10E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[Bloor-Yonge: Escalator 3D10E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63834</guid>
+            <pubDate>2026-03-05T18:54:02.96Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></title>
