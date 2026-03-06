@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 06 Mar 2026 14:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 15:39:09 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,18 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: No service between Rowntree Mills and Signet Arrow stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[Line 6 Finch West: No service between Rowntree Mills and Signet Arrow stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way.]]></description>
+            <title><![CDATA[🚇 Line 5 Eglinton: No service between Sloane and Pharmacy stations due to an LRT/Auto Collision. Shuttle buses are on the way.]]></title>
+            <description><![CDATA[Line 5 Eglinton: No service between Sloane and Pharmacy stations due to an LRT/Auto Collision. Shuttle buses are on the way.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63868</guid>
+            <pubDate>2026-03-06T10:22:04.087Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed between Rowntree Mills and Signet Arrow stations.]]></title>
+            <description><![CDATA[Line 6 Finch West Regular service has resumed between Rowntree Mills and Signet Arrow stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63867</guid>
-            <pubDate>2026-03-06T09:45:27.777Z</pubDate>
+            <pubDate>2026-03-06T10:29:52.8Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Eglinton Ave W, Ronald Ave, Schell Ave and Caledonia Rd due to construction.]]></title>
@@ -119,6 +126,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Glencairn: Escalator 5S4E out of service from Glencairn Ave north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></title>
+            <description><![CDATA[Glencairn: Escalator 5S4E out of service from Glencairn Ave north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63865</guid>
+            <pubDate>2026-03-06T10:30:01.927Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Glencairn: Escalator 5S3E out of service from concourse to Glencairn Ave south side entrance while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></title>
             <description><![CDATA[Glencairn: Escalator 5S3E out of service from concourse to Glencairn Ave south side entrance while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -189,11 +203,25 @@
             <pubDate>2026-03-06T07:41:11.693Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Finch West: Escalator 11S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></title>
+            <description><![CDATA[Finch West: Escalator 11S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63786</guid>
+            <pubDate>2026-03-06T10:30:01.847Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Finch West: Escalator 11S3E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></title>
             <description><![CDATA[Finch West: Escalator 11S3E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63784</guid>
             <pubDate>2026-03-06T07:00:01.83Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Pioneer Village: Escalator 13S9E out of service from upper south concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></title>
+            <description><![CDATA[Pioneer Village: Escalator 13S9E out of service from upper south concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63782</guid>
+            <pubDate>2026-03-06T10:30:01.753Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Pioneer Village: Escalator 13S8E out of service from upper south concourse to lower south concourse while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></title>
