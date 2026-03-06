@@ -4,21 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 06 Mar 2026 07:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 08:51:11 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned tunnel work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: There is no subway service between Finch and Eglinton stations due to planned tunnel work. Shuttle buses are running.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63575</guid>
-            <pubDate>2026-03-05T23:00:01.867Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Keele and St George stations due to planned track work. Shuttle buses are running.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63570</guid>
-            <pubDate>2026-03-05T23:59:01.887Z</pubDate>
+            <guid isPermaLink="false">63850</guid>
+            <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
