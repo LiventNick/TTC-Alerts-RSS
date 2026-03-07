@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 02:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 04:15:57 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63851</guid>
+            <pubDate>2026-03-06T23:00:03.317Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 21 Brimley: Detour via Eglinton Ave E, Danforth Rd and Wetherby Dr due to a collision.]]></title>
-            <description><![CDATA[21 Brimley: Detour via Eglinton Ave E, Danforth Rd and Wetherby Dr due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63940</guid>
-            <pubDate>2026-03-06T20:11:57.287Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
@@ -42,32 +42,11 @@
             <pubDate>2026-03-06T19:21:36.5Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 86 Scarborough: Detour westbound via Brimley Rd, Danforth Rd and Midland Ave due to a collision.]]></title>
-            <description><![CDATA[86 Scarborough: Detour westbound via Brimley Rd, Danforth Rd and Midland Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63939</guid>
-            <pubDate>2026-03-06T20:06:08.997Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 105 Dufferin North: Detour northbound via Dolomite Dr, Magnetic Dr, Alness St and Dolomite Dr due to a collision.]]></title>
             <description><![CDATA[105 Dufferin North: Detour northbound via Dolomite Dr, Magnetic Dr, Alness St and Dolomite Dr due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63935</guid>
             <pubDate>2026-03-06T19:48:09.02Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 116 Morningside: Detour westbound via Brimley Rd, Danforth Rd and Midland Ave due to a collision.]]></title>
-            <description><![CDATA[116 Morningside: Detour westbound via Brimley Rd, Danforth Rd and Midland Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63938</guid>
-            <pubDate>2026-03-06T20:06:08.23Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 905 Eglinton East Express: Detour westbound via Brimley Rd, Danforth Rd and Midland Ave due to a collision.]]></title>
-            <description><![CDATA[905 Eglinton East Express: Detour westbound via Brimley Rd, Danforth Rd and Midland Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63937</guid>
-            <pubDate>2026-03-06T20:06:07.48Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 960 Steeles West Express: Detour westbound via Dufferin St due to a collision.]]></title>
@@ -173,20 +152,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Sherbourne: Elevator 4D2L out of service between concourse and Line 2 Kipling (westbound) due to a technical problem.]]></title>
-            <description><![CDATA[Sherbourne: Elevator 4D2L out of service between concourse and Line 2 Kipling (westbound) due to a technical problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63924</guid>
-            <pubDate>2026-03-06T19:12:32.34Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Sherbourne: Elevator back in service between Sherbourne Street entrance, concourse and Line 2 Kennedy (eastbound).]]></title>
-            <description><![CDATA[Sherbourne: Elevator back in service between Sherbourne Street entrance, concourse and Line 2 Kennedy (eastbound).]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63922</guid>
-            <pubDate>2026-03-06T21:38:24.453Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Greenwood: Escalator 10D3E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 6, 2026.]]></title>
