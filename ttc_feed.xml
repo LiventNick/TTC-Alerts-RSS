@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 11:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 11:56:47 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: Delays northbound at College station while we respond to an emergency alarm.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: Delays northbound at College station while we respond to an emergency alarm.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63963</guid>
-            <pubDate>2026-03-07T06:41:50.51Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: Delays northbound from Lawrence West to Vaughan stations while we fix a brake problem.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: Delays northbound from Lawrence West to Vaughan stations while we fix a brake problem.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed northbound from Lawrence West to Vaughan stations.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed northbound from Lawrence West to Vaughan stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63962</guid>
-            <pubDate>2026-03-07T06:36:18.897Z</pubDate>
+            <pubDate>2026-03-07T06:56:00.887Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed northbound at College station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed northbound at College station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63963</guid>
+            <pubDate>2026-03-07T06:43:33.857Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
