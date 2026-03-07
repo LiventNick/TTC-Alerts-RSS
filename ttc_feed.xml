@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 23:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 23:58:31 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,11 +21,25 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚌 29 Dufferin: Detour via Dundas St W, Ossington Ave and Queen St W due to a blocked road.]]></title>
+            <description><![CDATA[29 Dufferin: Detour via Dundas St W, Ossington Ave and Queen St W due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63977</guid>
+            <pubDate>2026-03-07T18:48:14.7Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
             <description><![CDATA[Buses operating to Caledonia Station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63866</guid>
             <pubDate>2026-03-06T12:05:12.09Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 929 Dufferin Express: Detour via Dundas St W, Ossington Ave and Queen St W due to a blocked road.]]></title>
+            <description><![CDATA[929 Dufferin Express: Detour via Dundas St W, Ossington Ave and Queen St W due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63978</guid>
+            <pubDate>2026-03-07T18:48:15.263Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
