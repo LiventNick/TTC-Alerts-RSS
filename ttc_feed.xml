@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 07:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 07:58:57 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,25 +21,11 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King Regular service has resumed westbound near King St West at Peter St.]]></title>
-            <description><![CDATA[504 King Regular service has resumed westbound near King St West at Peter St.]]></description>
+            <title><![CDATA[🚋 506 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we complete maintenance work.]]></title>
+            <description><![CDATA[506 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we complete maintenance work.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63949</guid>
-            <pubDate>2026-03-07T02:32:08.157Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King Regular service has resumed westbound near King St West at Peter St.]]></title>
-            <description><![CDATA[504 King Regular service has resumed westbound near King St West at Peter St.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63950</guid>
-            <pubDate>2026-03-07T02:32:04.827Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 510 Spadina Regular service has resumed near Spadina Station Streetcar Platform.]]></title>
-            <description><![CDATA[510 Spadina Regular service has resumed near Spadina Station Streetcar Platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63947</guid>
-            <pubDate>2026-03-07T02:37:52.417Z</pubDate>
+            <guid isPermaLink="false">63955</guid>
+            <pubDate>2026-03-07T02:54:57.293Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
@@ -61,13 +47,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63928</guid>
             <pubDate>2026-03-07T02:31:52.95Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 353 Steeles Regular service has resumed near Steeles Ave West at Alness St.]]></title>
-            <description><![CDATA[353 Steeles Regular service has resumed near Steeles Ave West at Alness St.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63953</guid>
-            <pubDate>2026-03-07T02:41:37.437Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 353 Steeles: Detour via Dufferin St and Alness St due to a blocked road.]]></title>
