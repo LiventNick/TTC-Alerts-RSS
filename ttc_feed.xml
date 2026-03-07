@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 07:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 08:42:35 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,13 +21,6 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we complete maintenance work.]]></title>
-            <description><![CDATA[506 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we complete maintenance work.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63955</guid>
-            <pubDate>2026-03-07T02:54:57.293Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
             <description><![CDATA[Buses operating to Caledonia Station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -40,20 +33,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63927</guid>
             <pubDate>2026-03-06T19:21:36.5Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 60 Steeles West: Detour westbound via Dufferin St due to a collision.]]></title>
-            <description><![CDATA[60 Steeles West: Detour westbound via Dufferin St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63928</guid>
-            <pubDate>2026-03-07T02:31:52.95Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 353 Steeles: Detour via Dufferin St and Alness St due to a blocked road.]]></title>
-            <description><![CDATA[353 Steeles: Detour via Dufferin St and Alness St due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63954</guid>
-            <pubDate>2026-03-07T02:41:28.733Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 960 Steeles West Express: Detour westbound via Dufferin St due to a collision.]]></title>
