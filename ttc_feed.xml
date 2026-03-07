@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 07:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 07:45:07 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,25 +21,25 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King: Detour westbound via York St, Queen St W and Spadina Ave due to a collision.]]></title>
-            <description><![CDATA[504 King: Detour westbound via York St, Queen St W and Spadina Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63950</guid>
-            <pubDate>2026-03-07T00:58:43.05Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King: Detour westbound via York St, Queen St W and Spadina Ave due to a collision.]]></title>
-            <description><![CDATA[504 King: Detour westbound via York St, Queen St W and Spadina Ave due to a collision.]]></description>
+            <title><![CDATA[🚋 504 King Regular service has resumed westbound near King St West at Peter St.]]></title>
+            <description><![CDATA[504 King Regular service has resumed westbound near King St West at Peter St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63949</guid>
-            <pubDate>2026-03-07T00:35:11.913Z</pubDate>
+            <pubDate>2026-03-07T02:32:08.157Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 510 Spadina: Detour via Spadina Ave, College St and Bathurst Station due to a blocked track.]]></title>
-            <description><![CDATA[510 Spadina: Detour via Spadina Ave, College St and Bathurst Station due to a blocked track.]]></description>
+            <title><![CDATA[🚋 504 King Regular service has resumed westbound near King St West at Peter St.]]></title>
+            <description><![CDATA[504 King Regular service has resumed westbound near King St West at Peter St.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63950</guid>
+            <pubDate>2026-03-07T02:32:04.827Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 510 Spadina Regular service has resumed near Spadina Station Streetcar Platform.]]></title>
+            <description><![CDATA[510 Spadina Regular service has resumed near Spadina Station Streetcar Platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63947</guid>
-            <pubDate>2026-03-07T00:19:53.967Z</pubDate>
+            <pubDate>2026-03-07T02:37:52.417Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
@@ -60,14 +60,21 @@
             <description><![CDATA[60 Steeles West: Detour westbound via Dufferin St due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63928</guid>
-            <pubDate>2026-03-07T01:56:06.31Z</pubDate>
+            <pubDate>2026-03-07T02:31:52.95Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 105 Dufferin North: Detour northbound via Dolomite Dr, Magnetic Dr, Alness St and Dolomite Dr due to a collision.]]></title>
-            <description><![CDATA[105 Dufferin North: Detour northbound via Dolomite Dr, Magnetic Dr, Alness St and Dolomite Dr due to a collision.]]></description>
+            <title><![CDATA[🚌 353 Steeles Regular service has resumed near Steeles Ave West at Alness St.]]></title>
+            <description><![CDATA[353 Steeles Regular service has resumed near Steeles Ave West at Alness St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63935</guid>
-            <pubDate>2026-03-06T19:48:09.02Z</pubDate>
+            <guid isPermaLink="false">63953</guid>
+            <pubDate>2026-03-07T02:41:37.437Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 353 Steeles: Detour via Dufferin St and Alness St due to a blocked road.]]></title>
+            <description><![CDATA[353 Steeles: Detour via Dufferin St and Alness St due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63954</guid>
+            <pubDate>2026-03-07T02:41:28.733Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 960 Steeles West Express: Detour westbound via Dufferin St due to a collision.]]></title>
