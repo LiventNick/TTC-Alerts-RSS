@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 06:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 07:18:07 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed northbound at St George station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed northbound at St George station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63946</guid>
-            <pubDate>2026-03-07T01:37:58.163Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -56,18 +49,18 @@
             <pubDate>2026-03-06T12:05:12.09Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 60 Steeles West: Detour westbound via Dufferin St due to a collision.]]></title>
-            <description><![CDATA[60 Steeles West: Detour westbound via Dufferin St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63928</guid>
-            <pubDate>2026-03-06T19:24:49.153Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 60 Steeles West: Detour eastbound via Alness St, Dolomite Dr and Dufferin St due to a collision.]]></title>
             <description><![CDATA[60 Steeles West: Detour eastbound via Alness St, Dolomite Dr and Dufferin St due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63927</guid>
             <pubDate>2026-03-06T19:21:36.5Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 60 Steeles West: Detour westbound via Dufferin St due to a collision.]]></title>
+            <description><![CDATA[60 Steeles West: Detour westbound via Dufferin St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63928</guid>
+            <pubDate>2026-03-07T01:56:06.31Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 105 Dufferin North: Detour northbound via Dolomite Dr, Magnetic Dr, Alness St and Dolomite Dr due to a collision.]]></title>
