@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 12:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 13:43:53 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at Eglinton station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at Eglinton station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63965</guid>
+            <pubDate>2026-03-07T08:30:32.713Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -19,6 +26,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed at Eglinton station.]]></title>
+            <description><![CDATA[Line 5 Eglinton Regular service has resumed at Eglinton station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63966</guid>
+            <pubDate>2026-03-07T08:30:14.103Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
@@ -140,18 +154,18 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63964</guid>
+            <pubDate>2026-03-07T08:07:31.61Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Dufferin: Elevator 6B3L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
             <description><![CDATA[Dufferin: Elevator 6B3L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63961</guid>
             <pubDate>2026-03-07T06:24:31.283Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Davisville: Elevator 17Y1L out of service between Davisville Ave south side entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Davisville: Elevator 17Y1L out of service between Davisville Ave south side entrance and concourse while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63960</guid>
-            <pubDate>2026-03-07T06:23:47.273Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Pape: Elevator 8D1L out of service between Pape Ave entrance, concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 7, 2026.]]></title>
