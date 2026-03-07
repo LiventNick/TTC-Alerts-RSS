@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 13:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 14:01:10 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at Eglinton station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at Eglinton station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63965</guid>
-            <pubDate>2026-03-07T08:30:32.713Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -28,11 +21,11 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed at Eglinton station.]]></title>
-            <description><![CDATA[Line 5 Eglinton Regular service has resumed at Eglinton station.]]></description>
+            <title><![CDATA[🚋 505 Dundas: Delays westbound near Dundas St East at Ontario St while we respond to a medical emergency.]]></title>
+            <description><![CDATA[505 Dundas: Delays westbound near Dundas St East at Ontario St while we respond to a medical emergency.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63966</guid>
-            <pubDate>2026-03-07T08:30:14.103Z</pubDate>
+            <guid isPermaLink="false">63967</guid>
+            <pubDate>2026-03-07T08:46:31.483Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
