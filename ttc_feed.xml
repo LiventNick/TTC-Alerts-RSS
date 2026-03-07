@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 20:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 20:50:22 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -117,6 +117,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Davisville: Elevator back in service between concourse and Line 1 northbound platform.]]></title>
+            <description><![CDATA[Davisville: Elevator back in service between concourse and Line 1 northbound platform.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63975</guid>
+            <pubDate>2026-03-07T15:39:05.953Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Elevator 23Y1L out of service between concourse and Line 1 northbound platform while we perform maintenance.]]></title>
