@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 17:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 18:35:46 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -26,27 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63866</guid>
             <pubDate>2026-03-06T12:05:12.09Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 60 Steeles West: Detour eastbound via Alness St, Dolomite Dr and Dufferin St due to a collision.]]></title>
-            <description><![CDATA[60 Steeles West: Detour eastbound via Alness St, Dolomite Dr and Dufferin St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63927</guid>
-            <pubDate>2026-03-06T19:21:36.5Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 960 Steeles West Express: Detour westbound via Dufferin St due to a collision.]]></title>
-            <description><![CDATA[960 Steeles West Express: Detour westbound via Dufferin St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63929</guid>
-            <pubDate>2026-03-06T19:24:49.947Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 960 Steeles West Express: Detour eastbound via Alness St, Dolomite Dr and Dufferin St due to a collision.]]></title>
-            <description><![CDATA[960 Steeles West Express: Detour eastbound via Alness St, Dolomite Dr and Dufferin St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63926</guid>
-            <pubDate>2026-03-06T19:21:35.58Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
