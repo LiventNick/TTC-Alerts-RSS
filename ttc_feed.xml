@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 17:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 17:34:49 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,13 +21,6 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 25 Don Mills Regular service has resumed near Freshmeadow Dr at Don Mills Rd.]]></title>
-            <description><![CDATA[25 Don Mills Regular service has resumed near Freshmeadow Dr at Don Mills Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63969</guid>
-            <pubDate>2026-03-07T11:52:32.807Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
             <description><![CDATA[Buses operating to Caledonia Station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -40,13 +33,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63927</guid>
             <pubDate>2026-03-06T19:21:36.5Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 925 Don Mills Express Regular service has resumed near Freshmeadow Dr at Don Mills Rd.]]></title>
-            <description><![CDATA[925 Don Mills Express Regular service has resumed near Freshmeadow Dr at Don Mills Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63970</guid>
-            <pubDate>2026-03-07T11:52:25.977Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 960 Steeles West Express: Detour westbound via Dufferin St due to a collision.]]></title>
@@ -152,6 +138,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ North York Centre: Elevator 23Y1L out of service between concourse and Line 1 northbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[North York Centre: Elevator 23Y1L out of service between concourse and Line 1 northbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63971</guid>
+            <pubDate>2026-03-07T12:17:05.387Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></title>
