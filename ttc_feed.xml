@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 15:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 16:00:52 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -138,6 +138,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Pape: Elevator back in service between Pape Ave entrance, concourse and Line 2 westbound platform.]]></title>
+            <description><![CDATA[Pape: Elevator back in service between Pape Ave entrance, concourse and Line 2 westbound platform.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63968</guid>
+            <pubDate>2026-03-07T10:58:31.19Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance.]]></title>
