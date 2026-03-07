@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 07 Mar 2026 09:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 09:59:31 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: Detour eastbound via Dundas St E, Broadview Ave and Gerrard St E while we deal with a disruptive customer.]]></title>
+            <description><![CDATA[506 Carlton: Detour eastbound via Dundas St E, Broadview Ave and Gerrard St E while we deal with a disruptive customer.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63956</guid>
+            <pubDate>2026-03-07T04:52:17.71Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 47 Lansdowne: Detour northbound via Rogers Rd, Keele St and Eglinton Ave W due to construction.]]></title>
