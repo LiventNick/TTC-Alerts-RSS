@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 09:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 09:42:28 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,32 +21,32 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: No service between O'Connor and Kennedy stations while the maintainer fixes a switch problem.]]></title>
+            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed between O'Connor and Kennedy stations.]]></title>
             <description><![CDATA[Turning back from O'Connor.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63998</guid>
-            <pubDate>2026-03-07T22:26:25.517Z</pubDate>
+            <pubDate>2026-03-08T05:36:57.76Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: Delays between High Park Loop and College St at Spadina Ave due to construction.]]></title>
+            <title><![CDATA[🚋 506 Carlton Regular service has resumed between High Park Loop and College St at Spadina Ave.]]></title>
             <description><![CDATA[Delay of up to 20 minutes due to construction on the route.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63992</guid>
-            <pubDate>2026-03-07T21:10:12.573Z</pubDate>
+            <pubDate>2026-03-08T05:34:36.577Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 29 Dufferin: Detour via Dundas St W, Shaw St and King St W due to a collision.]]></title>
-            <description><![CDATA[29 Dufferin: Detour via Dundas St W, Shaw St and King St W due to a collision.]]></description>
+            <title><![CDATA[🚌 29 Dufferin Regular service has resumed near Dufferin St at Queen St West.]]></title>
+            <description><![CDATA[29 Dufferin Regular service has resumed near Dufferin St at Queen St West.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63977</guid>
-            <pubDate>2026-03-07T20:29:09.357Z</pubDate>
+            <pubDate>2026-03-08T05:35:13.183Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 80 Queensway: Detour westbound via Windermere Ave due to construction.]]></title>
-            <description><![CDATA[80 Queensway: Detour westbound via Windermere Ave due to construction.]]></description>
+            <title><![CDATA[🚌 80 Queensway Regular service has resumed westbound from The Queensway at Windermere Ave West Side to Opposite 125 The Queensway.]]></title>
+            <description><![CDATA[80 Queensway Regular service has resumed westbound from The Queensway at Windermere Ave West Side to Opposite 125 The Queensway.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63993</guid>
-            <pubDate>2026-03-07T21:23:34.717Z</pubDate>
+            <pubDate>2026-03-08T05:35:30.623Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
