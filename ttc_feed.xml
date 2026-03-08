@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 02:52:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 04:43:45 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Broadview and Kennedy stations due to a power failure. Shuttle buses are running between Broadview and Kennedy.]]></title>
+            <description><![CDATA[OPG power outage. Stations closed in the area and surface routes including shuttles buses, servicing outside stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63996</guid>
+            <pubDate>2026-03-07T22:29:03.333Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -21,6 +28,13 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 5 Eglinton: No service between O'Connor and Kennedy stations while the maintainer fixes a switch problem.]]></title>
+            <description><![CDATA[Turning back from O'Connor.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63998</guid>
+            <pubDate>2026-03-07T22:26:25.517Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 501 Queen: Delays near Queen St East at Leslie St while we complete maintenance work.]]></title>
             <description><![CDATA[501 Queen: Delays near Queen St East at Leslie St while we complete maintenance work.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -28,18 +42,18 @@
             <pubDate>2026-03-07T21:49:50.3Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 506 Carlton: Delays between Main Street Station at Bay 7 and Gerrard St East at Broadview Ave due to a power failure.]]></title>
+            <description><![CDATA[OPG power outage.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63997</guid>
+            <pubDate>2026-03-07T22:15:42.97Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 506 Carlton: Delays between High Park Loop and College St at Spadina Ave due to construction.]]></title>
             <description><![CDATA[Delay of up to 20 minutes due to construction on the route.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63992</guid>
             <pubDate>2026-03-07T21:10:12.573Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 12 Kingston Rd: Detour via St Clair Ave E, Andrew Ave and Minerva Ave due to a collision.]]></title>
-            <description><![CDATA[12 Kingston Rd: Detour via St Clair Ave E, Andrew Ave and Minerva Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63987</guid>
-            <pubDate>2026-03-07T20:27:47.52Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 29 Dufferin: Detour via Dundas St W, Shaw St and King St W due to a collision.]]></title>
@@ -61,34 +75,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63993</guid>
             <pubDate>2026-03-07T21:23:34.717Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 96 Wilson: Detour westbound via William R Allen Rd, Sheppard Ave W and Keele St due to a watermain break.]]></title>
-            <description><![CDATA[96 Wilson: Detour westbound via William R Allen Rd, Sheppard Ave W and Keele St due to a watermain break.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63988</guid>
-            <pubDate>2026-03-07T20:36:41.237Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 118 Thistle Down: Detour via Dufferin St, Highway 401 and Keele St due to a road closure.]]></title>
-            <description><![CDATA[Due to flooding.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63991</guid>
-            <pubDate>2026-03-07T20:54:48.99Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 120 Calvington: Detour via William R Allen Rd, Sheppard Ave W and Keele St due to a watermain break.]]></title>
-            <description><![CDATA[120 Calvington: Detour via William R Allen Rd, Sheppard Ave W and Keele St due to a watermain break.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63990</guid>
-            <pubDate>2026-03-07T20:36:42.817Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 165 Weston Rd North: Detour via William R Allen Rd, Sheppard Ave W and Keele St due to a watermain break.]]></title>
-            <description><![CDATA[165 Weston Rd North: Detour via William R Allen Rd, Sheppard Ave W and Keele St due to a watermain break.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63989</guid>
-            <pubDate>2026-03-07T20:36:42.033Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
