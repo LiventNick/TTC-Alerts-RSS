@@ -4,21 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 05:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 06:07:15 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed northbound at Wellesley station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed northbound at Wellesley station.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Keele and Kennedy stations.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Keele and Kennedy stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64002</guid>
-            <pubDate>2026-03-08T00:18:24.373Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed eastbound at Bathurst station.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed eastbound at Bathurst station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64003</guid>
-            <pubDate>2026-03-08T00:21:34.983Z</pubDate>
+            <guid isPermaLink="false">64005</guid>
+            <pubDate>2026-03-08T01:03:35.903Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Broadview and Kennedy stations due to a power failure. Shuttle buses are running between Broadview and Kennedy.]]></title>
@@ -40,6 +33,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays westbound at Spadina station as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Delays westbound at Spadina station as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64004</guid>
+            <pubDate>2026-03-08T00:57:57.323Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 5 Eglinton: No service between O'Connor and Kennedy stations while the maintainer fixes a switch problem.]]></title>
@@ -89,13 +89,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63993</guid>
             <pubDate>2026-03-07T21:23:34.717Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 130 Middlefield: Detour northbound via Brimley Rd, Pitfield Rd and Mccowan Rd due to a collision.]]></title>
-            <description><![CDATA[130 Middlefield: Detour northbound via Brimley Rd, Pitfield Rd and Mccowan Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64000</guid>
-            <pubDate>2026-03-08T00:13:00.637Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 131 Nugget: Detour eastbound via Brimley Rd and Sheppard Ave E due to a collision.]]></title>
