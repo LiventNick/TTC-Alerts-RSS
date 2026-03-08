@@ -4,22 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 12:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 13:40:42 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed northbound at Downsview Park station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed northbound at Downsview Park station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64019</guid>
-            <pubDate>2026-03-08T08:48:41.427Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: No service southbound from Sheppard West to Wilson stations while we fix a mechanical problem. Shuttle buses are running from Sheppard West to Wilson.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: No service southbound from Sheppard West to Wilson stations while we fix a mechanical problem. Shuttle buses are running from Sheppard West to Wilson.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64017</guid>
-            <pubDate>2026-03-08T08:23:17.263Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -33,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 41 Keele: Detour via Falstaff Ave, Jane St and Wilson Ave due to police activity.]]></title>
+            <description><![CDATA[41 Keele: Detour via Falstaff Ave, Jane St and Wilson Ave due to police activity.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64020</guid>
+            <pubDate>2026-03-08T09:13:44.87Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
