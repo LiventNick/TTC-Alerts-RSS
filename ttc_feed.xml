@@ -4,22 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 06:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 06:59:57 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Keele and Kennedy stations.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Keele and Kennedy stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64005</guid>
-            <pubDate>2026-03-08T01:03:35.903Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Broadview and Kennedy stations due to a power failure. Shuttle buses are running between Broadview and Kennedy.]]></title>
-            <description><![CDATA[OPG power outage. Stations closed in the area and surface routes including shuttles buses, servicing outside stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63996</guid>
-            <pubDate>2026-03-07T22:29:03.333Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -35,13 +21,6 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays westbound at Spadina station as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Delays westbound at Spadina station as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64004</guid>
-            <pubDate>2026-03-08T00:57:57.323Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚇 Line 5 Eglinton: No service between O'Connor and Kennedy stations while the maintainer fixes a switch problem.]]></title>
             <description><![CDATA[Turning back from O'Connor.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -49,11 +28,11 @@
             <pubDate>2026-03-07T22:26:25.517Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Delays near Queen St East at Leslie St while we complete maintenance work.]]></title>
-            <description><![CDATA[501 Queen: Delays near Queen St East at Leslie St while we complete maintenance work.]]></description>
+            <title><![CDATA[🚋 501 Queen Regular service has resumed near Queen St East at Leslie St.]]></title>
+            <description><![CDATA[501 Queen Regular service has resumed near Queen St East at Leslie St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63994</guid>
-            <pubDate>2026-03-07T21:49:50.3Z</pubDate>
+            <pubDate>2026-03-08T01:56:06.893Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 506 Carlton: Delays between Main Street Station at Bay 7 and Gerrard St East at Broadview Ave due to a power failure.]]></title>
@@ -89,13 +68,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63993</guid>
             <pubDate>2026-03-07T21:23:34.717Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 131 Nugget: Detour eastbound via Brimley Rd and Sheppard Ave E due to a collision.]]></title>
-            <description><![CDATA[131 Nugget: Detour eastbound via Brimley Rd and Sheppard Ave E due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64001</guid>
-            <pubDate>2026-03-08T00:15:20.383Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
