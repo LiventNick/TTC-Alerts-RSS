@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 19:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 20:28:31 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed eastbound at Donlands station.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed eastbound at Donlands station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64031</guid>
-            <pubDate>2026-03-08T15:39:24.507Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -33,6 +26,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64028</guid>
             <pubDate>2026-03-08T13:13:21.027Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton Regular service has resumed westbound near College St at Ossington Ave.]]></title>
+            <description><![CDATA[506 Carlton Regular service has resumed westbound near College St at Ossington Ave.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64032</guid>
+            <pubDate>2026-03-08T16:16:01.94Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 511 Bathurst: Detour northbound via King St W, Spadina Ave and Queen St W due to a collision.]]></title>
+            <description><![CDATA[511 Bathurst: Detour northbound via King St W, Spadina Ave and Queen St W due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64033</guid>
+            <pubDate>2026-03-08T16:16:06.957Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 131 Nugget: Detour via Morningside Ave and Sewells Rd due to a blocked road.]]></title>
