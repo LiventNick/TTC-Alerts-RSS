@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 19:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 19:33:25 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -159,13 +159,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63964</guid>
             <pubDate>2026-03-07T08:07:31.61Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Wellesley: Elevator back in service between Wellesley St entrance to Line 1 northbound platform.]]></title>
-            <description><![CDATA[Wellesley: Elevator back in service between Wellesley St entrance to Line 1 northbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63934</guid>
-            <pubDate>2026-03-08T15:00:00.52Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Osgoode: Escalator 5Y1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 8, 2026.]]></title>
