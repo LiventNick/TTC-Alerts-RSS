@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 13:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 14:02:13 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed at Dufferin station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed at Dufferin station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64021</guid>
+            <pubDate>2026-03-08T09:49:46.737Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -154,11 +161,18 @@
             <pubDate>2026-03-07T08:07:31.61Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Wellesley: Elevator 12Y1L out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 8, 2026.]]></title>
-            <description><![CDATA[Wellesley: Elevator 12Y1L out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 8, 2026.]]></description>
+            <title><![CDATA[♿ Wellesley: Elevator 12Y2L out of service between Wellesley St entrance to Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 8, 2026.]]></title>
+            <description><![CDATA[Wellesley: Elevator 12Y2L out of service between Wellesley St entrance to Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 8, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63934</guid>
+            <pubDate>2026-03-08T10:00:01.563Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Wellesley: Elevator back in service between Wellesley St entrance to Line 1 southbound platform.]]></title>
+            <description><![CDATA[Wellesley: Elevator back in service between Wellesley St entrance to Line 1 southbound platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63932</guid>
-            <pubDate>2026-03-08T06:00:03.23Z</pubDate>
+            <pubDate>2026-03-08T10:00:00.907Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Osgoode: Escalator 5Y1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 8, 2026.]]></title>
