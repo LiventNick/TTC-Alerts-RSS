@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 23:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 23:49:05 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Ossington and Broadview stations as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: No service between Ossington and Broadview stations as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64038</guid>
+            <pubDate>2026-03-08T19:43:49.51Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -21,11 +28,11 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: Delays near Dundas St West at University Ave - St Patrick Station due to an event.]]></title>
-            <description><![CDATA[505 Dundas: Delays near Dundas St West at University Ave - St Patrick Station due to an event.]]></description>
+            <title><![CDATA[🚋 505 Dundas Regular service has resumed near Dundas St West at University Ave - St Patrick Station.]]></title>
+            <description><![CDATA[505 Dundas Regular service has resumed near Dundas St West at University Ave - St Patrick Station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64028</guid>
-            <pubDate>2026-03-08T13:13:21.027Z</pubDate>
+            <pubDate>2026-03-08T19:41:06.773Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 41 Keele: Detour northbound via Scott Rd and Dunraven Dr due to a collision.]]></title>
