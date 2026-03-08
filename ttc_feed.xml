@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 16:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 16:57:30 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Eglinton Ave W, Chaplin Cres, Roselawn Ave and Bathurst St due to a blocked road.]]></title>
+            <description><![CDATA[14 Glencairn: Detour eastbound via Eglinton Ave W, Chaplin Cres, Roselawn Ave and Bathurst St due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64026</guid>
+            <pubDate>2026-03-08T12:52:02.213Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 33 Forest Hill: Detour via Eglinton Ave W, Chaplin Cres and Roselawn Ave due to a blocked road.]]></title>
+            <description><![CDATA[33 Forest Hill using reverse routing due to illegally parked autos.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64027</guid>
+            <pubDate>2026-03-08T12:51:54.273Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
