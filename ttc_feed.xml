@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 06:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 07:38:41 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -26,20 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63998</guid>
             <pubDate>2026-03-07T22:26:25.517Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 501 Queen Regular service has resumed near Queen St East at Leslie St.]]></title>
-            <description><![CDATA[501 Queen Regular service has resumed near Queen St East at Leslie St.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63994</guid>
-            <pubDate>2026-03-08T01:56:06.893Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 506 Carlton: Delays between Main Street Station at Bay 7 and Gerrard St East at Broadview Ave due to a power failure.]]></title>
-            <description><![CDATA[OPG power outage.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63997</guid>
-            <pubDate>2026-03-07T22:15:42.97Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 506 Carlton: Delays between High Park Loop and College St at Spadina Ave due to construction.]]></title>
