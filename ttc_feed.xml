@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 10:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 10:41:29 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King: No service between Distillery Loop and King St East at Church St East Side due to a security incident.]]></title>
+            <description><![CDATA[504 King: No service between Distillery Loop and King St East at Church St East Side due to a security incident.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64008</guid>
+            <pubDate>2026-03-08T06:35:20.187Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -145,6 +152,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63964</guid>
             <pubDate>2026-03-07T08:07:31.61Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Wellesley: Elevator 12Y1L out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 8, 2026.]]></title>
+            <description><![CDATA[Wellesley: Elevator 12Y1L out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 8, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">63932</guid>
+            <pubDate>2026-03-08T06:00:03.23Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Osgoode: Escalator 5Y1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 8, 2026.]]></title>
