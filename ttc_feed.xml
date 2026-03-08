@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 20:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 21:25:29 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -26,20 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64028</guid>
             <pubDate>2026-03-08T13:13:21.027Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 511 Bathurst Regular service has resumed northbound from Bathurst St at King St West to Bathurst St at Queen St West.]]></title>
-            <description><![CDATA[511 Bathurst Regular service has resumed northbound from Bathurst St at King St West to Bathurst St at Queen St West.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64033</guid>
-            <pubDate>2026-03-08T16:46:30.53Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 131 Nugget Regular service has resumed near Morningside Ave at Morningview Trail.]]></title>
-            <description><![CDATA[131 Nugget Regular service has resumed near Morningside Ave at Morningview Trail.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64030</guid>
-            <pubDate>2026-03-08T16:44:46.87Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
