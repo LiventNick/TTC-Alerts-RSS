@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 11:00:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 11:32:07 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King: No service between Distillery Loop and King St East at Church St East Side due to a security incident.]]></title>
-            <description><![CDATA[504 King: No service between Distillery Loop and King St East at Church St East Side due to a security incident.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64008</guid>
-            <pubDate>2026-03-08T06:35:20.187Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -124,13 +117,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63995</guid>
             <pubDate>2026-03-07T21:51:45.367Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Woodbine: Elevator 12D1L out of service between Woodbine Ave east side entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Woodbine: Elevator 12D1L out of service between Woodbine Ave east side entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63979</guid>
-            <pubDate>2026-03-07T19:00:30.087Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Dennis: Elevator 2 out of service between bus platform and concourse while we perform maintenance.]]></title>
