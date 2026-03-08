@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 16:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 17:30:38 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 505 Dundas: Delays near Dundas St West at University Ave - St Patrick Station due to an event.]]></title>
+            <description><![CDATA[505 Dundas: Delays near Dundas St West at University Ave - St Patrick Station due to an event.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64028</guid>
+            <pubDate>2026-03-08T13:13:21.027Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Eglinton Ave W, Chaplin Cres, Roselawn Ave and Bathurst St due to a blocked road.]]></title>
