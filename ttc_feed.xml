@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 08 Mar 2026 15:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 15:52:34 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,11 +21,11 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way to operate between Finch West and Emery.]]></title>
-            <description><![CDATA[Line 6 Finch West: No service between Finch West and Tobermory stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way to operate between Finch West and Emery.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed between Finch West and Tobermory stations.]]></title>
+            <description><![CDATA[Line 6 Finch West Regular service has resumed between Finch West and Tobermory stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64024</guid>
-            <pubDate>2026-03-08T11:17:53.953Z</pubDate>
+            <pubDate>2026-03-08T11:41:29.013Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -117,13 +117,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Ossington: Elevator back in service between Ossington Ave entrance and bus platform, concourse and Line 2 eastbound platform.]]></title>
-            <description><![CDATA[Ossington: Elevator back in service between Ossington Ave entrance and bus platform, concourse and Line 2 eastbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64018</guid>
-            <pubDate>2026-03-08T11:29:38.43Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 3 out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.]]></title>
