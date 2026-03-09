@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 23:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 23:55:32 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -26,13 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64078</guid>
             <pubDate>2026-03-09T15:12:13.83Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 11 Bayview: Detour southbound via Blythwood Cres, Mount Pleasant Rd, Eglinton Ave W and Bayview Ave due to a collision.]]></title>
-            <description><![CDATA[11 Bayview: Detour southbound via Blythwood Cres, Mount Pleasant Rd, Eglinton Ave W and Bayview Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64092</guid>
-            <pubDate>2026-03-09T18:50:27.387Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -133,11 +126,11 @@
             <pubDate>2026-03-09T19:23:13.077Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform due to a technical problem.]]></title>
-            <description><![CDATA[St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform due to a technical problem.]]></description>
+            <title><![CDATA[♿ St George: Elevator back in service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform.]]></title>
+            <description><![CDATA[St George: Elevator back in service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64094</guid>
-            <pubDate>2026-03-09T19:21:45.863Z</pubDate>
+            <pubDate>2026-03-09T19:51:33.63Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S7E out of service from Dupont St north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
@@ -145,13 +138,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64079</guid>
             <pubDate>2026-03-09T14:44:55.113Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Cedarvale: Elevator back in service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform.]]></title>
-            <description><![CDATA[Cedarvale: Elevator back in service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64047</guid>
-            <pubDate>2026-03-09T19:36:41.203Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ TMU: Elevator out of service between Sankofa Square entrance, Line 1 Finch platform, and underpass while we perform maintenance.]]></title>
