@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 20:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 21:17:44 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between St Clair and King stations.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between St Clair and King stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64084</guid>
-            <pubDate>2026-03-09T16:34:00.59Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
@@ -21,11 +14,11 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King: No service between Front St East at Berkeley St and Berkeley St at King St East due to construction.]]></title>
+            <title><![CDATA[🚋 504 King Regular service has resumed between Front St East at Berkeley St and Berkeley St at King St East.]]></title>
             <description><![CDATA[No service along Berkley between Front and King, due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64068</guid>
-            <pubDate>2026-03-09T09:43:24.413Z</pubDate>
+            <pubDate>2026-03-09T17:12:16.817Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 506 Carlton: Detour eastbound via Elm St, Yonge St, Shuter St, Church Ave and Gerrard St E due to police activity.]]></title>
@@ -131,6 +124,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Jane: Elevator 12B2L out of service between concourse and Line 2 eastbound platform due to a technical problem.]]></title>
+            <description><![CDATA[Jane: Elevator 12B2L out of service between concourse and Line 2 eastbound platform due to a technical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64085</guid>
+            <pubDate>2026-03-09T16:45:54.027Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S7E out of service from Dupont St north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
