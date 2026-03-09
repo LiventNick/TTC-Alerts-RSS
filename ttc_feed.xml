@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 17:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 18:28:45 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64068</guid>
             <pubDate>2026-03-09T09:43:24.413Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: Detour eastbound via Elm St, Yonge St, Shuter St, Church Ave and Gerrard St E due to police activity.]]></title>
+            <description><![CDATA[506 Carlton: Detour eastbound via Elm St, Yonge St, Shuter St, Church Ave and Gerrard St E due to police activity.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64077</guid>
+            <pubDate>2026-03-09T13:48:15.617Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -112,11 +119,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Osgoode: Elevator 5Y1L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[Osgoode: Elevator 5Y1L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Pape: Elevator 8D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></title>
+            <description><![CDATA[Pape: Elevator 8D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64075</guid>
-            <pubDate>2026-03-09T12:47:20.423Z</pubDate>
+            <guid isPermaLink="false">64076</guid>
+            <pubDate>2026-03-09T13:46:32.363Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 9, 2026.]]></title>
@@ -145,13 +152,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64055</guid>
             <pubDate>2026-03-09T12:00:01.25Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Pape: Elevator 8D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Pape: Elevator 8D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64051</guid>
-            <pubDate>2026-03-09T06:23:39.983Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Cedarvale: Elevator 6 out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.]]></title>
