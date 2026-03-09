@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 22:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 23:37:05 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -126,11 +126,18 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Jane: Elevator 12B2L out of service between concourse and Line 2 eastbound platform due to a technical problem.]]></title>
-            <description><![CDATA[Jane: Elevator 12B2L out of service between concourse and Line 2 eastbound platform due to a technical problem.]]></description>
+            <title><![CDATA[♿ Eglinton: Elevator 5 out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.]]></title>
+            <description><![CDATA[Eglinton: Elevator 5 out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64085</guid>
-            <pubDate>2026-03-09T16:45:54.027Z</pubDate>
+            <guid isPermaLink="false">64095</guid>
+            <pubDate>2026-03-09T19:23:13.077Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform due to a technical problem.]]></title>
+            <description><![CDATA[St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform due to a technical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64094</guid>
+            <pubDate>2026-03-09T19:21:45.863Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S7E out of service from Dupont St north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
@@ -140,11 +147,11 @@
             <pubDate>2026-03-09T14:44:55.113Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Cedarvale: Elevator 6 out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[Cedarvale: Elevator 6 out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Cedarvale: Elevator back in service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform.]]></title>
+            <description><![CDATA[Cedarvale: Elevator back in service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64047</guid>
-            <pubDate>2026-03-09T02:52:38.36Z</pubDate>
+            <pubDate>2026-03-09T19:36:41.203Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ TMU: Elevator out of service between Sankofa Square entrance, Line 1 Finch platform, and underpass while we perform maintenance.]]></title>
@@ -159,13 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64029</guid>
             <pubDate>2026-03-08T14:37:50.47Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Eglinton: Elevator 3 out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[Eglinton: Elevator 3 out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63995</guid>
-            <pubDate>2026-03-07T21:51:45.367Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Dennis: Elevator 2 out of service between bus platform and concourse while we perform maintenance.]]></title>
