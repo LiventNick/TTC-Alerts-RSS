@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 19:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 19:57:27 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -133,13 +133,6 @@
             <pubDate>2026-03-09T14:44:55.113Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 9, 2026.]]></title>
-            <description><![CDATA[Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 9, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64060</guid>
-            <pubDate>2026-03-09T07:52:36.007Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Cedarvale: Elevator 6 out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.]]></title>
             <description><![CDATA[Cedarvale: Elevator 6 out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -173,20 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63976</guid>
             <pubDate>2026-03-07T18:01:29.747Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Yorkdale: Escalator 7S2E out of service from south concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></title>
-            <description><![CDATA[Yorkdale: Escalator 7S2E out of service from south concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63915</guid>
-            <pubDate>2026-03-09T10:30:00.7Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Highway 407: Escalator 14S2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></title>
-            <description><![CDATA[Highway 407: Escalator 14S2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63913</guid>
-            <pubDate>2026-03-09T07:00:03.11Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></title>
