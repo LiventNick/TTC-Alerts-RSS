@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 16:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 17:32:59 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -19,34 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64068</guid>
             <pubDate>2026-03-09T09:43:24.413Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 29 Dufferin: Detour southbound via Bloor St W and Dundas St W due to a collision.]]></title>
-            <description><![CDATA[29 Dufferin: Detour southbound via Bloor St W and Dundas St W due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64071</guid>
-            <pubDate>2026-03-09T11:45:14.537Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 46 Martin Grove Regular service has resumed northbound from Martin Grove Rd at Vulcan St to Martin Grove Rd at Rexdale Blvd.]]></title>
-            <description><![CDATA[46 Martin Grove Regular service has resumed northbound from Martin Grove Rd at Vulcan St to Martin Grove Rd at Rexdale Blvd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64070</guid>
-            <pubDate>2026-03-09T12:25:45.177Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 47 Lansdowne Regular service has resumed between Lansdowne Ave at Davenport Rd South Side and Lansdowne Ave at Dupont St.]]></title>
-            <description><![CDATA[47 Lansdowne Regular service has resumed between Lansdowne Ave at Davenport Rd South Side and Lansdowne Ave at Dupont St.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64073</guid>
-            <pubDate>2026-03-09T12:25:18.497Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 929 Dufferin Express: Detour southbound via Bloor St W and Dundas St W due to a collision.]]></title>
-            <description><![CDATA[929 Dufferin Express: Detour southbound via Bloor St W and Dundas St W due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64072</guid>
-            <pubDate>2026-03-09T11:45:15.443Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -138,6 +110,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Osgoode: Elevator 5Y1L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[Osgoode: Elevator 5Y1L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64075</guid>
+            <pubDate>2026-03-09T12:47:20.423Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bathurst: Elevator 3B1L out of service between Bathurst St east side entrance, concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 9, 2026.]]></title>
