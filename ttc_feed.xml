@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 06:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 07:17:39 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -110,6 +110,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Cedarvale: Elevator 6 out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[Cedarvale: Elevator 6 out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64047</guid>
+            <pubDate>2026-03-09T02:52:38.36Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ TMU: Elevator out of service between Sankofa Square entrance, Line 1 Finch platform, and underpass while we perform maintenance.]]></title>
