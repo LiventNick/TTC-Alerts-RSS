@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 03:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 05:04:33 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63850</guid>
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 129 Mccowan North: Detour southbound via Bur Oak Ave, Stonebridge Blvd and Wilfred Murison Ave due to a collision.]]></title>
-            <description><![CDATA[129 Mccowan North: Detour southbound via Bur Oak Ave, Stonebridge Blvd and Wilfred Murison Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64042</guid>
-            <pubDate>2026-03-08T21:37:29.617Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -119,13 +112,6 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Dundas West: Escalator 8B3E out of service from concourse to Dundas St W entrance and bus and Streetcar platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></title>
-            <description><![CDATA[Dundas West: Escalator 8B3E out of service from concourse to Dundas St W entrance and bus and Streetcar platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64043</guid>
-            <pubDate>2026-03-08T22:23:45.98Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ TMU: Elevator out of service between 10 Dundas St E entrance and Line 1 Finch platform while we perform maintenance.]]></title>
             <description><![CDATA[TMU: Elevator out of service between 10 Dundas St E entrance and Line 1 Finch platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -159,13 +145,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63964</guid>
             <pubDate>2026-03-07T08:07:31.61Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Osgoode: Escalator 5Y1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 8, 2026.]]></title>
-            <description><![CDATA[Osgoode: Escalator 5Y1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 8, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63908</guid>
-            <pubDate>2026-03-06T15:30:01.627Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service March 31, 2026.]]></title>
