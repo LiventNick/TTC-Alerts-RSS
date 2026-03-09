@@ -4,22 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 00:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 03:13:44 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: Delays southbound at St Clair West station while we fix a mechanical problem.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: Delays southbound at St Clair West station while we fix a mechanical problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64039</guid>
-            <pubDate>2026-03-08T20:00:24.993Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Ossington and Broadview stations.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Ossington and Broadview stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64038</guid>
-            <pubDate>2026-03-08T19:54:50.377Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
@@ -35,11 +21,11 @@
             <pubDate>2026-03-06T03:46:04.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 41 Keele: Detour northbound via Scott Rd and Dunraven Dr due to a collision.]]></title>
-            <description><![CDATA[41 Keele: Detour northbound via Scott Rd and Dunraven Dr due to a collision.]]></description>
+            <title><![CDATA[🚌 129 Mccowan North: Detour southbound via Bur Oak Ave, Stonebridge Blvd and Wilfred Murison Ave due to a collision.]]></title>
+            <description><![CDATA[129 Mccowan North: Detour southbound via Bur Oak Ave, Stonebridge Blvd and Wilfred Murison Ave due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64036</guid>
-            <pubDate>2026-03-08T18:39:38.917Z</pubDate>
+            <guid isPermaLink="false">64042</guid>
+            <pubDate>2026-03-08T21:37:29.617Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -133,11 +119,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Vaughan Metropolitan Centre: Elevator 15S2L out of service between Millway Ave west side entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Vaughan Metropolitan Centre: Elevator 15S2L out of service between Millway Ave west side entrance and concourse while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Dundas West: Escalator 8B3E out of service from concourse to Dundas St W entrance and bus and Streetcar platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></title>
+            <description><![CDATA[Dundas West: Escalator 8B3E out of service from concourse to Dundas St W entrance and bus and Streetcar platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64037</guid>
-            <pubDate>2026-03-08T19:24:05.5Z</pubDate>
+            <guid isPermaLink="false">64043</guid>
+            <pubDate>2026-03-08T22:23:45.98Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ TMU: Elevator out of service between 10 Dundas St E entrance and Line 1 Finch platform while we perform maintenance.]]></title>
