@@ -4,8 +4,29 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 12:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 13:46:30 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64061</guid>
+            <pubDate>2026-03-09T08:45:08.817Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 503 Kingston Rd: Detour westbound via Front St W and Sherbourne St due to construction.]]></title>
+            <description><![CDATA[503 replacement buses are diverting.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64067</guid>
+            <pubDate>2026-03-09T09:30:55.233Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King: No service between Front St East at Berkeley St and Berkeley St at King St East due to construction.]]></title>
+            <description><![CDATA[No service along Berkley between Front and King, due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64068</guid>
+            <pubDate>2026-03-09T09:43:24.413Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
             <description><![CDATA[Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></description>
