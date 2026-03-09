@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 13:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 14:38:15 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -14,18 +14,18 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 503 Kingston Rd: Detour westbound via Front St W and Sherbourne St due to construction.]]></title>
-            <description><![CDATA[503 replacement buses are diverting.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64067</guid>
-            <pubDate>2026-03-09T09:30:55.233Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚋 504 King: No service between Front St East at Berkeley St and Berkeley St at King St East due to construction.]]></title>
             <description><![CDATA[No service along Berkley between Front and King, due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64068</guid>
             <pubDate>2026-03-09T09:43:24.413Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 46 Martin Grove: Detour northbound via Belfield Rd, Highway 27 N and Rexdale Blvd due to a blocked road.]]></title>
+            <description><![CDATA[46 Martin Grove: Detour northbound via Belfield Rd, Highway 27 N and Rexdale Blvd due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64070</guid>
+            <pubDate>2026-03-09T10:01:50.57Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -140,6 +140,13 @@
             <pubDate>2026-03-09T07:17:10.94Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance. Elevator is expected to be back in service March 9, 2026.]]></title>
+            <description><![CDATA[Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance. Elevator is expected to be back in service March 9, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64054</guid>
+            <pubDate>2026-03-09T10:00:00.807Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Pape: Elevator 8D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
             <description><![CDATA[Pape: Elevator 8D2L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -182,11 +189,11 @@
             <pubDate>2026-03-07T18:01:29.747Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ North York Centre: Elevator 23Y1L out of service between concourse and Line 1 northbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[North York Centre: Elevator 23Y1L out of service between concourse and Line 1 northbound platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Yorkdale: Escalator 7S2E out of service from south concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></title>
+            <description><![CDATA[Yorkdale: Escalator 7S2E out of service from south concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63971</guid>
-            <pubDate>2026-03-07T12:17:05.387Z</pubDate>
+            <guid isPermaLink="false">63915</guid>
+            <pubDate>2026-03-09T10:30:00.7Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S1E out of service from Line 1 platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 9, 2026.]]></title>
