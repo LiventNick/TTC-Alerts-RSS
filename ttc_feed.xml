@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 22:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 22:59:39 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64078</guid>
             <pubDate>2026-03-09T15:12:13.83Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 11 Bayview: Detour southbound via Blythwood Cres, Mount Pleasant Rd, Eglinton Ave W and Bayview Ave due to a collision.]]></title>
+            <description><![CDATA[11 Bayview: Detour southbound via Blythwood Cres, Mount Pleasant Rd, Eglinton Ave W and Bayview Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64092</guid>
+            <pubDate>2026-03-09T18:50:27.387Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
