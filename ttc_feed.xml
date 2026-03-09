@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 21:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 21:50:21 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King Regular service has resumed between Front St East at Berkeley St and Berkeley St at King St East.]]></title>
-            <description><![CDATA[No service along Berkley between Front and King, due to construction.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64068</guid>
-            <pubDate>2026-03-09T17:12:16.817Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 506 Carlton: Detour eastbound via Elm St, Yonge St, Shuter St, Church Ave and Gerrard St E due to police activity.]]></title>
