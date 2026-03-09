@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 07:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 08:00:18 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Victoria Park and Kennedy stations due to planned track work. Shuttle buses are running.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63851</guid>
-            <pubDate>2026-03-06T23:00:03.317Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: Starting at 11 p.m. on Friday, March 6, there will be no subway service this weekend between Victoria Park and Kennedy stations due to planned track work. Shuttle buses will operate.]]></description>
@@ -110,6 +103,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Royal York: Elevator 14B1L out of service between Royal York Rd entrance and west concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Royal York: Elevator 14B1L out of service between Royal York Rd entrance and west concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64049</guid>
+            <pubDate>2026-03-09T03:44:57.36Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Cedarvale: Elevator 6 out of service between upper concourse, lower concourse, Line 1 northbound, and Line 5 centre platform while we perform maintenance.]]></title>
