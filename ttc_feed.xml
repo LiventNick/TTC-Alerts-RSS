@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 09 Mar 2026 23:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 02:10:50 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -14,18 +14,39 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: Detour eastbound via Elm St, Yonge St, Shuter St, Church Ave and Gerrard St E due to police activity.]]></title>
-            <description><![CDATA[506 Carlton: Detour eastbound via Elm St, Yonge St, Shuter St, Church Ave and Gerrard St E due to police activity.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64077</guid>
-            <pubDate>2026-03-09T13:48:15.617Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚋 505 Dundas service on Dundas Street East between Regent Street and River Street will be diverting tonight at 11 PM until tomorrow at 5 AM due to emergency sewer repairs. Further updates will be provided once the diversion begins. Shuttle buses will operate. See other service alerts.]]></title>
             <description><![CDATA[505 Dundas service on Dundas Street East between Regent Street and River Street will be diverting tonight at 11 PM until tomorrow at 5 AM due to emergency sewer repairs. Further updates will be provided once the diversion begins. Shuttle buses will operate. <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64078</guid>
             <pubDate>2026-03-09T15:12:13.83Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 13 Avenue Rd: Detour southbound via Lascelles Blvd and Chaplin Cres due to construction.]]></title>
+            <description><![CDATA[13 Avenue Rd: Detour southbound via Lascelles Blvd and Chaplin Cres due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64103</guid>
+            <pubDate>2026-03-09T22:09:38.85Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 16 Mccowan: Detour via Tansley Ave, Seminole Ave, Brimley Rd and Wetherby Dr due to a collision.]]></title>
+            <description><![CDATA[16 Mccowan: Detour via Tansley Ave, Seminole Ave, Brimley Rd and Wetherby Dr due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64101</guid>
+            <pubDate>2026-03-09T21:38:25.187Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 59 Maple Leaf: Detour via Colville Rd, Keele St and Gulliver Rd due to a fire.]]></title>
+            <description><![CDATA[59 Maple Leaf: Detour via Colville Rd, Keele St and Gulliver Rd due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64098</guid>
+            <pubDate>2026-03-09T21:28:07.85Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 164 Castlefield: Detour via Beechborough Ave and Castlefield Ave due to a Toronto Fire Investigation.]]></title>
+            <description><![CDATA[164 Castlefield: Detour via Beechborough Ave and Castlefield Ave due to a Toronto Fire Investigation.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64102</guid>
+            <pubDate>2026-03-09T21:46:41.447Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -124,13 +145,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64095</guid>
             <pubDate>2026-03-09T19:23:13.077Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St George: Elevator back in service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform.]]></title>
-            <description><![CDATA[St George: Elevator back in service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64094</guid>
-            <pubDate>2026-03-09T19:51:33.63Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S7E out of service from Dupont St north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
