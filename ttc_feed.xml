@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 08:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 09:30:09 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -12,27 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 301 Queen: Detour westbound via Coxwell Ave, Gerrard St E and Parliament St due to emergency sewer repairs.]]></title>
-            <description><![CDATA[Shuttle buses are operating between Queen and Coxwell and Queen and Parliament.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64108</guid>
-            <pubDate>2026-03-10T01:08:35.053Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 301 Queen: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave due to emergency sewer repairs.]]></title>
-            <description><![CDATA[Shuttle buses are operating from Queen and Coxwell to Queen and Parliament.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64107</guid>
-            <pubDate>2026-03-10T01:08:54.727Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 305 Dundas Regular service has resumed between Broadview Ave at Gerrard St East and Dundas St East at Parliament St.]]></title>
-            <description><![CDATA[Shuttle buses are operating.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64118</guid>
-            <pubDate>2026-03-10T04:43:18.893Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
