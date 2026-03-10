@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 21:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 21:45:33 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -14,18 +14,25 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King: No service between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West due to track switch issues. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[504 King: No service between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West due to track switch issues. Shuttle buses are on the way.]]></description>
+            <title><![CDATA[🚋 501 Queen Regular service has resumed westbound near Parliament St at Shuter St.]]></title>
+            <description><![CDATA[501 Queen Regular service has resumed westbound near Parliament St at Shuter St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64144</guid>
-            <pubDate>2026-03-10T16:55:07.097Z</pubDate>
+            <guid isPermaLink="false">64147</guid>
+            <pubDate>2026-03-10T17:38:15.803Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: No service between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave due to track switch issues.]]></title>
-            <description><![CDATA[505 Dundas: No service between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave due to track switch issues.]]></description>
+            <title><![CDATA[🚋 504 King: No service between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West due to track switch issues. Shuttle buses are running between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West.]]></title>
+            <description><![CDATA[504 King: No service between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West due to track switch issues. Shuttle buses are running between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64144</guid>
+            <pubDate>2026-03-10T17:31:47.307Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 505 Dundas: No service between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave due to track switch issues. Shuttle buses are running between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave.]]></title>
+            <description><![CDATA[505 Dundas: No service between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave due to track switch issues. Shuttle buses are running between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64146</guid>
-            <pubDate>2026-03-10T17:12:17.337Z</pubDate>
+            <pubDate>2026-03-10T17:32:04.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
