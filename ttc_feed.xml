@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 04:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 05:28:34 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
@@ -21,18 +21,25 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour westbound via Coxwell Ave, Gerrard St E and Parliament St due to emergency sewer repairs.]]></title>
+            <title><![CDATA[🚋 301 Queen: Detour westbound via Coxwell Ave, Gerrard St E and Parliament St due to emergency sewer repairs.]]></title>
             <description><![CDATA[Shuttle buses are operating between Queen and Coxwell and Queen and Parliament.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64108</guid>
-            <pubDate>2026-03-09T22:50:59.727Z</pubDate>
+            <pubDate>2026-03-10T01:08:35.053Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave due to emergency sewer repairs.]]></title>
+            <title><![CDATA[🚋 301 Queen: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave due to emergency sewer repairs.]]></title>
             <description><![CDATA[Shuttle buses are operating from Queen and Coxwell to Queen and Parliament.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64107</guid>
-            <pubDate>2026-03-09T22:50:45.347Z</pubDate>
+            <pubDate>2026-03-10T01:08:54.727Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 305 Dundas: Detour via Parliament St, Gerrard St E and Broadview Ave due to emergency sewer repairs.]]></title>
+            <description><![CDATA[Shuttle buses are operating.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64118</guid>
+            <pubDate>2026-03-10T01:10:20.523Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 505 Dundas service on Dundas Street East between Regent Street and River Street will be diverting tonight at 11 PM until tomorrow at 5 AM due to emergency sewer repairs. Further updates will be provided once the diversion begins. Shuttle buses will operate. See other service alerts.]]></title>
@@ -53,7 +60,7 @@
             <description><![CDATA[70 O'connor: Detour eastbound via Sunrise Ave and Victoria Park Ave due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64106</guid>
-            <pubDate>2026-03-09T23:14:24.773Z</pubDate>
+            <pubDate>2026-03-10T01:27:54.547Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -152,34 +159,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64116</guid>
             <pubDate>2026-03-09T23:20:32.12Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ College: Escalator 11Y1E out of service from Line 1 Finch platform to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
-            <description><![CDATA[College: Escalator 11Y1E out of service from Line 1 Finch platform to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64115</guid>
-            <pubDate>2026-03-09T23:19:33.02Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ King: Escalator 8Y3E out of service from Line 1 Finch platform to north concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
-            <description><![CDATA[King: Escalator 8Y3E out of service from Line 1 Finch platform to north concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64114</guid>
-            <pubDate>2026-03-09T23:18:44.857Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Finch West: Escalator 11S8E out of service from Keele St east side entrance and bus platform to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
-            <description><![CDATA[Finch West: Escalator 11S8E out of service from Keele St east side entrance and bus platform to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64113</guid>
-            <pubDate>2026-03-09T23:17:13.38Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St George: Escalator 1B1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
-            <description><![CDATA[St George: Escalator 1B1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64111</guid>
-            <pubDate>2026-03-09T23:15:14.927Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 5 out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.]]></title>
