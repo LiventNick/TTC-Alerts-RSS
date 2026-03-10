@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 07:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 08:44:26 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -28,18 +28,11 @@
             <pubDate>2026-03-10T01:08:54.727Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 305 Dundas: Detour via Parliament St, Gerrard St E and Broadview Ave due to emergency sewer repairs.]]></title>
+            <title><![CDATA[🚋 305 Dundas Regular service has resumed between Broadview Ave at Gerrard St East and Dundas St East at Parliament St.]]></title>
             <description><![CDATA[Shuttle buses are operating.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64118</guid>
-            <pubDate>2026-03-10T01:10:20.523Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 Regular service has resumed on 70 O'Connor, eastbound, at O'Connor and Victoria Park . See other service alerts.]]></title>
-            <description><![CDATA[Regular service has resumed on 70 O'Connor, eastbound, at O'Connor and Victoria Park . <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64120</guid>
-            <pubDate>2026-03-10T03:40:25.103Z</pubDate>
+            <pubDate>2026-03-10T04:43:18.893Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
