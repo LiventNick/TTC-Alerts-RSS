@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 22:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 23:13:41 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -26,6 +26,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64149</guid>
             <pubDate>2026-03-10T18:45:14.47Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></title>
+            <description><![CDATA[16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64151</guid>
+            <pubDate>2026-03-10T18:58:28.123Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 32 Eglinton West: Detour via Royal York Rd, La Rose Ave and Scarlett Rd due to a collision.]]></title>
+            <description><![CDATA[32 Eglinton West: Detour via Royal York Rd, La Rose Ave and Scarlett Rd due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64093</guid>
+            <pubDate>2026-03-10T19:07:03.273Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 114 Queens Quay East Regular service has resumed eastbound near Commissioners St at Logan Ave.]]></title>
+            <description><![CDATA[114 Queens Quay East Regular service has resumed eastbound near Commissioners St at Logan Ave.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64152</guid>
+            <pubDate>2026-03-10T19:03:06.617Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 130 Middlefield: Detour via Steeles Ave E, Markham Rd, Passmore Ave, Maybrook Dr, Mcnicoll Ave and Middlefield Rd due to an event.]]></title>
