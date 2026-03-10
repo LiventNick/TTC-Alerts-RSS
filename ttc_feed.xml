@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 12:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 13:44:10 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64129</guid>
             <pubDate>2026-03-10T08:25:39.333Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 511 Bathurst: Detour via Dundas St W, Spadina Ave and King St W while we fix a mechanical problem.]]></title>
+            <description><![CDATA[511 Bathurst: Detour via Dundas St W, Spadina Ave and King St W while we fix a mechanical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64130</guid>
+            <pubDate>2026-03-10T09:06:12.343Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -61,13 +68,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58851</guid>
             <pubDate>2026-03-09T11:14:21.267Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual northbound from Lawrence to York Mills stations while we work on track issues.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: Subway trains will move slower than usual northbound from Lawrence to York Mills stations while we work on track issues.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">62529</guid>
-            <pubDate>2026-02-24T11:10:39.42Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 2 Bloor-Danforth: Subway trains will move slower than usual westbound from Kennedy to Warden stations while we work on switch issues.]]></title>
