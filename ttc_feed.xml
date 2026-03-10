@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 10:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 11:00:40 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -105,6 +105,27 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Greenwood: Elevator 10D2L out of service Concourse to Line 2 Kipling Platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></title>
+            <description><![CDATA[Greenwood: Elevator 10D2L out of service Concourse to Line 2 Kipling Platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64123</guid>
+            <pubDate>2026-03-10T06:55:12.43Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Sheppard West: Escalator 9S2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
+            <description><![CDATA[Sheppard West: Escalator 9S2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64082</guid>
+            <pubDate>2026-03-10T07:00:03.183Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Downsview Park: Escalator 10S6E out of service from concourse to GO entrance while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
+            <description><![CDATA[Downsview Park: Escalator 10S6E out of service from concourse to GO entrance while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64081</guid>
+            <pubDate>2026-03-10T07:00:03.167Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Dupont: Escalator 2S7E out of service from Dupont St north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
             <description><![CDATA[Dupont: Escalator 2S7E out of service from Dupont St north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -131,6 +152,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64023</guid>
             <pubDate>2026-03-10T00:00:03Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Chester: Escalator 7D1E out of service from Line 2 Kennedy platform to Chester Ave west side entrance while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
+            <description><![CDATA[Chester: Escalator 7D1E out of service from Line 2 Kennedy platform to Chester Ave west side entrance while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64022</guid>
+            <pubDate>2026-03-10T07:00:03.137Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Dennis: Elevator 2 out of service between bus platform and concourse while we perform maintenance.]]></title>
