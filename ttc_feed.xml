@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 15:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 16:42:40 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -12,20 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 501 Queen: Detour eastbound via Shaw St, King St E and Spadina Ave due to protest.]]></title>
-            <description><![CDATA[501 Queen: Detour eastbound via Shaw St, King St E and Spadina Ave due to protest.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64136</guid>
-            <pubDate>2026-03-10T11:33:39.363Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King Regular service has resumed between Distillery Loop and King St East at Church St East Side.]]></title>
-            <description><![CDATA[504 King Regular service has resumed between Distillery Loop and King St East at Church St East Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64134</guid>
-            <pubDate>2026-03-10T11:31:48.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 504 King: Detour via Front St E and Princess St due to construction.]]></title>
@@ -40,6 +26,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64135</guid>
             <pubDate>2026-03-10T11:16:22.4Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 511 Bathurst Regular service has resumed near Bathurst Station at Bay 6.]]></title>
+            <description><![CDATA[511 Bathurst Regular service has resumed near Bathurst Station at Bay 6.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64138</guid>
+            <pubDate>2026-03-10T12:35:11.503Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -152,13 +145,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64124</guid>
             <pubDate>2026-03-10T11:30:03.237Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ York University: Elevator back in service between concourse and Line 1 centre platform.]]></title>
-            <description><![CDATA[York University: Elevator back in service between concourse and Line 1 centre platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64122</guid>
-            <pubDate>2026-03-10T11:30:03.313Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard West: Escalator 9S3E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
