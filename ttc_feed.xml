@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 23:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 23:59:24 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -14,22 +14,15 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed between Norfinch Oakdale and Driftwood stations.]]></title>
-            <description><![CDATA[Line 6 Finch West Regular service has resumed between Norfinch Oakdale and Driftwood stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64153</guid>
-            <pubDate>2026-03-10T19:33:24.863Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 505 Dundas: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.]]></title>
-            <description><![CDATA[505 Dundas: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.]]></description>
+            <title><![CDATA[🚋 505 Dundas Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></title>
+            <description><![CDATA[505 Dundas Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64150</guid>
-            <pubDate>2026-03-10T18:45:15.173Z</pubDate>
+            <pubDate>2026-03-10T19:44:55.89Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 ]]></title>
-            <description><![CDATA[]]></description>
+            <title><![CDATA[🚋 506 Carlton Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></title>
+            <description><![CDATA[506 Carlton Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64149</guid>
             <pubDate>2026-03-10T19:44:52.687Z</pubDate>
@@ -47,13 +40,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64093</guid>
             <pubDate>2026-03-10T19:07:03.273Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 130 Middlefield Regular service has resumed near Middlefield Rd at McNicoll Ave.]]></title>
-            <description><![CDATA[130 Middlefield Regular service has resumed near Middlefield Rd at McNicoll Ave.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64148</guid>
-            <pubDate>2026-03-10T19:30:36.347Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
