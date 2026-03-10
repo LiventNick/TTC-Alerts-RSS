@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 05:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 06:06:59 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed westbound at St George station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed westbound at St George station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64119</guid>
+            <pubDate>2026-03-10T02:04:17.48Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 301 Queen: Detour westbound via Coxwell Ave, Gerrard St E and Parliament St due to emergency sewer repairs.]]></title>
@@ -53,7 +60,7 @@
             <description><![CDATA[13 Avenue Rd: Detour southbound via Lascelles Blvd and Chaplin Cres due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64103</guid>
-            <pubDate>2026-03-09T22:09:38.85Z</pubDate>
+            <pubDate>2026-03-10T01:30:07.593Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 70 O'connor: Detour eastbound via Sunrise Ave and Victoria Park Ave due to a collision.]]></title>
@@ -159,13 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64116</guid>
             <pubDate>2026-03-09T23:20:32.12Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Eglinton: Elevator 5 out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.]]></title>
-            <description><![CDATA[Eglinton: Elevator 5 out of service between Line 5 upper concourse west side and Line 5 centre platform due to a technical problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64095</guid>
-            <pubDate>2026-03-09T19:23:13.077Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S7E out of service from Dupont St north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
