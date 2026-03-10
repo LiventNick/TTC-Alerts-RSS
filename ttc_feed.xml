@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 22:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 22:45:51 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -14,18 +14,25 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King: No service between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West due to track switch issues. Shuttle buses are running between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West.]]></title>
-            <description><![CDATA[504 King: No service between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West due to track switch issues. Shuttle buses are running between Dundas West Station at Bay 4 and Roncesvalles Ave at Queen St West.]]></description>
+            <title><![CDATA[🚋 505 Dundas: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.]]></title>
+            <description><![CDATA[505 Dundas: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64144</guid>
-            <pubDate>2026-03-10T17:31:47.307Z</pubDate>
+            <guid isPermaLink="false">64150</guid>
+            <pubDate>2026-03-10T18:45:15.173Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: No service between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave due to track switch issues. Shuttle buses are running between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave.]]></title>
-            <description><![CDATA[505 Dundas: No service between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave due to track switch issues. Shuttle buses are running between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave.]]></description>
+            <title><![CDATA[🚋 506 Carlton: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.]]></title>
+            <description><![CDATA[506 Carlton: Detour westbound via Church St, Richmond St E, York St, Queen St E and Spadina Ave due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64146</guid>
-            <pubDate>2026-03-10T17:32:04.737Z</pubDate>
+            <guid isPermaLink="false">64149</guid>
+            <pubDate>2026-03-10T18:45:14.47Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 130 Middlefield: Detour via Steeles Ave E, Markham Rd, Passmore Ave, Maybrook Dr, Mcnicoll Ave and Middlefield Rd due to an event.]]></title>
+            <description><![CDATA[130 Middlefield: Detour via Steeles Ave E, Markham Rd, Passmore Ave, Maybrook Dr, Mcnicoll Ave and Middlefield Rd due to an event.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64148</guid>
+            <pubDate>2026-03-10T18:25:06.61Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
