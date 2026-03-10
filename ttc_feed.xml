@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 10 Mar 2026 11:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 11:46:14 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 511 Bathurst: Detour southbound via Dundas St W, Spadina Ave and King St W while we fix a mechanical problem.]]></title>
+            <description><![CDATA[511 Bathurst: Detour southbound via Dundas St W, Spadina Ave and King St W while we fix a mechanical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64128</guid>
+            <pubDate>2026-03-10T07:43:23.183Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -105,11 +112,32 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Bathurst: Elevator 3B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></title>
+            <description><![CDATA[Bathurst: Elevator 3B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64127</guid>
+            <pubDate>2026-03-10T07:27:40.657Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bayview: Elevator 55P4L out of service between Sheppard Ave E south side entrance and east concourse while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></title>
+            <description><![CDATA[Bayview: Elevator 55P4L out of service between Sheppard Ave E south side entrance and east concourse while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64125</guid>
+            <pubDate>2026-03-10T07:09:02.54Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Greenwood: Elevator 10D2L out of service Concourse to Line 2 Kipling Platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></title>
             <description><![CDATA[Greenwood: Elevator 10D2L out of service Concourse to Line 2 Kipling Platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64123</guid>
             <pubDate>2026-03-10T06:55:12.43Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ York University: Elevator 12S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></title>
+            <description><![CDATA[York University: Elevator 12S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 10, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64122</guid>
+            <pubDate>2026-03-10T07:30:03.55Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard West: Escalator 9S2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
