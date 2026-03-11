@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 06:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 07:29:46 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
@@ -21,25 +21,11 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour westbound via Church St, King St W and York St due to a blocked track.]]></title>
-            <description><![CDATA[501 Queen: Detour westbound via Church St, King St W and York St due to a blocked track.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64171</guid>
-            <pubDate>2026-03-11T01:35:30.91Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></title>
             <description><![CDATA[16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64151</guid>
             <pubDate>2026-03-10T18:58:28.123Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 32 Eglinton West: Detour via Royal York Rd, La Rose Ave and Scarlett Rd due to a collision.]]></title>
-            <description><![CDATA[32 Eglinton West: Detour via Royal York Rd, La Rose Ave and Scarlett Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64093</guid>
-            <pubDate>2026-03-10T19:07:03.273Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
