@@ -4,14 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 20:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 21:01:28 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: No service between Eglinton and Sheppard-Yonge stations as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: No service between Eglinton and Sheppard-Yonge stations as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between Lawrence and Sheppard-Yonge stations.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between Lawrence and Sheppard-Yonge stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64203</guid>
-            <pubDate>2026-03-11T16:34:45.123Z</pubDate>
+            <pubDate>2026-03-11T16:50:02.347Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -19,20 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 503 Kingston Rd Regular service has resumed westbound near Parliament St at King St East.]]></title>
-            <description><![CDATA[503 Kingston Rd Regular service has resumed westbound near Parliament St at King St East.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64200</guid>
-            <pubDate>2026-03-11T16:28:09.77Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King Regular service has resumed eastbound from King St East at Church St East Side to Mill St at Cherry St West Side.]]></title>
-            <description><![CDATA[504 King Regular service has resumed eastbound from King St East at Church St East Side to Mill St at Cherry St West Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64198</guid>
-            <pubDate>2026-03-11T16:28:05.517Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 67B Pharmacy: Detour southbound via Rannock St, Craigton Dr, Victoria Park Ave and Biscayne Blvd due to flooding.]]></title>
