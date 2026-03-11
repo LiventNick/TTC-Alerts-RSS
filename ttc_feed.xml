@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 05:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 06:30:27 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour westbound via Church St, King St W and York St due to a blocked track.]]></title>
+            <description><![CDATA[501 Queen: Detour westbound via Church St, King St W and York St due to a blocked track.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64171</guid>
+            <pubDate>2026-03-11T01:35:30.91Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></title>
