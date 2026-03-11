@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 16:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 17:07:50 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at King station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at King station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64189</guid>
-            <pubDate>2026-03-11T11:55:57.623Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
@@ -33,13 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64185</guid>
             <pubDate>2026-03-11T08:20:01.797Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 79 Scarlett Rd: Detour southbound via Bloor St W, Windermere Ave and Colbeck St due to a vehicle on fire outside Runnymede station.]]></title>
-            <description><![CDATA[Buses not servicing Runnymede Station due to vehicle on fire outside station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64190</guid>
-            <pubDate>2026-03-11T11:28:47.137Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -168,11 +154,11 @@
             <pubDate>2026-03-10T22:18:51.037Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Main Street: Escalator 13D3E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></title>
-            <description><![CDATA[Main Street: Escalator 13D3E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></description>
+            <title><![CDATA[♿ Main Street: Escalator back in service from Line 2 Kennedy platform to concourse.]]></title>
+            <description><![CDATA[Main Street: Escalator back in service from Line 2 Kennedy platform to concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64164</guid>
-            <pubDate>2026-03-11T09:00:03Z</pubDate>
+            <pubDate>2026-03-11T13:00:03.247Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kennedy: Escalator 16D2E out of service from Line 2 platform to concourse due to construction. Escalator is expected to be back in service March 11, 2026.]]></title>
@@ -180,27 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64163</guid>
             <pubDate>2026-03-11T07:00:03.203Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Lansdowne: Escalator 7B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></title>
-            <description><![CDATA[Lansdowne: Escalator 7B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64162</guid>
-            <pubDate>2026-03-10T21:29:36.673Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Jane: Escalator 12B1E out of service from concourse to Jane St entrance while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></title>
-            <description><![CDATA[Jane: Escalator 12B1E out of service from concourse to Jane St entrance while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64159</guid>
-            <pubDate>2026-03-10T21:25:31.407Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Christie: Escalator 4B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></title>
-            <description><![CDATA[Christie: Escalator 4B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64158</guid>
-            <pubDate>2026-03-10T21:24:49.73Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 3 out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.]]></title>
