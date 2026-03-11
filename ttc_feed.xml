@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 17:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 18:02:27 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Woodbine and Victoria Park stations.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Woodbine and Victoria Park stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64192</guid>
+            <pubDate>2026-03-11T13:51:48.17Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 67B Pharmacy: Detour southbound via Rannock St, Craigton Dr, Victoria Park Ave and Biscayne Blvd due to flooding.]]></title>
@@ -154,18 +161,11 @@
             <pubDate>2026-03-10T22:18:51.037Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Main Street: Escalator back in service from Line 2 Kennedy platform to concourse.]]></title>
-            <description><![CDATA[Main Street: Escalator back in service from Line 2 Kennedy platform to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64164</guid>
-            <pubDate>2026-03-11T13:00:03.247Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Kennedy: Escalator 16D2E out of service from Line 2 platform to concourse due to construction. Escalator is expected to be back in service March 11, 2026.]]></title>
-            <description><![CDATA[Kennedy: Escalator 16D2E out of service from Line 2 platform to concourse due to construction. Escalator is expected to be back in service March 11, 2026.]]></description>
+            <title><![CDATA[♿ Kennedy: Escalator back in service from Line 2 platform to concourse.]]></title>
+            <description><![CDATA[Kennedy: Escalator back in service from Line 2 platform to concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64163</guid>
-            <pubDate>2026-03-11T07:00:03.203Z</pubDate>
+            <pubDate>2026-03-11T14:00:03.14Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 3 out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.]]></title>
