@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 13:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 14:11:15 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: Detour eastbound via Yonge St, Charles St and Bay St due to a blocked track.]]></title>
+            <description><![CDATA[506 Carlton: Detour eastbound via Yonge St, Charles St and Bay St due to a blocked track.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64187</guid>
+            <pubDate>2026-03-11T10:08:04.93Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 67B Pharmacy: Detour southbound via Rannock St, Craigton Dr, Victoria Park Ave and Biscayne Blvd due to flooding.]]></title>
