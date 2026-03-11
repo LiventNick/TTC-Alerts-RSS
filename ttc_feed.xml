@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 14:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 15:08:46 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: Detour eastbound via Yonge St, Charles St and Bay St due to a blocked track.]]></title>
-            <description><![CDATA[506 Carlton: Detour eastbound via Yonge St, Charles St and Bay St due to a blocked track.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University: Delays at King station while we fix a signal problem.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Delays at King station while we fix a signal problem.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64187</guid>
-            <pubDate>2026-03-11T10:08:04.93Z</pubDate>
+            <guid isPermaLink="false">64189</guid>
+            <pubDate>2026-03-11T10:45:10.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 67B Pharmacy: Detour southbound via Rannock St, Craigton Dr, Victoria Park Ave and Biscayne Blvd due to flooding.]]></title>
@@ -126,11 +126,18 @@
             <pubDate>2026-03-11T08:10:27.877Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Sheppard-Yonge: Elevator 51P3L out of service between north concourse and north tunnel while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></title>
-            <description><![CDATA[Sheppard-Yonge: Elevator 51P3L out of service between north concourse and north tunnel while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></description>
+            <title><![CDATA[♿ Sheppard-Yonge: Elevator 51P5L out of service between Line 4 eastbound platform and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></title>
+            <description><![CDATA[Sheppard-Yonge: Elevator 51P5L out of service between Line 4 eastbound platform and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64179</guid>
+            <pubDate>2026-03-11T11:00:03.587Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Sheppard-Yonge: Elevator back in service between north concourse and north tunnel.]]></title>
+            <description><![CDATA[Sheppard-Yonge: Elevator back in service between north concourse and north tunnel.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64178</guid>
-            <pubDate>2026-03-11T07:10:37.117Z</pubDate>
+            <pubDate>2026-03-11T11:00:04.93Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Spadina: Elevator 2B1L out of service between Spadina Rd east side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></title>
@@ -147,11 +154,18 @@
             <pubDate>2026-03-11T07:08:13.577Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ York University: Elevator 12S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></title>
-            <description><![CDATA[York University: Elevator 12S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></description>
+            <title><![CDATA[♿ Finch West: Elevator 11S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></title>
+            <description><![CDATA[Finch West: Elevator 11S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64175</guid>
+            <pubDate>2026-03-11T11:00:03.32Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ York University: Elevator back in service between concourse and Line 1 centre platform.]]></title>
+            <description><![CDATA[York University: Elevator back in service between concourse and Line 1 centre platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64174</guid>
-            <pubDate>2026-03-11T07:05:31.507Z</pubDate>
+            <pubDate>2026-03-11T11:00:04.383Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ York University: Escalator 12S4E out of service from concourse to Line 1 platform while we perform maintenance.]]></title>
@@ -203,11 +217,18 @@
             <pubDate>2026-03-10T16:24:36.54Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Downsview Park: Escalator 10S3E out of service from concourse to Vitti St east side entrance while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></title>
-            <description><![CDATA[Downsview Park: Escalator 10S3E out of service from concourse to Vitti St east side entrance while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></description>
+            <title><![CDATA[♿ Downsview Park: Escalator 10S4E out of service from Vitti St east side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></title>
+            <description><![CDATA[Downsview Park: Escalator 10S4E out of service from Vitti St east side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64142</guid>
+            <pubDate>2026-03-11T10:30:03.047Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Downsview Park: Escalator back in service from concourse to Vitti St east side entrance.]]></title>
+            <description><![CDATA[Downsview Park: Escalator back in service from concourse to Vitti St east side entrance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64141</guid>
-            <pubDate>2026-03-11T07:00:03.11Z</pubDate>
+            <pubDate>2026-03-11T11:00:03.667Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Queen's Park: Elevator 3Y1L out of service between College St northeast entrance and concourse while we perform maintenance.]]></title>
