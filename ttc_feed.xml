@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 21:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 21:46:15 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between Lawrence and Sheppard-Yonge stations.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between Lawrence and Sheppard-Yonge stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64203</guid>
-            <pubDate>2026-03-11T16:50:02.347Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
@@ -21,11 +14,11 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 67B Pharmacy: Detour southbound via Rannock St, Craigton Dr, Victoria Park Ave and Biscayne Blvd due to flooding.]]></title>
-            <description><![CDATA[67B Pharmacy: Detour southbound via Rannock St, Craigton Dr, Victoria Park Ave and Biscayne Blvd due to flooding.]]></description>
+            <title><![CDATA[🚌 67B Pharmacy Regular service has resumed southbound near Pharmacy Ave at Craigton Dr.]]></title>
+            <description><![CDATA[67B Pharmacy Regular service has resumed southbound near Pharmacy Ave at Craigton Dr.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64186</guid>
-            <pubDate>2026-03-11T08:25:26.593Z</pubDate>
+            <pubDate>2026-03-11T17:37:07.907Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -112,11 +105,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Royal York: Escalator 14B1E out of service from west concourse to Royal York Rd entrance while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></title>
-            <description><![CDATA[Royal York: Escalator 14B1E out of service from west concourse to Royal York Rd entrance while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></description>
+            <title><![CDATA[♿ Islington: Escalator 15B3E out of service from Line 2 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></title>
+            <description><![CDATA[Islington: Escalator 15B3E out of service from Line 2 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 11, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64201</guid>
-            <pubDate>2026-03-11T16:15:09.98Z</pubDate>
+            <pubDate>2026-03-11T17:15:56.363Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
