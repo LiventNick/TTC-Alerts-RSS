@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 02:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 04:24:58 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64063</guid>
+            <pubDate>2026-03-10T23:59:03.187Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
@@ -14,25 +21,11 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: Delays northbound at Sheppard-Yonge station while we respond to a medical emergency.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: Delays northbound at Sheppard-Yonge station while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64167</guid>
-            <pubDate>2026-03-10T22:33:15.317Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 4 Sheppard: Trains are not stopping at Bayview station due to a fire.]]></title>
-            <description><![CDATA[Line 4 Sheppard: Trains are not stopping at Bayview station due to a fire.]]></description>
+            <title><![CDATA[🚇 Line 4 Sheppard: Trains are not stopping at Bayview station due to a TFS investigation.]]></title>
+            <description><![CDATA[Line 4 Sheppard: Trains are not stopping at Bayview station due to a TFS investigation.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64165</guid>
-            <pubDate>2026-03-10T21:54:56.233Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed westbound at Laird station.]]></title>
-            <description><![CDATA[Line 5 Eglinton Regular service has resumed westbound at Laird station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64168</guid>
-            <pubDate>2026-03-10T22:44:36.04Z</pubDate>
+            <pubDate>2026-03-10T23:53:28.137Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></title>
@@ -203,13 +196,6 @@
             <pubDate>2026-03-10T10:01:08.767Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Dupont: Escalator 2S7E out of service from Dupont St north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
-            <description><![CDATA[Dupont: Escalator 2S7E out of service from Dupont St north side entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64079</guid>
-            <pubDate>2026-03-09T14:44:55.113Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ TMU: Elevator out of service between Sankofa Square entrance, Line 1 Finch platform, and underpass while we perform maintenance.]]></title>
             <description><![CDATA[TMU: Elevator out of service between Sankofa Square entrance, Line 1 Finch platform, and underpass while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -222,13 +208,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64029</guid>
             <pubDate>2026-03-08T14:37:50.47Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Chester: Escalator 7D1E out of service from Line 2 Kennedy platform to Chester Ave west side entrance while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></title>
-            <description><![CDATA[Chester: Escalator 7D1E out of service from Line 2 Kennedy platform to Chester Ave west side entrance while we perform maintenance. Escalator is expected to be back in service March 10, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64022</guid>
-            <pubDate>2026-03-10T07:00:03.137Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Dennis: Elevator 2 out of service between bus platform and concourse while we perform maintenance.]]></title>
