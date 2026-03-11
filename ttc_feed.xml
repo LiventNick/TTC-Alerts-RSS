@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 11 Mar 2026 15:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 16:02:13 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at King station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at King station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64189</guid>
+            <pubDate>2026-03-11T11:55:57.623Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: Delays at King station while we fix a signal problem.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: Delays at King station while we fix a signal problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64189</guid>
-            <pubDate>2026-03-11T10:45:10.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 67B Pharmacy: Detour southbound via Rannock St, Craigton Dr, Victoria Park Ave and Biscayne Blvd due to flooding.]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64185</guid>
             <pubDate>2026-03-11T08:20:01.797Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 79 Scarlett Rd: Detour southbound via Bloor St W, Windermere Ave and Colbeck St due to a vehicle on fire outside Runnymede station.]]></title>
+            <description><![CDATA[Buses not servicing Runnymede Station due to vehicle on fire outside station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64190</guid>
+            <pubDate>2026-03-11T11:28:47.137Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -133,13 +140,6 @@
             <pubDate>2026-03-11T11:00:03.587Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Sheppard-Yonge: Elevator back in service between north concourse and north tunnel.]]></title>
-            <description><![CDATA[Sheppard-Yonge: Elevator back in service between north concourse and north tunnel.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64178</guid>
-            <pubDate>2026-03-11T11:00:04.93Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Spadina: Elevator 2B1L out of service between Spadina Rd east side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></title>
             <description><![CDATA[Spadina: Elevator 2B1L out of service between Spadina Rd east side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 11, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -159,13 +159,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64175</guid>
             <pubDate>2026-03-11T11:00:03.32Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ York University: Elevator back in service between concourse and Line 1 centre platform.]]></title>
-            <description><![CDATA[York University: Elevator back in service between concourse and Line 1 centre platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64174</guid>
-            <pubDate>2026-03-11T11:00:04.383Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ York University: Escalator 12S4E out of service from concourse to Line 1 platform while we perform maintenance.]]></title>
@@ -222,13 +215,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64142</guid>
             <pubDate>2026-03-11T10:30:03.047Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Downsview Park: Escalator back in service from concourse to Vitti St east side entrance.]]></title>
-            <description><![CDATA[Downsview Park: Escalator back in service from concourse to Vitti St east side entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64141</guid>
-            <pubDate>2026-03-11T11:00:03.667Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Queen's Park: Elevator 3Y1L out of service between College St northeast entrance and concourse while we perform maintenance.]]></title>
