@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 02:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 04:27:56 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64064</guid>
+            <pubDate>2026-03-11T23:59:03.207Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
@@ -14,11 +21,11 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 510 Spadina: No service between Spadina Ave at King St West and Union Station Streetcar Platform due to a security incident.]]></title>
-            <description><![CDATA[510 Spadina: No service between Spadina Ave at King St West and Union Station Streetcar Platform due to a security incident.]]></description>
+            <title><![CDATA[🚋 504 King: No service between Roncesvalles Ave at Queen St West North Side and Dundas West Station at Bay 4 due to a security incident. Shuttle buses are running between Roncesvalles Ave at Queen St West North Side and Dundas West Station at Bay 4.]]></title>
+            <description><![CDATA[504 King: No service between Roncesvalles Ave at Queen St West North Side and Dundas West Station at Bay 4 due to a security incident. Shuttle buses are running between Roncesvalles Ave at Queen St West North Side and Dundas West Station at Bay 4.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64225</guid>
-            <pubDate>2026-03-11T22:33:12.043Z</pubDate>
+            <guid isPermaLink="false">64228</guid>
+            <pubDate>2026-03-11T23:51:44.673Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -159,13 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64143</guid>
             <pubDate>2026-03-10T16:24:36.54Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Queen's Park: Elevator 3Y1L out of service between College St northeast entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Queen's Park: Elevator 3Y1L out of service between College St northeast entrance and concourse while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64131</guid>
-            <pubDate>2026-03-10T10:01:08.767Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ TMU: Elevator out of service between Sankofa Square entrance, Line 1 Finch platform, and underpass while we perform maintenance.]]></title>
