@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 04:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 05:36:36 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
@@ -21,11 +21,11 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King: No service between Roncesvalles Ave at Queen St West North Side and Dundas West Station at Bay 4 due to a security incident. Shuttle buses are running between Roncesvalles Ave at Queen St West North Side and Dundas West Station at Bay 4.]]></title>
-            <description><![CDATA[504 King: No service between Roncesvalles Ave at Queen St West North Side and Dundas West Station at Bay 4 due to a security incident. Shuttle buses are running between Roncesvalles Ave at Queen St West North Side and Dundas West Station at Bay 4.]]></description>
+            <title><![CDATA[🚌 52 Lawrence West: Detour via Pine St and Jane St due to a fire.]]></title>
+            <description><![CDATA[52 Lawrence West: Detour via Pine St and Jane St due to a fire.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64228</guid>
-            <pubDate>2026-03-11T23:51:44.673Z</pubDate>
+            <guid isPermaLink="false">64229</guid>
+            <pubDate>2026-03-12T00:32:32.427Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -112,32 +112,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Bloor-Yonge: Escalator 3D7E out of service from west concourse to Yonge St east side entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Bloor-Yonge: Escalator 3D7E out of service from west concourse to Yonge St east side entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
+            <title><![CDATA[♿ Vaughan Metropolitan Centre: Elevator 15S2L out of service between Millway Ave west side entrance and concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Vaughan Metropolitan Centre: Elevator 15S2L out of service between Millway Ave west side entrance and concourse while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64218</guid>
-            <pubDate>2026-03-11T21:15:04.163Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St Clair West: Escalator 3S5E out of service from bus and Streetcar platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[St Clair West: Escalator 3S5E out of service from bus and Streetcar platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64217</guid>
-            <pubDate>2026-03-11T21:14:15.663Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bay: Escalator 2D4E out of service from west concourse to Bay St west side entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Bay: Escalator 2D4E out of service from west concourse to Bay St west side entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64216</guid>
-            <pubDate>2026-03-11T21:13:38.973Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Kipling: Escalator 16B3E out of service from Line 2 platform to bus platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Kipling: Escalator 16B3E out of service from Line 2 platform to bus platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64215</guid>
-            <pubDate>2026-03-11T21:12:43.103Z</pubDate>
+            <guid isPermaLink="false">64230</guid>
+            <pubDate>2026-03-12T01:15:22.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
