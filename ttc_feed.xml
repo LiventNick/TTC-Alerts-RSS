@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 16:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 17:37:07 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64265</guid>
             <pubDate>2026-03-12T11:10:13.623Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave while we deal with an operational problem.]]></title>
+            <description><![CDATA[501 Queen: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave while we deal with an operational problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64270</guid>
+            <pubDate>2026-03-12T13:32:34.24Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 504 King: Detour via Front St E, Princess St and King St E due to construction.]]></title>
@@ -110,13 +117,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Royal York: Escalator 14B2E out of service from east concourse to Grenview Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Royal York: Escalator 14B2E out of service from east concourse to Grenview Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64262</guid>
-            <pubDate>2026-03-12T09:40:41.077Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard West: Escalator 9S6E out of service from Sheppard Ave E south side entrance to concourse due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
