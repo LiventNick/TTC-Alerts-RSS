@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 22:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 23:37:14 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -21,11 +21,11 @@
             <pubDate>2026-03-12T11:10:13.623Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 161 Rogers Rd: Detour westbound via Dupont St and Ossington Ave due to a fire.]]></title>
-            <description><![CDATA[161 Rogers Rd: Detour westbound via Dupont St and Ossington Ave due to a fire.]]></description>
+            <title><![CDATA[🚌 161 Rogers Rd Regular service has resumed westbound near Dovercourt Rd at Dupont St.]]></title>
+            <description><![CDATA[161 Rogers Rd Regular service has resumed westbound near Dovercourt Rd at Dupont St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64288</guid>
-            <pubDate>2026-03-12T18:45:45.693Z</pubDate>
+            <pubDate>2026-03-12T19:26:07.587Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -119,13 +119,6 @@
             <pubDate>2026-03-12T17:37:08.937Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Dufferin: Elevator back in service between Dufferin St west side entrance and concourse.]]></title>
-            <description><![CDATA[Dufferin: Elevator back in service between Dufferin St west side entrance and concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64283</guid>
-            <pubDate>2026-03-12T18:53:48.857Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></title>
             <description><![CDATA[Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -159,13 +152,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64230</guid>
             <pubDate>2026-03-12T01:15:22.737Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Scarborough Centre: Escalator 6RT3E out of service from concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Scarborough Centre: Escalator 6RT3E out of service from concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64212</guid>
-            <pubDate>2026-03-12T08:00:01.103Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
