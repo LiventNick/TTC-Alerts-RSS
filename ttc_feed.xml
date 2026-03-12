@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 11:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 12:27:21 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton: Delays between Sloane and Aga Khan Park & Museum stations while the maintainer fixes a track problem.]]></title>
+            <description><![CDATA[Line 5 Eglinton: Delays between Sloane and Aga Khan Park & Museum stations while the maintainer fixes a track problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64250</guid>
+            <pubDate>2026-03-12T07:50:35.367Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.]]></title>
+            <description><![CDATA[501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64256</guid>
+            <pubDate>2026-03-12T08:21:30.913Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King: Detour via Front St E, Princess St and King St E due to construction.]]></title>
+            <description><![CDATA[504 King: Detour via Front St E, Princess St and King St E due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64251</guid>
+            <pubDate>2026-03-12T08:00:59.117Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -166,6 +187,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64230</guid>
             <pubDate>2026-03-12T01:15:22.737Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St Clair: Escalator 16Y1E out of service from Line 1 Vaughan via Union platform to north concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
+            <description><![CDATA[St Clair: Escalator 16Y1E out of service from Line 1 Vaughan via Union platform to north concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64222</guid>
+            <pubDate>2026-03-12T08:00:01.167Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Donlands: Escalator 9D1E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
+            <description><![CDATA[Donlands: Escalator 9D1E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64221</guid>
+            <pubDate>2026-03-12T08:00:01.133Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Scarborough Centre: Escalator 6RT3E out of service from concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
+            <description><![CDATA[Scarborough Centre: Escalator 6RT3E out of service from concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64212</guid>
+            <pubDate>2026-03-12T08:00:01.103Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
