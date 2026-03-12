@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 12:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 13:43:29 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -21,18 +21,25 @@
             <pubDate>2026-03-12T07:50:35.367Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.]]></title>
-            <description><![CDATA[501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64256</guid>
-            <pubDate>2026-03-12T08:21:30.913Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚋 504 King: Detour via Front St E, Princess St and King St E due to construction.]]></title>
             <description><![CDATA[504 King: Detour via Front St E, Princess St and King St E due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64251</guid>
             <pubDate>2026-03-12T08:00:59.117Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 505 Dundas Regular service has resumed between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave.]]></title>
+            <description><![CDATA[505 Dundas Regular service has resumed between Dundas West Station at Bay 5 and Dundas St West at Lansdowne Ave.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64260</guid>
+            <pubDate>2026-03-12T09:41:21.02Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton Regular service has resumed eastbound from High Park Loop to College St at Lansdowne Ave.]]></title>
+            <description><![CDATA[506 Carlton Regular service has resumed eastbound from High Park Loop to College St at Lansdowne Ave.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64259</guid>
+            <pubDate>2026-03-12T09:41:23.597Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -117,6 +124,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Royal York: Escalator 14B2E out of service from east concourse to Grenview Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
+            <description><![CDATA[Royal York: Escalator 14B2E out of service from east concourse to Grenview Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64262</guid>
+            <pubDate>2026-03-12T09:40:41.077Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard West: Escalator 9S6E out of service from Sheppard Ave E south side entrance to concourse due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
