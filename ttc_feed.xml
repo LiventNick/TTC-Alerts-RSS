@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 21:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 22:36:34 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -21,25 +21,18 @@
             <pubDate>2026-03-12T11:10:13.623Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King Regular service has resumed between Distillery Loop and King St East at Church St East Side.]]></title>
-            <description><![CDATA[504 King Regular service has resumed between Distillery Loop and King St East at Church St East Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64287</guid>
-            <pubDate>2026-03-12T17:55:10.293Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 10 Van Horne: Detour westbound via Pleasant View Dr and Edmonton Dr due to a blocked road.]]></title>
-            <description><![CDATA[10 Van Horne: Detour westbound via Pleasant View Dr and Edmonton Dr due to a blocked road.]]></description>
+            <title><![CDATA[🚌 10 Van Horne Regular service has resumed westbound near Brian Ave at Van Horne Ave.]]></title>
+            <description><![CDATA[10 Van Horne Regular service has resumed westbound near Brian Ave at Van Horne Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64285</guid>
-            <pubDate>2026-03-12T17:08:34.73Z</pubDate>
+            <pubDate>2026-03-12T18:24:29.247Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Steeles Ave W, Irondale Dr, Garyray Dr and Barmac Dr due to a watermain break.]]></title>
-            <description><![CDATA[165 Weston Rd North: Detour westbound via Steeles Ave W, Irondale Dr, Garyray Dr and Barmac Dr due to a watermain break.]]></description>
+            <title><![CDATA[🚌 165 Weston Rd North Regular service has resumed westbound near Barmac Dr at Steeles Ave West South Side.]]></title>
+            <description><![CDATA[165 Weston Rd North Regular service has resumed westbound near Barmac Dr at Steeles Ave West South Side.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64276</guid>
-            <pubDate>2026-03-12T15:02:51.193Z</pubDate>
+            <pubDate>2026-03-12T18:24:49.5Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
