@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 22:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 22:59:17 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -21,18 +21,11 @@
             <pubDate>2026-03-12T11:10:13.623Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 10 Van Horne Regular service has resumed westbound near Brian Ave at Van Horne Ave.]]></title>
-            <description><![CDATA[10 Van Horne Regular service has resumed westbound near Brian Ave at Van Horne Ave.]]></description>
+            <title><![CDATA[🚌 161 Rogers Rd: Detour westbound via Dupont St and Ossington Ave due to a fire.]]></title>
+            <description><![CDATA[161 Rogers Rd: Detour westbound via Dupont St and Ossington Ave due to a fire.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64285</guid>
-            <pubDate>2026-03-12T18:24:29.247Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 165 Weston Rd North Regular service has resumed westbound near Barmac Dr at Steeles Ave West South Side.]]></title>
-            <description><![CDATA[165 Weston Rd North Regular service has resumed westbound near Barmac Dr at Steeles Ave West South Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64276</guid>
-            <pubDate>2026-03-12T18:24:49.5Z</pubDate>
+            <guid isPermaLink="false">64288</guid>
+            <pubDate>2026-03-12T18:45:45.693Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -126,11 +119,11 @@
             <pubDate>2026-03-12T17:37:08.937Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Dufferin: Elevator back in service between Dufferin St west side entrance and concourse.]]></title>
+            <description><![CDATA[Dufferin: Elevator back in service between Dufferin St west side entrance and concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64283</guid>
-            <pubDate>2026-03-12T16:34:06.397Z</pubDate>
+            <pubDate>2026-03-12T18:53:48.857Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></title>
