@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 21:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 21:58:44 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64265</guid>
             <pubDate>2026-03-12T11:10:13.623Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King Regular service has resumed between Distillery Loop and King St East at Church St East Side.]]></title>
+            <description><![CDATA[504 King Regular service has resumed between Distillery Loop and King St East at Church St East Side.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64287</guid>
+            <pubDate>2026-03-12T17:55:10.293Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 10 Van Horne: Detour westbound via Pleasant View Dr and Edmonton Dr due to a blocked road.]]></title>
@@ -117,6 +124,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Dufferin: Elevator 6B3L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Dufferin: Elevator 6B3L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64286</guid>
+            <pubDate>2026-03-12T17:37:08.937Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></title>
