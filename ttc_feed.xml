@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 18:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 19:28:04 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -21,11 +21,25 @@
             <pubDate>2026-03-12T11:10:13.623Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 501 Queen Regular service has resumed westbound near Dundas St East at Parliament St.]]></title>
+            <description><![CDATA[501 Queen Regular service has resumed westbound near Dundas St East at Parliament St.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64274</guid>
+            <pubDate>2026-03-12T15:25:15.1Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 504 King: Detour via Adelaide St E, Adelaide St E and King St E due to construction.]]></title>
             <description><![CDATA[504 King: Detour via Adelaide St E, Adelaide St E and King St E due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64251</guid>
             <pubDate>2026-03-12T14:10:59.797Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Steeles Ave W, Irondale Dr, Garyray Dr and Barmac Dr due to a watermain break.]]></title>
+            <description><![CDATA[165 Weston Rd North: Detour westbound via Steeles Ave W, Irondale Dr, Garyray Dr and Barmac Dr due to a watermain break.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64276</guid>
+            <pubDate>2026-03-12T15:02:51.193Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -119,46 +133,11 @@
             <pubDate>2026-03-12T07:31:09.773Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Old Mill: Escalator 13B2E out of service from Line 2 Kennedy platform to Old Mill Trail entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Old Mill: Escalator 13B2E out of service from Line 2 Kennedy platform to Old Mill Trail entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64248</guid>
-            <pubDate>2026-03-12T10:30:01.137Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ York Mills: Escalator 20Y8E out of service from concourse to Yonge St east side entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[York Mills: Escalator 20Y8E out of service from concourse to Yonge St east side entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64247</guid>
-            <pubDate>2026-03-12T11:00:06.423Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Bathurst: Escalator 3B3E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
             <description><![CDATA[Bathurst: Escalator 3B3E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64246</guid>
             <pubDate>2026-03-12T07:28:52.783Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Leslie: Escalator 59P4E out of service from concourse to Line 4 platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Leslie: Escalator 59P4E out of service from concourse to Line 4 platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64242</guid>
-            <pubDate>2026-03-12T11:00:06.44Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ North York Centre: Escalator 23Y4E out of service from concourse to Line 1 Finch platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[North York Centre: Escalator 23Y4E out of service from concourse to Line 1 Finch platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64239</guid>
-            <pubDate>2026-03-12T07:30:01.11Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Victoria Park: Elevator 14D3L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Victoria Park: Elevator 14D3L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64238</guid>
-            <pubDate>2026-03-12T11:00:06.393Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch West: Elevator 11S3L out of service between Keele St east side entrance and bus platform and concourse while we perform maintenance. Elevator is expected to be back in service March 12, 2026.]]></title>
@@ -182,13 +161,6 @@
             <pubDate>2026-03-12T01:15:22.737Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Donlands: Escalator 9D1E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Donlands: Escalator 9D1E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64221</guid>
-            <pubDate>2026-03-12T08:00:01.133Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Scarborough Centre: Escalator 6RT3E out of service from concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
             <description><![CDATA[Scarborough Centre: Escalator 6RT3E out of service from concourse to bus platform while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -201,13 +173,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64197</guid>
             <pubDate>2026-03-11T15:31:31.553Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Kennedy: Escalator 16D2E out of service from Line 2 platform to concourse due to construction. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Kennedy: Escalator 16D2E out of service from Line 2 platform to concourse due to construction. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64196</guid>
-            <pubDate>2026-03-11T14:42:33.427Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard West: Escalator 9S7E out of service from concourse to Sheppard Ave E south side entrance while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
