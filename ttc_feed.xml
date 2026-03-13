@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 15:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 15:59:17 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,32 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: On Saturday, March 14, there will be no subway service between St George and Broadview stations, due to planned track work. Shuttle buses will operate. Regular subway service will resume the following morning at 5 a.m.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: On Saturday, March 14, there will be no subway service between St George and Broadview stations, due to planned track work. Shuttle buses will operate. Regular subway service will resume the following morning at 5 a.m.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64327</guid>
+            <pubDate>2026-03-13T11:13:56.733Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 504 King: Detour eastbound via Front St E, Princess St and King St E due to construction.]]></title>
             <description><![CDATA[504 King: Detour eastbound via Front St E, Princess St and King St E due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64320</guid>
             <pubDate>2026-03-13T07:40:45.38Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 505 Dundas: Detour westbound via Gerrard St E and Parliament St due to a blocked track.]]></title>
+            <description><![CDATA[505 Dundas: Detour westbound via Gerrard St E and Parliament St due to a blocked track.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64329</guid>
+            <pubDate>2026-03-13T11:46:37.63Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: No service between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave while we respond to a medical emergency. Shuttle buses are running between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave.]]></title>
+            <description><![CDATA[506 Carlton: No service between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave while we respond to a medical emergency. Shuttle buses are running between Main Street Station at Bay 7 and Gerrard St East at Coxwell Ave.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64331</guid>
+            <pubDate>2026-03-13T11:58:04.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Turbine Dr and Garyray Dr due to construction.]]></title>
@@ -119,25 +140,11 @@
             <pubDate>2026-03-13T10:30:01.807Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ High Park: Escalator back in service from west concourse to Line 2 Kennedy platform.]]></title>
-            <description><![CDATA[High Park: Escalator back in service from west concourse to Line 2 Kennedy platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64323</guid>
-            <pubDate>2026-03-13T11:00:03.173Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Royal York: Escalator 14B2E out of service from east concourse to Grenview Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
             <description><![CDATA[Royal York: Escalator 14B2E out of service from east concourse to Grenview Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64322</guid>
             <pubDate>2026-03-13T10:30:01.79Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Kipling: Escalator back in service from concourse to Aukland Rd entrance.]]></title>
-            <description><![CDATA[Kipling: Escalator back in service from concourse to Aukland Rd entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64321</guid>
-            <pubDate>2026-03-13T11:00:03.923Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Coxwell: Elevator 11D1L out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></title>
@@ -152,13 +159,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64318</guid>
             <pubDate>2026-03-13T11:00:04.97Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Downsview Park: Elevator back in service between GO Station entrance and concourse.]]></title>
-            <description><![CDATA[Downsview Park: Elevator back in service between GO Station entrance and concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64316</guid>
-            <pubDate>2026-03-13T11:00:02.797Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Elevator 23Y1L out of service between concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></title>
@@ -210,13 +210,6 @@
             <pubDate>2026-03-13T10:30:01.76Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Finch West: Escalator back in service from Keele St west side entrance to concourse.]]></title>
-            <description><![CDATA[Finch West: Escalator back in service from Keele St west side entrance to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64255</guid>
-            <pubDate>2026-03-13T11:00:02.08Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ York University: Escalator 12S5E out of service from concourse to York Boulevard entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
             <description><![CDATA[York University: Escalator 12S5E out of service from concourse to York Boulevard entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -229,13 +222,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64253</guid>
             <pubDate>2026-03-13T10:30:01.727Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Highway 407: Escalator back in service from concourse to bus platform.]]></title>
-            <description><![CDATA[Highway 407: Escalator back in service from concourse to bus platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64252</guid>
-            <pubDate>2026-03-13T11:00:01.11Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
