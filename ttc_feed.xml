@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 05:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 06:31:04 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
@@ -21,11 +21,11 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></title>
-            <description><![CDATA[16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></description>
+            <title><![CDATA[🚋 301 Queen: Detour eastbound via Shaw St, King St W and Spadina Ave due to a security incident.]]></title>
+            <description><![CDATA[301 Queen: Detour eastbound via Shaw St, King St W and Spadina Ave due to a security incident.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64292</guid>
-            <pubDate>2026-03-12T19:50:53.077Z</pubDate>
+            <guid isPermaLink="false">64309</guid>
+            <pubDate>2026-03-13T02:20:59.327Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 39 Finch East: Detour via Leslie St, Cummer Ave and Bayview Ave due to a collision.]]></title>
@@ -33,20 +33,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64305</guid>
             <pubDate>2026-03-12T23:18:03.983Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 110 Islington South Regular service has resumed southbound near Long Branch Loop.]]></title>
-            <description><![CDATA[Buses are not servicing Long Branch Loop.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64299</guid>
-            <pubDate>2026-03-13T01:28:16.317Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 123 Sherway Regular service has resumed southbound near Long Branch Loop.]]></title>
-            <description><![CDATA[Buses are not servicing Long Branch Loop.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64300</guid>
-            <pubDate>2026-03-13T01:28:27.14Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 939 Finch Express: Detour via Leslie St, Cummer Ave and Bayview Ave due to a collision.]]></title>
