@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 12 Mar 2026 23:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 02:40:57 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: Delays between Aga Khan Park & Museum and Sloane stations while the maintainer fixes a track problem.]]></title>
-            <description><![CDATA[Expect longer than normal travel times of up to five minutes.]]></description>
+            <title><![CDATA[🚋 504B King Regular service has resumed between Queen St West at Dufferin St West Side and Dufferin St at Springhurst Ave.]]></title>
+            <description><![CDATA[504B King Regular service has resumed between Queen St West at Dufferin St West Side and Dufferin St at Springhurst Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64265</guid>
-            <pubDate>2026-03-12T11:10:13.623Z</pubDate>
+            <guid isPermaLink="false">64302</guid>
+            <pubDate>2026-03-12T22:32:39.717Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></title>
@@ -26,6 +26,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64292</guid>
             <pubDate>2026-03-12T19:50:53.077Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 36 Finch West: Detour westbound via Sentinel Rd, The Pond Rd, Shoreham Dr and Jane St due to a collision.]]></title>
+            <description><![CDATA[36 Finch West: Detour westbound via Sentinel Rd, The Pond Rd, Shoreham Dr and Jane St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64301</guid>
+            <pubDate>2026-03-12T22:12:13.38Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 110 Islington South: Detour southbound via Browns Line and Lakeshore Blvd West due to police activity.]]></title>
+            <description><![CDATA[Buses are not servicing Long Branch Loop.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64299</guid>
+            <pubDate>2026-03-12T22:04:33.63Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 123 Sherway: Detour southbound via Browns Line and Lakeshore Blvd West due to police activity.]]></title>
+            <description><![CDATA[Buses are not servicing Long Branch Loop.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64300</guid>
+            <pubDate>2026-03-12T22:04:17.843Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -112,11 +133,18 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Dufferin: Elevator back in service between concourse and Line 2 westbound platform.]]></title>
-            <description><![CDATA[Dufferin: Elevator back in service between concourse and Line 2 westbound platform.]]></description>
+            <title><![CDATA[♿ Wilson: Escalator 8S1E out of service from Wilson Ave north side entrance and concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[Wilson: Escalator 8S1E out of service from Wilson Ave north side entrance and concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64286</guid>
-            <pubDate>2026-03-12T19:44:50.15Z</pubDate>
+            <guid isPermaLink="false">64298</guid>
+            <pubDate>2026-03-12T21:56:03.12Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St Clair West: Escalator 3S3E out of service from bus and Streetcar platform to St Clair Ave W north side entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[St Clair West: Escalator 3S3E out of service from bus and Streetcar platform to St Clair Ave W north side entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64297</guid>
+            <pubDate>2026-03-12T21:50:42.93Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></title>
@@ -145,13 +173,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64246</guid>
             <pubDate>2026-03-12T07:28:52.783Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Vaughan Metropolitan Centre: Elevator 15S2L out of service between Millway Ave west side entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Vaughan Metropolitan Centre: Elevator 15S2L out of service between Millway Ave west side entrance and concourse while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64230</guid>
-            <pubDate>2026-03-12T01:15:22.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
