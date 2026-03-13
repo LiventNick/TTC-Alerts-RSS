@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 11:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 12:24:55 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -112,6 +112,20 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ High Park: Escalator 10B2E out of service from west concourse to Line 2 Kennedy platform while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[High Park: Escalator 10B2E out of service from west concourse to Line 2 Kennedy platform while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64323</guid>
+            <pubDate>2026-03-13T07:55:44.037Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Kipling: Escalator 16B6E out of service from concourse to Aukland Rd entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[Kipling: Escalator 16B6E out of service from concourse to Aukland Rd entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64321</guid>
+            <pubDate>2026-03-13T07:54:31.797Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Downsview Park: Elevator 10S3L out of service between GO Station entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></title>
             <description><![CDATA[Downsview Park: Elevator 10S3L out of service between GO Station entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -124,6 +138,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64313</guid>
             <pubDate>2026-03-13T07:14:10.847Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Kennedy: Escalator 16D2E out of service from Line 2 platform to concourse due to construction. Escalator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[Kennedy: Escalator 16D2E out of service from Line 2 platform to concourse due to construction. Escalator is expected to be back in service March 13, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64291</guid>
+            <pubDate>2026-03-13T08:00:01.14Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Donlands: Escalator 9D2E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
