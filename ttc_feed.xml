@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 18:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 18:59:14 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -28,11 +28,32 @@
             <pubDate>2026-03-13T07:40:45.38Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 506 Carlton: Detour eastbound via University Ave, Gerrard St E, Church St and Carlton St due to a collision.]]></title>
+            <description><![CDATA[506 Carlton: Detour eastbound via University Ave, Gerrard St E, Church St and Carlton St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64397</guid>
+            <pubDate>2026-03-13T14:34:21.08Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 20 Cliffside: Detour via Danforth Ave and Birchmount Rd due to weather conditions.]]></title>
             <description><![CDATA[20 Cliffside: Detour via Danforth Ave and Birchmount Rd due to weather conditions.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64395</guid>
             <pubDate>2026-03-13T13:37:41.503Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 24 Victoria Park: Detour southbound via Consumers Rd due to a blocked road.]]></title>
+            <description><![CDATA[24 Victoria Park: Detour southbound via Consumers Rd due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64400</guid>
+            <pubDate>2026-03-13T14:55:27.787Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 24 Victoria Park: Detour northbound via Yorkland Blvd due to a blocked road.]]></title>
+            <description><![CDATA[24 Victoria Park: Detour northbound via Yorkland Blvd due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64399</guid>
+            <pubDate>2026-03-13T14:54:49.057Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 28 Bayview South: No service between Bayview Ave at Moore Ave and 550 Bayview Ave - Evergreen Brick Works due to weather conditions.]]></title>
@@ -82,6 +103,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64392</guid>
             <pubDate>2026-03-13T13:26:48.957Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 97 Yonge: Detour southbound via Carlton St, Church St and Shuter St due to a collision.]]></title>
+            <description><![CDATA[97 Yonge: Detour southbound via Carlton St, Church St and Shuter St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64398</guid>
+            <pubDate>2026-03-13T14:50:26.54Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Turbine Dr and Garyray Dr due to construction.]]></title>
