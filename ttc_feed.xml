@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 04:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 05:33:39 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
@@ -35,18 +35,18 @@
             <pubDate>2026-03-12T23:18:03.983Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 110 Islington South: Detour southbound via Browns Line and Lakeshore Blvd West due to police activity.]]></title>
+            <title><![CDATA[🚌 110 Islington South Regular service has resumed southbound near Long Branch Loop.]]></title>
             <description><![CDATA[Buses are not servicing Long Branch Loop.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64299</guid>
-            <pubDate>2026-03-12T22:04:33.63Z</pubDate>
+            <pubDate>2026-03-13T01:28:16.317Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 123 Sherway: Detour southbound via Browns Line and Lakeshore Blvd West due to police activity.]]></title>
+            <title><![CDATA[🚌 123 Sherway Regular service has resumed southbound near Long Branch Loop.]]></title>
             <description><![CDATA[Buses are not servicing Long Branch Loop.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64300</guid>
-            <pubDate>2026-03-12T22:04:17.843Z</pubDate>
+            <pubDate>2026-03-13T01:28:27.14Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 939 Finch Express: Detour via Leslie St, Cummer Ave and Bayview Ave due to a collision.]]></title>
@@ -138,20 +138,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Wilson: Escalator 8S1E out of service from Wilson Ave north side entrance and concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
-            <description><![CDATA[Wilson: Escalator 8S1E out of service from Wilson Ave north side entrance and concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64298</guid>
-            <pubDate>2026-03-12T21:56:03.12Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St Clair West: Escalator 3S3E out of service from bus and Streetcar platform to St Clair Ave W north side entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
-            <description><![CDATA[St Clair West: Escalator 3S3E out of service from bus and Streetcar platform to St Clair Ave W north side entrance while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64297</guid>
-            <pubDate>2026-03-12T21:50:42.93Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></title>
