@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 16:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 17:35:57 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at Wellesley station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at Wellesley station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64390</guid>
+            <pubDate>2026-03-13T13:24:30.803Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Broadview and Woodbine stations.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Broadview and Woodbine stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64384</guid>
-            <pubDate>2026-03-13T12:47:18.227Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: On Saturday, March 14, there will be no subway service between St George and Broadview stations, due to planned track work. Shuttle buses will operate. Regular subway service will resume the following morning at 8 a.m.]]></title>
@@ -35,11 +35,32 @@
             <pubDate>2026-03-13T07:40:45.38Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: Detour westbound via Gerrard St E and Parliament St due to a blocked track.]]></title>
-            <description><![CDATA[505 Dundas: Detour westbound via Gerrard St E and Parliament St due to a blocked track.]]></description>
+            <title><![CDATA[🚌 39 Finch East: Detour via Leslie St, Steeles Ave E and Bayview Ave due to weather conditions.]]></title>
+            <description><![CDATA[39 Finch East: Detour via Leslie St, Steeles Ave E and Bayview Ave due to weather conditions.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64329</guid>
-            <pubDate>2026-03-13T11:46:37.63Z</pubDate>
+            <guid isPermaLink="false">64393</guid>
+            <pubDate>2026-03-13T13:35:14.717Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 42 Cummer: Detour via Leslie St, Steeles Ave E and Bayview Ave due to weather conditions.]]></title>
+            <description><![CDATA[42 Cummer: Detour via Leslie St, Steeles Ave E and Bayview Ave due to weather conditions.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64389</guid>
+            <pubDate>2026-03-13T13:21:01.927Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 53 Steeles East: Detour westbound via Mcnicoll Ave and Markham Rd due to police activity.]]></title>
+            <description><![CDATA[53 Steeles East: Detour westbound via Mcnicoll Ave and Markham Rd due to police activity.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64388</guid>
+            <pubDate>2026-03-13T12:58:35.67Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 53 Steeles East: Detour eastbound via Tapscott Rd and Mcnicoll Ave due to police activity.]]></title>
+            <description><![CDATA[53 Steeles East: Detour eastbound via Tapscott Rd and Mcnicoll Ave due to police activity.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64387</guid>
+            <pubDate>2026-03-13T12:57:20.67Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 77 Swansea: Detour via Bloor St W and Windermere Ave due to weather conditions.]]></title>
@@ -49,11 +70,11 @@
             <pubDate>2026-03-13T12:52:26.947Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 100 Flemingdon Park: Detour via Eglinton Ave E, Don Mills Rd and St Dennis Dr due to weather conditions.]]></title>
-            <description><![CDATA[100 Flemingdon Park: Detour via Eglinton Ave E, Don Mills Rd and St Dennis Dr due to weather conditions.]]></description>
+            <title><![CDATA[🚌 84 Sheppard West: Detour via Jane St, Finch Ave W and Keele St due to a collision.]]></title>
+            <description><![CDATA[84 Sheppard West: Detour via Jane St, Finch Ave W and Keele St due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64335</guid>
-            <pubDate>2026-03-13T12:26:26.197Z</pubDate>
+            <guid isPermaLink="false">64392</guid>
+            <pubDate>2026-03-13T13:26:48.957Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Turbine Dr and Garyray Dr due to construction.]]></title>
@@ -63,11 +84,18 @@
             <pubDate>2026-03-13T05:45:20.41Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 169 Huntingwood: Detour eastbound via Birchmount Rd, Finch Ave E and Kennedy Rd due to weather conditions.]]></title>
-            <description><![CDATA[169 Huntingwood: Detour eastbound via Birchmount Rd, Finch Ave E and Kennedy Rd due to weather conditions.]]></description>
+            <title><![CDATA[🚌 902 Markham Rd Express: Detour northbound via Markham Rd due to a collision.]]></title>
+            <description><![CDATA[902 Markham Rd Express: Detour northbound via Markham Rd due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64385</guid>
-            <pubDate>2026-03-13T12:51:08.98Z</pubDate>
+            <guid isPermaLink="false">64391</guid>
+            <pubDate>2026-03-13T13:22:14.71Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 939 Finch Express: Detour via Leslie St, Steeles Ave E and Bayview Ave due to weather conditions.]]></title>
+            <description><![CDATA[939 Finch Express: Detour via Leslie St, Steeles Ave E and Bayview Ave due to weather conditions.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64394</guid>
+            <pubDate>2026-03-13T13:35:15.717Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -182,11 +210,11 @@
             <pubDate>2026-03-13T11:00:04.97Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ North York Centre: Elevator 23Y1L out of service between concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></title>
-            <description><![CDATA[North York Centre: Elevator 23Y1L out of service between concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></description>
+            <title><![CDATA[♿ North York Centre: Elevator 23Y2L out of service between concourse and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></title>
+            <description><![CDATA[North York Centre: Elevator 23Y2L out of service between concourse and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64314</guid>
-            <pubDate>2026-03-13T09:00:01.85Z</pubDate>
+            <guid isPermaLink="false">64315</guid>
+            <pubDate>2026-03-13T13:00:01.813Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Woodbine: Escalator 12D2E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
