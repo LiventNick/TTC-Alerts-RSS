@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 17:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 18:03:38 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at Wellesley station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at Wellesley station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64390</guid>
-            <pubDate>2026-03-13T13:24:30.803Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
@@ -33,6 +26,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64320</guid>
             <pubDate>2026-03-13T07:40:45.38Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 20 Cliffside: Detour via Danforth Ave and Birchmount Rd due to weather conditions.]]></title>
+            <description><![CDATA[20 Cliffside: Detour via Danforth Ave and Birchmount Rd due to weather conditions.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64395</guid>
+            <pubDate>2026-03-13T13:37:41.503Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 28 Bayview South: No service between Bayview Ave at Moore Ave and 550 Bayview Ave - Evergreen Brick Works due to weather conditions.]]></title>
+            <description><![CDATA[28 Bayview South: No service between Bayview Ave at Moore Ave and 550 Bayview Ave - Evergreen Brick Works due to weather conditions.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64396</guid>
+            <pubDate>2026-03-13T13:51:53.837Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 39 Finch East: Detour via Leslie St, Steeles Ave E and Bayview Ave due to weather conditions.]]></title>
@@ -194,13 +201,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64322</guid>
             <pubDate>2026-03-13T10:30:01.79Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Coxwell: Elevator 11D1L out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></title>
-            <description><![CDATA[Coxwell: Elevator 11D1L out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64319</guid>
-            <pubDate>2026-03-13T11:00:04.08Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Downsview Park: Elevator 10S2L out of service between Vitti St east side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 13, 2026.]]></title>
