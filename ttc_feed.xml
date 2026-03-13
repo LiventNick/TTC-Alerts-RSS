@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 13:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 14:27:39 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64320</guid>
             <pubDate>2026-03-13T07:40:45.38Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: No service between High Park Loop and College St at Lansdowne Ave while we respond to a medical emergency.]]></title>
+            <description><![CDATA[506 Carlton: No service between High Park Loop and College St at Lansdowne Ave while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64326</guid>
+            <pubDate>2026-03-13T10:10:42.993Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Turbine Dr and Garyray Dr due to construction.]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58851</guid>
             <pubDate>2026-03-09T11:14:21.267Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🐢 Line 2 Bloor-Danforth: Subway trains will move slower than usual westbound from Kennedy to Warden stations while we work on switch issues.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Subway trains will move slower than usual westbound from Kennedy to Warden stations while we work on switch issues.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63601</guid>
-            <pubDate>2026-03-09T11:13:11.423Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 2 Bloor-Danforth: Subway trains will move slower than usual westbound from Bloor-Yonge to Bay stations while we work on track issues.]]></title>
