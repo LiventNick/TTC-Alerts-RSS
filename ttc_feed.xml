@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 02:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 04:26:19 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64065</guid>
+            <pubDate>2026-03-12T23:59:01.323Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64061</guid>
             <pubDate>2026-03-09T08:45:08.817Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504B King Regular service has resumed between Queen St West at Dufferin St West Side and Dufferin St at Springhurst Ave.]]></title>
-            <description><![CDATA[504B King Regular service has resumed between Queen St West at Dufferin St West Side and Dufferin St at Springhurst Ave.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64302</guid>
-            <pubDate>2026-03-12T22:32:39.717Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 16 Mccowan: Detour northbound via Brimley Rd and Eglinton Ave E due to construction.]]></title>
@@ -28,11 +28,11 @@
             <pubDate>2026-03-12T19:50:53.077Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 36 Finch West: Detour westbound via Sentinel Rd, The Pond Rd, Shoreham Dr and Jane St due to a collision.]]></title>
-            <description><![CDATA[36 Finch West: Detour westbound via Sentinel Rd, The Pond Rd, Shoreham Dr and Jane St due to a collision.]]></description>
+            <title><![CDATA[🚌 39 Finch East: Detour via Leslie St, Cummer Ave and Bayview Ave due to a collision.]]></title>
+            <description><![CDATA[39 Finch East: Detour via Leslie St, Cummer Ave and Bayview Ave due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64301</guid>
-            <pubDate>2026-03-12T22:12:13.38Z</pubDate>
+            <guid isPermaLink="false">64305</guid>
+            <pubDate>2026-03-12T23:18:03.983Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 110 Islington South: Detour southbound via Browns Line and Lakeshore Blvd West due to police activity.]]></title>
@@ -47,6 +47,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64300</guid>
             <pubDate>2026-03-12T22:04:17.843Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 939 Finch Express: Detour via Leslie St, Cummer Ave and Bayview Ave due to a collision.]]></title>
+            <description><![CDATA[939 Finch Express: Detour via Leslie St, Cummer Ave and Bayview Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64304</guid>
+            <pubDate>2026-03-12T23:18:03.167Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -166,13 +173,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64249</guid>
             <pubDate>2026-03-12T07:31:09.773Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bathurst: Escalator 3B3E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></title>
-            <description><![CDATA[Bathurst: Escalator 3B3E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 12, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64246</guid>
-            <pubDate>2026-03-12T07:28:52.783Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
