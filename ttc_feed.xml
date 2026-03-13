@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 20:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 20:51:32 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -21,11 +21,25 @@
             <pubDate>2026-03-13T12:15:52.513Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 6 Finch West: Delays westbound from Humber College to Martin Grove stations due to a track switch issue.]]></title>
+            <description><![CDATA[Line 6 Finch West: Delays westbound from Humber College to Martin Grove stations due to a track switch issue.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64410</guid>
+            <pubDate>2026-03-13T16:34:34.75Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 504 King: Detour eastbound via Front St E, Princess St and King St E due to construction.]]></title>
             <description><![CDATA[504 King: Detour eastbound via Front St E, Princess St and King St E due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64320</guid>
             <pubDate>2026-03-13T07:40:45.38Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to police activity.]]></title>
+            <description><![CDATA[506 Carlton: No service between High Park Loop and College St at Lansdowne Ave due to police activity.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64411</guid>
+            <pubDate>2026-03-13T16:39:41.187Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 24 Victoria Park: Detour southbound via Consumers Rd due to a blocked road.]]></title>
@@ -42,25 +56,11 @@
             <pubDate>2026-03-13T14:54:49.057Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 42 Cummer: Detour via Leslie St, Steeles Ave E and Bayview Ave due to weather conditions.]]></title>
-            <description><![CDATA[42 Cummer: Detour via Leslie St, Steeles Ave E and Bayview Ave due to weather conditions.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64389</guid>
-            <pubDate>2026-03-13T13:21:01.927Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Turbine Dr and Garyray Dr due to construction.]]></title>
             <description><![CDATA[165 Weston Rd North: Detour westbound via Turbine Dr and Garyray Dr due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64311</guid>
             <pubDate>2026-03-13T05:45:20.41Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 902 Markham Rd Express Regular service has resumed northbound from Markham Rd at Progress Ave to Milner Ave at Markham Rd.]]></title>
-            <description><![CDATA[902 Markham Rd Express Regular service has resumed northbound from Markham Rd at Progress Ave to Milner Ave at Markham Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64391</guid>
-            <pubDate>2026-03-13T15:53:56.767Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -138,6 +138,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Lansdowne: Elevator 7B1L out of service between Lansdowne Avenue east side entrance and concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Lansdowne: Elevator 7B1L out of service between Lansdowne Avenue east side entrance and concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64409</guid>
+            <pubDate>2026-03-13T16:26:04.507Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse while we perform maintenance. Escalator is expected to be back in service March 16, 2026.]]></title>
