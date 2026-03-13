@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 22:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 22:59:49 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64327</guid>
             <pubDate>2026-03-13T12:15:52.513Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed between Norfinch Oakdale and Driftwood stations.]]></title>
-            <description><![CDATA[Line 6 Finch West Regular service has resumed between Norfinch Oakdale and Driftwood stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64416</guid>
-            <pubDate>2026-03-13T18:37:40.49Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 6 Finch West: Delays westbound from Humber College to Martin Grove stations due to a track switch issue.]]></title>
@@ -126,6 +119,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Greenwood: Elevator 10D2L out of service Concourse to Line 2 Kipling Platform while we perform maintenance.]]></title>
+            <description><![CDATA[Greenwood: Elevator 10D2L out of service Concourse to Line 2 Kipling Platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64417</guid>
+            <pubDate>2026-03-13T18:40:22.5Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></title>
             <description><![CDATA[Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -133,11 +133,11 @@
             <pubDate>2026-03-13T17:07:34.22Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Lansdowne: Elevator 7B1L out of service between Lansdowne Avenue east side entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Lansdowne: Elevator 7B1L out of service between Lansdowne Avenue east side entrance and concourse while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Lansdowne: Elevator back in service between Lansdowne Avenue east side entrance and concourse.]]></title>
+            <description><![CDATA[Lansdowne: Elevator back in service between Lansdowne Avenue east side entrance and concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64409</guid>
-            <pubDate>2026-03-13T16:26:04.507Z</pubDate>
+            <pubDate>2026-03-13T18:44:26.13Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse while we perform maintenance. Escalator is expected to be back in service March 16, 2026.]]></title>
