@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 21:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 22:38:04 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -21,6 +21,13 @@
             <pubDate>2026-03-13T12:15:52.513Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed between Norfinch Oakdale and Driftwood stations.]]></title>
+            <description><![CDATA[Line 6 Finch West Regular service has resumed between Norfinch Oakdale and Driftwood stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64416</guid>
+            <pubDate>2026-03-13T18:37:40.49Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚇 Line 6 Finch West: Delays westbound from Humber College to Martin Grove stations due to a track switch issue.]]></title>
             <description><![CDATA[Line 6 Finch West: Delays westbound from Humber College to Martin Grove stations due to a track switch issue.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -33,13 +40,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64413</guid>
             <pubDate>2026-03-13T17:15:49.16Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 42 Cummer: Detour via Bayview Ave, Finch Ave E and Leslie St due to weather conditions.]]></title>
-            <description><![CDATA[42 Cummer: Detour via Bayview Ave, Finch Ave E and Leslie St due to weather conditions.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64414</guid>
-            <pubDate>2026-03-13T17:29:14.857Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Turbine Dr and Garyray Dr due to construction.]]></title>
