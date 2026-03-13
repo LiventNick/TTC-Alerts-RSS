@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 13 Mar 2026 19:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 20:01:28 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
@@ -28,13 +28,6 @@
             <pubDate>2026-03-13T07:40:45.38Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: Detour eastbound via University Ave, Gerrard St E, Church St and Carlton St due to a collision.]]></title>
-            <description><![CDATA[506 Carlton: Detour eastbound via University Ave, Gerrard St E, Church St and Carlton St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64397</guid>
-            <pubDate>2026-03-13T14:34:21.08Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 24 Victoria Park: Detour southbound via Consumers Rd due to a blocked road.]]></title>
             <description><![CDATA[24 Victoria Park: Detour southbound via Consumers Rd due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -56,13 +49,6 @@
             <pubDate>2026-03-13T13:21:01.927Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 77 Swansea Regular service has resumed between Runnymede Rd at Morningside Ave and Coe Hill Dr at The Queensway.]]></title>
-            <description><![CDATA[77 Swansea Regular service has resumed between Runnymede Rd at Morningside Ave and Coe Hill Dr at The Queensway.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64386</guid>
-            <pubDate>2026-03-13T15:29:19.98Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Turbine Dr and Garyray Dr due to construction.]]></title>
             <description><![CDATA[165 Weston Rd North: Detour westbound via Turbine Dr and Garyray Dr due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -70,11 +56,11 @@
             <pubDate>2026-03-13T05:45:20.41Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 902 Markham Rd Express: Detour northbound via Markham Rd due to a collision.]]></title>
-            <description><![CDATA[902 Markham Rd Express: Detour northbound via Markham Rd due to a collision.]]></description>
+            <title><![CDATA[🚌 902 Markham Rd Express Regular service has resumed northbound from Markham Rd at Progress Ave to Milner Ave at Markham Rd.]]></title>
+            <description><![CDATA[902 Markham Rd Express Regular service has resumed northbound from Markham Rd at Progress Ave to Milner Ave at Markham Rd.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64391</guid>
-            <pubDate>2026-03-13T13:22:14.71Z</pubDate>
+            <pubDate>2026-03-13T15:53:56.767Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -180,34 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64277</guid>
             <pubDate>2026-03-12T15:42:10.393Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator back in service from north concourse to Line 1 platform.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator back in service from north concourse to Line 1 platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64258</guid>
-            <pubDate>2026-03-13T15:30:03.343Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Finch West: Escalator back in service from concourse to Keele St west side entrance.]]></title>
-            <description><![CDATA[Finch West: Escalator back in service from concourse to Keele St west side entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64257</guid>
-            <pubDate>2026-03-13T15:30:02.797Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ York University: Escalator back in service from concourse to York Boulevard entrance.]]></title>
-            <description><![CDATA[York University: Escalator back in service from concourse to York Boulevard entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64254</guid>
-            <pubDate>2026-03-13T15:30:03.827Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Highway 407: Escalator back in service from concourse to Parking Lot entrance.]]></title>
-            <description><![CDATA[Highway 407: Escalator back in service from concourse to Parking Lot entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64253</guid>
-            <pubDate>2026-03-13T15:30:02.28Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ York University: Escalator 12S4E out of service from concourse to Line 1 platform while we perform maintenance.]]></title>
