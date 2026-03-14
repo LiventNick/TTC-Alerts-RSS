@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 22:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 23:28:45 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,46 +21,11 @@
             <pubDate>2026-03-14T13:59:12.413Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour via Parliament St, King St W and Spadina Ave due to a protest.]]></title>
-            <description><![CDATA[501 Queen: Detour via Parliament St, King St W and Spadina Ave due to a protest.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64448</guid>
-            <pubDate>2026-03-14T17:57:21.383Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 505 Dundas: No service between Dundas St West at McCaul St and Dundas St East at Parliament St due to a protest.]]></title>
-            <description><![CDATA[505 Dundas: No service between Dundas St West at McCaul St and Dundas St East at Parliament St due to a protest.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64450</guid>
-            <pubDate>2026-03-14T17:58:44.653Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 506 Carlton: No service between College St at Spadina Ave and Carlton St at Parliament St due to a protest.]]></title>
-            <description><![CDATA[506 Carlton: No service between College St at Spadina Ave and Carlton St at Parliament St due to a protest.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64449</guid>
-            <pubDate>2026-03-14T17:59:05.64Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚋 510 Spadina: Delays near Queens Quay/Ferry Docks Station due to a demonstration.]]></title>
             <description><![CDATA[510 Spadina: Delays near Queens Quay/Ferry Docks Station due to a demonstration.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64454</guid>
             <pubDate>2026-03-14T15:14:42.68Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 19 Bay: Detour southbound via Wellesley St, Church St and King St W due to a demonstration.]]></title>
-            <description><![CDATA[19 Bay: Detour southbound via Wellesley St, Church St and King St W due to a demonstration.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64458</guid>
-            <pubDate>2026-03-14T16:34:16.58Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 19 Bay: Detour northbound via Adelaide St W, Church St and Wellesley St due to a demonstration.]]></title>
-            <description><![CDATA[19 Bay: Detour northbound via Adelaide St W, Church St and Wellesley St due to a demonstration.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64457</guid>
-            <pubDate>2026-03-14T16:33:07.887Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
