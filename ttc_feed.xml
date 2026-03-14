@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 13:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 14:16:14 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -12,20 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64334</guid>
             <pubDate>2026-03-14T05:00:01.32Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 1 Eglinton Station - Automatic entrance closed due to emergency repair work. Station is still accessible via Eglinton and all Line 5 ECLRT entrances. See other service alerts.]]></title>
-            <description><![CDATA[Line 1 Eglinton Station - Automatic entrance closed due to emergency repair work. Station is still accessible via Eglinton and all Line 5 ECLRT entrances. <a href="https://www.ttc.ca/service-alerts" target="_blank">See other service alerts.</a>]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64413</guid>
-            <pubDate>2026-03-13T17:15:49.16Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 64 Main: Detour via Glen Stewart Ave, Winthorpe Rd and Beaufort Rd due to a blocked road.]]></title>
-            <description><![CDATA[64 Main: Detour via Glen Stewart Ave, Winthorpe Rd and Beaufort Rd due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64435</guid>
-            <pubDate>2026-03-14T09:30:52.32Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
@@ -140,11 +126,11 @@
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Eglinton: Elevator back in service between Yonge St west side entrance and Line 1 centre platform.]]></title>
+            <description><![CDATA[Eglinton: Elevator back in service between Yonge St west side entrance and Line 1 centre platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64412</guid>
-            <pubDate>2026-03-13T17:07:34.22Z</pubDate>
+            <pubDate>2026-03-14T10:06:52.733Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse while we perform maintenance. Escalator is expected to be back in service March 16, 2026.]]></title>
