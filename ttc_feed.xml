@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 17:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 18:01:58 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64334</guid>
             <pubDate>2026-03-14T05:00:01.32Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour eastbound via Spadina Ave, Adelaide St E and Church St due to a protest.]]></title>
+            <description><![CDATA[501 Queen: Detour eastbound via Spadina Ave, Adelaide St E and Church St due to a protest.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64447</guid>
+            <pubDate>2026-03-14T13:59:12.413Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour via Church St, King St W and Spadina Ave due to a protest.]]></title>
+            <description><![CDATA[501 Queen: Detour via Church St, King St W and Spadina Ave due to a protest.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64448</guid>
+            <pubDate>2026-03-14T14:00:01.607Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 69 Warden South: Detour southbound via Danforth Ave, Birchmount Rd and Mack Ave due to roadway blocked by TFS.]]></title>
