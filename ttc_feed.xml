@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 12:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 13:47:39 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64413</guid>
             <pubDate>2026-03-13T17:15:49.16Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 64 Main: Detour via Glen Stewart Ave, Winthorpe Rd and Beaufort Rd due to a blocked road.]]></title>
+            <description><![CDATA[64 Main: Detour via Glen Stewart Ave, Winthorpe Rd and Beaufort Rd due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64435</guid>
+            <pubDate>2026-03-14T09:30:52.32Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
+            <description><![CDATA[97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64433</guid>
+            <pubDate>2026-03-14T09:21:52.06Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -96,6 +110,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 14, 2026.]]></title>
+            <description><![CDATA[Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 14, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64436</guid>
+            <pubDate>2026-03-14T09:47:13.537Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></title>
+            <description><![CDATA[Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64434</guid>
+            <pubDate>2026-03-14T09:30:40.46Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Runnymede: Elevator 11B3L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
