@@ -4,21 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 02:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 04:25:06 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed southbound at Osgoode station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed southbound at Osgoode station.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64423</guid>
-            <pubDate>2026-03-13T22:44:34.813Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 9 to Friday, March 13, due to planned station work. Shuttle buses will operate.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64061</guid>
-            <pubDate>2026-03-09T08:45:08.817Z</pubDate>
+            <guid isPermaLink="false">64066</guid>
+            <pubDate>2026-03-13T23:59:02.79Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: On Saturday, March 14, there will be no subway service between St George and Broadview stations, due to planned track work. Shuttle buses will operate. Regular subway service will resume the following morning at 8 a.m.]]></title>
@@ -26,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64327</guid>
             <pubDate>2026-03-13T12:15:52.513Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: Delays westbound at Aga Khan Park & Museum station due to an operational problem.]]></title>
-            <description><![CDATA[Shuttle buses are operating.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64422</guid>
-            <pubDate>2026-03-13T22:15:30.467Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 1 Eglinton Station - Automatic entrance closed due to emergency repair work. Station is still accessible via Eglinton and all Line 5 ECLRT entrances. See other service alerts.]]></title>
@@ -217,13 +203,6 @@
             <pubDate>2026-03-06T07:08:14.467Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Bloor-Yonge: Escalator 3D10E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></title>
-            <description><![CDATA[Bloor-Yonge: Escalator 3D10E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 13, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63834</guid>
-            <pubDate>2026-03-05T18:54:02.96Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
             <description><![CDATA[St Clair: Elevator 16Y2L out of service between concourse and Line 1 northbound platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -271,13 +250,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62523</guid>
             <pubDate>2026-02-25T13:18:05.427Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Dupont: Escalator 2S8E out of service from concourse to Dupont St north side entrance due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></title>
-            <description><![CDATA[Dupont: Escalator 2S8E out of service from concourse to Dupont St north side entrance due to a technical problem. Escalator is expected to be back in service March 13, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">62363</guid>
-            <pubDate>2026-03-06T14:00:21.697Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch: Escalator 22Y11E out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
