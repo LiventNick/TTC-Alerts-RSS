@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 17:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 17:46:03 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-14T05:00:01.32Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 69 Warden South: Detour via Danforth Ave, Birchmount Rd and Mack Ave due to roadway blocked by TFS.]]></title>
-            <description><![CDATA[69 Warden South: Detour via Danforth Ave, Birchmount Rd and Mack Ave due to roadway blocked by TFS.]]></description>
+            <title><![CDATA[🚌 69 Warden South: Detour southbound via Danforth Ave, Birchmount Rd and Mack Ave due to roadway blocked by TFS.]]></title>
+            <description><![CDATA[69 Warden South: Detour southbound via Danforth Ave, Birchmount Rd and Mack Ave due to roadway blocked by TFS.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64440</guid>
-            <pubDate>2026-03-14T10:47:19.58Z</pubDate>
+            <pubDate>2026-03-14T13:19:50.967Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
@@ -28,11 +28,11 @@
             <pubDate>2026-03-14T09:21:52.06Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 135 Gerrard: Detour via Danforth Ave, Birchmount Rd, Mack Ave and Warden Ave due to police activity.]]></title>
-            <description><![CDATA[135 Gerrard: Detour via Danforth Ave, Birchmount Rd, Mack Ave and Warden Ave due to police activity.]]></description>
+            <title><![CDATA[🚌 135 Gerrard: Detour westbound via Danforth Ave, Birchmount Rd, Mack Ave and Warden Ave due to police activity.]]></title>
+            <description><![CDATA[135 Gerrard: Detour westbound via Danforth Ave, Birchmount Rd, Mack Ave and Warden Ave due to police activity.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64444</guid>
-            <pubDate>2026-03-14T11:08:23.98Z</pubDate>
+            <pubDate>2026-03-14T13:19:51.81Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
