@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 05:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 06:27:32 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned station work. Shuttle buses are running.]]></title>
@@ -26,6 +26,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64413</guid>
             <pubDate>2026-03-13T17:15:49.16Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 116 Morningside: Detour via Mccowan Rd, Kingston Rd and Markham Rd due to a Toronto Fire investigation.]]></title>
+            <description><![CDATA[116 Morningside: Detour via Mccowan Rd, Kingston Rd and Markham Rd due to a Toronto Fire investigation.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64427</guid>
+            <pubDate>2026-03-14T02:25:51.367Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 334 Eglinton: Detour via Mccowan Rd, Kingston Rd and Markham Rd due to a Toronto Fire investigation.]]></title>
+            <description><![CDATA[334 Eglinton: Detour via Mccowan Rd, Kingston Rd and Markham Rd due to a Toronto Fire investigation.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64426</guid>
+            <pubDate>2026-03-14T02:25:50.63Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 386 Scarborough: Detour via Mccowan Rd, Kingston Rd and Markham Rd due to a Toronto Fire investigation.]]></title>
+            <description><![CDATA[386 Scarborough: Detour via Mccowan Rd, Kingston Rd and Markham Rd due to a Toronto Fire investigation.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64428</guid>
+            <pubDate>2026-03-14T02:25:52.02Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -112,11 +133,11 @@
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Greenwood: Elevator 10D2L out of service Concourse to Line 2 Kipling Platform while we perform maintenance.]]></title>
-            <description><![CDATA[Greenwood: Elevator 10D2L out of service Concourse to Line 2 Kipling Platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Greenwood: Elevator back in service Concourse to Line 2 Kipling Platform.]]></title>
+            <description><![CDATA[Greenwood: Elevator back in service Concourse to Line 2 Kipling Platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64417</guid>
-            <pubDate>2026-03-13T18:40:22.5Z</pubDate>
+            <pubDate>2026-03-14T02:21:06.82Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></title>
