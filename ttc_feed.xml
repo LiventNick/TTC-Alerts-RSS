@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 11:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 12:54:34 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64413</guid>
             <pubDate>2026-03-13T17:15:49.16Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 72 Pape: Detour southbound via Donlands Ave, O'connor Dr and Pape Ave due to a collision.]]></title>
-            <description><![CDATA[72 Pape: Detour southbound via Donlands Ave, O'connor Dr and Pape Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64432</guid>
-            <pubDate>2026-03-14T07:51:53.403Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
