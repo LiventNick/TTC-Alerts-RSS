@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 20:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 20:58:08 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64334</guid>
             <pubDate>2026-03-14T05:00:01.32Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed westbound at Aga Khan Park & Museum station.]]></title>
+            <description><![CDATA[Line 5 Eglinton Regular service has resumed westbound at Aga Khan Park & Museum station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64459</guid>
+            <pubDate>2026-03-14T16:46:11.967Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 501 Queen: Detour eastbound via Spadina Ave, Adelaide St E and Church St due to a protest.]]></title>
@@ -42,6 +49,13 @@
             <pubDate>2026-03-14T14:11:01.913Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 506 Carlton: Detour westbound via Spadina Ave and Dundas St W while we fix a mechanical problem.]]></title>
+            <description><![CDATA[506 Carlton: Detour westbound via Spadina Ave and Dundas St W while we fix a mechanical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64460</guid>
+            <pubDate>2026-03-14T16:48:15.06Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 510 Spadina: Delays near Queens Quay/Ferry Docks Station due to a demonstration.]]></title>
             <description><![CDATA[510 Spadina: Delays near Queens Quay/Ferry Docks Station due to a demonstration.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -49,11 +63,25 @@
             <pubDate>2026-03-14T15:14:42.68Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 57 Midland: Detour southbound via Mcnicoll Ave, Midland Ave and Finch Ave E due to a collision.]]></title>
-            <description><![CDATA[57 Midland: Detour southbound via Mcnicoll Ave, Midland Ave and Finch Ave E due to a collision.]]></description>
+            <title><![CDATA[🚌 19 Bay: Detour southbound via Wellesley St, Church St and King St W due to a demonstration.]]></title>
+            <description><![CDATA[19 Bay: Detour southbound via Wellesley St, Church St and King St W due to a demonstration.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64458</guid>
+            <pubDate>2026-03-14T16:34:16.58Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 19 Bay: Detour northbound via Adelaide St W, Church St and Wellesley St due to a demonstration.]]></title>
+            <description><![CDATA[19 Bay: Detour northbound via Adelaide St W, Church St and Wellesley St due to a demonstration.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64457</guid>
+            <pubDate>2026-03-14T16:33:07.887Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 57 Midland Regular service has resumed southbound near Midland Ave at Silver Star Blvd.]]></title>
+            <description><![CDATA[57 Midland Regular service has resumed southbound near Midland Ave at Silver Star Blvd.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64456</guid>
-            <pubDate>2026-03-14T16:06:43.113Z</pubDate>
+            <pubDate>2026-03-14T16:54:02.203Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
