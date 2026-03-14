@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 21:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 22:27:59 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed southbound at Sheppard-Yonge station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed southbound at Sheppard-Yonge station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64462</guid>
+            <pubDate>2026-03-14T18:23:45.627Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[https://files.ttc.ca/public-images/public-image-639089972402684531.jpg]]></description>
@@ -21,25 +28,25 @@
             <pubDate>2026-03-14T13:59:12.413Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour westbound via Church St, King St W and Spadina Ave due to a protest.]]></title>
-            <description><![CDATA[501 Queen: Detour westbound via Church St, King St W and Spadina Ave due to a protest.]]></description>
+            <title><![CDATA[🚋 501 Queen: Detour via Parliament St, King St W and Spadina Ave due to a protest.]]></title>
+            <description><![CDATA[501 Queen: Detour via Parliament St, King St W and Spadina Ave due to a protest.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64448</guid>
-            <pubDate>2026-03-14T14:33:45.773Z</pubDate>
+            <pubDate>2026-03-14T17:57:21.383Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: No service between Dundas St West at McCaul St and Dundas St East at Church St due to a protest.]]></title>
-            <description><![CDATA[505 Dundas: No service between Dundas St West at McCaul St and Dundas St East at Church St due to a protest.]]></description>
+            <title><![CDATA[🚋 505 Dundas: No service between Dundas St West at McCaul St and Dundas St East at Parliament St due to a protest.]]></title>
+            <description><![CDATA[505 Dundas: No service between Dundas St West at McCaul St and Dundas St East at Parliament St due to a protest.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64450</guid>
-            <pubDate>2026-03-14T14:34:29.427Z</pubDate>
+            <pubDate>2026-03-14T17:58:44.653Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: No service between College St at Spadina Ave and Carlton St at Church St due to a protest.]]></title>
-            <description><![CDATA[506 Carlton: No service between College St at Spadina Ave and Carlton St at Church St due to a protest.]]></description>
+            <title><![CDATA[🚋 506 Carlton: No service between College St at Spadina Ave and Carlton St at Parliament St due to a protest.]]></title>
+            <description><![CDATA[506 Carlton: No service between College St at Spadina Ave and Carlton St at Parliament St due to a protest.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64449</guid>
-            <pubDate>2026-03-14T14:11:01.913Z</pubDate>
+            <pubDate>2026-03-14T17:59:05.64Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Delays near Queens Quay/Ferry Docks Station due to a demonstration.]]></title>
@@ -152,13 +159,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64455</guid>
             <pubDate>2026-03-14T15:47:18.957Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64451</guid>
-            <pubDate>2026-03-14T14:39:19.07Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></title>
