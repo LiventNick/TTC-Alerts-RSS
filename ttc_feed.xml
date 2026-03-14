@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 18:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 18:56:15 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,18 +21,25 @@
             <pubDate>2026-03-14T13:59:12.413Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour via Church St, King St W and Spadina Ave due to a protest.]]></title>
-            <description><![CDATA[501 Queen: Detour via Church St, King St W and Spadina Ave due to a protest.]]></description>
+            <title><![CDATA[🚋 501 Queen: Detour westbound via Church St, King St W and Spadina Ave due to a protest.]]></title>
+            <description><![CDATA[501 Queen: Detour westbound via Church St, King St W and Spadina Ave due to a protest.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64448</guid>
-            <pubDate>2026-03-14T14:00:01.607Z</pubDate>
+            <pubDate>2026-03-14T14:33:45.773Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 69 Warden South: Detour southbound via Danforth Ave, Birchmount Rd and Mack Ave due to roadway blocked by TFS.]]></title>
-            <description><![CDATA[69 Warden South: Detour southbound via Danforth Ave, Birchmount Rd and Mack Ave due to roadway blocked by TFS.]]></description>
+            <title><![CDATA[🚋 505 Dundas: No service between Dundas St West at McCaul St and Dundas St East at Church St due to a protest.]]></title>
+            <description><![CDATA[505 Dundas: No service between Dundas St West at McCaul St and Dundas St East at Church St due to a protest.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64440</guid>
-            <pubDate>2026-03-14T13:19:50.967Z</pubDate>
+            <guid isPermaLink="false">64450</guid>
+            <pubDate>2026-03-14T14:34:29.427Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: No service between College St at Spadina Ave and Carlton St at Church St due to a protest.]]></title>
+            <description><![CDATA[506 Carlton: No service between College St at Spadina Ave and Carlton St at Church St due to a protest.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64449</guid>
+            <pubDate>2026-03-14T14:11:01.913Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
@@ -40,13 +47,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64433</guid>
             <pubDate>2026-03-14T09:21:52.06Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 135 Gerrard: Detour westbound via Danforth Ave, Birchmount Rd, Mack Ave and Warden Ave due to police activity.]]></title>
-            <description><![CDATA[135 Gerrard: Detour westbound via Danforth Ave, Birchmount Rd, Mack Ave and Warden Ave due to police activity.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64444</guid>
-            <pubDate>2026-03-14T13:19:51.81Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -126,6 +126,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64451</guid>
+            <pubDate>2026-03-14T14:39:19.07Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></title>
             <description><![CDATA[Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -138,13 +145,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64441</guid>
             <pubDate>2026-03-14T10:52:13.327Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Runnymede: Elevator 11B2L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 14, 2026.]]></title>
-            <description><![CDATA[Runnymede: Elevator 11B2L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 14, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64437</guid>
-            <pubDate>2026-03-14T11:00:01.767Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></title>
