@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 14:49:21 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64334</guid>
             <pubDate>2026-03-14T05:00:01.32Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 69 Warden South: Detour via Danforth Ave, Birchmount Rd and Mack Ave due to roadway blocked by TFS.]]></title>
+            <description><![CDATA[69 Warden South: Detour via Danforth Ave, Birchmount Rd and Mack Ave due to roadway blocked by TFS.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64440</guid>
+            <pubDate>2026-03-14T10:47:19.58Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
@@ -112,25 +119,11 @@
             <pubDate>2026-03-14T09:30:40.46Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Runnymede: Elevator 11B3L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Runnymede: Elevator 11B3L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64431</guid>
-            <pubDate>2026-03-14T07:46:11.88Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while the maintainer performs maintenance.]]></title>
             <description><![CDATA[Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while the maintainer performs maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64421</guid>
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Eglinton: Elevator back in service between Yonge St west side entrance and Line 1 centre platform.]]></title>
-            <description><![CDATA[Eglinton: Elevator back in service between Yonge St west side entrance and Line 1 centre platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64412</guid>
-            <pubDate>2026-03-14T10:06:52.733Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse while we perform maintenance. Escalator is expected to be back in service March 16, 2026.]]></title>
