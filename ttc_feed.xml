@@ -4,21 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 15:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 15:45:00 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: No service between St Clair West and St Andrew stations while we deal with a trespasser on the tracks.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: No service between St Clair West and St Andrew stations while we deal with a trespasser on the tracks.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between St Clair West and St Andrew stations.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between St Clair West and St Andrew stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64442</guid>
-            <pubDate>2026-03-14T11:04:11.387Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Ossington and Broadview stations while we deal with a trespasser on the tracks. Shuttle buses are running between Ossington and Broadview.]]></title>
-            <description><![CDATA[Shuttle buses will be extended to Ossington Station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64443</guid>
-            <pubDate>2026-03-14T11:05:22.303Z</pubDate>
+            <pubDate>2026-03-14T11:32:54.09Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -126,6 +119,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64445</guid>
+            <pubDate>2026-03-14T11:24:54.807Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance.]]></title>
             <description><![CDATA[St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -138,13 +138,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64437</guid>
             <pubDate>2026-03-14T11:00:01.767Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Runnymede: Elevator back in service between Runnymede Rd entrance and concourse.]]></title>
-            <description><![CDATA[Runnymede: Elevator back in service between Runnymede Rd entrance and concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64436</guid>
-            <pubDate>2026-03-14T11:00:01.127Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></title>
