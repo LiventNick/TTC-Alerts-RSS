@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 14 Mar 2026 18:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 19:30:46 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
@@ -40,6 +40,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64449</guid>
             <pubDate>2026-03-14T14:11:01.913Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 510 Spadina: Delays near Queens Quay/Ferry Docks Station due to a demonstration.]]></title>
+            <description><![CDATA[510 Spadina: Delays near Queens Quay/Ferry Docks Station due to a demonstration.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64454</guid>
+            <pubDate>2026-03-14T15:14:42.68Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 89 Weston Regular service has resumed northbound near Weston Rd at Lawrence Ave West.]]></title>
+            <description><![CDATA[89 Weston Regular service has resumed northbound near Weston Rd at Lawrence Ave West.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64453</guid>
+            <pubDate>2026-03-14T15:28:05.99Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
