@@ -4,28 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 21:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 22:38:28 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: Trains are not stopping at St Clair West station due to a security incident.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: Trains are not stopping at St Clair West station due to a security incident.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University: No service between York Mills and Eglinton stations due to a security incident.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: No service between York Mills and Eglinton stations due to a security incident.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64506</guid>
-            <pubDate>2026-03-15T17:57:38.263Z</pubDate>
+            <guid isPermaLink="false">64508</guid>
+            <pubDate>2026-03-15T18:36:47.947Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed at Bloor-Yonge station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed at Bloor-Yonge station.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between York Mills and Eglinton stations.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between York Mills and Eglinton stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64505</guid>
-            <pubDate>2026-03-15T17:44:16.437Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 4 Sheppard Regular service has resumed between Don Mills and Bayview stations.]]></title>
-            <description><![CDATA[Line 4 Sheppard Regular service has resumed between Don Mills and Bayview stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64503</guid>
-            <pubDate>2026-03-15T17:45:35.863Z</pubDate>
+            <guid isPermaLink="false">64507</guid>
+            <pubDate>2026-03-15T18:33:34.547Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to weather conditions.]]></title>
