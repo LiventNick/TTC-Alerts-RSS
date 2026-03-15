@@ -4,14 +4,28 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 17:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 18:18:40 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚌 151 Leslie North: Detour northbound via Van Horne Ave, Seneca Hill Dr, Trudy Rd and Finch Ave E due to a collision.]]></title>
-            <description><![CDATA[151 Leslie North: Detour northbound via Van Horne Ave, Seneca Hill Dr, Trudy Rd and Finch Ave E due to a collision.]]></description>
+            <title><![CDATA[🚋 509 Harbourfront: No service between Fleet St at Bathurst St and Queens Quay West at Lower Spadina Ave East Side while we respond to a medical emergency.]]></title>
+            <description><![CDATA[509 Harbourfront: No service between Fleet St at Bathurst St and Queens Quay West at Lower Spadina Ave East Side while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64495</guid>
+            <pubDate>2026-03-15T14:11:21.563Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 510B Spadina: No service between Queens Quay Loop at Lower Spadina Ave and Spadina Ave at King St West North Side while we respond to a medical emergency.]]></title>
+            <description><![CDATA[510B Spadina: No service between Queens Quay Loop at Lower Spadina Ave and Spadina Ave at King St West North Side while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64494</guid>
+            <pubDate>2026-03-15T14:05:31.45Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 151 Leslie North Regular service has resumed northbound near Leslie St at Van Horne Ave.]]></title>
+            <description><![CDATA[151 Leslie North Regular service has resumed northbound near Leslie St at Van Horne Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64492</guid>
-            <pubDate>2026-03-15T13:19:58.503Z</pubDate>
+            <pubDate>2026-03-15T14:12:08.183Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -168,11 +182,11 @@
             <pubDate>2026-03-10T16:24:36.54Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ TMU: Elevator out of service between Sankofa Square entrance, Line 1 Finch platform, and underpass while we perform maintenance.]]></title>
-            <description><![CDATA[TMU: Elevator out of service between Sankofa Square entrance, Line 1 Finch platform, and underpass while we perform maintenance.]]></description>
+            <title><![CDATA[♿ TMU: Elevator back in service between Sankofa Square entrance, Line 1 Finch platform, and underpass.]]></title>
+            <description><![CDATA[TMU: Elevator back in service between Sankofa Square entrance, Line 1 Finch platform, and underpass.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64046</guid>
-            <pubDate>2026-03-09T01:11:25.77Z</pubDate>
+            <pubDate>2026-03-15T14:12:53.13Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ TMU: Elevator out of service between 10 Dundas St E entrance and Line 1 Finch platform while we perform maintenance.]]></title>
