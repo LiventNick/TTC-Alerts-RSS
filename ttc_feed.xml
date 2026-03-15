@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 11:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 11:36:28 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚋 504 King Regular service has resumed between Distillery Loop and King St East at Church St West Side.]]></title>
-            <description><![CDATA[504 King Regular service has resumed between Distillery Loop and King St East at Church St West Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64477</guid>
-            <pubDate>2026-03-15T06:53:57.547Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚋 506 Carlton: No service between College St at Yonge St - College Station and Carlton St at Church St due to an event.]]></title>
             <description><![CDATA[Roadway blocked due to St. Patrick's Day parade.]]></description>
@@ -26,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64480</guid>
             <pubDate>2026-03-15T06:38:55.867Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 320 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
-            <description><![CDATA[320 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64471</guid>
-            <pubDate>2026-03-15T01:41:50.027Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 385 Sheppard East: Detour eastbound via Warden Ave, Huntingwood Dr and Birchmount Rd due to a collision.]]></title>
