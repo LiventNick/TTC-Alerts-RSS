@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 11:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 12:56:07 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚋 506 Carlton: No service between College St at Yonge St - College Station and Carlton St at Church St due to an event.]]></title>
@@ -14,18 +14,25 @@
             <pubDate>2026-03-15T06:32:21.973Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 7 Bathurst: Detour via Eglinton Ave W, Spadina Ave and Ardmore Rd due to a collision.]]></title>
-            <description><![CDATA[7 Bathurst: Detour via Eglinton Ave W, Spadina Ave and Ardmore Rd due to a collision.]]></description>
+            <title><![CDATA[🚌 7 Bathurst Regular service has resumed southbound from Bathurst St at Ava Rd to Bathurst St at Barton Ave.]]></title>
+            <description><![CDATA[7 Bathurst Regular service has resumed southbound from Bathurst St at Ava Rd to Bathurst St at Barton Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64480</guid>
-            <pubDate>2026-03-15T07:44:39.593Z</pubDate>
+            <pubDate>2026-03-15T08:42:23.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 385 Sheppard East: Detour eastbound via Warden Ave, Huntingwood Dr and Birchmount Rd due to a collision.]]></title>
-            <description><![CDATA[385 Sheppard East: Detour eastbound via Warden Ave, Huntingwood Dr and Birchmount Rd due to a collision.]]></description>
+            <title><![CDATA[🚌 29 Dufferin: Buses are not stopping near Dufferin St at Davenport Rd North Side due to weather conditions.]]></title>
+            <description><![CDATA[29 Dufferin: Buses are not stopping near Dufferin St at Davenport Rd North Side due to weather conditions.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64483</guid>
-            <pubDate>2026-03-15T06:52:59.65Z</pubDate>
+            <guid isPermaLink="false">64486</guid>
+            <pubDate>2026-03-15T08:09:34.02Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 203 High Park: Delays near Colborne Lodge Dr at Bloor St West due to a blocked road.]]></title>
+            <description><![CDATA[203 High Park: Delays near Colborne Lodge Dr at Bloor St West due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64488</guid>
+            <pubDate>2026-03-15T08:38:25.4Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
