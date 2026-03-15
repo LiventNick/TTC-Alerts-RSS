@@ -4,8 +4,43 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 23:00:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 23:41:27 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 4 Sheppard: Trains are not stopping at Bayview station due to a security incident.]]></title>
+            <description><![CDATA[Line 4 Sheppard: Trains are not stopping at Bayview station due to a security incident.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64516</guid>
+            <pubDate>2026-03-15T19:28:27.86Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 34 Eglinton Regular service has resumed eastbound near Eglinton Ave West at Oakwood Ave.]]></title>
+            <description><![CDATA[34 Eglinton Regular service has resumed eastbound near Eglinton Ave West at Oakwood Ave.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64515</guid>
+            <pubDate>2026-03-15T19:29:12.247Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 63 Ossington: Detour northbound via Oakwood Ave, Rogers Rd and Dufferin St due to a collision.]]></title>
+            <description><![CDATA[63 Ossington: Detour northbound via Oakwood Ave, Rogers Rd and Dufferin St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64514</guid>
+            <pubDate>2026-03-15T19:18:04.033Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 63 Ossington: Detour southbound via Marlee Ave, Roselawn Ave, Dufferin St and Rogers Rd due to a collision.]]></title>
+            <description><![CDATA[63 Ossington: Detour southbound via Marlee Ave, Roselawn Ave, Dufferin St and Rogers Rd due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64513</guid>
+            <pubDate>2026-03-15T19:40:53.467Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 90 Vaughan: Detour via Eglinton Ave W, Caledonia Rd, Rogers Rd, Oakwood Ave and Jasmine Ave due to a collision.]]></title>
+            <description><![CDATA[90 Vaughan: Detour via Eglinton Ave W, Caledonia Rd, Rogers Rd, Oakwood Ave and Jasmine Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64512</guid>
+            <pubDate>2026-03-15T19:13:43.39Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚌 203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to weather conditions.]]></title>
             <description><![CDATA[203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to weather conditions.]]></description>
