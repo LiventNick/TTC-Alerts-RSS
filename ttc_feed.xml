@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 09:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 10:32:09 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚋 504 King: No service between Distillery Loop and King St East at Church St West Side while we fix a mechanical problem.]]></title>
@@ -14,11 +14,25 @@
             <pubDate>2026-03-15T05:51:11.633Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: No service between College St at Lansdowne Ave and High Park Loop while we respond to a medical emergency.]]></title>
-            <description><![CDATA[506 Carlton: No service between College St at Lansdowne Ave and High Park Loop while we respond to a medical emergency.]]></description>
+            <title><![CDATA[🚋 506 Carlton Regular service has resumed between College St at Lansdowne Ave and High Park Loop.]]></title>
+            <description><![CDATA[506 Carlton Regular service has resumed between College St at Lansdowne Ave and High Park Loop.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64476</guid>
-            <pubDate>2026-03-15T05:22:56.027Z</pubDate>
+            <pubDate>2026-03-15T06:31:41.927Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton Regular service has resumed between College St at Yonge St - College Station and Carlton St at Church St.]]></title>
+            <description><![CDATA[Roadway closed due to St. Patrick's Day Parade.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64479</guid>
+            <pubDate>2026-03-15T06:31:03.893Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 7 Bathurst: Detour southbound via Eglinton Ave W, Spadina Ave and Ardmore Rd due to a collision.]]></title>
+            <description><![CDATA[7 Bathurst: Detour southbound via Eglinton Ave W, Spadina Ave and Ardmore Rd due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64480</guid>
+            <pubDate>2026-03-15T06:28:48.733Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 320 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
@@ -103,6 +117,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Wilson: Elevator 8S1L out of service between Line 1 platform and street while we perform maintenance.]]></title>
+            <description><![CDATA[Wilson: Elevator 8S1L out of service between Line 1 platform and street while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64478</guid>
+            <pubDate>2026-03-15T06:04:01.42Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></title>
