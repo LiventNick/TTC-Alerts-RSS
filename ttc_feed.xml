@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 13:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 14:31:29 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: No service between Bloor-Yonge and St Clair stations while we fix a brake problem. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: No service between Bloor-Yonge and St Clair stations while we fix a brake problem. Shuttle buses are on the way.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64491</guid>
-            <pubDate>2026-03-15T09:40:26.127Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚋 506 Carlton: No service between College St at Yonge St - College Station and Carlton St at Church St due to an event.]]></title>
             <description><![CDATA[Roadway blocked due to St. Patrick's Day parade.]]></description>
@@ -112,11 +105,11 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Wilson: Elevator 8S1L out of service between Line 1 platform and street while we perform maintenance.]]></title>
-            <description><![CDATA[Wilson: Elevator 8S1L out of service between Line 1 platform and street while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Wilson: Elevator back in service between Line 1 platform and street.]]></title>
+            <description><![CDATA[Wilson: Elevator back in service between Line 1 platform and street.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64478</guid>
-            <pubDate>2026-03-15T06:04:01.42Z</pubDate>
+            <pubDate>2026-03-15T10:20:37.82Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></title>
