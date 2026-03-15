@@ -4,14 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 17:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 17:47:39 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚌 203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.]]></title>
-            <description><![CDATA[203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.]]></description>
+            <title><![CDATA[🚌 151 Leslie North: Detour northbound via Van Horne Ave, Seneca Hill Dr, Trudy Rd and Finch Ave E due to a collision.]]></title>
+            <description><![CDATA[151 Leslie North: Detour northbound via Van Horne Ave, Seneca Hill Dr, Trudy Rd and Finch Ave E due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64488</guid>
-            <pubDate>2026-03-15T11:07:33.673Z</pubDate>
+            <guid isPermaLink="false">64492</guid>
+            <pubDate>2026-03-15T13:19:58.503Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -89,6 +89,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Victoria Park: Elevator 14D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Victoria Park: Elevator 14D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64493</guid>
+            <pubDate>2026-03-15T13:37:11.47Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></title>
