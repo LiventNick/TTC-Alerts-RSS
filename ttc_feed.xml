@@ -4,14 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 19:00:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 19:39:06 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚋 510B Spadina Regular service has resumed between Queens Quay Loop at Lower Spadina Ave and Spadina Ave at King St West North Side.]]></title>
-            <description><![CDATA[510B Spadina Regular service has resumed between Queens Quay Loop at Lower Spadina Ave and Spadina Ave at King St West North Side.]]></description>
+            <title><![CDATA[🚋 505 Dundas: Detour westbound via Lansdowne Avenue and College St due to a blocked track.]]></title>
+            <description><![CDATA[505 Dundas: Detour westbound via Lansdowne Avenue and College St due to a blocked track.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64494</guid>
-            <pubDate>2026-03-15T14:45:42.603Z</pubDate>
+            <guid isPermaLink="false">64497</guid>
+            <pubDate>2026-03-15T15:08:32.46Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to weather conditions.]]></title>
@@ -96,6 +96,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></title>
+            <description><![CDATA[Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64498</guid>
+            <pubDate>2026-03-15T15:09:02.323Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Victoria Park: Elevator 14D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
