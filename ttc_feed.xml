@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 12:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 13:50:42 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: No service between Bloor-Yonge and St Clair stations while we fix a brake problem. Shuttle buses are on the way.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: No service between Bloor-Yonge and St Clair stations while we fix a brake problem. Shuttle buses are on the way.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64491</guid>
+            <pubDate>2026-03-15T09:40:26.127Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚋 506 Carlton: No service between College St at Yonge St - College Station and Carlton St at Church St due to an event.]]></title>
             <description><![CDATA[Roadway blocked due to St. Patrick's Day parade.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64482</guid>
             <pubDate>2026-03-15T06:32:21.973Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 7 Bathurst Regular service has resumed southbound from Bathurst St at Ava Rd to Bathurst St at Barton Ave.]]></title>
-            <description><![CDATA[7 Bathurst Regular service has resumed southbound from Bathurst St at Ava Rd to Bathurst St at Barton Ave.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64480</guid>
-            <pubDate>2026-03-15T08:42:23.257Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 29 Dufferin: Buses are not stopping near Dufferin St at Davenport Rd North Side due to weather conditions.]]></title>
