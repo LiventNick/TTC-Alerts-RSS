@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 19:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 19:57:32 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚋 501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd due to a collision.]]></title>
+            <description><![CDATA[501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64500</guid>
+            <pubDate>2026-03-15T15:54:11.153Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚋 505 Dundas: Detour westbound via Lansdowne Avenue and College St due to a blocked track.]]></title>
             <description><![CDATA[505 Dundas: Detour westbound via Lansdowne Avenue and College St due to a blocked track.]]></description>
@@ -96,6 +103,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Castle Frank: Escalator 5D3E out of service from concourse to Castle Frank Rd entrance while we perform maintenance. Escalator is expected to be back in service March 15, 2026.]]></title>
+            <description><![CDATA[Castle Frank: Escalator 5D3E out of service from concourse to Castle Frank Rd entrance while we perform maintenance. Escalator is expected to be back in service March 15, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64499</guid>
+            <pubDate>2026-03-15T15:50:39.677Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></title>
