@@ -4,8 +4,22 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 09:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 09:52:35 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚋 504 King: No service between Distillery Loop and King St East at Church St West Side while we fix a mechanical problem.]]></title>
+            <description><![CDATA[504 King: No service between Distillery Loop and King St East at Church St West Side while we fix a mechanical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64477</guid>
+            <pubDate>2026-03-15T05:51:11.633Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: No service between College St at Lansdowne Ave and High Park Loop while we respond to a medical emergency.]]></title>
+            <description><![CDATA[506 Carlton: No service between College St at Lansdowne Ave and High Park Loop while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64476</guid>
+            <pubDate>2026-03-15T05:22:56.027Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚌 320 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
             <description><![CDATA[320 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></description>
