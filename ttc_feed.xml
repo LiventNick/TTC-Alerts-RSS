@@ -4,14 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 21:00:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 21:40:08 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚋 510 Spadina: Detour northbound via Queen St W, Mccaul St and College St due to a track problem.]]></title>
-            <description><![CDATA[510 Spadina: Detour northbound via Queen St W, Mccaul St and College St due to a track problem.]]></description>
+            <title><![CDATA[🚇 Line 4 Sheppard: No service between Don Mills and Bayview stations while we fix a brake problem.]]></title>
+            <description><![CDATA[Line 4 Sheppard: No service between Don Mills and Bayview stations while we fix a brake problem.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64501</guid>
-            <pubDate>2026-03-15T16:21:59.787Z</pubDate>
+            <guid isPermaLink="false">64503</guid>
+            <pubDate>2026-03-15T17:37:47.713Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to weather conditions.]]></title>
@@ -112,11 +112,11 @@
             <pubDate>2026-03-15T15:09:02.323Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Victoria Park: Elevator 14D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Victoria Park: Elevator 14D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Victoria Park: Elevator back in service between concourse and Line 2 westbound platform.]]></title>
+            <description><![CDATA[Victoria Park: Elevator back in service between concourse and Line 2 westbound platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64493</guid>
-            <pubDate>2026-03-15T13:37:11.47Z</pubDate>
+            <pubDate>2026-03-15T17:29:59.233Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></title>
