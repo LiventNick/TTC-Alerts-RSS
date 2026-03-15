@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 02:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 04:56:00 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed northbound at Bloor-Yonge station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed northbound at Bloor-Yonge station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64470</guid>
+            <pubDate>2026-03-15T00:54:59.587Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between St George and Broadview stations due to planned track work. Shuttle buses are running.]]></title>
             <description><![CDATA[https://files.ttc.ca/public-images/public-image-639089972402684531.jpg]]></description>
@@ -14,32 +21,11 @@
             <pubDate>2026-03-14T05:00:01.32Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays eastbound at Main Street station while we respond to a medical emergency.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Delays eastbound at Main Street station while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64467</guid>
-            <pubDate>2026-03-14T22:23:45.927Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504A King: No service between Distillery Loop and King St East at Church St West Side while we respond to a medical emergency.]]></title>
-            <description><![CDATA[504A King: No service between Distillery Loop and King St East at Church St West Side while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64466</guid>
-            <pubDate>2026-03-14T22:18:19.35Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></title>
             <description><![CDATA[97 Yonge: Detour northbound via Park Home Ave, Beecroft Rd and Ellerslie Ave due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64433</guid>
             <pubDate>2026-03-14T21:57:08.893Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 167 Pharmacy North: Detour northbound via Sheppard Ave E due to a collision.]]></title>
-            <description><![CDATA[167 Pharmacy North: Detour northbound via Sheppard Ave E due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64463</guid>
-            <pubDate>2026-03-14T20:28:25.953Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
