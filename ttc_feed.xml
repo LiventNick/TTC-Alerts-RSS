@@ -4,28 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 15 Mar 2026 14:59:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 15:38:11 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚋 506 Carlton: No service between College St at Yonge St - College Station and Carlton St at Church St due to an event.]]></title>
-            <description><![CDATA[Roadway blocked due to St. Patrick's Day parade.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64482</guid>
-            <pubDate>2026-03-15T06:32:21.973Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 29 Dufferin: Buses are not stopping near Dufferin St at Davenport Rd North Side due to weather conditions.]]></title>
-            <description><![CDATA[29 Dufferin: Buses are not stopping near Dufferin St at Davenport Rd North Side due to weather conditions.]]></description>
+            <title><![CDATA[🚌 29 Dufferin Regular service has resumed near Dufferin St at Davenport Rd North Side.]]></title>
+            <description><![CDATA[29 Dufferin Regular service has resumed near Dufferin St at Davenport Rd North Side.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64486</guid>
-            <pubDate>2026-03-15T08:09:34.02Z</pubDate>
+            <pubDate>2026-03-15T11:33:53.693Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 203 High Park: Delays near Colborne Lodge Dr at Bloor St West due to a blocked road.]]></title>
-            <description><![CDATA[203 High Park: Delays near Colborne Lodge Dr at Bloor St West due to a blocked road.]]></description>
+            <title><![CDATA[🚌 203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.]]></title>
+            <description><![CDATA[203 High Park: No service between Colborne Lodge Dr at Centre Rd and High Park Station at High Park Ave due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64488</guid>
-            <pubDate>2026-03-15T08:38:25.4Z</pubDate>
+            <pubDate>2026-03-15T11:07:33.673Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
