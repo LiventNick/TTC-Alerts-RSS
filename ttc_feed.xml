@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 15:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 16:34:04 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -98,6 +98,20 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Finch: Elevator 22Y2L out of service between bus concourse and fares concourse while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
+            <description><![CDATA[Finch: Elevator 22Y2L out of service between bus concourse and fares concourse while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64565</guid>
+            <pubDate>2026-03-16T12:00:00.937Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Jane: Elevator 12B3L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Jane: Elevator 12B3L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64564</guid>
+            <pubDate>2026-03-16T11:42:06.103Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Christie: Elevator 4B2L out of service between concourse and Line 2 Kennedy (eastbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
             <description><![CDATA[Christie: Elevator 4B2L out of service between concourse and Line 2 Kennedy (eastbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -182,13 +196,6 @@
             <pubDate>2026-03-14T11:24:54.807Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></title>
-            <description><![CDATA[Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64434</guid>
-            <pubDate>2026-03-14T09:30:40.46Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while the maintainer performs maintenance.]]></title>
             <description><![CDATA[Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while the maintainer performs maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -245,11 +252,11 @@
             <pubDate>2026-03-10T16:24:36.54Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ TMU: Elevator out of service between 10 Dundas St E entrance and Line 1 Finch platform while we perform maintenance.]]></title>
-            <description><![CDATA[TMU: Elevator out of service between 10 Dundas St E entrance and Line 1 Finch platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ TMU: Elevator back in service between 10 Dundas St E entrance and Line 1 Finch platform.]]></title>
+            <description><![CDATA[TMU: Elevator back in service between 10 Dundas St E entrance and Line 1 Finch platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64029</guid>
-            <pubDate>2026-03-08T14:37:50.47Z</pubDate>
+            <pubDate>2026-03-16T12:28:34.66Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Dennis: Elevator 2 out of service between bus platform and concourse while we perform maintenance.]]></title>
