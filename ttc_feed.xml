@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 17:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 18:37:39 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Islington and Jane stations.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Islington and Jane stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64570</guid>
+            <pubDate>2026-03-16T14:28:00.767Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 54 Lawrence East: Detour westbound via The Donway E and Don Mills Rd due to police activity.]]></title>
+            <description><![CDATA[54 Lawrence East: Detour westbound via The Donway E and Don Mills Rd due to police activity.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64571</guid>
+            <pubDate>2026-03-16T14:35:50.903Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 69 Warden South: Detour northbound via Kingston Rd, Queensbury Ave and Clonmore Dr due to a blocked road.]]></title>
@@ -96,6 +110,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Glencairn: Elevator 5S2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[Glencairn: Elevator 5S2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64568</guid>
+            <pubDate>2026-03-16T14:08:28.51Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Coxwell: Elevator 11D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
