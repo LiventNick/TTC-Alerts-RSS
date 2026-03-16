@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 23:00:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 23:41:07 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,18 +14,18 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays between Kipling and Royal York stations while we fix a track problem.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Delays between Kipling and Royal York stations while we fix a track problem.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays between Main Street and Kennedy stations while we fix a signal problem.]]></title>
+            <description><![CDATA[Longer than normal travel time up to 10 minutes between Main Street Station and Kennedy Station Incident location is Westbound at Victoria Park Station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64584</guid>
-            <pubDate>2026-03-16T18:18:48.577Z</pubDate>
+            <guid isPermaLink="false">64586</guid>
+            <pubDate>2026-03-16T19:02:41.763Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West Regular service has resumed at Finch West station.]]></title>
-            <description><![CDATA[Line 6 Finch West Regular service has resumed at Finch West station.]]></description>
+            <title><![CDATA[🚋 510 Spadina: Detour via College St, Bathurst St and Bathurst Station due to a security incident.]]></title>
+            <description><![CDATA[510 Spadina: Detour via College St, Bathurst St and Bathurst Station due to a security incident.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64585</guid>
-            <pubDate>2026-03-16T18:55:36.637Z</pubDate>
+            <guid isPermaLink="false">64587</guid>
+            <pubDate>2026-03-16T19:24:02.297Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 69 Warden South: Detour northbound via Cornell Ave and Lynn Rd due to a blocked road.]]></title>
@@ -182,11 +182,11 @@
             <pubDate>2026-03-16T07:30:01.637Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Mount Pleasant: Elevator back in service between Eglinton Avenue west side entrance and concourse.]]></title>
+            <description><![CDATA[Mount Pleasant: Elevator back in service between Eglinton Avenue west side entrance and concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64455</guid>
-            <pubDate>2026-03-14T15:47:18.957Z</pubDate>
+            <pubDate>2026-03-16T19:30:14.23Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></title>
