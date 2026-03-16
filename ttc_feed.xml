@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 12:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 14:03:28 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,25 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King: Detour westbound via Church St, Wellington St E and York St due to a blocked track.]]></title>
-            <description><![CDATA[504 King: Detour westbound via Church St, Wellington St E and York St due to a blocked track.]]></description>
+            <title><![CDATA[🚇 ]]></title>
+            <description><![CDATA[]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64559</guid>
-            <pubDate>2026-03-16T08:12:22.827Z</pubDate>
+            <guid isPermaLink="false">64561</guid>
+            <pubDate>2026-03-16T09:59:55.197Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: No service between Long Branch Loop and Queen St West at Roncesvalles Ave East Side due to a blocked track.]]></title>
+            <description><![CDATA[501 Queen: No service between Long Branch Loop and Queen St West at Roncesvalles Ave East Side due to a blocked track.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64562</guid>
+            <pubDate>2026-03-16T09:51:06.583Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 69 Warden South: Detour northbound via Kingston Rd, Queensbury Ave and Clonmore Dr due to a blocked road.]]></title>
+            <description><![CDATA[69 Warden South: Detour northbound via Kingston Rd, Queensbury Ave and Clonmore Dr due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64560</guid>
+            <pubDate>2026-03-16T09:29:22.263Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
