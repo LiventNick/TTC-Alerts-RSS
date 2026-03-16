@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 15:19:59 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,20 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 ]]></title>
-            <description><![CDATA[]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64561</guid>
-            <pubDate>2026-03-16T09:59:55.197Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 501 Queen: No service between Long Branch Loop and Queen St West at Roncesvalles Ave East Side due to a blocked track.]]></title>
-            <description><![CDATA[501 Queen: No service between Long Branch Loop and Queen St West at Roncesvalles Ave East Side due to a blocked track.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64562</guid>
-            <pubDate>2026-03-16T09:51:06.583Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 69 Warden South: Detour northbound via Kingston Rd, Queensbury Ave and Clonmore Dr due to a blocked road.]]></title>
@@ -112,6 +98,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Christie: Elevator 4B2L out of service between concourse and Line 2 Kennedy (eastbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
+            <description><![CDATA[Christie: Elevator 4B2L out of service between concourse and Line 2 Kennedy (eastbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64558</guid>
+            <pubDate>2026-03-16T11:00:02.08Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Christie: Elevator 4B1L out of service between Christie Street entrance, concourse and Line 2 Kipling (westbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
             <description><![CDATA[Christie: Elevator 4B1L out of service between Christie Street entrance, concourse and Line 2 Kipling (westbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -126,11 +119,11 @@
             <pubDate>2026-03-16T07:28:30.317Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Coxwell: Elevator 11D2L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
-            <description><![CDATA[Coxwell: Elevator 11D2L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
+            <title><![CDATA[♿ Woodbine: Elevator 12D1L out of service between Woodbine Ave east side entrance, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
+            <description><![CDATA[Woodbine: Elevator 12D1L out of service between Woodbine Ave east side entrance, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64553</guid>
-            <pubDate>2026-03-16T07:09:11.717Z</pubDate>
+            <guid isPermaLink="false">64554</guid>
+            <pubDate>2026-03-16T11:00:00.93Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y2E out of service from concourse to Line 1 Vaughan via Union platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
