@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 19:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 20:22:47 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -28,11 +28,11 @@
             <pubDate>2026-03-16T14:35:50.903Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 69 Warden South: Detour northbound via Kingston Rd, Queensbury Ave and Clonmore Dr due to a blocked road.]]></title>
-            <description><![CDATA[69 Warden South: Detour northbound via Kingston Rd, Queensbury Ave and Clonmore Dr due to a blocked road.]]></description>
+            <title><![CDATA[🚌 69 Warden South: Detour northbound via Kingston Rd, Fallingbrook Dr, Clonmore Dr and Warden Ave due to a blocked road.]]></title>
+            <description><![CDATA[69 Warden South: Detour northbound via Kingston Rd, Fallingbrook Dr, Clonmore Dr and Warden Ave due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64560</guid>
-            <pubDate>2026-03-16T09:29:22.263Z</pubDate>
+            <pubDate>2026-03-16T15:40:53.597Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 90 Vaughan: Detour northbound via Raglan Ave, Claxton Blvd and Vaughan Rd due to a collision.]]></title>
@@ -154,32 +154,11 @@
             <pubDate>2026-03-16T15:11:03.987Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Glencairn: Elevator 5S2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[Glencairn: Elevator 5S2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64568</guid>
-            <pubDate>2026-03-16T14:08:28.51Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Coxwell: Elevator 11D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Coxwell: Elevator 11D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64567</guid>
-            <pubDate>2026-03-16T13:28:45.027Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Christie: Elevator 4B1L out of service between Christie Street entrance, concourse and Line 2 Kipling (westbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
             <description><![CDATA[Christie: Elevator 4B1L out of service between Christie Street entrance, concourse and Line 2 Kipling (westbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64557</guid>
             <pubDate>2026-03-16T07:44:06.163Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Sheppard West: Elevator back in service between Sheppard Ave W north side entrance and concourse.]]></title>
-            <description><![CDATA[Sheppard West: Elevator back in service between Sheppard Ave W north side entrance and concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64555</guid>
-            <pubDate>2026-03-16T15:30:02.137Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y2E out of service from concourse to Line 1 Vaughan via Union platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
@@ -236,13 +215,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64421</guid>
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Highway 407: Escalator back in service from bus platform to concourse.]]></title>
-            <description><![CDATA[Highway 407: Escalator back in service from bus platform to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64403</guid>
-            <pubDate>2026-03-16T15:30:01.527Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to construction. Escalator is expected to be back in service March 20, 2026.]]></title>
@@ -306,13 +278,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63610</guid>
             <pubDate>2026-03-02T13:48:03.42Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Spadina: Elevator back in service between south concourse and Line 2 westbound platform.]]></title>
-            <description><![CDATA[Spadina: Elevator back in service between south concourse and Line 2 westbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63600</guid>
-            <pubDate>2026-03-16T15:30:01.23Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
