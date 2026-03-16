@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 11:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 12:33:57 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King: Detour westbound via Church St, Wellington St E and York St due to a blocked track.]]></title>
+            <description><![CDATA[504 King: Detour westbound via Church St, Wellington St E and York St due to a blocked track.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64559</guid>
+            <pubDate>2026-03-16T08:12:22.827Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -91,6 +98,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Christie: Elevator 4B1L out of service between Christie Street entrance, concourse and Line 2 Kipling (westbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
+            <description><![CDATA[Christie: Elevator 4B1L out of service between Christie Street entrance, concourse and Line 2 Kipling (westbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64557</guid>
+            <pubDate>2026-03-16T07:44:06.163Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Sheppard West: Elevator 9S3L out of service between Sheppard Ave W north side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
             <description><![CDATA[Sheppard West: Elevator 9S3L out of service between Sheppard Ave W north side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -145,13 +159,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64537</guid>
             <pubDate>2026-03-16T07:30:01.637Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></title>
-            <description><![CDATA[Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64498</guid>
-            <pubDate>2026-03-15T15:09:02.323Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Pleasant: Elevator 2 out of service between Eglinton Avenue west side entrance and concourse while we perform maintenance.]]></title>
