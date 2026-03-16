@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 16:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 17:39:48 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -98,18 +98,25 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Coxwell: Elevator 11D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Coxwell: Elevator 11D2L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64567</guid>
+            <pubDate>2026-03-16T13:28:45.027Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Dufferin: Escalator 6B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 16, 2026.]]></title>
+            <description><![CDATA[Dufferin: Escalator 6B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 16, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64566</guid>
+            <pubDate>2026-03-16T13:15:00.237Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Finch: Elevator 22Y2L out of service between bus concourse and fares concourse while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
             <description><![CDATA[Finch: Elevator 22Y2L out of service between bus concourse and fares concourse while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64565</guid>
             <pubDate>2026-03-16T12:00:00.937Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Jane: Elevator 12B3L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Jane: Elevator 12B3L out of service between concourse and Line 2 westbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64564</guid>
-            <pubDate>2026-03-16T11:42:06.103Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Christie: Elevator 4B2L out of service between concourse and Line 2 Kennedy (eastbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
@@ -166,13 +173,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64539</guid>
             <pubDate>2026-03-16T07:30:00.803Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Runnymede: Escalator 11B2E out of service from concourse to Runnymede Rd entrance while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[Runnymede: Escalator 11B2E out of service from concourse to Runnymede Rd entrance while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64538</guid>
-            <pubDate>2026-03-16T07:30:00.663Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Downsview Park: Escalator 10S5E out of service from GO entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
@@ -250,13 +250,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64143</guid>
             <pubDate>2026-03-10T16:24:36.54Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ TMU: Elevator back in service between 10 Dundas St E entrance and Line 1 Finch platform.]]></title>
-            <description><![CDATA[TMU: Elevator back in service between 10 Dundas St E entrance and Line 1 Finch platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64029</guid>
-            <pubDate>2026-03-16T12:28:34.66Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Mount Dennis: Elevator 2 out of service between bus platform and concourse while we perform maintenance.]]></title>
