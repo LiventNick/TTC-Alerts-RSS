@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 05:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 06:58:28 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour eastbound via Shaw St, King St W and Spadina Ave due to a blocked track.]]></title>
+            <description><![CDATA[501 Queen: Detour eastbound via Shaw St, King St W and Spadina Ave due to a blocked track.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64543</guid>
+            <pubDate>2026-03-16T01:53:42.093Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚌 90 Vaughan: Delays between St Clair West Station at Bus Bay 7 and Vaughan Rd at Oakwood Ave East Side due to a collision.]]></title>
             <description><![CDATA[90 Vaughan: Delays between St Clair West Station at Bus Bay 7 and Vaughan Rd at Oakwood Ave East Side due to a collision.]]></description>
@@ -89,13 +96,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Dufferin: Escalator 6B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 16, 2026.]]></title>
-            <description><![CDATA[Dufferin: Escalator 6B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 16, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64532</guid>
-            <pubDate>2026-03-15T23:11:16.863Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></title>
