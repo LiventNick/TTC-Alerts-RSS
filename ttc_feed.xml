@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 20:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 21:05:29 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,39 +14,25 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 20 Cliffside: Detour via Park St, Sandown Ave, Kingston Rd and Midland Ave due to downed wires.]]></title>
-            <description><![CDATA[20 Cliffside: Detour via Park St, Sandown Ave, Kingston Rd and Midland Ave due to downed wires.]]></description>
+            <title><![CDATA[🚌 20 Cliffside Regular service has resumed near Park St at Midland Ave.]]></title>
+            <description><![CDATA[20 Cliffside Regular service has resumed near Park St at Midland Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64572</guid>
-            <pubDate>2026-03-16T15:04:13.98Z</pubDate>
+            <pubDate>2026-03-16T16:51:00.98Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 54 Lawrence East: Detour westbound via The Donway E and Don Mills Rd due to police activity.]]></title>
-            <description><![CDATA[54 Lawrence East: Detour westbound via The Donway E and Don Mills Rd due to police activity.]]></description>
+            <title><![CDATA[🚌 54 Lawrence East Regular service has resumed westbound near Don Mills Rd at Lawrence Ave East South Side.]]></title>
+            <description><![CDATA[54 Lawrence East Regular service has resumed westbound near Don Mills Rd at Lawrence Ave East South Side.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64571</guid>
-            <pubDate>2026-03-16T14:35:50.903Z</pubDate>
+            <pubDate>2026-03-16T16:54:09.987Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 69 Warden South: Detour northbound via Kingston Rd, Fallingbrook Dr, Clonmore Dr and Warden Ave due to a blocked road.]]></title>
-            <description><![CDATA[69 Warden South: Detour northbound via Kingston Rd, Fallingbrook Dr, Clonmore Dr and Warden Ave due to a blocked road.]]></description>
+            <title><![CDATA[🚌 69 Warden South: Detour northbound via Cornell Ave and Lynn Rd due to a blocked road.]]></title>
+            <description><![CDATA[69 Warden South: Detour northbound via Cornell Ave and Lynn Rd due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64560</guid>
-            <pubDate>2026-03-16T15:40:53.597Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 90 Vaughan: Detour northbound via Raglan Ave, Claxton Blvd and Vaughan Rd due to a collision.]]></title>
-            <description><![CDATA[90 Vaughan: Detour northbound via Raglan Ave, Claxton Blvd and Vaughan Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64578</guid>
-            <pubDate>2026-03-16T15:28:05.017Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 90 Vaughan: Detour southbound via Wychwood Ave, Louise Ave and Vaughan Rd due to a collision.]]></title>
-            <description><![CDATA[90 Vaughan: Detour southbound via Wychwood Ave, Louise Ave and Vaughan Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64577</guid>
-            <pubDate>2026-03-16T15:26:44.517Z</pubDate>
+            <pubDate>2026-03-16T16:48:48.867Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
