@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 21:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 22:35:18 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays between Kipling and Royal York stations while we fix a track problem.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Delays between Kipling and Royal York stations while we fix a track problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64584</guid>
+            <pubDate>2026-03-16T18:18:48.577Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 69 Warden South: Detour northbound via Cornell Ave and Lynn Rd due to a blocked road.]]></title>
