@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 17 Mar 2026 07:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 08:04:28 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64545</guid>
-            <pubDate>2026-03-16T23:59:01.397Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: No service at Bloor-Yonge station due to a Toronto Police Investigation.]]></title>
             <description><![CDATA[Line 1 Yonge-University: No service at Bloor-Yonge station due to a Toronto Police Investigation.]]></description>
@@ -33,20 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64600</guid>
             <pubDate>2026-03-16T23:16:17.017Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 There is no service at Bloor-Yonge Station on Line 1 Yonge-University or Line 2 Bloor-Danforth, due to a Toronto Police investigation. Shuttle buses are operating from Rosedale to Wellesley Station.]]></title>
-            <description><![CDATA[There is no service at Bloor-Yonge Station on Line 1 Yonge-University or Line 2 Bloor-Danforth, due to a Toronto Police investigation. Shuttle buses are operating from Rosedale to Wellesley Station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64601</guid>
-            <pubDate>2026-03-17T00:10:16.243Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 304A King: No service between Distillery Loop and King St East at Church St West Side due to a security incident.]]></title>
-            <description><![CDATA[304A King: No service between Distillery Loop and King St East at Church St West Side due to a security incident.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64603</guid>
-            <pubDate>2026-03-17T03:14:40.473Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
