@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 17 Mar 2026 04:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 05:59:51 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></title>
@@ -42,18 +42,11 @@
             <pubDate>2026-03-17T00:10:16.243Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 69 Warden South: Detour northbound via Cornell Ave and Lynn Rd due to a blocked road.]]></title>
-            <description><![CDATA[69 Warden South: Detour northbound via Cornell Ave and Lynn Rd due to a blocked road.]]></description>
+            <title><![CDATA[🚌 69 Warden South Regular service has resumed northbound from Warden Ave at Kingston Rd North Side to Warden Ave at Hollis Ave North Side.]]></title>
+            <description><![CDATA[69 Warden South Regular service has resumed northbound from Warden Ave at Kingston Rd North Side to Warden Ave at Hollis Ave North Side.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64560</guid>
-            <pubDate>2026-03-16T16:48:48.867Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 87 Cosburn: Buses are not stopping near East York Acres Parking Lot at Haldon Ave due to weather conditions.]]></title>
-            <description><![CDATA[87 Cosburn: Buses are not stopping near East York Acres Parking Lot at Haldon Ave due to weather conditions.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64589</guid>
-            <pubDate>2026-03-16T20:28:18.777Z</pubDate>
+            <pubDate>2026-03-17T01:52:01.223Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
