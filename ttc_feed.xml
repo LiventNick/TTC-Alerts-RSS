@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 17 Mar 2026 05:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 07:16:45 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></title>
@@ -42,11 +42,11 @@
             <pubDate>2026-03-17T00:10:16.243Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 69 Warden South Regular service has resumed northbound from Warden Ave at Kingston Rd North Side to Warden Ave at Hollis Ave North Side.]]></title>
-            <description><![CDATA[69 Warden South Regular service has resumed northbound from Warden Ave at Kingston Rd North Side to Warden Ave at Hollis Ave North Side.]]></description>
+            <title><![CDATA[🚋 304A King: No service between Distillery Loop and King St East at Church St West Side due to a security incident.]]></title>
+            <description><![CDATA[304A King: No service between Distillery Loop and King St East at Church St West Side due to a security incident.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64560</guid>
-            <pubDate>2026-03-17T01:52:01.223Z</pubDate>
+            <guid isPermaLink="false">64603</guid>
+            <pubDate>2026-03-17T03:14:40.473Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
