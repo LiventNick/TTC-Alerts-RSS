@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 17 Mar 2026 09:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 10:07:18 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 507 Long Branch: Delays between Long Branch Loop and Humber Loop at the Queensway due to weather conditions.]]></title>
+            <description><![CDATA[507 Long Branch: Delays between Long Branch Loop and Humber Loop at the Queensway due to weather conditions.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64604</guid>
+            <pubDate>2026-03-17T05:17:22.157Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -98,11 +105,11 @@
             <pubDate>2026-03-16T19:58:11.427Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Bloor-Yonge: Escalator 3D10E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
-            <description><![CDATA[Bloor-Yonge: Escalator 3D10E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></description>
+            <title><![CDATA[♿ Bloor-Yonge: Escalator back in service from Line 1 Vaughan via Union platform to south concourse.]]></title>
+            <description><![CDATA[Bloor-Yonge: Escalator back in service from Line 1 Vaughan via Union platform to south concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64580</guid>
-            <pubDate>2026-03-16T15:33:30.197Z</pubDate>
+            <pubDate>2026-03-17T06:03:24.903Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Queen's Park: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.]]></title>
