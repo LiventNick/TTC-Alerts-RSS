@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 16 Mar 2026 23:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 00:02:28 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -21,11 +21,11 @@
             <pubDate>2026-03-16T19:02:41.763Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 510 Spadina: Detour via College St, Bathurst St and Bathurst Station due to a security incident.]]></title>
-            <description><![CDATA[510 Spadina: Detour via College St, Bathurst St and Bathurst Station due to a security incident.]]></description>
+            <title><![CDATA[🚋 510 Spadina Regular service has resumed near Spadina Station Streetcar Platform.]]></title>
+            <description><![CDATA[510 Spadina Regular service has resumed near Spadina Station Streetcar Platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64587</guid>
-            <pubDate>2026-03-16T19:24:02.297Z</pubDate>
+            <pubDate>2026-03-16T19:53:02.69Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 69 Warden South: Detour northbound via Cornell Ave and Lynn Rd due to a blocked road.]]></title>
@@ -112,6 +112,13 @@
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform due to a technical problem.]]></title>
+            <description><![CDATA[Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform due to a technical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64588</guid>
+            <pubDate>2026-03-16T19:58:11.427Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Bloor-Yonge: Escalator 3D10E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
             <description><![CDATA[Bloor-Yonge: Escalator 3D10E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -180,13 +187,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64537</guid>
             <pubDate>2026-03-16T07:30:01.637Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Mount Pleasant: Elevator back in service between Eglinton Avenue west side entrance and concourse.]]></title>
-            <description><![CDATA[Mount Pleasant: Elevator back in service between Eglinton Avenue west side entrance and concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64455</guid>
-            <pubDate>2026-03-16T19:30:14.23Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></title>
