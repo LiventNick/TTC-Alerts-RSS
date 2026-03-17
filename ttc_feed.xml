@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 17 Mar 2026 11:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 11:54:25 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,32 +14,74 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 69 Warden South: Detour via Butterworth Ave, Scotia Ave and Danforth Rd due to a watermain break.]]></title>
-            <description><![CDATA[69 Warden South: Detour via Butterworth Ave, Scotia Ave and Danforth Rd due to a watermain break.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed westbound at Victoria Park station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed westbound at Victoria Park station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64614</guid>
+            <pubDate>2026-03-17T07:44:20.593Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Broadview and Keele stations.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Broadview and Keele stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64620</guid>
+            <pubDate>2026-03-17T07:41:21.953Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 504 King Regular service has resumed eastbound near King St West at Bay St East Side.]]></title>
+            <description><![CDATA[504 King Regular service has resumed eastbound near King St West at Bay St East Side.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64623</guid>
+            <pubDate>2026-03-17T07:51:26.557Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 69 Warden South Regular service has resumed between Warden Ave at Danforth Rd South Side and Warden Ave at Danforth Ave.]]></title>
+            <description><![CDATA[69 Warden South Regular service has resumed between Warden Ave at Danforth Rd South Side and Warden Ave at Danforth Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64609</guid>
-            <pubDate>2026-03-17T06:57:15.143Z</pubDate>
+            <pubDate>2026-03-17T07:50:41.167Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 80, 80B Queensway: Detour via Grand Ave, Gardiner Rd and Park Lawn Rd due to a collision.]]></title>
-            <description><![CDATA[80, 80B Queensway: Detour via Grand Ave, Gardiner Rd and Park Lawn Rd due to a collision.]]></description>
+            <title><![CDATA[🚌 80, 80B Queensway Regular service has resumed between The Queensway at Grand Ave and The Queensway at Park Lawn Rd East Side.]]></title>
+            <description><![CDATA[80, 80B Queensway Regular service has resumed between The Queensway at Grand Ave and The Queensway at Park Lawn Rd East Side.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64605</guid>
-            <pubDate>2026-03-17T06:08:45.097Z</pubDate>
+            <pubDate>2026-03-17T07:52:12.52Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 80, 80B Queensway: Detour via Grand Ave, Gardiner Rd and Park Lawn Rd due to a collision.]]></title>
-            <description><![CDATA[80, 80B Queensway: Detour via Grand Ave, Gardiner Rd and Park Lawn Rd due to a collision.]]></description>
+            <title><![CDATA[🚌 80, 80B Queensway Regular service has resumed between The Queensway at Grand Ave and The Queensway at Park Lawn Rd East Side.]]></title>
+            <description><![CDATA[80, 80B Queensway Regular service has resumed between The Queensway at Grand Ave and The Queensway at Park Lawn Rd East Side.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64605-1</guid>
-            <pubDate>2026-03-17T06:08:45.097Z</pubDate>
+            <pubDate>2026-03-17T07:52:12.52Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 135 Gerrard: Detour westbound via Butterworth Ave, Scotia Ave and Danforth Rd due to a watermain break.]]></title>
-            <description><![CDATA[135 Gerrard: Detour westbound via Butterworth Ave, Scotia Ave and Danforth Rd due to a watermain break.]]></description>
+            <title><![CDATA[🚌 102A Markham Rd: Buses are not stopping near Centennial College Bus Terminal due to weather conditions.]]></title>
+            <description><![CDATA[102A Markham Rd: Buses are not stopping near Centennial College Bus Terminal due to weather conditions.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64618</guid>
+            <pubDate>2026-03-17T07:27:40.783Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 134 Progress: Buses are not stopping near Centennial College Bus Terminal due to weather conditions.]]></title>
+            <description><![CDATA[134 Progress: Buses are not stopping near Centennial College Bus Terminal due to weather conditions.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64619</guid>
+            <pubDate>2026-03-17T07:28:14.637Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 135 Gerrard Regular service has resumed westbound from Warden Ave at Danforth Rd South Side to Warden Ave at Danforth Ave.]]></title>
+            <description><![CDATA[135 Gerrard Regular service has resumed westbound from Warden Ave at Danforth Rd South Side to Warden Ave at Danforth Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64607</guid>
-            <pubDate>2026-03-17T06:57:13.61Z</pubDate>
+            <pubDate>2026-03-17T07:49:58.837Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 902 Markham Rd Express: Buses are not stopping near Centennial College Bus Terminal due to weather conditions.]]></title>
+            <description><![CDATA[902 Markham Rd Express: Buses are not stopping near Centennial College Bus Terminal due to weather conditions.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64621</guid>
+            <pubDate>2026-03-17T07:28:54.877Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -117,6 +159,41 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">61754</guid>
             <pubDate>2026-02-24T11:09:43.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64622</guid>
+            <pubDate>2026-03-17T07:30:17.177Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Runnymede: Escalator 11B2E out of service from concourse to Runnymede Rd entrance while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></title>
+            <description><![CDATA[Runnymede: Escalator 11B2E out of service from concourse to Runnymede Rd entrance while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64617</guid>
+            <pubDate>2026-03-17T07:25:28.19Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 17, 2026.]]></title>
+            <description><![CDATA[Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 17, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64615</guid>
+            <pubDate>2026-03-17T07:22:53.45Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Sheppard West: Elevator 9S2L out of service between bus platform, concourse and Line 1 platform while we perform maintenance. Elevator is expected to be back in service March 17, 2026.]]></title>
+            <description><![CDATA[Sheppard West: Elevator 9S2L out of service between bus platform, concourse and Line 1 platform while we perform maintenance. Elevator is expected to be back in service March 17, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64613</guid>
+            <pubDate>2026-03-17T07:13:38.587Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Finch: Elevator 22Y3L out of service between bus platform and bus concourse while we perform maintenance. Elevator is expected to be back in service March 17, 2026.]]></title>
+            <description><![CDATA[Finch: Elevator 22Y3L out of service between bus platform and bus concourse while we perform maintenance. Elevator is expected to be back in service March 17, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64611</guid>
+            <pubDate>2026-03-17T07:11:38.1Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Queen's Park: Elevator 3Y2L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></title>
