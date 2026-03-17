@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 17 Mar 2026 13:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 14:36:08 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: No service between Hakimi Lebovic and Birchmount stations due to an auto on the rails. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[Line 5 Eglinton: No service between Hakimi Lebovic and Birchmount stations due to an auto on the rails. Shuttle buses are on the way.]]></description>
+            <title><![CDATA[🚌 68 Warden Regular service has resumed southbound from Warden Ave at Tower Dr to Warden Ave at Boem Ave.]]></title>
+            <description><![CDATA[68 Warden Regular service has resumed southbound from Warden Ave at Tower Dr to Warden Ave at Boem Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64626</guid>
-            <pubDate>2026-03-17T08:46:58.693Z</pubDate>
+            <guid isPermaLink="false">64629</guid>
+            <pubDate>2026-03-17T10:30:13.527Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 102A Markham Rd: Buses are not stopping near Centennial College Bus Terminal due to weather conditions.]]></title>
@@ -70,11 +70,25 @@
             <pubDate>2026-03-09T11:13:31.177Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Wilson to Yorkdale stations while we work on track issues.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Subway trains will move slower than usual southbound from Wilson to Yorkdale stations while we work on track issues.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64632</guid>
+            <pubDate>2026-03-17T10:18:34.06Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from St Clair West to Dupont stations while we work on switch issues.]]></title>
             <description><![CDATA[Line 1 Yonge-University: Subway trains will move slower than usual southbound from St Clair West to Dupont stations while we work on switch issues.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62965</guid>
             <pubDate>2026-03-09T11:13:56.74Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual northbound from TMU to College stations while we work on track issues.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Subway trains will move slower than usual northbound from TMU to College stations while we work on track issues.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64631</guid>
+            <pubDate>2026-03-17T10:17:58.74Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual northbound from Bloor-Yonge to Rosedale stations while we work on track issues.]]></title>
@@ -84,11 +98,11 @@
             <pubDate>2026-03-09T11:14:21.267Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🐢 Line 2 Bloor-Danforth: Subway trains will move slower than usual westbound from Bloor-Yonge to Bay stations while we work on track issues.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Subway trains will move slower than usual westbound from Bloor-Yonge to Bay stations while we work on track issues.]]></description>
+            <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual northbound from Rosedale to Summerhill stations while we work on track issues.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Subway trains will move slower than usual northbound from Rosedale to Summerhill stations while we work on track issues.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">62966</guid>
-            <pubDate>2026-02-24T11:09:17.03Z</pubDate>
+            <guid isPermaLink="false">64630</guid>
+            <pubDate>2026-03-17T10:17:07.86Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 2 Bloor-Danforth: Subway trains will move slower than usual eastbound from Kipling to Islington stations while we work on track issues.]]></title>
@@ -112,25 +126,11 @@
             <pubDate>2026-02-24T11:09:29.52Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🐢 Line 2 Bloor-Danforth: Subway trains will move slower than usual eastbound from Victoria Park to Warden stations while we work on track issues.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Subway trains will move slower than usual eastbound from Victoria Park to Warden stations while we work on track issues.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">61754</guid>
-            <pubDate>2026-02-24T11:09:43.257Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform due to construction.]]></title>
             <description><![CDATA[Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64624</guid>
             <pubDate>2026-03-17T08:27:31.217Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64622</guid>
-            <pubDate>2026-03-17T07:30:17.177Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Runnymede: Escalator 11B2E out of service from concourse to Runnymede Rd entrance while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></title>
@@ -229,6 +229,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64421</guid>
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Finch West: Escalator 11S7E out of service from concourse to Keele St east side entrance and bus platform while we perform maintenance. Escalator is expected to be back in service March 17, 2026.]]></title>
+            <description><![CDATA[Finch West: Escalator 11S7E out of service from concourse to Keele St east side entrance and bus platform while we perform maintenance. Escalator is expected to be back in service March 17, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64405</guid>
+            <pubDate>2026-03-17T10:30:01.353Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ York University: Escalator 12S2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 17, 2026.]]></title>
