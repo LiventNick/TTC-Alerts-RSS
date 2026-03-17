@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 17 Mar 2026 00:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 02:53:17 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -21,18 +21,18 @@
             <pubDate>2026-03-16T19:02:41.763Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 510 Spadina Regular service has resumed near Spadina Station Streetcar Platform.]]></title>
-            <description><![CDATA[510 Spadina Regular service has resumed near Spadina Station Streetcar Platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64587</guid>
-            <pubDate>2026-03-16T19:53:02.69Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 69 Warden South: Detour northbound via Cornell Ave and Lynn Rd due to a blocked road.]]></title>
             <description><![CDATA[69 Warden South: Detour northbound via Cornell Ave and Lynn Rd due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64560</guid>
             <pubDate>2026-03-16T16:48:48.867Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 87 Cosburn: Buses are not stopping near East York Acres Parking Lot at Haldon Ave due to weather conditions.]]></title>
+            <description><![CDATA[87 Cosburn: Buses are not stopping near East York Acres Parking Lot at Haldon Ave due to weather conditions.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64589</guid>
+            <pubDate>2026-03-16T20:28:18.777Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -138,13 +138,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64575</guid>
             <pubDate>2026-03-16T15:16:24.233Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Woodbine: Elevator 12D1L out of service between Woodbine Ave east side entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Woodbine: Elevator 12D1L out of service between Woodbine Ave east side entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64573</guid>
-            <pubDate>2026-03-16T15:11:03.987Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Christie: Elevator 4B1L out of service between Christie Street entrance, concourse and Line 2 Kipling (westbound) platform while we perform maintenance. Elevator is expected to be back in service March 16, 2026.]]></title>
