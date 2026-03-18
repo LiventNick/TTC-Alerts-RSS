@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 18 Mar 2026 19:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 20:04:11 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 29 Dufferin: Detour via Dupont St, Lansdowne Ave and Davenport Rd due to a blocked road.]]></title>
+            <description><![CDATA[29 Dufferin: Detour via Dupont St, Lansdowne Ave and Davenport Rd due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64673</guid>
+            <pubDate>2026-03-18T15:58:44.057Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 929 Dufferin Express: Detour northbound via Dupont St, Lansdowne Ave and Davenport Rd due to a blocked road.]]></title>
+            <description><![CDATA[929 Dufferin Express: Detour northbound via Dupont St, Lansdowne Ave and Davenport Rd due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64672</guid>
+            <pubDate>2026-03-18T15:36:18.237Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -161,34 +175,6 @@
             <pubDate>2026-03-16T15:16:24.233Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ North York Centre: Escalator back in service from concourse to Line 1 Vaughan via Union platform.]]></title>
-            <description><![CDATA[North York Centre: Escalator back in service from concourse to Line 1 Vaughan via Union platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64542</guid>
-            <pubDate>2026-03-18T15:30:07.167Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Cedarvale: Escalator back in service from Line 1 Finch via Union platform to Eglinton Ave W entrance.]]></title>
-            <description><![CDATA[Cedarvale: Escalator back in service from Line 1 Finch via Union platform to Eglinton Ave W entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64541</guid>
-            <pubDate>2026-03-18T15:30:05.87Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Queen: Escalator back in service from north underpass to Line 1 Vaughan via Union platform.]]></title>
-            <description><![CDATA[Queen: Escalator back in service from north underpass to Line 1 Vaughan via Union platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64540</guid>
-            <pubDate>2026-03-18T15:30:04.353Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St Clair West: Escalator back in service from south concourse to Line 1 Finch via Union platform.]]></title>
-            <description><![CDATA[St Clair West: Escalator back in service from south concourse to Line 1 Finch via Union platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64539</guid>
-            <pubDate>2026-03-18T15:30:02.43Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Downsview Park: Escalator 10S5E out of service from GO entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
             <description><![CDATA[Downsview Park: Escalator 10S5E out of service from GO entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -201,13 +187,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64421</guid>
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator back in service from lower south concourse to Line 1 platform.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator back in service from lower south concourse to Line 1 platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64406</guid>
-            <pubDate>2026-03-18T15:30:01.337Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to construction. Escalator is expected to be back in service March 20, 2026.]]></title>
