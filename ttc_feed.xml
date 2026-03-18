@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 18 Mar 2026 10:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 11:29:47 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 37B Islington: Detour northbound via Rexdale Blvd, Bergamot Ave and Islington Ave due to a collision.]]></title>
+            <description><![CDATA[37B Islington: Detour northbound via Rexdale Blvd, Bergamot Ave and Islington Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64658</guid>
+            <pubDate>2026-03-18T07:25:09.52Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 937 Islington Express: Detour northbound via Rexdale Blvd, Bergamot Ave and Islington Ave due to a collision.]]></title>
+            <description><![CDATA[937 Islington Express: Detour northbound via Rexdale Blvd, Bergamot Ave and Islington Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64657</guid>
+            <pubDate>2026-03-18T07:25:07.957Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -96,6 +110,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-02-24T11:09:29.52Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Dufferin: Elevator 6B3L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></title>
+            <description><![CDATA[Dufferin: Elevator 6B3L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64655</guid>
+            <pubDate>2026-03-18T07:16:22.917Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ York Mills: Elevator 20Y1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></title>
+            <description><![CDATA[York Mills: Elevator 20Y1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64653</guid>
+            <pubDate>2026-03-18T07:14:16.55Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Broadview: Escalator 6D1E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
@@ -187,6 +215,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64421</guid>
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Pioneer Village: Escalator 13S5E out of service from lower south concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
+            <description><![CDATA[Pioneer Village: Escalator 13S5E out of service from lower south concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64406</guid>
+            <pubDate>2026-03-18T07:00:01.32Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to construction. Escalator is expected to be back in service March 20, 2026.]]></title>
