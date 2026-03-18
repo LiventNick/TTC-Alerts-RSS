@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 18 Mar 2026 18:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 19:34:01 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -112,18 +112,11 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Lansdowne: Elevator 7B3L out of service between concourse and Line 2 (Kennedy) eastbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[Lansdowne: Elevator 7B3L out of service between concourse and Line 2 (Kennedy) eastbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></description>
+            <title><![CDATA[♿ Victoria Park: Elevator 14D3L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Victoria Park: Elevator 14D3L out of service between concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64656</guid>
-            <pubDate>2026-03-18T11:00:01.947Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ York Mills: Elevator 20Y2L out of service between concourse and bus platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[York Mills: Elevator 20Y2L out of service between concourse and bus platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64654</guid>
-            <pubDate>2026-03-18T11:00:01.62Z</pubDate>
+            <guid isPermaLink="false">64671</guid>
+            <pubDate>2026-03-18T15:00:39.207Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform due to construction.]]></title>
@@ -168,32 +161,32 @@
             <pubDate>2026-03-16T15:16:24.233Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ North York Centre: Escalator 23Y2E out of service from concourse to Line 1 Vaughan via Union platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[North York Centre: Escalator 23Y2E out of service from concourse to Line 1 Vaughan via Union platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
+            <title><![CDATA[♿ North York Centre: Escalator back in service from concourse to Line 1 Vaughan via Union platform.]]></title>
+            <description><![CDATA[North York Centre: Escalator back in service from concourse to Line 1 Vaughan via Union platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64542</guid>
-            <pubDate>2026-03-16T07:30:01.717Z</pubDate>
+            <pubDate>2026-03-18T15:30:07.167Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Cedarvale: Escalator 4S1E out of service from Line 1 Finch via Union platform to Eglinton Ave W entrance while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[Cedarvale: Escalator 4S1E out of service from Line 1 Finch via Union platform to Eglinton Ave W entrance while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
+            <title><![CDATA[♿ Cedarvale: Escalator back in service from Line 1 Finch via Union platform to Eglinton Ave W entrance.]]></title>
+            <description><![CDATA[Cedarvale: Escalator back in service from Line 1 Finch via Union platform to Eglinton Ave W entrance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64541</guid>
-            <pubDate>2026-03-16T07:30:01.227Z</pubDate>
+            <pubDate>2026-03-18T15:30:05.87Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Queen: Escalator 9Y1E out of service from north underpass to Line 1 Vaughan via Union platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[Queen: Escalator 9Y1E out of service from north underpass to Line 1 Vaughan via Union platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
+            <title><![CDATA[♿ Queen: Escalator back in service from north underpass to Line 1 Vaughan via Union platform.]]></title>
+            <description><![CDATA[Queen: Escalator back in service from north underpass to Line 1 Vaughan via Union platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64540</guid>
-            <pubDate>2026-03-16T07:30:01.007Z</pubDate>
+            <pubDate>2026-03-18T15:30:04.353Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ St Clair West: Escalator 3S8E out of service from south concourse to Line 1 Finch via Union platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[St Clair West: Escalator 3S8E out of service from south concourse to Line 1 Finch via Union platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
+            <title><![CDATA[♿ St Clair West: Escalator back in service from south concourse to Line 1 Finch via Union platform.]]></title>
+            <description><![CDATA[St Clair West: Escalator back in service from south concourse to Line 1 Finch via Union platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64539</guid>
-            <pubDate>2026-03-16T07:30:00.803Z</pubDate>
+            <pubDate>2026-03-18T15:30:02.43Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Downsview Park: Escalator 10S5E out of service from GO entrance to concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
@@ -210,11 +203,11 @@
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator 13S5E out of service from lower south concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator 13S5E out of service from lower south concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
+            <title><![CDATA[♿ Pioneer Village: Escalator back in service from lower south concourse to Line 1 platform.]]></title>
+            <description><![CDATA[Pioneer Village: Escalator back in service from lower south concourse to Line 1 platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64406</guid>
-            <pubDate>2026-03-18T07:00:01.32Z</pubDate>
+            <pubDate>2026-03-18T15:30:01.337Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to construction. Escalator is expected to be back in service March 20, 2026.]]></title>
