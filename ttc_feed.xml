@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 18 Mar 2026 03:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 05:18:42 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64546</guid>
+            <pubDate>2026-03-17T23:59:02.027Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></description>
@@ -14,11 +21,11 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave, Hillmount Ave and Bathurst St due to construction.]]></title>
-            <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave, Hillmount Ave and Bathurst St due to construction.]]></description>
+            <title><![CDATA[🚌 14 Glencairn Regular service has resumed eastbound near Glencairn Ave at Bathurst St.]]></title>
+            <description><![CDATA[14 Glencairn Regular service has resumed eastbound near Glencairn Ave at Bathurst St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64640</guid>
-            <pubDate>2026-03-17T23:27:04.767Z</pubDate>
+            <pubDate>2026-03-18T01:17:01.447Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -105,25 +112,11 @@
             <pubDate>2026-02-24T11:09:29.52Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Don Mills: Escalator 61P1E out of service from concourse to Sheppard Ave E north side entrance while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[Don Mills: Escalator 61P1E out of service from concourse to Sheppard Ave E north side entrance while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64645</guid>
-            <pubDate>2026-03-17T21:24:51.303Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Broadview: Escalator 6D1E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
             <description><![CDATA[Broadview: Escalator 6D1E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64644</guid>
             <pubDate>2026-03-17T21:18:55.49Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Sheppard-Yonge: Escalator 21Y7E out of service from north concourse to Yonge St east side entrance while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></title>
-            <description><![CDATA[Sheppard-Yonge: Escalator 21Y7E out of service from north concourse to Yonge St east side entrance while we perform maintenance. Escalator is expected to be back in service March 18, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64643</guid>
-            <pubDate>2026-03-17T21:17:23.46Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform due to construction.]]></title>
