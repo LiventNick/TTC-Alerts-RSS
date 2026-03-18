@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 18 Mar 2026 12:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 13:52:22 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,18 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 37B Islington: Detour northbound via Rexdale Blvd, Kipling Ave, Redwater Dr and Elmhurst Dr due to a collision.]]></title>
-            <description><![CDATA[37B Islington: Detour northbound via Rexdale Blvd, Kipling Ave, Redwater Dr and Elmhurst Dr due to a collision.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Keele and St George stations due to a security incident at Bathurst station. Shuttle buses are on the way.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: No service between Keele and St George stations due to a security incident at Bathurst station. Shuttle buses are on the way.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64660</guid>
+            <pubDate>2026-03-18T09:46:43.317Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 37B Islington Regular service has resumed northbound from Islington Ave at Rexdale Blvd North Side to Islington Ave at Bergamot Ave.]]></title>
+            <description><![CDATA[37B Islington Regular service has resumed northbound from Islington Ave at Rexdale Blvd North Side to Islington Ave at Bergamot Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64658</guid>
-            <pubDate>2026-03-18T07:31:44.063Z</pubDate>
+            <pubDate>2026-03-18T09:42:37.61Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -224,25 +231,11 @@
             <pubDate>2026-03-16T07:00:01.293Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></title>
-            <description><![CDATA[Sheppard-Yonge: Elevator 51P4L out of service between north concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64280</guid>
-            <pubDate>2026-03-12T15:55:21.003Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Broadview: Escalator 6D3E out of service from concourse to Broadview Ave entrance while we perform maintenance. Escalator is expected to be back in service May 29, 2026.]]></title>
             <description><![CDATA[Broadview: Escalator 6D3E out of service from concourse to Broadview Ave entrance while we perform maintenance. Escalator is expected to be back in service May 29, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64277</guid>
             <pubDate>2026-03-12T15:42:10.393Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ York University: Escalator 12S4E out of service from concourse to Line 1 platform while we perform maintenance.]]></title>
-            <description><![CDATA[York University: Escalator 12S4E out of service from concourse to Line 1 platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64166</guid>
-            <pubDate>2026-03-10T22:18:51.037Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 3 out of service between Line 1 centre platform and Line 5 centre platform while we perform maintenance.]]></title>
