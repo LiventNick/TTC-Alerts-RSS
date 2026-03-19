@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 19 Mar 2026 21:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 21:59:41 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed northbound at Davisville station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University Regular service has resumed northbound at Davisville station.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between Finch and Lawrence stations.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between Finch and Lawrence stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64729</guid>
-            <pubDate>2026-03-19T17:25:58.76Z</pubDate>
+            <guid isPermaLink="false">64730</guid>
+            <pubDate>2026-03-19T17:58:24.923Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -110,13 +110,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64725</guid>
             <pubDate>2026-03-19T15:19:43.997Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Lawrence: Elevator back in service between Young Street west side entrance and Concourse.]]></title>
-            <description><![CDATA[Lawrence: Elevator back in service between Young Street west side entrance and Concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64724</guid>
-            <pubDate>2026-03-19T17:23:43.907Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform due to construction.]]></title>
