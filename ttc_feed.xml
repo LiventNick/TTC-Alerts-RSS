@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 19 Mar 2026 14:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 15:26:04 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed westbound from Lansdowne to Kipling stations.]]></title>
-            <description><![CDATA[Expect delays of up to 13 minutes.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64719</guid>
-            <pubDate>2026-03-19T10:21:41.187Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -112,25 +105,32 @@
             <pubDate>2026-03-19T10:07:05.237Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Wilson: Elevator 8S1L out of service between Line 1 platform and street while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></title>
-            <description><![CDATA[Wilson: Elevator 8S1L out of service between Line 1 platform and street while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></description>
+            <title><![CDATA[♿ Wilson: Elevator 8S2L out of service between street and concourse while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></title>
+            <description><![CDATA[Wilson: Elevator 8S2L out of service between street and concourse while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64713</guid>
-            <pubDate>2026-03-19T07:31:43.907Z</pubDate>
+            <guid isPermaLink="false">64714</guid>
+            <pubDate>2026-03-19T11:00:01.853Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ York Mills: Elevator 20Y1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></title>
-            <description><![CDATA[York Mills: Elevator 20Y1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></description>
+            <title><![CDATA[♿ York Mills: Elevator 20Y2L out of service between concourse and bus platform while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></title>
+            <description><![CDATA[York Mills: Elevator 20Y2L out of service between concourse and bus platform while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64711</guid>
-            <pubDate>2026-03-19T07:29:52.357Z</pubDate>
+            <guid isPermaLink="false">64712</guid>
+            <pubDate>2026-03-19T11:00:02.34Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Lansdowne: Elevator 7B2L out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></title>
-            <description><![CDATA[Lansdowne: Elevator 7B2L out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></description>
+            <title><![CDATA[♿ Main Street: Elevator 13D2L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></title>
+            <description><![CDATA[Main Street: Elevator 13D2L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64706</guid>
-            <pubDate>2026-03-19T07:02:53.687Z</pubDate>
+            <guid isPermaLink="false">64708</guid>
+            <pubDate>2026-03-19T11:00:02.557Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Dundas West: Elevator 8B2L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></title>
+            <description><![CDATA[Dundas West: Elevator 8B2L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 19, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64707</guid>
+            <pubDate>2026-03-19T11:00:02.087Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform due to construction.]]></title>
