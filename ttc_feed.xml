@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 19 Mar 2026 06:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 07:17:27 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></title>
@@ -22,17 +22,31 @@
         </item>
         <item>
             <title><![CDATA[🚋 301 Queen: Detour eastbound via Roncesvalles Ave, Howard Park Ave, Dundas St W and Broadview Ave while we fix a mechanical problem.]]></title>
-            <description><![CDATA[301 Queen: Detour eastbound via Roncesvalles Ave, Howard Park Ave, Dundas St W and Broadview Ave while we fix a mechanical problem.]]></description>
+            <description><![CDATA[One shuttle bus is operating.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64702</guid>
-            <pubDate>2026-03-19T01:59:57.81Z</pubDate>
+            <pubDate>2026-03-19T03:05:19.95Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 301 Queen: Detour via King St E, Church St and Queen St E due to a downed wire.]]></title>
-            <description><![CDATA[301 Queen: Detour via King St E, Church St and Queen St E due to a downed wire.]]></description>
+            <title><![CDATA[🚋 301 Queen: Detour westbound via Church St and King St E due to a downed wire.]]></title>
+            <description><![CDATA[One shuttle bus is operating.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64697</guid>
-            <pubDate>2026-03-19T01:54:47.803Z</pubDate>
+            <pubDate>2026-03-19T03:07:30.857Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 304 King: No service between King St West at Dufferin St and King St West at Spadina Ave East Side while we fix a mechanical problem.]]></title>
+            <description><![CDATA[304 King service is operating from Spadina to Distillery Loop in east end and between Dufferin Gate Loop and Dundas West Station in west end.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64701</guid>
+            <pubDate>2026-03-19T02:44:42.397Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 306 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we respond to a medical emergency.]]></title>
+            <description><![CDATA[306 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64704</guid>
+            <pubDate>2026-03-19T02:44:06.733Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 310 Spadina: Streetcars have been replaced by buses between Spadina Ave and Adelaide and Spadina Station due to downed overhead wires.]]></title>
@@ -42,11 +56,11 @@
             <pubDate>2026-03-19T01:56:51.993Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King: No service between King St West at Dufferin St and King St West at Spadina Ave East Side while we fix a mechanical problem.]]></title>
-            <description><![CDATA[504 King service is operating from Spadina to Distillery Loop in east end and between Dufferin Gate Loop and Dundas West Station in west end.]]></description>
+            <title><![CDATA[🚌 329 Dufferin: Detour northbound via Dupont St, Dovercourt Rd and Davenport Rd due to a collision.]]></title>
+            <description><![CDATA[329 Dufferin: Detour northbound via Dupont St, Dovercourt Rd and Davenport Rd due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64701</guid>
-            <pubDate>2026-03-19T02:00:16.353Z</pubDate>
+            <guid isPermaLink="false">64703</guid>
+            <pubDate>2026-03-19T02:37:32.17Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
