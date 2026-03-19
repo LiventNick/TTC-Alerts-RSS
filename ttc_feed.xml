@@ -4,14 +4,35 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 19 Mar 2026 03:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 05:14:56 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64547</guid>
+            <pubDate>2026-03-18T23:59:01.583Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour via King St E, Church St and Queen St E due to a downed wire.]]></title>
+            <description><![CDATA[501 Queen: Detour via King St E, Church St and Queen St E due to a downed wire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64697</guid>
+            <pubDate>2026-03-19T00:18:48.603Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 510 Spadina: Streetcars have been replaced by buses between Spadina Ave at Richmond St West and Spadina Station Streetcar Platform due to a downed wire.]]></title>
+            <description><![CDATA[Streetcars are operating from Spadina and Adelaide to Union Station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64700</guid>
+            <pubDate>2026-03-19T00:41:33.977Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -117,48 +138,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64696</guid>
             <pubDate>2026-03-18T23:22:06.987Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Finch: Escalator 22Y1E out of service from Line 1 platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></title>
-            <description><![CDATA[Finch: Escalator 22Y1E out of service from Line 1 platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64692</guid>
-            <pubDate>2026-03-18T21:48:01.407Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Davisville: Escalator 17Y4E out of service from concourse to Davisville Ave entrance while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></title>
-            <description><![CDATA[Davisville: Escalator 17Y4E out of service from concourse to Davisville Ave entrance while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64690</guid>
-            <pubDate>2026-03-18T21:47:29.063Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Don Mills: Escalator 61P4E out of service from Line 4 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></title>
-            <description><![CDATA[Don Mills: Escalator 61P4E out of service from Line 4 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64689</guid>
-            <pubDate>2026-03-18T21:46:47.847Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Lawrence: Escalator 19Y5E out of service from bus platform to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></title>
-            <description><![CDATA[Lawrence: Escalator 19Y5E out of service from bus platform to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64688</guid>
-            <pubDate>2026-03-18T21:46:07.687Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Sheppard-Yonge: Escalator 51P1E out of service from Line 4 Don Mills platform to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></title>
-            <description><![CDATA[Sheppard-Yonge: Escalator 51P1E out of service from Line 4 Don Mills platform to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64687</guid>
-            <pubDate>2026-03-18T21:45:29.12Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Sheppard-Yonge: Escalator 21Y1E out of service from Line 1 platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></title>
-            <description><![CDATA[Sheppard-Yonge: Escalator 21Y1E out of service from Line 1 platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 19, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64686</guid>
-            <pubDate>2026-03-18T21:44:46.427Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform due to construction.]]></title>
