@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 18 Mar 2026 23:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 00:58:33 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,25 +14,18 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: Delays between Eglinton and Mount Dennis stations due to an earlier delay.]]></title>
-            <description><![CDATA[Delays of up to 10 minutes.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays at Coxwell station as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Delays at Coxwell station as power has been shut down. We are investigating the cause and working to fix it as quickly as possible.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64674</guid>
-            <pubDate>2026-03-18T18:54:07.82Z</pubDate>
+            <guid isPermaLink="false">64680</guid>
+            <pubDate>2026-03-18T20:56:29.417Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 29 Dufferin: Detour northbound via Dupont St, Lansdowne Ave and Davenport Rd due to a blocked road.]]></title>
-            <description><![CDATA[29 Dufferin: Detour northbound via Dupont St, Lansdowne Ave and Davenport Rd due to a blocked road.]]></description>
+            <title><![CDATA[🚋 501 Queen: Detour eastbound via Church St, Dundas St E and Broadview Ave due to a collision.]]></title>
+            <description><![CDATA[501 Queen: Detour eastbound via Church St, Dundas St E and Broadview Ave due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64673</guid>
-            <pubDate>2026-03-18T16:31:57.463Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 929 Dufferin Express: Detour northbound via Dupont St, Dovercourt Rd and Davenport Rd due to a blocked road.]]></title>
-            <description><![CDATA[929 Dufferin Express: Detour northbound via Dupont St, Dovercourt Rd and Davenport Rd due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64672</guid>
-            <pubDate>2026-03-18T18:36:39.503Z</pubDate>
+            <guid isPermaLink="false">64679</guid>
+            <pubDate>2026-03-18T19:55:05.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -131,6 +124,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64667</guid>
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Main Street: Elevator 13D1L out of service between Main St east side entrance, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></title>
+            <description><![CDATA[Main Street: Elevator 13D1L out of service between Main St east side entrance, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64678</guid>
+            <pubDate>2026-03-18T19:50:43.207Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Dundas West: Elevator 8B1L out of service between Dundas St W entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></title>
+            <description><![CDATA[Dundas West: Elevator 8B1L out of service between Dundas St W entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64677</guid>
+            <pubDate>2026-03-18T19:48:44.287Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bloor-Yonge: Elevator 13Y2L out of service between north concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></title>
+            <description><![CDATA[Bloor-Yonge: Elevator 13Y2L out of service between north concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 18, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64676</guid>
+            <pubDate>2026-03-18T19:47:40.463Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform due to construction.]]></title>
