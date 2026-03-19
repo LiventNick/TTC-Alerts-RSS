@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 19 Mar 2026 19:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 20:04:43 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 40 Junction-Dundas West Regular service has resumed eastbound near Dundas St West at Pacific Ave.]]></title>
-            <description><![CDATA[40 Junction-Dundas West Regular service has resumed eastbound near Dundas St West at Pacific Ave.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64722</guid>
-            <pubDate>2026-03-19T15:30:37.033Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -126,13 +119,6 @@
             <pubDate>2026-03-17T08:27:31.217Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Runnymede: Escalator back in service from concourse to Runnymede Rd entrance.]]></title>
-            <description><![CDATA[Runnymede: Escalator back in service from concourse to Runnymede Rd entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64617</guid>
-            <pubDate>2026-03-19T15:30:02.31Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Queen's Park: Elevator 3Y2L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></title>
             <description><![CDATA[Queen's Park: Elevator 3Y2L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -175,11 +161,11 @@
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator back in service from north concourse to Steeles Ave W north side entrance.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator back in service from north concourse to Steeles Ave W north side entrance.]]></description>
+            <title><![CDATA[♿ Pioneer Village: Escalator 13S1E out of service from north concourse to Steeles Ave W north side entrance while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
+            <description><![CDATA[Pioneer Village: Escalator 13S1E out of service from north concourse to Steeles Ave W north side entrance while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64407</guid>
-            <pubDate>2026-03-19T15:30:01.67Z</pubDate>
+            <pubDate>2026-03-19T15:40:10.803Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to construction. Escalator is expected to be back in service March 20, 2026.]]></title>
