@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 19 Mar 2026 07:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 08:56:07 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,27 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64544</guid>
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 301 Queen: Detour via Church St and King St E due to a downed wire.]]></title>
-            <description><![CDATA[Shuttle buses are operating.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64697</guid>
-            <pubDate>2026-03-19T03:35:22.913Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 310 Spadina: Streetcars have been replaced by buses between Spadina Ave and Adelaide and Spadina Station due to downed overhead wires.]]></title>
-            <description><![CDATA[Streetcars are operating between Spadina and Adelaide and Union Station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64700</guid>
-            <pubDate>2026-03-19T01:56:51.993Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 329 Dufferin: Detour northbound via Dupont St, Dovercourt Rd and Davenport Rd due to a collision.]]></title>
-            <description><![CDATA[329 Dufferin: Detour northbound via Dupont St, Dovercourt Rd and Davenport Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64703</guid>
-            <pubDate>2026-03-19T02:37:32.17Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
