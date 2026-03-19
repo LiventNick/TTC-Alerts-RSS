@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 19 Mar 2026 07:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 07:59:21 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64547</guid>
-            <pubDate>2026-03-18T23:59:01.583Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></description>
@@ -21,32 +14,11 @@
             <pubDate>2026-03-16T05:20:38.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 301 Queen: Detour eastbound via Roncesvalles Ave, Howard Park Ave, Dundas St W and Broadview Ave while we fix a mechanical problem.]]></title>
-            <description><![CDATA[One shuttle bus is operating.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64702</guid>
-            <pubDate>2026-03-19T03:05:19.95Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 301 Queen: Detour westbound via Church St and King St E due to a downed wire.]]></title>
-            <description><![CDATA[One shuttle bus is operating.]]></description>
+            <title><![CDATA[🚋 301 Queen: Detour via Church St and King St E due to a downed wire.]]></title>
+            <description><![CDATA[Shuttle buses are operating.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64697</guid>
-            <pubDate>2026-03-19T03:07:30.857Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 304 King: No service between King St West at Dufferin St and King St West at Spadina Ave East Side while we fix a mechanical problem.]]></title>
-            <description><![CDATA[304 King service is operating from Spadina to Distillery Loop in east end and between Dufferin Gate Loop and Dundas West Station in west end.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64701</guid>
-            <pubDate>2026-03-19T02:44:42.397Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 306 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we respond to a medical emergency.]]></title>
-            <description><![CDATA[306 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64704</guid>
-            <pubDate>2026-03-19T02:44:06.733Z</pubDate>
+            <pubDate>2026-03-19T03:35:22.913Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 310 Spadina: Streetcars have been replaced by buses between Spadina Ave and Adelaide and Spadina Station due to downed overhead wires.]]></title>
