@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 20 Mar 2026 17:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 18:04:52 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: Starting at 11:59 p.m. on Friday, March 20 there will be no subway service this weekend between St Clair West and St Andrew stations due to planned track work. Partial shuttle bus service will operate between St Clair West and St George Stations.]]></title>
@@ -14,11 +14,18 @@
             <pubDate>2026-03-20T05:04:33.093Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 509 Harbourfront: No service between Exhibition Loop at Manitoba Dr and Union Station Streetcar Platform due to a blocked track.]]></title>
-            <description><![CDATA[509 Harbourfront: No service between Exhibition Loop at Manitoba Dr and Union Station Streetcar Platform due to a blocked track.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Broadview and Woodbine stations while we respond to a medical emergency. Shuttle buses are on the way.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: No service between Broadview and Woodbine stations while we respond to a medical emergency. Shuttle buses are on the way.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64781</guid>
+            <pubDate>2026-03-20T14:03:06.357Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 509 Harbourfront Regular service has resumed between Exhibition Loop at Manitoba Dr and Union Station Streetcar Platform.]]></title>
+            <description><![CDATA[509 Harbourfront Regular service has resumed between Exhibition Loop at Manitoba Dr and Union Station Streetcar Platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64780</guid>
-            <pubDate>2026-03-20T13:32:52.58Z</pubDate>
+            <pubDate>2026-03-20T13:54:31.723Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
