@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 20 Mar 2026 19:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 20:16:55 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: Starting at 11:59 p.m. on Friday, March 20 there will be no subway service this weekend between St Clair West and St Andrew stations due to planned track work. Partial shuttle bus service will operate between St Clair West and St George Stations.]]></title>
@@ -14,32 +14,11 @@
             <pubDate>2026-03-20T05:04:33.093Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Detour eastbound via Queen St W and Shaw St due to a blocked track.]]></title>
-            <description><![CDATA[501 Queen: Detour eastbound via Queen St W and Shaw St due to a blocked track.]]></description>
+            <title><![CDATA[🚋 504 King: Detour via Queen St W and Shaw St due to a blocked track.]]></title>
+            <description><![CDATA[504 King: Detour via Queen St W and Shaw St due to a blocked track.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64799</guid>
-            <pubDate>2026-03-20T15:44:07.76Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 20 Cliffside: Detour via Main St, Gerrard St E, Victoria Park Ave and Danforth Rd due to a collision.]]></title>
-            <description><![CDATA[20 Cliffside: Detour via Main St, Gerrard St E, Victoria Park Ave and Danforth Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64790</guid>
-            <pubDate>2026-03-20T14:59:05.193Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 23 Dawes: Detour via Main St, Doncaster Ave, Barrington Ave, Secord Ave and Dawes Rd due to a collision.]]></title>
-            <description><![CDATA[23 Dawes: Detour via Main St, Doncaster Ave, Barrington Ave, Secord Ave and Dawes Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64791</guid>
-            <pubDate>2026-03-20T15:29:54.487Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 113 Danforth: Detour via Main St, Gerrard St E, Victoria Park Ave and Danforth Rd due to a collision.]]></title>
-            <description><![CDATA[113 Danforth: Detour via Main St, Gerrard St E, Victoria Park Ave and Danforth Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64792</guid>
-            <pubDate>2026-03-20T14:59:06.883Z</pubDate>
+            <pubDate>2026-03-20T15:53:44.223Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
