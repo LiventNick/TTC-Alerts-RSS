@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 20 Mar 2026 11:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 12:03:10 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: Starting at 11:59 p.m. on Friday, March 20 there will be no subway service this weekend between St Clair West and St Andrew stations due to planned track work. Partial shuttle bus service will operate between St Clair West and St George Stations.]]></title>
@@ -117,6 +117,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64757</guid>
             <pubDate>2026-03-20T07:38:05.397Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Keele: Elevator 9B1L out of service between Keele St entrance and bus platform to Line 2 Kipling (Westbound) while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></title>
+            <description><![CDATA[Keele: Elevator 9B1L out of service between Keele St entrance and bus platform to Line 2 Kipling (Westbound) while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64755</guid>
+            <pubDate>2026-03-20T08:00:01.86Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Elevator 7S1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 20, 2026.]]></title>
