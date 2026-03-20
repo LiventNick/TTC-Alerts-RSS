@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 20 Mar 2026 10:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 11:04:26 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: Starting at 11:59 p.m. on Friday, March 20 there will be no subway service this weekend between St Clair West and St Andrew stations due to planned track work. Partial shuttle bus service will operate between St Clair West and St George Stations.]]></title>
@@ -147,11 +147,18 @@
             <pubDate>2026-03-13T21:43:25.02Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator 13S1E out of service from north concourse to Steeles Ave W north side entrance while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator 13S1E out of service from north concourse to Steeles Ave W north side entrance while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></description>
+            <title><![CDATA[♿ Pioneer Village: Escalator 13S2E out of service from Steeles Ave W north side entrance to north concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
+            <description><![CDATA[Pioneer Village: Escalator 13S2E out of service from Steeles Ave W north side entrance to north concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64408</guid>
+            <pubDate>2026-03-20T07:00:01.623Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Pioneer Village: Escalator back in service from north concourse to Steeles Ave W north side entrance.]]></title>
+            <description><![CDATA[Pioneer Village: Escalator back in service from north concourse to Steeles Ave W north side entrance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64407</guid>
-            <pubDate>2026-03-19T15:40:10.803Z</pubDate>
+            <pubDate>2026-03-20T07:00:01.7Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to construction. Escalator is expected to be back in service March 20, 2026.]]></title>
