@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 20 Mar 2026 21:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 22:36:20 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: Starting at 11:59 p.m. on Friday, March 20 there will be no subway service this weekend between St Clair West and St Andrew stations due to planned track work. Partial shuttle bus service will operate between St Clair West and St George Stations.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-20T05:04:33.093Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed eastbound at Runnymede station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed eastbound at Runnymede station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64813</guid>
+            <pubDate>2026-03-20T18:32:06.363Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚇 Line 5 Eglinton: No service between Pharmacy and Laird stations while the maintainer fixes an overhead power issue. Shuttle buses are running between Pharmacy and Laird.]]></title>
@@ -26,13 +33,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64809</guid>
             <pubDate>2026-03-20T17:16:41.36Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 24 Victoria Park: Detour southbound via Sloane Ave, Elvaston Dr and Victoria Ave E due to a collision.]]></title>
-            <description><![CDATA[24 Victoria Park: Detour southbound via Sloane Ave, Elvaston Dr and Victoria Ave E due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64811</guid>
-            <pubDate>2026-03-20T17:32:47.507Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 100 Flemingdon Park: Detour via Cosburn Ave and Pape Ave due to police activity.]]></title>
@@ -117,6 +117,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64667</guid>
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64812</guid>
+            <pubDate>2026-03-20T18:21:34.537Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ York Mills: Escalator 20Y4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 22, 2026.]]></title>
