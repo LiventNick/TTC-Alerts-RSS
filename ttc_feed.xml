@@ -4,36 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 20 Mar 2026 07:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 07:57:21 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64548</guid>
-            <pubDate>2026-03-19T23:59:01.81Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 301 Queen: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave while we deal with an operational problem.]]></title>
-            <description><![CDATA[301 Queen: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave while we deal with an operational problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64746</guid>
-            <pubDate>2026-03-20T02:54:16.253Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 304 King: Detour westbound via Church St, Wellington St E and York St due to police activity.]]></title>
-            <description><![CDATA[304 King: Detour westbound via Church St, Wellington St E and York St due to police activity.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64744</guid>
-            <pubDate>2026-03-20T02:51:41.197Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 305 Dundas: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave while we deal with an operational problem.]]></title>
-            <description><![CDATA[305 Dundas: Detour eastbound via Parliament St, Gerrard St E and Broadview Ave while we deal with an operational problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64745</guid>
-            <pubDate>2026-03-20T02:52:55.677Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
             <description><![CDATA[Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></description>
