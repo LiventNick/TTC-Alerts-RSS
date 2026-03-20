@@ -4,21 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 20 Mar 2026 03:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 05:06:07 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: There will be no subway service between St Clair West and King stations, starting 11:59 p.m., nightly Monday, March 16 to Thursday, March 19, due to planned track work. Shuttle buses will operate.]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and King stations due to planned track work. Shuttle buses are running.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64544</guid>
-            <pubDate>2026-03-16T05:20:38.667Z</pubDate>
+            <guid isPermaLink="false">64548</guid>
+            <pubDate>2026-03-19T23:59:01.81Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 107 Alness-Chesswood: Detour via Supertest Rd, Dufferin St and Dolomite Dr due to a blocked road.]]></title>
-            <description><![CDATA[107 Alness-Chesswood: Detour via Supertest Rd, Dufferin St and Dolomite Dr due to a blocked road.]]></description>
+            <title><![CDATA[🚋 503 Kingston Rd: Detour westbound via Broadview Ave, Dundas St E and Parliament St due to a road closure at Broadview and Eastern.]]></title>
+            <description><![CDATA[503 Kingston Rd: Detour westbound via Broadview Ave, Dundas St E and Parliament St due to a road closure at Broadview and Eastern.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64735</guid>
-            <pubDate>2026-03-19T21:55:02.467Z</pubDate>
+            <guid isPermaLink="false">64739</guid>
+            <pubDate>2026-03-19T23:54:38.103Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
