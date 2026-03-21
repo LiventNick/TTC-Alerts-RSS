@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 17:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 17:45:09 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -152,13 +152,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64787</guid>
             <pubDate>2026-03-21T11:00:01.877Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Davisville: Elevator back in service between concourse and Line 1 southbound platform.]]></title>
-            <description><![CDATA[Davisville: Elevator back in service between concourse and Line 1 southbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64784</guid>
-            <pubDate>2026-03-21T13:00:01.663Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Wilson: Escalator 8S2E out of service from Line 1 platform to Wilson Ave north side entrance and concourse due to a technical problem. Escalator is expected to be back in service March 22, 2026.]]></title>
