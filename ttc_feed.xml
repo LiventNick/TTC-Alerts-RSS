@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 13:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 14:13:28 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,11 +21,18 @@
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: Detour via Ossington Ave and Dundas St W due to a blocked track.]]></title>
-            <description><![CDATA[506 Carlton: Detour via Ossington Ave and Dundas St W due to a blocked track.]]></description>
+            <title><![CDATA[🚋 506 Carlton Regular service has resumed between College St at Spadina Ave and College St at Bay St.]]></title>
+            <description><![CDATA[506 Carlton Regular service has resumed between College St at Spadina Ave and College St at Bay St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64835</guid>
-            <pubDate>2026-03-21T09:44:57.697Z</pubDate>
+            <pubDate>2026-03-21T10:09:04.86Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 54 Lawrence East: Detour via Minnacote Ave, Beechgrove Dr and Megan Ave due to downed power lines.]]></title>
+            <description><![CDATA[54 Lawrence East: Detour via Minnacote Ave, Beechgrove Dr and Megan Ave due to downed power lines.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64836</guid>
+            <pubDate>2026-03-21T10:07:40.543Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -154,11 +161,18 @@
             <pubDate>2026-03-21T07:00:02.047Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Davisville: Elevator 17Y1L out of service between Davisville Ave south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></title>
-            <description><![CDATA[Davisville: Elevator 17Y1L out of service between Davisville Ave south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></description>
+            <title><![CDATA[♿ Davisville: Elevator back in service between Davisville Ave south side entrance and concourse.]]></title>
+            <description><![CDATA[Davisville: Elevator back in service between Davisville Ave south side entrance and concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64785</guid>
-            <pubDate>2026-03-21T07:00:01.843Z</pubDate>
+            <pubDate>2026-03-21T10:00:02.027Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Davisville: Elevator 17Y2L out of service between concourse and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></title>
+            <description><![CDATA[Davisville: Elevator 17Y2L out of service between concourse and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64784</guid>
+            <pubDate>2026-03-21T10:00:01.917Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Wilson: Escalator 8S2E out of service from Line 1 platform to Wilson Ave north side entrance and concourse due to a technical problem. Escalator is expected to be back in service March 22, 2026.]]></title>
