@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 14:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 14:47:21 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 506 Carlton Regular service has resumed between College St at Spadina Ave and College St at Bay St.]]></title>
-            <description><![CDATA[506 Carlton Regular service has resumed between College St at Spadina Ave and College St at Bay St.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64835</guid>
-            <pubDate>2026-03-21T10:09:04.86Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 54 Lawrence East: Detour via Minnacote Ave, Beechgrove Dr and Megan Ave due to downed power lines.]]></title>
@@ -112,6 +105,13 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Lansdowne: Elevator 7B2L out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance.]]></title>
+            <description><![CDATA[Lansdowne: Elevator 7B2L out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64837</guid>
+            <pubDate>2026-03-21T10:28:24.047Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ St Andrew: Elevator 6Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
             <description><![CDATA[St Andrew: Elevator 6Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -159,13 +159,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64786</guid>
             <pubDate>2026-03-21T07:00:02.047Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Davisville: Elevator back in service between Davisville Ave south side entrance and concourse.]]></title>
-            <description><![CDATA[Davisville: Elevator back in service between Davisville Ave south side entrance and concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64785</guid>
-            <pubDate>2026-03-21T10:00:02.027Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Davisville: Elevator 17Y2L out of service between concourse and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></title>
