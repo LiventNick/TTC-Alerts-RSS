@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 15:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 16:01:09 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 505 Dundas Regular service has resumed eastbound from Dundas St East at Sherbourne St to Dundas St East at Broadview Ave.]]></title>
+            <description><![CDATA[505 Dundas Regular service has resumed eastbound from Dundas St East at Sherbourne St to Dundas St East at Broadview Ave.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64840</guid>
+            <pubDate>2026-03-21T11:55:29.133Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour southbound via Mortimer Ave, Donlands Ave and Danforth Ave due to a collision.]]></title>
