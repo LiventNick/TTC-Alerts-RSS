@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 11:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 12:56:50 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,25 +21,18 @@
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed between Mount Dennis and Kennedy stations.]]></title>
-            <description><![CDATA[Line 5 Eglinton Regular service has resumed between Mount Dennis and Kennedy stations.]]></description>
+            <title><![CDATA[🚌 20 Cliffside: Detour eastbound via Dawes Rd, Crescent Town Rd, Victoria Park Ave and Danforth Ave due to a blocked road.]]></title>
+            <description><![CDATA[20 Cliffside: Detour eastbound via Dawes Rd, Crescent Town Rd, Victoria Park Ave and Danforth Ave due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64830</guid>
-            <pubDate>2026-03-21T07:54:37.47Z</pubDate>
+            <guid isPermaLink="false">64833</guid>
+            <pubDate>2026-03-21T08:04:41.29Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 511 Bathurst: Detour northbound via Dundas St W, Spadina Ave and College St due to construction.]]></title>
-            <description><![CDATA[511 Bathurst: Detour northbound via Dundas St W, Spadina Ave and College St due to construction.]]></description>
+            <title><![CDATA[🚌 113 Danforth: Detour eastbound via Danforth Ave, Dawes Rd, Crescent Town Rd, Victoria Park Ave and Danforth Ave due to a blocked road.]]></title>
+            <description><![CDATA[113 Danforth: Detour eastbound via Danforth Ave, Dawes Rd, Crescent Town Rd, Victoria Park Ave and Danforth Ave due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64831</guid>
-            <pubDate>2026-03-21T07:25:14.71Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 104 Faywood: Detour northbound via Combe Ave, Elder St and Overbrook Pl due to police activity.]]></title>
-            <description><![CDATA[104 Faywood: Detour northbound via Combe Ave, Elder St and Overbrook Pl due to police activity.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64829</guid>
-            <pubDate>2026-03-21T06:27:24.087Z</pubDate>
+            <guid isPermaLink="false">64832</guid>
+            <pubDate>2026-03-21T08:04:30.567Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
