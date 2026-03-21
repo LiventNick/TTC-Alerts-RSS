@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 10:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 11:11:30 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -26,13 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64830</guid>
             <pubDate>2026-03-21T06:42:05.327Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed between Wynford and Laird stations.]]></title>
-            <description><![CDATA[Line 5 Eglinton Regular service has resumed between Wynford and Laird stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64828</guid>
-            <pubDate>2026-03-21T06:35:50.943Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 104 Faywood: Detour northbound via Combe Ave, Elder St and Overbrook Pl due to police activity.]]></title>
@@ -152,6 +145,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64795</guid>
             <pubDate>2026-03-20T15:35:16.74Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Glencairn: Elevator 5S2L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></title>
+            <description><![CDATA[Glencairn: Elevator 5S2L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64786</guid>
+            <pubDate>2026-03-21T07:00:02.047Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Davisville: Elevator 17Y1L out of service between Davisville Ave south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></title>
+            <description><![CDATA[Davisville: Elevator 17Y1L out of service between Davisville Ave south side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64785</guid>
+            <pubDate>2026-03-21T07:00:01.843Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Wilson: Escalator 8S2E out of service from Line 1 platform to Wilson Ave north side entrance and concourse due to a technical problem. Escalator is expected to be back in service March 22, 2026.]]></title>
