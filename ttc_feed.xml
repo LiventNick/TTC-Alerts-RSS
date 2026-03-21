@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 02:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 04:20:41 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running between St Clair West and St George.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running between St Clair West and St George.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64748</guid>
+            <pubDate>2026-03-20T23:59:01.793Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: Starting at 11:59 p.m. on Friday, March 20 there will be no subway service this weekend between St Clair West and St Andrew stations due to planned track work. Partial shuttle bus service will operate between St Clair West and St George Stations.]]></title>
             <description><![CDATA[Line 1 Yonge-University: Starting at 11:59 p.m. on Friday, March 20 there will be no subway service this weekend between St Clair West and St Andrew stations due to planned track work. Partial shuttle bus service will operate between St Clair West and St George Stations.]]></description>
@@ -105,13 +112,6 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Lansdowne: Elevator 7B2L out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance.]]></title>
-            <description><![CDATA[Lansdowne: Elevator 7B2L out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64817</guid>
-            <pubDate>2026-03-20T20:42:49.523Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S1E out of service from Line 1 platform to south concourse due to construction. Escalator is expected to be back in service March 27, 2026.]]></title>
             <description><![CDATA[Yorkdale: Escalator 7S1E out of service from Line 1 platform to south concourse due to construction. Escalator is expected to be back in service March 27, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -152,20 +152,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64768</guid>
             <pubDate>2026-03-20T09:58:14.633Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Lawrence: Escalator 19Y1E out of service from south concourse to Yonge St west side entrance while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
-            <description><![CDATA[Lawrence: Escalator 19Y1E out of service from south concourse to Yonge St west side entrance while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64758</guid>
-            <pubDate>2026-03-20T07:38:38.48Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Woodbine: Escalator 12D3E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></title>
-            <description><![CDATA[Woodbine: Escalator 12D3E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 20, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64736</guid>
-            <pubDate>2026-03-20T07:30:01.653Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform due to construction.]]></title>
