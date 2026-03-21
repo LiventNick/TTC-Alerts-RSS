@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 22:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 23:27:03 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Driftwood and Norfinch Oakdale stations due to a medical emergency.]]></title>
+            <description><![CDATA[Line 6 Finch West: No service between Driftwood and Norfinch Oakdale stations due to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64844</guid>
+            <pubDate>2026-03-21T19:22:03.097Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
