@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 09:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 10:13:01 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton: No service between Wynford and Laird stations due to Mechanical issues on train at Wynford Stop. Shuttle buses are on the way.]]></title>
+            <description><![CDATA[Line 5 Eglinton: No service between Wynford and Laird stations due to Mechanical issues on train at Wynford Stop. Shuttle buses are on the way.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64828</guid>
+            <pubDate>2026-03-21T05:56:18.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
