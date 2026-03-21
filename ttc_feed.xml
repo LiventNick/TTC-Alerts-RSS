@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 19:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 19:58:41 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -105,18 +105,18 @@
             <pubDate>2026-03-21T14:30:50.493Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Lansdowne: Elevator 7B2L out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance.]]></title>
-            <description><![CDATA[Lansdowne: Elevator 7B2L out of service between concourse and Line 2 (Kipling) westbound while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Lansdowne: Elevator back in service between concourse and Line 2 (Kipling) westbound.]]></title>
+            <description><![CDATA[Lansdowne: Elevator back in service between concourse and Line 2 (Kipling) westbound.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64837</guid>
-            <pubDate>2026-03-21T10:28:24.047Z</pubDate>
+            <pubDate>2026-03-21T15:47:57.097Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ St Andrew: Elevator 6Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[St Andrew: Elevator 6Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ St Andrew: Elevator back in service between concourse and Line 1 centre platform.]]></title>
+            <description><![CDATA[St Andrew: Elevator back in service between concourse and Line 1 centre platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64834</guid>
-            <pubDate>2026-03-21T09:43:23.707Z</pubDate>
+            <pubDate>2026-03-21T15:48:56.74Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S1E out of service from Line 1 platform to south concourse due to construction. Escalator is expected to be back in service March 27, 2026.]]></title>
