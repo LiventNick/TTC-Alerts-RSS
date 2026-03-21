@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 17:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 18:01:02 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -147,11 +147,18 @@
             <pubDate>2026-03-20T15:35:16.74Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Cedarvale: Elevator 4S1L out of service between Bus Terminal entrance and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></title>
-            <description><![CDATA[Cedarvale: Elevator 4S1L out of service between Bus Terminal entrance and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></description>
+            <title><![CDATA[♿ Cedarvale: Elevator 4S2L out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></title>
+            <description><![CDATA[Cedarvale: Elevator 4S2L out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64788</guid>
+            <pubDate>2026-03-21T14:00:01.837Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Cedarvale: Elevator back in service between Bus Terminal entrance and Line 1 northbound platform.]]></title>
+            <description><![CDATA[Cedarvale: Elevator back in service between Bus Terminal entrance and Line 1 northbound platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64787</guid>
-            <pubDate>2026-03-21T11:00:01.877Z</pubDate>
+            <pubDate>2026-03-21T14:00:02.29Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Wilson: Escalator 8S2E out of service from Line 1 platform to Wilson Ave north side entrance and concourse due to a technical problem. Escalator is expected to be back in service March 22, 2026.]]></title>
