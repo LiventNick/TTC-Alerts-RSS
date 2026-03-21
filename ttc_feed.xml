@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 15:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 15:44:00 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 54 Lawrence East Regular service has resumed between Lawrence Ave East at Morning Dew Rd and Lawrence Ave East at Meadowvale Rd East Side.]]></title>
-            <description><![CDATA[54 Lawrence East Regular service has resumed between Lawrence Ave East at Morning Dew Rd and Lawrence Ave East at Meadowvale Rd East Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64836</guid>
-            <pubDate>2026-03-21T11:02:47.07Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour southbound via Mortimer Ave, Donlands Ave and Danforth Ave due to a collision.]]></title>
@@ -166,13 +159,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64787</guid>
             <pubDate>2026-03-21T11:00:01.877Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Glencairn: Elevator back in service between concourse and Line 1 centre platform.]]></title>
-            <description><![CDATA[Glencairn: Elevator back in service between concourse and Line 1 centre platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64786</guid>
-            <pubDate>2026-03-21T11:00:01.953Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Davisville: Elevator 17Y2L out of service between concourse and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 21, 2026.]]></title>
