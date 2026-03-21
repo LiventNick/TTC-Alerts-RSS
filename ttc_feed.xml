@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 10:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 10:47:51 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,11 +21,25 @@
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: No service between Wynford and Laird stations due to Mechanical issues on train at Wynford Stop. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[Line 5 Eglinton: No service between Wynford and Laird stations due to Mechanical issues on train at Wynford Stop. Shuttle buses are on the way.]]></description>
+            <title><![CDATA[🚇 Line 5 Eglinton: Delays between Mount Dennis and Kennedy stations of approximately 15 minutes due to earlier delay.]]></title>
+            <description><![CDATA[Line 5 Eglinton: Delays between Mount Dennis and Kennedy stations of approximately 15 minutes due to earlier delay.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64830</guid>
+            <pubDate>2026-03-21T06:42:05.327Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton Regular service has resumed between Wynford and Laird stations.]]></title>
+            <description><![CDATA[Line 5 Eglinton Regular service has resumed between Wynford and Laird stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64828</guid>
-            <pubDate>2026-03-21T05:56:18.737Z</pubDate>
+            <pubDate>2026-03-21T06:35:50.943Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 104 Faywood: Detour northbound via Combe Ave, Elder St and Overbrook Pl due to police activity.]]></title>
+            <description><![CDATA[104 Faywood: Detour northbound via Combe Ave, Elder St and Overbrook Pl due to police activity.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64829</guid>
+            <pubDate>2026-03-21T06:27:24.087Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
