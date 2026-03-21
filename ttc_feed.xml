@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 12:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 13:46:28 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,18 +21,11 @@
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 20 Cliffside: Detour eastbound via Dawes Rd, Crescent Town Rd, Victoria Park Ave and Danforth Ave due to a blocked road.]]></title>
-            <description><![CDATA[20 Cliffside: Detour eastbound via Dawes Rd, Crescent Town Rd, Victoria Park Ave and Danforth Ave due to a blocked road.]]></description>
+            <title><![CDATA[🚋 506 Carlton: Detour via Ossington Ave and Dundas St W due to a blocked track.]]></title>
+            <description><![CDATA[506 Carlton: Detour via Ossington Ave and Dundas St W due to a blocked track.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64833</guid>
-            <pubDate>2026-03-21T08:04:41.29Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 113 Danforth: Detour eastbound via Danforth Ave, Dawes Rd, Crescent Town Rd, Victoria Park Ave and Danforth Ave due to a blocked road.]]></title>
-            <description><![CDATA[113 Danforth: Detour eastbound via Danforth Ave, Dawes Rd, Crescent Town Rd, Victoria Park Ave and Danforth Ave due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64832</guid>
-            <pubDate>2026-03-21T08:04:30.567Z</pubDate>
+            <guid isPermaLink="false">64835</guid>
+            <pubDate>2026-03-21T09:44:57.697Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -110,6 +103,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64667</guid>
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St Andrew: Elevator 6Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[St Andrew: Elevator 6Y2L out of service between concourse and Line 1 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64834</guid>
+            <pubDate>2026-03-21T09:43:23.707Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S1E out of service from Line 1 platform to south concourse due to construction. Escalator is expected to be back in service March 27, 2026.]]></title>
