@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 21 Mar 2026 05:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 06:02:46 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running between St Clair West and St George.]]></title>
@@ -21,20 +21,6 @@
             <pubDate>2026-03-20T05:04:33.093Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed westbound at Castle Frank station.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed westbound at Castle Frank station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64823</guid>
-            <pubDate>2026-03-21T01:13:12.563Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth Regular service has resumed between Broadview and St George stations.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth Regular service has resumed between Broadview and St George stations.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64824</guid>
-            <pubDate>2026-03-21T01:12:55.21Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚇 Line 5 Eglinton: No service between Kennedy and Laird stations due to an overhead issue and track switch problems. Shuttle buses are running between Kennedy and Laird.]]></title>
             <description><![CDATA[As an alternative, customers can take 34 Eglinton buses running along Eglinton Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -42,18 +28,11 @@
             <pubDate>2026-03-20T18:48:51.71Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504A King: No service between Distillery Loop and King St East at Church St West Side due to a Toronto Police Investigation.]]></title>
-            <description><![CDATA[504A King: No service between Distillery Loop and King St East at Church St West Side due to a Toronto Police Investigation.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64825</guid>
-            <pubDate>2026-03-21T01:19:04.263Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
-            <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></description>
+            <title><![CDATA[🚌 14 Glencairn Regular service has resumed eastbound near Glencairn Ave at Bathurst St.]]></title>
+            <description><![CDATA[14 Glencairn Regular service has resumed eastbound near Glencairn Ave at Bathurst St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64816</guid>
-            <pubDate>2026-03-20T19:18:11.177Z</pubDate>
+            <pubDate>2026-03-21T01:56:27.357Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
