@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 22 Mar 2026 00:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 03:43:00 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 94 Wellesley: Detour eastbound via Jarvis St, Carlton St and Sherbourne St due to a collision.]]></title>
+            <description><![CDATA[94 Wellesley: Detour eastbound via Jarvis St, Carlton St and Sherbourne St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64848</guid>
+            <pubDate>2026-03-21T23:20:50.147Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -147,11 +154,11 @@
             <pubDate>2026-03-16T19:58:11.427Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Queen's Park: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.]]></title>
-            <description><![CDATA[Queen's Park: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.]]></description>
+            <title><![CDATA[♿ Avenue: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.]]></title>
+            <description><![CDATA[Avenue: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64579</guid>
-            <pubDate>2026-03-16T15:30:28.907Z</pubDate>
+            <pubDate>2026-03-21T23:27:18.503Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Cedarvale: Elevator out of service between upper concourse, lower concourse, Line 1 southbound, and Line 5 centre platform while the maintainer performs maintenance.]]></title>
