@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 22 Mar 2026 18:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 19:27:00 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,20 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 501 Queen Regular service has resumed between Humber Loop at the Queensway and Queen St West at Shaw St.]]></title>
-            <description><![CDATA[501 Queen Regular service has resumed between Humber Loop at the Queensway and Queen St West at Shaw St.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64861</guid>
-            <pubDate>2026-03-22T14:44:24.643Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 101 Downsview Park Regular service has resumed near Sheppard Ave West at Chesswood Dr.]]></title>
-            <description><![CDATA[101 Downsview Park Regular service has resumed near Sheppard Ave West at Chesswood Dr.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64862</guid>
-            <pubDate>2026-03-22T14:41:20.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -112,6 +98,13 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Leaside: Elevator 1 out of service between concourse and Line 5 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[Leaside: Elevator 1 out of service between concourse and Line 5 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64863</guid>
+            <pubDate>2026-03-22T15:11:33.1Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></title>
             <description><![CDATA[Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -119,11 +112,11 @@
             <pubDate>2026-03-22T13:40:03.587Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Don Mills: Elevator 61P6L out of service between Fairview Mall entrance and bus platform while we perform maintenance.]]></title>
-            <description><![CDATA[Don Mills: Elevator 61P6L out of service between Fairview Mall entrance and bus platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Don Mills: Elevator back in service between Fairview Mall entrance and bus platform.]]></title>
+            <description><![CDATA[Don Mills: Elevator back in service between Fairview Mall entrance and bus platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64854</guid>
-            <pubDate>2026-03-22T06:58:58.997Z</pubDate>
+            <pubDate>2026-03-22T15:16:06.837Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S1E out of service from Line 1 platform to south concourse due to construction. Escalator is expected to be back in service March 27, 2026.]]></title>
@@ -159,13 +152,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64795</guid>
             <pubDate>2026-03-20T15:35:16.74Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Wilson: Escalator 8S2E out of service from Line 1 platform to Wilson Ave north side entrance and concourse due to a technical problem. Escalator is expected to be back in service March 22, 2026.]]></title>
-            <description><![CDATA[Wilson: Escalator 8S2E out of service from Line 1 platform to Wilson Ave north side entrance and concourse due to a technical problem. Escalator is expected to be back in service March 22, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64768</guid>
-            <pubDate>2026-03-20T09:58:14.633Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform due to a technical problem.]]></title>
