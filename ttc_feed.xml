@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 22 Mar 2026 18:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 18:54:10 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,6 +19,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen Regular service has resumed between Humber Loop at the Queensway and Queen St West at Shaw St.]]></title>
+            <description><![CDATA[501 Queen Regular service has resumed between Humber Loop at the Queensway and Queen St West at Shaw St.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64861</guid>
+            <pubDate>2026-03-22T14:44:24.643Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 101 Downsview Park Regular service has resumed near Sheppard Ave West at Chesswood Dr.]]></title>
+            <description><![CDATA[101 Downsview Park Regular service has resumed near Sheppard Ave West at Chesswood Dr.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64862</guid>
+            <pubDate>2026-03-22T14:41:20.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
