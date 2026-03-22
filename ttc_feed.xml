@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 22 Mar 2026 10:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 10:59:48 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64747</guid>
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 512 St Clair: No service westbound from St Clair Station at Bay 2 to St Clair Ave West at Oakwood Ave while we fix a mechanical problem.]]></title>
-            <description><![CDATA[512 St Clair: No service westbound from St Clair Station at Bay 2 to St Clair Ave West at Oakwood Ave while we fix a mechanical problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64853</guid>
-            <pubDate>2026-03-22T05:16:02.643Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -103,6 +96,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64667</guid>
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Don Mills: Elevator 61P6L out of service between Fairview Mall entrance and bus platform while we perform maintenance.]]></title>
+            <description><![CDATA[Don Mills: Elevator 61P6L out of service between Fairview Mall entrance and bus platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64854</guid>
+            <pubDate>2026-03-22T06:58:58.997Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S1E out of service from Line 1 platform to south concourse due to construction. Escalator is expected to be back in service March 27, 2026.]]></title>
