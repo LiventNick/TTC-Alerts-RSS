@@ -4,35 +4,28 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 23 Mar 2026 06:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 07:38:05 GMT</lastBuildDate>
         
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
-            <description><![CDATA[https://files.ttc.ca/public-images/public-image-639095798744038498.png]]></description>
+            <title><![CDATA[🚇 Line 1 Yonge-University Regular service has resumed between St Clair West and St Andrew stations.]]></title>
+            <description><![CDATA[Line 1 Yonge-University Regular service has resumed between St Clair West and St Andrew stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64826</guid>
-            <pubDate>2026-03-21T03:07:14.993Z</pubDate>
+            <pubDate>2026-03-23T03:30:01.943Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: This weekend, there will be no subway service between St Clair West and St Andrew stations, due to planned track work. Shuttle buses will operate between St Clair West and St George.]]></title>
-            <description><![CDATA[https://files.ttc.ca/public-images/public-image-639095798744038498.png]]></description>
+            <title><![CDATA[🚋 301, 301B Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we deal with a disruptive customer.]]></title>
+            <description><![CDATA[301, 301B Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we deal with a disruptive customer.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64747</guid>
-            <pubDate>2026-03-21T03:07:15.823Z</pubDate>
+            <guid isPermaLink="false">64870</guid>
+            <pubDate>2026-03-23T03:14:49.113Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Irondale Dr, Garyray Dr and Barmac Dr due to a collision.]]></title>
-            <description><![CDATA[165 Weston Rd North: Detour westbound via Irondale Dr, Garyray Dr and Barmac Dr due to a collision.]]></description>
+            <title><![CDATA[🚋 301, 301B Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we deal with a disruptive customer.]]></title>
+            <description><![CDATA[301, 301B Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we deal with a disruptive customer.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64868</guid>
-            <pubDate>2026-03-23T01:50:43.49Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 960 Steeles West Express: Detour westbound via Pearce Rd, Hanley St and Gaudaur Rd due to a collision.]]></title>
-            <description><![CDATA[960 Steeles West Express: Detour westbound via Pearce Rd, Hanley St and Gaudaur Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64869</guid>
-            <pubDate>2026-03-23T01:51:31.527Z</pubDate>
+            <guid isPermaLink="false">64870-1</guid>
+            <pubDate>2026-03-23T03:14:49.113Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
