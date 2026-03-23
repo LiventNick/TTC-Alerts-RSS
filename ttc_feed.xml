@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 23 Mar 2026 04:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 06:01:23 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -21,11 +21,18 @@
             <pubDate>2026-03-21T03:07:15.823Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
-            <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></description>
+            <title><![CDATA[🚌 165 Weston Rd North: Detour westbound via Irondale Dr, Garyray Dr and Barmac Dr due to a collision.]]></title>
+            <description><![CDATA[165 Weston Rd North: Detour westbound via Irondale Dr, Garyray Dr and Barmac Dr due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64864</guid>
-            <pubDate>2026-03-22T23:20:32.17Z</pubDate>
+            <guid isPermaLink="false">64868</guid>
+            <pubDate>2026-03-23T01:50:43.49Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 960 Steeles West Express: Detour westbound via Pearce Rd, Hanley St and Gaudaur Rd due to a collision.]]></title>
+            <description><![CDATA[960 Steeles West Express: Detour westbound via Pearce Rd, Hanley St and Gaudaur Rd due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64869</guid>
+            <pubDate>2026-03-23T01:51:31.527Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
