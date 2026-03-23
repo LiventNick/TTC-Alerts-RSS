@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 23 Mar 2026 02:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 04:40:54 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between St Clair West and St Andrew stations due to planned track work. Shuttle buses are running.]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64864</guid>
-            <pubDate>2026-03-22T17:51:31.683Z</pubDate>
+            <pubDate>2026-03-22T23:20:32.17Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -145,13 +145,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64805</guid>
             <pubDate>2026-03-22T21:00:01.807Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ York Mills: Escalator 20Y4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 22, 2026.]]></title>
-            <description><![CDATA[York Mills: Escalator 20Y4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 22, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64796</guid>
-            <pubDate>2026-03-20T15:38:34.627Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B2E out of service from bus platform to Line 2 platform while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></title>
