@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 23 Mar 2026 10:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 11:30:08 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -89,6 +89,34 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64667</guid>
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Rosedale: Elevator 14Y1L out of service between Cresent Road entrance and Line 1 sourthbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Rosedale: Elevator 14Y1L out of service between Cresent Road entrance and Line 1 sourthbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64884</guid>
+            <pubDate>2026-03-23T07:09:18.173Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Kennedy: Elevator 16D1L out of service between Transway Cresent entrance and bus platform B and concourse while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></title>
+            <description><![CDATA[Kennedy: Elevator 16D1L out of service between Transway Cresent entrance and bus platform B and concourse while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64883</guid>
+            <pubDate>2026-03-23T07:09:09.41Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St Clair West: Elevator 3S1L out of service between Heath St W north side entrance and north concourse while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></title>
+            <description><![CDATA[St Clair West: Elevator 3S1L out of service between Heath St W north side entrance and north concourse while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64881</guid>
+            <pubDate>2026-03-23T07:00:02.597Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Lawrence: Elevator 19Y2L out of service between Concourse, Line 1, and bus platform while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></title>
+            <description><![CDATA[Lawrence: Elevator 19Y2L out of service between Concourse, Line 1, and bus platform while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64879</guid>
+            <pubDate>2026-03-23T07:00:02.19Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Keele: Elevator 9B1L out of service between Keele St entrance and bus platform to Line 2 Kipling (Westbound) while we perform maintenance.]]></title>
