@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 23 Mar 2026 19:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 20:07:58 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 505 Dundas: Detour westbound via Mccaul St and College St due to a collision.]]></title>
-            <description><![CDATA[505 Dundas: Detour westbound via Mccaul St and College St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64912</guid>
-            <pubDate>2026-03-23T15:20:43.72Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -105,13 +98,6 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Highway 407: Escalator back in service from bus platform to concourse.]]></title>
-            <description><![CDATA[Highway 407: Escalator back in service from bus platform to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64900</guid>
-            <pubDate>2026-03-23T15:30:03.61Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Leaside: Elevator 1 out of service between concourse and Line 5 centre platform while we perform maintenance.]]></title>
             <description><![CDATA[Leaside: Elevator 1 out of service between concourse and Line 5 centre platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -131,13 +117,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64815</guid>
             <pubDate>2026-03-20T18:54:43.057Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator back in service from north concourse to Steeles Ave W north side entrance.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator back in service from north concourse to Steeles Ave W north side entrance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64814</guid>
-            <pubDate>2026-03-23T15:30:04.39Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 27, 2026.]]></title>
