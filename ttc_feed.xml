@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 23 Mar 2026 15:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 16:38:58 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed eastbound at Castle Frank station.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed eastbound at Castle Frank station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64902</guid>
-            <pubDate>2026-03-23T11:43:23.247Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -112,25 +105,11 @@
             <pubDate>2026-03-23T10:30:03.36Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Greenwood: Elevator back in service Street to Concourse to Line 2 Kennedy Platform.]]></title>
-            <description><![CDATA[Greenwood: Elevator back in service Street to Concourse to Line 2 Kennedy Platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64893</guid>
-            <pubDate>2026-03-23T11:32:05.943Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Runnymede: Elevator 11B3L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></title>
             <description><![CDATA[Runnymede: Elevator 11B3L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64890</guid>
             <pubDate>2026-03-23T10:00:00.37Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Union: Elevator 7Y2L out of service between concourse and Line 1 Finch platform while we perform maintenance. Elevator is expected to be back in service March 26, 2026.]]></title>
-            <description><![CDATA[Union: Elevator 7Y2L out of service between concourse and Line 1 Finch platform while we perform maintenance. Elevator is expected to be back in service March 26, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64887</guid>
-            <pubDate>2026-03-23T07:45:05.127Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ York Mills: Escalator 20Y4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 23, 2026.]]></title>
