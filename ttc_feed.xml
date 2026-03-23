@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 23 Mar 2026 13:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 14:45:19 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -14,32 +14,11 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 25 Don Mills: Detour via Millwood Rd, Laird Dr and Eglinton Ave E due to police activity.]]></title>
-            <description><![CDATA[25 Don Mills: Detour via Millwood Rd, Laird Dr and Eglinton Ave E due to police activity.]]></description>
+            <title><![CDATA[🚋 505 Dundas: No service between Broadview Ave at Gerrard St East and Broadview Station at Bay 6 due to a collision.]]></title>
+            <description><![CDATA[505 Dundas: No service between Broadview Ave at Gerrard St East and Broadview Station at Bay 6 due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64896</guid>
-            <pubDate>2026-03-23T09:32:38.28Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 72 Pape: Detour via Millwood Rd, Laird Dr and Eglinton Ave E due to police activity.]]></title>
-            <description><![CDATA[72 Pape: Detour via Millwood Rd, Laird Dr and Eglinton Ave E due to police activity.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64898</guid>
-            <pubDate>2026-03-23T09:34:30.877Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 100 Flemingdon Park: Detour via Millwood Rd, Laird Dr, Eglinton Ave E, Don Mills Rd, Gateway Blvd and Grenoble Dr due to police activity.]]></title>
-            <description><![CDATA[100 Flemingdon Park: Detour via Millwood Rd, Laird Dr, Eglinton Ave E, Don Mills Rd, Gateway Blvd and Grenoble Dr due to police activity.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64895</guid>
-            <pubDate>2026-03-23T09:33:00.253Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 925 Don Mills Express: Detour via Millwood Rd, Laird Dr and Eglinton Ave E due to police activity.]]></title>
-            <description><![CDATA[925 Don Mills Express: Detour via Millwood Rd, Laird Dr and Eglinton Ave E due to police activity.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64897</guid>
-            <pubDate>2026-03-23T09:32:38.983Z</pubDate>
+            <guid isPermaLink="false">64901</guid>
+            <pubDate>2026-03-23T10:36:42.057Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -126,11 +105,32 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Highway 407: Escalator 14S5E out of service from bus platform to concourse while we perform maintenance. Escalator is expected to be back in service March 23, 2026.]]></title>
+            <description><![CDATA[Highway 407: Escalator 14S5E out of service from bus platform to concourse while we perform maintenance. Escalator is expected to be back in service March 23, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64900</guid>
+            <pubDate>2026-03-23T10:30:03.36Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Highway 407: Escalator 14S4E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 23, 2026.]]></title>
+            <description><![CDATA[Highway 407: Escalator 14S4E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 23, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64899</guid>
+            <pubDate>2026-03-23T09:47:46.87Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></title>
             <description><![CDATA[Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64893</guid>
             <pubDate>2026-03-23T09:21:08.663Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Runnymede: Elevator 11B3L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></title>
+            <description><![CDATA[Runnymede: Elevator 11B3L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 23, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64890</guid>
+            <pubDate>2026-03-23T10:00:00.37Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Union: Elevator 7Y2L out of service between concourse and Line 1 Finch platform while we perform maintenance. Elevator is expected to be back in service March 26, 2026.]]></title>
