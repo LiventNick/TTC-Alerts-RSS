@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 24 Mar 2026 14:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 15:49:16 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: No service between Ionview and Kennedy stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[Line 5 Eglinton: No service between Ionview and Kennedy stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way.]]></description>
+            <title><![CDATA[🚇 Line 5 Eglinton: Regular service has resumed between Ionview and Kennedy stations.]]></title>
+            <description><![CDATA[Line 5 Eglinton: Regular service has resumed between Ionview and Kennedy stations.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64953</guid>
-            <pubDate>2026-03-24T10:07:31.88Z</pubDate>
+            <pubDate>2026-03-24T11:36:13.053Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -105,11 +105,11 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Davisville: Elevator 17Y4L out of service between bus platform and concourse while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
-            <description><![CDATA[Davisville: Elevator 17Y4L out of service between bus platform and concourse while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
+            <title><![CDATA[♿ Eglinton: Elevator 18Y2L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
+            <description><![CDATA[Eglinton: Elevator 18Y2L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64946</guid>
-            <pubDate>2026-03-24T08:00:02.543Z</pubDate>
+            <guid isPermaLink="false">64947</guid>
+            <pubDate>2026-03-24T11:00:03.793Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Davisville: Escalator 17Y1E out of service from Line 1 Finch platform to bus platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
@@ -126,18 +126,18 @@
             <pubDate>2026-03-24T07:21:25.41Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Kennedy: Elevator 16D3L out of service between bus platform A, concourse, and Transway Crescent entrance and bus platform B while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
-            <description><![CDATA[Kennedy: Elevator 16D3L out of service between bus platform A, concourse, and Transway Crescent entrance and bus platform B while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
+            <title><![CDATA[♿ Scarborough Centre: Elevator 6RT1L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
+            <description><![CDATA[Scarborough Centre: Elevator 6RT1L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64938</guid>
-            <pubDate>2026-03-24T07:01:09.49Z</pubDate>
+            <guid isPermaLink="false">64939</guid>
+            <pubDate>2026-03-24T11:00:04.027Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ St Clair West: Elevator 3S3L out of service between south concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
-            <description><![CDATA[St Clair West: Elevator 3S3L out of service between south concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
+            <title><![CDATA[♿ St Clair West: Elevator 3S4L out of service between St Clair Ave W north side entrance and bus and streetcar platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
+            <description><![CDATA[St Clair West: Elevator 3S4L out of service between St Clair Ave W north side entrance and bus and streetcar platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64935</guid>
-            <pubDate>2026-03-24T07:00:03.54Z</pubDate>
+            <guid isPermaLink="false">64937</guid>
+            <pubDate>2026-03-24T11:00:03.557Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Jane: Elevator 12B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
