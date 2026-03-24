@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 24 Mar 2026 13:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 14:40:52 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -14,32 +14,11 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: Regular service has resumed between Don Valley and Mount Pleasant stations.]]></title>
-            <description><![CDATA[Line 5 Eglinton: Regular service has resumed between Don Valley and Mount Pleasant stations.]]></description>
+            <title><![CDATA[🚇 Line 5 Eglinton: No service between Ionview and Kennedy stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way.]]></title>
+            <description><![CDATA[Line 5 Eglinton: No service between Ionview and Kennedy stations while the maintainer fixes a mechanical problem. Shuttle buses are on the way.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64949</guid>
-            <pubDate>2026-03-24T09:20:16.68Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 35 Jane: Detour southbound via Ian Macdonald Blvd and Shoreham Dr due to a collision.]]></title>
-            <description><![CDATA[35 Jane: Detour southbound via Ian Macdonald Blvd and Shoreham Dr due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64951</guid>
-            <pubDate>2026-03-24T08:59:24.15Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 935 Jane Express: Detour southbound via Ian Macdonald Blvd and Shoreham Dr due to a collision.]]></title>
-            <description><![CDATA[935 Jane Express: Detour southbound via Ian Macdonald Blvd and Shoreham Dr due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64952</guid>
-            <pubDate>2026-03-24T08:59:25.273Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 960 Steeles West Express: Regular service has resumed westbound from Finch Station at Bus Bay 2 to Signal Hill Ave at Steeles Ave West.]]></title>
-            <description><![CDATA[960 Steeles West Express: Regular service has resumed westbound from Finch Station at Bus Bay 2 to Signal Hill Ave at Steeles Ave West.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64950</guid>
-            <pubDate>2026-03-24T09:17:43.767Z</pubDate>
+            <guid isPermaLink="false">64953</guid>
+            <pubDate>2026-03-24T10:07:31.88Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
