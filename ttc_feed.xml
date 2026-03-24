@@ -4,14 +4,28 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 24 Mar 2026 02:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 04:54:30 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Lawrence West and St Andrew stations due to planned track work. Shuttle buses are running between Lawrence West and St George.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between Lawrence West and St Andrew stations due to planned track work. Shuttle buses are running between Lawrence West and St George.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64872</guid>
+            <pubDate>2026-03-23T23:59:03.52Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 6 Finch West: Regular service has resumed between Humber College and Martin Grove stations.]]></title>
+            <description><![CDATA[Line 6 Finch West: Regular service has resumed between Humber College and Martin Grove stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64928</guid>
+            <pubDate>2026-03-24T00:43:25.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
