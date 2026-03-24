@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 24 Mar 2026 22:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 23:02:04 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays eastbound from Jane to Keele stations while we fix a signal problem.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Delays eastbound from Jane to Keele stations while we fix a signal problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64967</guid>
+            <pubDate>2026-03-24T18:55:46.657Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -98,11 +105,18 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Bathurst: Elevator back in service between Bathurst St east side entrance, concourse and Line 2 westbound platform.]]></title>
-            <description><![CDATA[Bathurst: Elevator back in service between Bathurst St east side entrance, concourse and Line 2 westbound platform.]]></description>
+            <title><![CDATA[♿ St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
+            <description><![CDATA[St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64961</guid>
-            <pubDate>2026-03-24T18:26:14.63Z</pubDate>
+            <guid isPermaLink="false">64968</guid>
+            <pubDate>2026-03-24T19:00:03.793Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Lansdowne: Elevator 7B1L out of service between Lansdowne Avenue east side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
+            <description><![CDATA[Lansdowne: Elevator 7B1L out of service between Lansdowne Avenue east side entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64966</guid>
+            <pubDate>2026-03-24T19:00:03.557Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Davisville: Escalator 17Y1E out of service from Line 1 Finch platform to bus platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
