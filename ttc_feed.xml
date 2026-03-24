@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 24 Mar 2026 18:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 19:43:19 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -12,20 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: Regular service has resumed northbound at Downsview Park station.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: Regular service has resumed northbound at Downsview Park station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64957</guid>
-            <pubDate>2026-03-24T14:27:34.1Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 504 King: Detour eastbound via Shaw St, Queen St W and Spadina Ave due to a collision.]]></title>
-            <description><![CDATA[504 King: Detour eastbound via Shaw St, Queen St W and Spadina Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64956</guid>
-            <pubDate>2026-03-24T13:38:10.423Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 75 Sherbourne: Detour northbound via Front St E, Princess St and King St E due to a collision.]]></title>
@@ -119,39 +105,11 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Eglinton: Elevator 18Y2L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
-            <description><![CDATA[Eglinton: Elevator 18Y2L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64947</guid>
-            <pubDate>2026-03-24T11:00:03.793Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Davisville: Escalator 17Y1E out of service from Line 1 Finch platform to bus platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
             <description><![CDATA[Davisville: Escalator 17Y1E out of service from Line 1 Finch platform to bus platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64944</guid>
             <pubDate>2026-03-24T07:32:40.733Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ High Park: Elevator 10B1L out of service between Quebec Avenue entrance, concourse, and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
-            <description><![CDATA[High Park: Elevator 10B1L out of service between Quebec Avenue entrance, concourse, and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64941</guid>
-            <pubDate>2026-03-24T07:21:25.41Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Scarborough Centre: Elevator 6RT1L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
-            <description><![CDATA[Scarborough Centre: Elevator 6RT1L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64939</guid>
-            <pubDate>2026-03-24T11:00:04.027Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ St Clair West: Elevator 3S4L out of service between St Clair Ave W north side entrance and bus and streetcar platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
-            <description><![CDATA[St Clair West: Elevator 3S4L out of service between St Clair Ave W north side entrance and bus and streetcar platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64937</guid>
-            <pubDate>2026-03-24T11:00:03.557Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Jane: Elevator 12B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 24, 2026.]]></title>
@@ -161,11 +119,11 @@
             <pubDate>2026-03-24T07:20:43.597Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Highway 407: Escalator 14S3E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 24, 2026.]]></title>
-            <description><![CDATA[Highway 407: Escalator 14S3E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 24, 2026.]]></description>
+            <title><![CDATA[♿ Highway 407: Escalator back in service from Line 1 platform to concourse.]]></title>
+            <description><![CDATA[Highway 407: Escalator back in service from Line 1 platform to concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64911</guid>
-            <pubDate>2026-03-24T09:00:03.363Z</pubDate>
+            <pubDate>2026-03-24T15:30:03.357Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Leaside: Elevator 1 out of service between concourse and Line 5 centre platform while we perform maintenance.]]></title>
