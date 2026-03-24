@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 24 Mar 2026 04:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 06:00:46 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Lawrence West and St Andrew stations due to planned track work. Shuttle buses are running between Lawrence West and St George.]]></title>
@@ -21,32 +21,11 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: Regular service has resumed between Humber College and Martin Grove stations.]]></title>
-            <description><![CDATA[Line 6 Finch West: Regular service has resumed between Humber College and Martin Grove stations.]]></description>
+            <title><![CDATA[🚋 512 St Clair: Regular service has resumed between St Clair Station at Bay 2 and St Clair West Station at Bay 4.]]></title>
+            <description><![CDATA[512 St Clair: Regular service has resumed between St Clair Station at Bay 2 and St Clair West Station at Bay 4.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64928</guid>
-            <pubDate>2026-03-24T00:43:25.737Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
-            <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64913</guid>
-            <pubDate>2026-03-23T22:05:41.19Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 67 Pharmacy: Detour northbound via Dawes Rd, Victoria Park Ave and Holswade Rd due to construction.]]></title>
-            <description><![CDATA[67 Pharmacy: Detour northbound via Dawes Rd, Victoria Park Ave and Holswade Rd due to construction.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64918</guid>
-            <pubDate>2026-03-23T21:44:31.58Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 67 Pharmacy: Detour southbound via St Clair Ave E, Victoria Park Ave and Dawes Rd due to construction.]]></title>
-            <description><![CDATA[67 Pharmacy: Detour southbound via St Clair Ave E, Victoria Park Ave and Dawes Rd due to construction.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64917</guid>
-            <pubDate>2026-03-23T21:42:24.173Z</pubDate>
+            <guid isPermaLink="false">64929</guid>
+            <pubDate>2026-03-24T01:51:09.747Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
