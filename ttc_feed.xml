@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Mar 2026 18:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 19:11:06 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Regular service has resumed between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd.]]></title>
-            <description><![CDATA[501 Queen: Regular service has resumed between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd.]]></description>
+            <title><![CDATA[🚌 171 Mount Dennis: Detour southbound via Weston Rd, Lambton Ave and Rockcliffe Blvd due to a collision.]]></title>
+            <description><![CDATA[171 Mount Dennis: Detour southbound via Weston Rd, Lambton Ave and Rockcliffe Blvd due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65011</guid>
-            <pubDate>2026-03-25T14:01:10.953Z</pubDate>
+            <guid isPermaLink="false">65021</guid>
+            <pubDate>2026-03-25T14:55:13.277Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -105,6 +105,41 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Finch: Escalator 22Y11E out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.]]></title>
+            <description><![CDATA[Finch: Escalator 22Y11E out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65024</guid>
+            <pubDate>2026-03-25T15:02:59.033Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Finch: Escalator 22Y11E out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.]]></title>
+            <description><![CDATA[Finch: Escalator 22Y11E out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65023</guid>
+            <pubDate>2026-03-25T15:02:54.983Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Finch: Escalator 22Y10E out of service from GO and YRT bus platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service April 30, 2026.]]></title>
+            <description><![CDATA[Finch: Escalator 22Y10E out of service from GO and YRT bus platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service April 30, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65022</guid>
+            <pubDate>2026-03-25T15:02:10.987Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.]]></title>
+            <description><![CDATA[Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65013</guid>
+            <pubDate>2026-03-25T14:10:53.797Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Museum: Escalator 2Y1E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.]]></title>
+            <description><![CDATA[Museum: Escalator 2Y1E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service July 31, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65012</guid>
+            <pubDate>2026-03-25T14:09:30.233Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Rosedale: Elevator 14Y2L out of service between Cresent Road and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
             <description><![CDATA[Rosedale: Elevator 14Y2L out of service between Cresent Road and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -112,32 +147,25 @@
             <pubDate>2026-03-25T14:00:03.543Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Rosedale: Elevator back in service between Cresent Road entrance and Line 1 sourthbound platform.]]></title>
-            <description><![CDATA[Rosedale: Elevator back in service between Cresent Road entrance and Line 1 sourthbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65003</guid>
-            <pubDate>2026-03-25T14:00:03.637Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Scarborough Centre: Elevator 6RT2L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
-            <description><![CDATA[Scarborough Centre: Elevator 6RT2L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
+            <title><![CDATA[♿ Scarborough Centre: Elevator back in service between concourse and Scarborough Town Centre entrance and bus platform.]]></title>
+            <description><![CDATA[Scarborough Centre: Elevator back in service between concourse and Scarborough Town Centre entrance and bus platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64999</guid>
-            <pubDate>2026-03-25T11:00:03.55Z</pubDate>
+            <pubDate>2026-03-25T15:00:04.453Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ High Park: Elevator 10B2L out of service between Quebec Avenue entrance, concourse, and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
-            <description><![CDATA[High Park: Elevator 10B2L out of service between Quebec Avenue entrance, concourse, and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
+            <title><![CDATA[♿ High Park: Elevator back in service between Quebec Avenue entrance, concourse, and Line 2 westbound platform.]]></title>
+            <description><![CDATA[High Park: Elevator back in service between Quebec Avenue entrance, concourse, and Line 2 westbound platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64997</guid>
-            <pubDate>2026-03-25T07:05:39.617Z</pubDate>
+            <pubDate>2026-03-25T15:00:04.127Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Dupont: Elevator 2S3L out of service between concourse and Line 1 Vaughan while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
-            <description><![CDATA[Dupont: Elevator 2S3L out of service between concourse and Line 1 Vaughan while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
+            <title><![CDATA[♿ Dupont: Elevator back in service between concourse and Line 1 Vaughan.]]></title>
+            <description><![CDATA[Dupont: Elevator back in service between concourse and Line 1 Vaughan.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64996</guid>
-            <pubDate>2026-03-25T12:30:03.577Z</pubDate>
+            <pubDate>2026-03-25T15:00:03.767Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch: Escalator 22Y9E out of service from bus concourse to bus platform while we perform maintenance. Escalator is expected to be back in service April 3, 2026.]]></title>
@@ -245,13 +273,6 @@
             <pubDate>2026-03-23T07:30:03.84Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Kipling: Escalator 16B2E out of service from bus platform to Line 2 platform while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[Kipling: Escalator 16B2E out of service from bus platform to Line 2 platform while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64795</guid>
-            <pubDate>2026-03-20T15:35:16.74Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform due to a technical problem.]]></title>
             <description><![CDATA[Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform due to a technical problem.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -292,13 +313,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63976</guid>
             <pubDate>2026-03-07T18:01:29.747Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">63878</guid>
-            <pubDate>2026-03-06T12:14:37.99Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kipling: Escalator 16B1E out of service from Line 2 platform to bus platform while we perform maintenance. Escalator is expected to be back in service July 11, 2026.]]></title>
@@ -348,20 +362,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">62523</guid>
             <pubDate>2026-02-25T13:18:05.427Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Finch: Escalator 22Y11E out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
-            <description><![CDATA[Finch: Escalator 22Y11E out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">62010</guid>
-            <pubDate>2026-02-21T22:47:34.577Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Finch: Escalator 22Y10E out of service from GO and YRT bus platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
-            <description><![CDATA[Finch: Escalator 22Y10E out of service from GO and YRT bus platform to Fares concourse while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">62009</guid>
-            <pubDate>2026-02-21T22:47:00.79Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Islington: Escalator 15B5E out of service from concourse to Islington Ave east side entrance due to construction. Escalator is expected to be back in service December 22, 2026.]]></title>
