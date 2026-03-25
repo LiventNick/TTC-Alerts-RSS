@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Mar 2026 20:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 21:22:51 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65029</guid>
             <pubDate>2026-03-25T16:28:11.143Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 35 Jane: Detour northbound via Grandravine Dr, Driftwood Ave and Yewtree Blvd due to a collision.]]></title>
+            <description><![CDATA[35 Jane: Detour northbound via Grandravine Dr, Driftwood Ave and Yewtree Blvd due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65031</guid>
+            <pubDate>2026-03-25T17:16:54.707Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 171 Mount Dennis: Detour southbound via Weston Rd, Lambton Ave and Rockcliffe Blvd due to a collision.]]></title>
@@ -152,13 +159,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65012</guid>
             <pubDate>2026-03-25T14:09:30.233Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Rosedale: Elevator back in service between Cresent Road and Line 1 northbound platform.]]></title>
-            <description><![CDATA[Rosedale: Elevator back in service between Cresent Road and Line 1 northbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65004</guid>
-            <pubDate>2026-03-25T16:30:03.383Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch: Escalator 22Y9E out of service from bus concourse to bus platform while we perform maintenance. Escalator is expected to be back in service April 3, 2026.]]></title>
