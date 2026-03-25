@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Mar 2026 15:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 17:03:32 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -14,11 +14,32 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 108A Driftwood: Detour via Sentinel Rd, Dovehouse Ave, Keele St and Sheppard Ave W due to a collision.]]></title>
-            <description><![CDATA[108A Driftwood: Detour via Sentinel Rd, Dovehouse Ave, Keele St and Sheppard Ave W due to a collision.]]></description>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed at Ossington station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed at Ossington station.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65001</guid>
-            <pubDate>2026-03-25T08:41:49.523Z</pubDate>
+            <guid isPermaLink="false">65006</guid>
+            <pubDate>2026-03-25T12:54:02.8Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 63 Ossington: Regular service has resumed between Ossington Ave at College St and Ossington Ave at Dupont St.]]></title>
+            <description><![CDATA[63 Ossington: Regular service has resumed between Ossington Ave at College St and Ossington Ave at Dupont St.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65007</guid>
+            <pubDate>2026-03-25T12:54:59.597Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 ]]></title>
+            <description><![CDATA[]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65008</guid>
+            <pubDate>2026-03-25T12:55:06.77Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 161 Rogers Rd: Regular service has resumed between Dovercourt Rd at Davenport Rd South Side and Ossington Ave at Bloor St West.]]></title>
+            <description><![CDATA[161 Rogers Rd: Regular service has resumed between Dovercourt Rd at Davenport Rd South Side and Ossington Ave at Bloor St West.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65009</guid>
+            <pubDate>2026-03-25T12:55:21.84Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -126,11 +147,11 @@
             <pubDate>2026-03-25T07:05:39.617Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Dupont: Elevator 2S2L out of service between concourse and Line 1 Finch via Union platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
-            <description><![CDATA[Dupont: Elevator 2S2L out of service between concourse and Line 1 Finch via Union platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
+            <title><![CDATA[♿ Dupont: Elevator 2S3L out of service between concourse and Line 1 Vaughan while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
+            <description><![CDATA[Dupont: Elevator 2S3L out of service between concourse and Line 1 Vaughan while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64995</guid>
-            <pubDate>2026-03-25T09:30:03.543Z</pubDate>
+            <guid isPermaLink="false">64996</guid>
+            <pubDate>2026-03-25T12:30:03.577Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch: Escalator 22Y9E out of service from bus concourse to bus platform while we perform maintenance. Escalator is expected to be back in service April 3, 2026.]]></title>
@@ -147,11 +168,11 @@
             <pubDate>2026-03-25T01:11:42.34Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Finch: Elevator 22Y3L out of service between bus platform and bus concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Finch: Elevator 22Y3L out of service between bus platform and bus concourse while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Finch: Elevator 22Y3L out of service between bus platform and bus concourse while we perform maintenance. Elevator is expected to be back in service April 10, 2026.]]></title>
+            <description><![CDATA[Finch: Elevator 22Y3L out of service between bus platform and bus concourse while we perform maintenance. Elevator is expected to be back in service April 10, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64980</guid>
-            <pubDate>2026-03-24T22:59:35.957Z</pubDate>
+            <pubDate>2026-03-25T12:52:47.673Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dupont: Escalator 2S8E out of service from concourse to Dupont St north side entrance due to construction. Escalator is expected to be back in service May 1, 2026.]]></title>
