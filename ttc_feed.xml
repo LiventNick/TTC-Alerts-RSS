@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Mar 2026 09:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 10:30:25 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -12,6 +12,34 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 505 Dundas: Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></title>
+            <description><![CDATA[505 Dundas: Regular service has resumed westbound near Dundas St West at University Ave - St Patrick Station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64990</guid>
+            <pubDate>2026-03-25T06:25:07.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 505 Dundas: Regular service has resumed eastbound near Dundas St West at University Ave - St Patrick Station.]]></title>
+            <description><![CDATA[505 Dundas: Regular service has resumed eastbound near Dundas St West at University Ave - St Patrick Station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64989</guid>
+            <pubDate>2026-03-25T06:25:04.317Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: Regular service has resumed westbound from Dundas St West at University Ave - St Patrick Station to DUNDAS ST WEST AT MCCAUL ST.]]></title>
+            <description><![CDATA[506 Carlton: Regular service has resumed westbound from Dundas St West at University Ave - St Patrick Station to DUNDAS ST WEST AT MCCAUL ST.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64992</guid>
+            <pubDate>2026-03-25T06:25:13.38Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 506 Carlton: Regular service has resumed eastbound from Dundas St West at University Ave - St Patrick Station to McCaul St at Dundas St West.]]></title>
+            <description><![CDATA[506 Carlton: Regular service has resumed eastbound from Dundas St West at University Ave - St Patrick Station to McCaul St at Dundas St West.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64991</guid>
+            <pubDate>2026-03-25T06:25:10.567Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -96,6 +124,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64667</guid>
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Pioneer Village: Elevator 13S3L out of service between lower south concourse and Line 1 centre platform or upper south concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Pioneer Village: Elevator 13S3L out of service between lower south concourse and Line 1 centre platform or upper south concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64988</guid>
+            <pubDate>2026-03-25T05:46:57.783Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch: Escalator 22Y9E out of service from bus concourse to bus platform while we perform maintenance. Escalator is expected to be back in service April 3, 2026.]]></title>
