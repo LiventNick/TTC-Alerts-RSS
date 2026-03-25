@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Wed, 25 Mar 2026 22:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 23:36:45 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 16 Mccowan: Regular service has resumed northbound near Danforth Rd at Eglinton Ave East.]]></title>
-            <description><![CDATA[16 Mccowan: Regular service has resumed northbound near Danforth Rd at Eglinton Ave East.]]></description>
+            <title><![CDATA[🚋 501 Queen: Detour westbound via Shaw St and King St E due to a blocked track.]]></title>
+            <description><![CDATA[501 Queen: Detour westbound via Shaw St and King St E due to a blocked track.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65032</guid>
-            <pubDate>2026-03-25T18:39:29.01Z</pubDate>
+            <guid isPermaLink="false">65038</guid>
+            <pubDate>2026-03-25T19:13:25.473Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 21 Brimley: Detour northbound via Seminole Ave, Danforth Rd, Mccowan Rd and Lawrence Ave W due to a collision.]]></title>
@@ -26,27 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65029</guid>
             <pubDate>2026-03-25T16:28:11.143Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 96 Wilson: Regular service has resumed eastbound near Wilson Ave at Avenue Rd.]]></title>
-            <description><![CDATA[96 Wilson: Regular service has resumed eastbound near Wilson Ave at Avenue Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65035</guid>
-            <pubDate>2026-03-25T18:46:38.267Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 165 Weston Rd North: Detour eastbound via Clyde Rd, Joicey Blvd and Avenue Rd due to a collision.]]></title>
-            <description><![CDATA[165 Weston Rd North: Detour eastbound via Clyde Rd, Joicey Blvd and Avenue Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65033</guid>
-            <pubDate>2026-03-25T18:22:12.797Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 996 Wilson Express: Regular service has resumed eastbound near Wilson Ave at Avenue Rd.]]></title>
-            <description><![CDATA[996 Wilson Express: Regular service has resumed eastbound near Wilson Ave at Avenue Rd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65034</guid>
-            <pubDate>2026-03-25T18:46:53.707Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -131,6 +110,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64667</guid>
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
+            <description><![CDATA[St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65037</guid>
+            <pubDate>2026-03-25T19:00:04.157Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Queen's Park: Elevator 3Y1L out of service between College St northeast entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
+            <description><![CDATA[Queen's Park: Elevator 3Y1L out of service between College St northeast entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65036</guid>
+            <pubDate>2026-03-25T19:00:03.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Ossington: Elevator 5B1L out of service between Ossington Ave entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
