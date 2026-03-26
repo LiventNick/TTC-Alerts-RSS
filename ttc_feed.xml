@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Mar 2026 12:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 14:11:36 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -14,11 +14,18 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 504 King, 505 Dundas, 506 Carlton, 510 Spadina, and 511 Bathurst routes experiencing delays of up to 10 minutes, due streetcar derailment at Leslie Barns Carhouse.]]></title>
-            <description><![CDATA[504 King, 505 Dundas, 506 Carlton, 510 Spadina, and 511 Bathurst routes experiencing delays of up to 10 minutes, due streetcar derailment at Leslie Barns Carhouse.]]></description>
+            <title><![CDATA[🚋 501 Queen: Delays near Broadview Ave at Dundas St East due to traffic congestion.]]></title>
+            <description><![CDATA[501 Queen: Delays near Broadview Ave at Dundas St East due to traffic congestion.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65054</guid>
-            <pubDate>2026-03-26T08:01:48.987Z</pubDate>
+            <guid isPermaLink="false">65063</guid>
+            <pubDate>2026-03-26T08:49:21.48Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 509 Harbourfront: Detour eastbound via Fort York Blvd, Lake Shore Blvd W, Dan Leckie Way and Queens Quay W due to a road closure.]]></title>
+            <description><![CDATA[No service to Billy Bishop airport.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65066</guid>
+            <pubDate>2026-03-26T09:35:12.25Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
@@ -110,6 +117,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64667</guid>
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Victoria Park: Elevator 14D3L out of service between concourse and Line 2 eastbound platform due to a technical problem.]]></title>
+            <description><![CDATA[Victoria Park: Elevator 14D3L out of service between concourse and Line 2 eastbound platform due to a technical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65070</guid>
+            <pubDate>2026-03-26T09:51:38.247Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Summerhill: Elevator 15Y1L out of service between Shaftesbury Avenue (East) and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 26, 2026.]]></title>
+            <description><![CDATA[Summerhill: Elevator 15Y1L out of service between Shaftesbury Avenue (East) and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 26, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65065</guid>
+            <pubDate>2026-03-26T10:00:02.257Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Queen's Park: Escalator 3Y1E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
