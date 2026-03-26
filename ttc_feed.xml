@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Mar 2026 20:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 20:59:46 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 5 Eglinton: Regular service has resumed westbound at Fairbank station.]]></title>
-            <description><![CDATA[Line 5 Eglinton: Regular service has resumed westbound at Fairbank station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65097</guid>
-            <pubDate>2026-03-26T16:13:04.043Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 509 Harbourfront: Detour eastbound via Fort York Blvd, Bathurst St, Lakeshore Ave and Dan Leckie Way due to a road closure.]]></title>
@@ -140,11 +133,11 @@
             <pubDate>2026-03-26T15:44:18.447Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Donlands: Elevator 9D1L out of service between Donlands Ave entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Donlands: Elevator 9D1L out of service between Donlands Ave entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Donlands: Elevator back in service between Donlands Ave entrance, concourse and Line 2 eastbound platform.]]></title>
+            <description><![CDATA[Donlands: Elevator back in service between Donlands Ave entrance, concourse and Line 2 eastbound platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65092</guid>
-            <pubDate>2026-03-26T14:43:05.853Z</pubDate>
+            <pubDate>2026-03-26T16:45:08.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
