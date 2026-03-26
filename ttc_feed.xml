@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Mar 2026 10:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 11:36:25 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -112,6 +112,27 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Greenwood: Escalator 10D2E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
+            <description><![CDATA[Greenwood: Escalator 10D2E out of service from Line 2 Kennedy platform to concourse while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65058</guid>
+            <pubDate>2026-03-26T07:31:31.007Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bayview: Elevator 55P4L out of service between Sheppard Ave E south side entrance and east concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Bayview: Elevator 55P4L out of service between Sheppard Ave E south side entrance and east concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65057</guid>
+            <pubDate>2026-03-26T07:26:35.62Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Wellesley: Elevator 12Y1L out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Wellesley: Elevator 12Y1L out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65056</guid>
+            <pubDate>2026-03-26T06:52:12.743Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
             <description><![CDATA[Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -180,6 +201,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64974</guid>
             <pubDate>2026-03-24T22:30:03.33Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Downsview Park: Escalator 10S1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
+            <description><![CDATA[Downsview Park: Escalator 10S1E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64959</guid>
+            <pubDate>2026-03-26T07:00:02.053Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Cedarvale: Escalator 4S4E out of service from Eglinton Ave W entrance to Line 1 Vaughan platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
+            <description><![CDATA[Cedarvale: Escalator 4S4E out of service from Eglinton Ave W entrance to Line 1 Vaughan platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64958</guid>
+            <pubDate>2026-03-26T07:00:02.023Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Davisville: Escalator 17Y1E out of service from Line 1 Finch platform to bus platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
