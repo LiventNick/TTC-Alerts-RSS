@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Mar 2026 00:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 03:25:20 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -14,18 +14,11 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Regular service has resumed westbound from Queen St West at Gladstone Ave to The Queensway at Glendale Ave - St Joseph's Health Centre.]]></title>
-            <description><![CDATA[501 Queen: Regular service has resumed westbound from Queen St West at Gladstone Ave to The Queensway at Glendale Ave - St Joseph's Health Centre.]]></description>
+            <title><![CDATA[🚌 161 Rogers Rd: Regular service has resumed eastbound near Rogers Rd at Dufferin St.]]></title>
+            <description><![CDATA[161 Rogers Rd: Regular service has resumed eastbound near Rogers Rd at Dufferin St.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65038</guid>
-            <pubDate>2026-03-25T19:53:14.543Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 505 Dundas: Detour eastbound via College St and Ossington Ave while we respond to a medical emergency.]]></title>
-            <description><![CDATA[505 Dundas: Detour eastbound via College St and Ossington Ave while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65039</guid>
-            <pubDate>2026-03-25T19:41:04.54Z</pubDate>
+            <guid isPermaLink="false">65041</guid>
+            <pubDate>2026-03-25T23:22:27.463Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -112,25 +105,11 @@
             <pubDate>2026-03-18T12:30:21.007Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
-            <description><![CDATA[St George: Elevator 1Y1L out of service between bus platform, Bedford rd west side entrance, concourse, Line 1 centre platform and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
+            <title><![CDATA[♿ Coxwell: Elevator 11D1L out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Coxwell: Elevator 11D1L out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65037</guid>
-            <pubDate>2026-03-25T19:00:04.157Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Queen's Park: Elevator 3Y1L out of service between College St northeast entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></title>
-            <description><![CDATA[Queen's Park: Elevator 3Y1L out of service between College St northeast entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 25, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65036</guid>
-            <pubDate>2026-03-25T19:00:03.847Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Ossington: Elevator 5B1L out of service between Ossington Ave entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Ossington: Elevator 5B1L out of service between Ossington Ave entrance and bus platform, concourse and Line 2 eastbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65030</guid>
-            <pubDate>2026-03-25T16:31:55.63Z</pubDate>
+            <guid isPermaLink="false">65046</guid>
+            <pubDate>2026-03-25T22:21:38.953Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
