@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Mar 2026 19:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 20:21:23 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 5 Eglinton: Regular service has resumed westbound at Fairbank station.]]></title>
+            <description><![CDATA[Line 5 Eglinton: Regular service has resumed westbound at Fairbank station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65097</guid>
+            <pubDate>2026-03-26T16:13:04.043Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 509 Harbourfront: Detour eastbound via Fort York Blvd, Bathurst St, Lakeshore Ave and Dan Leckie Way due to a road closure.]]></title>
@@ -26,6 +33,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65055</guid>
             <pubDate>2026-03-26T06:33:11.263Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 100 Flemingdon Park: Detour northbound via St Dennis Dr, Don Mills Rd, Eglinton Ave E and Gervais Dr due to a collision.]]></title>
+            <description><![CDATA[100 Flemingdon Park: Detour northbound via St Dennis Dr, Don Mills Rd, Eglinton Ave E and Gervais Dr due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65096</guid>
+            <pubDate>2026-03-26T16:05:40.353Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 100 Flemingdon Park: Detour southbound via Wynford Dr due to a collision.]]></title>
+            <description><![CDATA[100 Flemingdon Park: Detour southbound via Wynford Dr due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65095</guid>
+            <pubDate>2026-03-26T16:01:52.903Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -147,13 +168,6 @@
             <pubDate>2026-03-26T10:38:16.497Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Queen's Park: Escalator back in service from concourse to Line 1 platform.]]></title>
-            <description><![CDATA[Queen's Park: Escalator back in service from concourse to Line 1 platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65059</guid>
-            <pubDate>2026-03-26T15:30:03.573Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Bayview: Elevator 55P4L out of service between Sheppard Ave E south side entrance and east concourse while we perform maintenance.]]></title>
             <description><![CDATA[Bayview: Elevator 55P4L out of service between Sheppard Ave E south side entrance and east concourse while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -224,20 +238,6 @@
             <pubDate>2026-03-24T22:30:03.33Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Downsview Park: Escalator back in service from concourse to Line 1 platform.]]></title>
-            <description><![CDATA[Downsview Park: Escalator back in service from concourse to Line 1 platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64960</guid>
-            <pubDate>2026-03-26T15:30:02.963Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Cedarvale: Escalator back in service from Eglinton Ave W entrance to Line 1 Vaughan platform.]]></title>
-            <description><![CDATA[Cedarvale: Escalator back in service from Eglinton Ave W entrance to Line 1 Vaughan platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64958</guid>
-            <pubDate>2026-03-26T15:30:02.167Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to construction. Escalator is expected to be back in service March 27, 2026.]]></title>
             <description><![CDATA[Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to construction. Escalator is expected to be back in service March 27, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -257,20 +257,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64805</guid>
             <pubDate>2026-03-22T21:00:01.807Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Runnymede: Escalator back in service from Runnymede Rd entrance to concourse.]]></title>
-            <description><![CDATA[Runnymede: Escalator back in service from Runnymede Rd entrance to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64800</guid>
-            <pubDate>2026-03-26T15:30:05.9Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Pioneer Village: Escalator back in service from upper south concourse to lower south concourse.]]></title>
-            <description><![CDATA[Pioneer Village: Escalator back in service from upper south concourse to lower south concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64797</guid>
-            <pubDate>2026-03-26T15:30:05.697Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Spadina: Elevator 2B2L out of service between south concourse and Line 2 westbound platform due to a technical problem.]]></title>
