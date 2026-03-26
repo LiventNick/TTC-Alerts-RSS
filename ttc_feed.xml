@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Mar 2026 09:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 10:38:48 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -14,25 +14,18 @@
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 501 Queen: Regular service has resumed between Long Branch Loop and Humber Loop at the Queensway.]]></title>
-            <description><![CDATA[501 Queen: Regular service has resumed between Long Branch Loop and Humber Loop at the Queensway.]]></description>
+            <title><![CDATA[🚋 504 King, 505 Dundas, 506 Carlton, 510 Spadina, and 511 Bathurst routes experiencing delays of up to 15 minutes, due streetcar derailment at Leslie Barns Carhouse.]]></title>
+            <description><![CDATA[504 King, 505 Dundas, 506 Carlton, 510 Spadina, and 511 Bathurst routes experiencing delays of up to 15 minutes, due streetcar derailment at Leslie Barns Carhouse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65050</guid>
-            <pubDate>2026-03-26T05:34:10.193Z</pubDate>
+            <guid isPermaLink="false">65054</guid>
+            <pubDate>2026-03-26T06:17:12.6Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: Detour westbound via Spadina Ave, College St and Dundas St W due to a collision.]]></title>
-            <description><![CDATA[505 Dundas: Detour westbound via Spadina Ave, College St and Dundas St W due to a collision.]]></description>
+            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
+            <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65053</guid>
-            <pubDate>2026-03-26T05:33:53.047Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 507 Long Branch: Regular service has resumed between Humber Loop at the Queensway and Lake Shore Blvd West at Kipling Ave.]]></title>
-            <description><![CDATA[Buses are diverting both ways via Dwight, Birmingham, Kipling, Lakeshore, to route, between Royal York and Kipling along Lake Shore Blvd West.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65051</guid>
-            <pubDate>2026-03-26T05:33:57.017Z</pubDate>
+            <guid isPermaLink="false">65055</guid>
+            <pubDate>2026-03-26T06:33:11.263Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
