@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Mar 2026 20:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 21:40:16 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -26,20 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65055</guid>
             <pubDate>2026-03-26T06:33:11.263Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 100 Flemingdon Park: Detour northbound via St Dennis Dr, Don Mills Rd, Eglinton Ave E and Gervais Dr due to a collision.]]></title>
-            <description><![CDATA[100 Flemingdon Park: Detour northbound via St Dennis Dr, Don Mills Rd, Eglinton Ave E and Gervais Dr due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65096</guid>
-            <pubDate>2026-03-26T16:05:40.353Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 100 Flemingdon Park: Detour southbound via Wynford Dr due to a collision.]]></title>
-            <description><![CDATA[100 Flemingdon Park: Detour southbound via Wynford Dr due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65095</guid>
-            <pubDate>2026-03-26T16:01:52.903Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -131,13 +117,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65094</guid>
             <pubDate>2026-03-26T15:44:18.447Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Donlands: Elevator back in service between Donlands Ave entrance, concourse and Line 2 eastbound platform.]]></title>
-            <description><![CDATA[Donlands: Elevator back in service between Donlands Ave entrance, concourse and Line 2 eastbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65092</guid>
-            <pubDate>2026-03-26T16:45:08.847Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
