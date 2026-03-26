@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Mar 2026 16:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 17:47:10 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -26,41 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65055</guid>
             <pubDate>2026-03-26T06:33:11.263Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 43 Kennedy: Regular service has resumed southbound near Progress Ave at Brimley Rd West Side.]]></title>
-            <description><![CDATA[43 Kennedy: Regular service has resumed southbound near Progress Ave at Brimley Rd West Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65079</guid>
-            <pubDate>2026-03-26T12:37:58.083Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 53 Steeles East: Detour eastbound via Bishop Ave, Willowdale Ave and Cummer Ave due to a fire.]]></title>
-            <description><![CDATA[53 Steeles East: Detour eastbound via Bishop Ave, Willowdale Ave and Cummer Ave due to a fire.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65082</guid>
-            <pubDate>2026-03-26T12:40:31.713Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 96 Wilson: Detour eastbound via Lady York Ave, Anthony Rd and Dufferin St due to a collision.]]></title>
-            <description><![CDATA[96 Wilson: Detour eastbound via Lady York Ave, Anthony Rd and Dufferin St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65083</guid>
-            <pubDate>2026-03-26T12:44:45.417Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 125 Drewry: Detour westbound via Bishop Ave, Willowdale Ave and Cummer Ave due to a fire.]]></title>
-            <description><![CDATA[125 Drewry: Detour westbound via Bishop Ave, Willowdale Ave and Cummer Ave due to a fire.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65081</guid>
-            <pubDate>2026-03-26T12:34:43.563Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 960 Steeles West Express: Detour westbound via Bishop Ave, Willowdale Ave and Cummer Ave due to a fire.]]></title>
-            <description><![CDATA[960 Steeles West Express: Detour westbound via Bishop Ave, Willowdale Ave and Cummer Ave due to a fire.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65080</guid>
-            <pubDate>2026-03-26T12:34:42.94Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -147,11 +112,18 @@
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Lansdowne: Elevator back in service between concourse and Line 2 (Kipling) westbound.]]></title>
-            <description><![CDATA[Lansdowne: Elevator back in service between concourse and Line 2 (Kipling) westbound.]]></description>
+            <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65074</guid>
-            <pubDate>2026-03-26T12:36:29.93Z</pubDate>
+            <guid isPermaLink="false">65090</guid>
+            <pubDate>2026-03-26T13:28:46.707Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65089</guid>
+            <pubDate>2026-03-26T13:28:46.207Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Coxwell: Elevator 11D1L out of service between Strathmore Blvd entrance, concourse and Line 2 eastbound platform due to a technical problem.]]></title>
