@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Mar 2026 12:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 13:40:41 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -28,6 +28,13 @@
             <pubDate>2026-03-27T04:10:52.09Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 505 Dundas: Detour via Bathurst St, College St and Spadina Ave due to construction.]]></title>
+            <description><![CDATA[505 Dundas: Detour via Bathurst St, College St and Spadina Ave due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65138</guid>
+            <pubDate>2026-03-27T09:21:43.72Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
             <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -40,6 +47,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65131</guid>
             <pubDate>2026-03-27T07:59:57.753Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 98 Willowdale-Senlac: Detour eastbound via Peckham Ave, Homewood Ave and Cactus Ave due to construction.]]></title>
+            <description><![CDATA[98 Willowdale-Senlac: Detour eastbound via Peckham Ave, Homewood Ave and Cactus Ave due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65134</guid>
+            <pubDate>2026-03-27T08:20:06.743Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -124,6 +138,34 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St Clair West: Escalator 3S13E out of service from north concourse to Line 1 Vaughan platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[St Clair West: Escalator 3S13E out of service from north concourse to Line 1 Vaughan platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65136</guid>
+            <pubDate>2026-03-27T08:32:05.003Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St Clair West: Escalator 3S9E out of service from Line 1 Vaughan platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[St Clair West: Escalator 3S9E out of service from Line 1 Vaughan platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65135</guid>
+            <pubDate>2026-03-27T08:31:34.283Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Lawrence: Escalator 19Y5E out of service from bus platform to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Lawrence: Escalator 19Y5E out of service from bus platform to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65133</guid>
+            <pubDate>2026-03-27T08:15:58.893Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bessarion: Escalator 57P3E out of service from concourse to Line 4 platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Bessarion: Escalator 57P3E out of service from concourse to Line 4 platform while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65132</guid>
+            <pubDate>2026-03-27T08:15:28.6Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Runnymede: Elevator 11B1L out of service between Runnymede Rd entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></title>
@@ -280,11 +322,11 @@
             <pubDate>2026-03-26T08:33:17.247Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 27, 2026.]]></title>
-            <description><![CDATA[North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 31, 2026.]]></title>
+            <description><![CDATA[North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 31, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64812</guid>
-            <pubDate>2026-03-20T18:21:34.537Z</pubDate>
+            <pubDate>2026-03-27T08:14:58.017Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bathurst: Escalator 3B2E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 29, 2026.]]></title>
