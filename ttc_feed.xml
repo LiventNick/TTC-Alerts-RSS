@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Mar 2026 15:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 16:34:31 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -47,13 +47,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65131</guid>
             <pubDate>2026-03-27T07:59:57.753Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 66A Prince Edward: Detour via Berry Rd, Stephen Dr, Cannon Rd and Park Lawn Rd due to a gas leak.]]></title>
-            <description><![CDATA[66A Prince Edward: Detour via Berry Rd, Stephen Dr, Cannon Rd and Park Lawn Rd due to a gas leak.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65142</guid>
-            <pubDate>2026-03-27T10:46:46.977Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 98 Willowdale-Senlac: Detour eastbound via Peckham Ave, Homewood Ave and Cactus Ave due to construction.]]></title>
@@ -124,6 +117,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65078</guid>
             <pubDate>2026-03-26T11:48:15.45Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🐢 Line 2 Bloor-Danforth: Subway trains will move slower than usual westbound from Warden to Victoria Park stations while we work on track issues.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Subway trains will move slower than usual westbound from Warden to Victoria Park stations while we work on track issues.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65075</guid>
+            <pubDate>2026-03-27T11:40:02.08Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 2 Bloor-Danforth: Subway trains will move slower than usual eastbound from Kipling to Islington stations while we work on track issues.]]></title>
@@ -222,13 +222,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65100</guid>
             <pubDate>2026-03-27T10:30:02.313Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Greenwood: Escalator back in service from Line 2 Kipling platform to concourse.]]></title>
-            <description><![CDATA[Greenwood: Escalator back in service from Line 2 Kipling platform to concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65099</guid>
-            <pubDate>2026-03-27T11:30:02.253Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
