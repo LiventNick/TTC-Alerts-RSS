@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Thu, 26 Mar 2026 23:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 02:31:04 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -12,6 +12,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between St George and Broadview stations due to a medical emergency at Castle Frank Station.]]></title>
+            <description><![CDATA[Shuttle buses will run.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65112</guid>
+            <pubDate>2026-03-26T22:26:46.11Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays westbound at Castle Frank station while we respond to a medical emergency.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Delays westbound at Castle Frank station while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65111</guid>
+            <pubDate>2026-03-26T22:10:08.77Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: Detour via Parliament St, King St E and Church St due to a collision.]]></title>
+            <description><![CDATA[501 Queen: Detour via Parliament St, King St E and Church St due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65106</guid>
+            <pubDate>2026-03-26T20:48:01.28Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 509 Harbourfront: Detour eastbound via Fort York Blvd, Bathurst St, Lakeshore Ave and Dan Leckie Way due to a road closure.]]></title>
@@ -24,8 +45,15 @@
             <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
             <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65055</guid>
-            <pubDate>2026-03-26T06:33:11.263Z</pubDate>
+            <guid isPermaLink="false">65105</guid>
+            <pubDate>2026-03-26T20:04:07.417Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 37 Islington: Detour southbound via Highway 27 S and Rexdale Blvd due to police activity.]]></title>
+            <description><![CDATA[37 Islington: Detour southbound via Highway 27 S and Rexdale Blvd due to police activity.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65110</guid>
+            <pubDate>2026-03-26T21:56:22.153Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -112,13 +140,6 @@
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Donlands: Elevator 9D1L out of service between Donlands Ave entrance, concourse and Line 2 eastbound platform due to a technical problem.]]></title>
-            <description><![CDATA[Donlands: Elevator 9D1L out of service between Donlands Ave entrance, concourse and Line 2 eastbound platform due to a technical problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65102</guid>
-            <pubDate>2026-03-26T18:58:06.58Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Queen's Park: Escalator 3Y1E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
             <description><![CDATA[Queen's Park: Escalator 3Y1E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -144,7 +165,7 @@
             <description><![CDATA[Bayview: Elevator 55P4L out of service between Sheppard Ave E south side entrance and east concourse while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65057</guid>
-            <pubDate>2026-03-26T07:26:35.62Z</pubDate>
+            <pubDate>2026-03-26T21:53:49.193Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch: Escalator 22Y11E out of service from Fares concourse to GO and YRT bus platform while we perform maintenance. Escalator is expected to be back in service April 30, 2026.]]></title>
