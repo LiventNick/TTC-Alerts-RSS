@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Mar 2026 04:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 06:14:42 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Lawrence West and St Andrew stations due to planned track work. Shuttle buses are running between Lawrence West and St George.]]></title>
@@ -26,13 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65105</guid>
             <pubDate>2026-03-26T20:04:07.417Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 37 Islington: Detour via Highway 27 S, Vice Regent Blvd, Precision Rd and Rexdale Blvd due to police activity.]]></title>
-            <description><![CDATA[37 Islington: Detour via Highway 27 S, Vice Regent Blvd, Precision Rd and Rexdale Blvd due to police activity.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65110</guid>
-            <pubDate>2026-03-26T23:28:52.427Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
