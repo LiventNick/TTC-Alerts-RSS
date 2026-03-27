@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Mar 2026 10:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 11:23:22 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -26,20 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65116</guid>
             <pubDate>2026-03-27T04:10:52.09Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 6 Finch West: Delays between Finch West and Humber College stations due to traffic lights malfunctioning. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[Line 6 Finch West: Delays between Finch West and Humber College stations due to traffic lights malfunctioning. Shuttle buses are on the way.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65120</guid>
-            <pubDate>2026-03-27T05:12:14.633Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 45 Kipling: Regular service has resumed between Kipling Ave at Taber Rd and Kipling Ave at Rexdale Blvd.]]></title>
-            <description><![CDATA[45 Kipling: Regular service has resumed between Kipling Ave at Taber Rd and Kipling Ave at Rexdale Blvd.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65121</guid>
-            <pubDate>2026-03-27T06:13:50.567Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -126,6 +112,27 @@
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Osgoode: Elevator 5Y1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Osgoode: Elevator 5Y1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65125</guid>
+            <pubDate>2026-03-27T07:11:53.207Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Eglinton: Elevator 18Y1L out of service between Yonge St west side entrance and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65124</guid>
+            <pubDate>2026-03-27T07:13:31.237Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform while we perform maintenance. Elevator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65122</guid>
+            <pubDate>2026-03-27T06:58:10.507Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
             <description><![CDATA[Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -159,6 +166,27 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65022</guid>
             <pubDate>2026-03-25T15:02:10.987Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Glencairn: Escalator 5S3E out of service from concourse to Glencairn Ave south side entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Glencairn: Escalator 5S3E out of service from concourse to Glencairn Ave south side entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65019</guid>
+            <pubDate>2026-03-27T07:00:02.07Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Downsview Park: Escalator 10S3E out of service from concourse to Vitti St east side entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Downsview Park: Escalator 10S3E out of service from concourse to Vitti St east side entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65017</guid>
+            <pubDate>2026-03-27T07:00:02.087Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Pioneer Village: Escalator 13S2E out of service from Steeles Ave W north side entrance to north concourse while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
+            <description><![CDATA[Pioneer Village: Escalator 13S2E out of service from Steeles Ave W north side entrance to north concourse while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65015</guid>
+            <pubDate>2026-03-27T07:00:02.04Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Spadina: Escalator 1S5E out of service from Line 1 Finch via Union platform to south concourse due to construction. Escalator is expected to be back in service July 31, 2026.]]></title>
