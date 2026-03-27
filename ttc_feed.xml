@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Mar 2026 16:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 17:31:17 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -39,7 +39,7 @@
             <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65128</guid>
-            <pubDate>2026-03-27T07:51:57.25Z</pubDate>
+            <pubDate>2026-03-27T13:05:53.21Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 31 Greenwood: Detour southbound via Leslie St and Lakeshore Ave due to construction.]]></title>
@@ -54,6 +54,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65134</guid>
             <pubDate>2026-03-27T08:20:06.743Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 167 Pharmacy North: Detour northbound via Consumers Rd and Victoria Park Ave due to an event.]]></title>
+            <description><![CDATA[167 Pharmacy North: Detour northbound via Consumers Rd and Victoria Park Ave due to an event.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65147</guid>
+            <pubDate>2026-03-27T13:30:47.147Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -145,6 +152,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Pioneer Village: Elevator 13S3L out of service between lower south concourse and Line 1 centre platform or upper south concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Pioneer Village: Elevator 13S3L out of service between lower south concourse and Line 1 centre platform or upper south concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65146</guid>
+            <pubDate>2026-03-27T13:04:40.953Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ St Clair West: Escalator 3S14E out of service from Line 1 Vaughan platform to north concourse while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
