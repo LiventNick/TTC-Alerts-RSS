@@ -4,42 +4,21 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Mar 2026 02:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 04:57:05 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Lawrence West and St Andrew stations due to planned track work. Shuttle buses are running between Lawrence West and St George.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between Lawrence West and St Andrew stations due to planned track work. Shuttle buses are running between Lawrence West and St George.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">64875</guid>
+            <pubDate>2026-03-26T23:59:02.253Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64871</guid>
             <pubDate>2026-03-23T05:29:04.863Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between St George and Broadview stations due to a medical emergency at Castle Frank Station.]]></title>
-            <description><![CDATA[Shuttle buses will run.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65112</guid>
-            <pubDate>2026-03-26T22:26:46.11Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Delays westbound at Castle Frank station while we respond to a medical emergency.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Delays westbound at Castle Frank station while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65111</guid>
-            <pubDate>2026-03-26T22:10:08.77Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 501 Queen: Detour via Parliament St, King St E and Church St due to a collision.]]></title>
-            <description><![CDATA[501 Queen: Detour via Parliament St, King St E and Church St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65106</guid>
-            <pubDate>2026-03-26T20:48:01.28Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 509 Harbourfront: Detour eastbound via Fort York Blvd, Bathurst St, Lakeshore Ave and Dan Leckie Way due to a road closure.]]></title>
-            <description><![CDATA[No service to Billy Bishop airport.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65066</guid>
-            <pubDate>2026-03-26T19:44:47.82Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
@@ -49,11 +28,11 @@
             <pubDate>2026-03-26T20:04:07.417Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 37 Islington: Detour southbound via Highway 27 S and Rexdale Blvd due to police activity.]]></title>
-            <description><![CDATA[37 Islington: Detour southbound via Highway 27 S and Rexdale Blvd due to police activity.]]></description>
+            <title><![CDATA[🚌 37 Islington: Detour via Highway 27 S, Vice Regent Blvd, Precision Rd and Rexdale Blvd due to police activity.]]></title>
+            <description><![CDATA[37 Islington: Detour via Highway 27 S, Vice Regent Blvd, Precision Rd and Rexdale Blvd due to police activity.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65110</guid>
-            <pubDate>2026-03-26T21:56:22.153Z</pubDate>
+            <pubDate>2026-03-26T23:28:52.427Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -138,13 +117,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Queen's Park: Escalator 3Y1E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></title>
-            <description><![CDATA[Queen's Park: Escalator 3Y1E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 26, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65094</guid>
-            <pubDate>2026-03-26T15:44:18.447Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 27, 2026.]]></title>
