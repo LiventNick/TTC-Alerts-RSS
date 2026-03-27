@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Mar 2026 20:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 21:36:05 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -26,6 +26,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65116</guid>
             <pubDate>2026-03-27T04:10:52.09Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed between Jane and Islington stations.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed between Jane and Islington stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65165</guid>
+            <pubDate>2026-03-27T17:27:53.54Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.]]></title>
+            <description><![CDATA[501 Queen: No service between Queen St East at Neville Park Blvd and Queen St East at Kingston Rd while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65167</guid>
+            <pubDate>2026-03-27T17:22:11.437Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 505 Dundas: Detour via Bathurst St, College St and Spadina Ave due to construction.]]></title>
@@ -54,6 +68,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65134</guid>
             <pubDate>2026-03-27T08:20:06.743Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 129 Mccowan North: Detour via Castlemore Ave, The Bridle Walk, Major Mackenzie Dr E and Ridgecrest Dr due to a blocked road.]]></title>
+            <description><![CDATA[129 Mccowan North: Detour via Castlemore Ave, The Bridle Walk, Major Mackenzie Dr E and Ridgecrest Dr due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65166</guid>
+            <pubDate>2026-03-27T17:15:41.093Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
