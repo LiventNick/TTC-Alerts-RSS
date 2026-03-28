@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Mar 2026 08:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 09:38:59 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Kipling and Jane stations due to planned signal work. Shuttle buses are running.]]></title>
+            <description><![CDATA[https://files.ttc.ca/public-images/public-image-639101814534147095.png]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65191</guid>
+            <pubDate>2026-03-28T05:00:02.243Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: On Sunday, March 29, there will be no subway service between Jane and Ossington stations, due to planned signal work. Shuttle buses will operate. Regular subway service will resume Monday, March 30 at 6:00 a.m.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: On Sunday, March 29, there will be no subway service between Jane and Ossington stations, due to planned signal work. Shuttle buses will operate. Regular subway service will resume Monday, March 30 at 6:00 a.m.]]></description>
@@ -110,6 +117,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bloor-Yonge: Elevator 13Y1L out of service between north concourse and Line 1 southbound platform while we perform maintenance.]]></title>
+            <description><![CDATA[Bloor-Yonge: Elevator 13Y1L out of service between north concourse and Line 1 southbound platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65192</guid>
+            <pubDate>2026-03-28T05:06:29.977Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dundas West: Escalator 8B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 29, 2026.]]></title>
