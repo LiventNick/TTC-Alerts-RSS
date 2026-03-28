@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Mar 2026 10:49:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 11:15:51 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Kipling and Jane stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -182,11 +182,32 @@
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Bloor-Yonge: Elevator 13Y1L out of service between north concourse and Line 1 southbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Bloor-Yonge: Elevator 13Y1L out of service between north concourse and Line 1 southbound platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Bloor-Yonge: Elevator back in service between north concourse and Line 1 southbound platform.]]></title>
+            <description><![CDATA[Bloor-Yonge: Elevator back in service between north concourse and Line 1 southbound platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65192</guid>
-            <pubDate>2026-03-28T05:06:29.977Z</pubDate>
+            <pubDate>2026-03-28T07:11:50.087Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Sherbourne: Elevator 4D2L out of service between concourse and Line 2 Kipling (westbound) while we perform maintenance. Elevator is expected to be back in service March 28, 2026.]]></title>
+            <description><![CDATA[Sherbourne: Elevator 4D2L out of service between concourse and Line 2 Kipling (westbound) while we perform maintenance. Elevator is expected to be back in service March 28, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65176</guid>
+            <pubDate>2026-03-28T07:00:02.933Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Royal York: Elevator 14B2L out of service between west concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 28, 2026.]]></title>
+            <description><![CDATA[Royal York: Elevator 14B2L out of service between west concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 28, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65174</guid>
+            <pubDate>2026-03-28T07:00:02.55Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Wellesley: Elevator 12Y1L out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 28, 2026.]]></title>
+            <description><![CDATA[Wellesley: Elevator 12Y1L out of service between Wellesley St entrance to Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 28, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65172</guid>
+            <pubDate>2026-03-28T07:00:02.34Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dundas West: Escalator 8B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 29, 2026.]]></title>
