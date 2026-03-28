@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Mar 2026 10:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 10:49:23 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Kipling and Jane stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -28,6 +28,13 @@
             <pubDate>2026-03-28T04:42:30.613Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Sheppard Station - Hullmark entrance closed due to Toronto Fire investigation.]]></title>
+            <description><![CDATA[Sheppard Station - Hullmark entrance closed due to Toronto Fire investigation.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65210</guid>
+            <pubDate>2026-03-28T06:25:03.86Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 26 Dupont: Detour via Runnymede Station due to a planned subway closure.]]></title>
             <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -35,18 +42,32 @@
             <pubDate>2026-03-28T05:58:05.43Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 27 Jane South: Detour via Runnymede Station due to a planned subway closure.]]></title>
-            <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
+            <title><![CDATA[🚌 27 Jane South: Detour via Old Mill Station due to a planned subway closure.]]></title>
+            <description><![CDATA[Buses are diverting to Old Mill Station due to a planned subway closure.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65196</guid>
-            <pubDate>2026-03-28T05:59:40.25Z</pubDate>
+            <pubDate>2026-03-28T06:05:45.907Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 35 Jane: Detour via Runnymede Station due to a planned subway closure.]]></title>
-            <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
+            <title><![CDATA[🚌 30 High Park North: Detour southbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></title>
+            <description><![CDATA[30 High Park North: Detour southbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65211</guid>
+            <pubDate>2026-03-28T06:48:21.337Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 35 Jane: Detour via Old Mill Station due to a planned subway closure.]]></title>
+            <description><![CDATA[Buses are diverting to Old Mill Station due to a planned subway closure.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65197</guid>
-            <pubDate>2026-03-28T05:59:41.003Z</pubDate>
+            <pubDate>2026-03-28T06:05:26Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 40 Junction-Dundas West: Detour westbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></title>
+            <description><![CDATA[40 Junction-Dundas West: Detour westbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65212</guid>
+            <pubDate>2026-03-28T06:48:22.107Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 55 Warren Park: Detour via Runnymede Station due to a planned subway closure.]]></title>
@@ -63,11 +84,11 @@
             <pubDate>2026-03-28T05:58:07.977Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 935 Jane Express: Detour via Runnymede Station due to a planned subway closure.]]></title>
-            <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
+            <title><![CDATA[🚌 935 Jane Express: Detour via Old Mill Station due to a planned subway closure.]]></title>
+            <description><![CDATA[Buses are diverting to Old Mills Station due to a planned subway closure.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65198</guid>
-            <pubDate>2026-03-28T05:59:41.817Z</pubDate>
+            <pubDate>2026-03-28T06:04:58.55Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
