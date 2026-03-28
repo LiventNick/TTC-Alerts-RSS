@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Mar 2026 22:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 22:46:52 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Kipling and Jane stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -61,6 +61,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65195</guid>
             <pubDate>2026-03-28T05:58:07.977Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 169 Huntingwood: Detour via Don Mills Rd, Finch Ave E and Victoria Park Ave due to a collision.]]></title>
+            <description><![CDATA[169 Huntingwood: Detour via Don Mills Rd, Finch Ave E and Victoria Park Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65227</guid>
+            <pubDate>2026-03-28T18:29:30.517Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 935 Jane Express: Detour via Old Mill Station due to a planned subway closure.]]></title>
