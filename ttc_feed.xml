@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Fri, 27 Mar 2026 23:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 02:49:19 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Lawrence West and St Andrew stations, starting 11:59 p.m., nightly Monday, March 23 to Friday, March 27, due to planned track work. Shuttle buses will operate between Lawrence West and St George.]]></title>
@@ -28,18 +28,18 @@
             <pubDate>2026-03-27T04:10:52.09Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 504 King: Detour eastbound via Shaw St, Queen St W and Spadina Ave due to a blocked track.]]></title>
+            <description><![CDATA[504 King: Detour eastbound via Shaw St, Queen St W and Spadina Ave due to a blocked track.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65184</guid>
+            <pubDate>2026-03-27T22:45:56.547Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 505 Dundas: Detour via Bathurst St, College St and Spadina Ave due to construction.]]></title>
             <description><![CDATA[505 Dundas: Detour via Bathurst St, College St and Spadina Ave due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65138</guid>
-            <pubDate>2026-03-27T09:21:43.72Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 511 Bathurst: Detour northbound via King St W, Spadina Ave and College St due to a collision.]]></title>
-            <description><![CDATA[511 Bathurst: Detour northbound via King St W, Spadina Ave and College St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65171</guid>
-            <pubDate>2026-03-27T19:38:49.1Z</pubDate>
+            <pubDate>2026-03-27T21:42:20.823Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
@@ -49,18 +49,18 @@
             <pubDate>2026-03-27T13:05:53.21Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 31 Greenwood: Detour southbound via Leslie St and Lakeshore Ave due to construction.]]></title>
-            <description><![CDATA[31 Greenwood: Detour southbound via Leslie St and Lakeshore Ave due to construction.]]></description>
+            <title><![CDATA[🚌 41 Keele: Detour via Weston Rd and Rogers Rd due to a blocked road.]]></title>
+            <description><![CDATA[41 Keele: Detour via Weston Rd and Rogers Rd due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65131</guid>
-            <pubDate>2026-03-27T07:59:57.753Z</pubDate>
+            <guid isPermaLink="false">65179</guid>
+            <pubDate>2026-03-27T20:32:47.993Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 98 Willowdale-Senlac: Detour eastbound via Peckham Ave, Homewood Ave and Cactus Ave due to construction.]]></title>
             <description><![CDATA[98 Willowdale-Senlac: Detour eastbound via Peckham Ave, Homewood Ave and Cactus Ave due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65134</guid>
-            <pubDate>2026-03-27T08:20:06.743Z</pubDate>
+            <pubDate>2026-03-27T20:36:33.243Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 129 Mccowan North: Detour via Castlemore Ave, The Bridle Walk, Major Mackenzie Dr E and Ridgecrest Dr due to a blocked road.]]></title>
