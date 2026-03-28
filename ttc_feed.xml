@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Mar 2026 11:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 11:46:02 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Kipling and Jane stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -28,11 +28,11 @@
             <pubDate>2026-03-28T04:42:30.613Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Sheppard Station - Hullmark entrance closed due to Toronto Fire investigation.]]></title>
-            <description><![CDATA[Sheppard Station - Hullmark entrance closed due to Toronto Fire investigation.]]></description>
+            <title><![CDATA[🚇 Sheppard Station - Hullmark entrance has been reopened.]]></title>
+            <description><![CDATA[Sheppard Station - Hullmark entrance has been reopened.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65210</guid>
-            <pubDate>2026-03-28T06:25:03.86Z</pubDate>
+            <pubDate>2026-03-28T07:31:13.027Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 26 Dupont: Detour via Runnymede Station due to a planned subway closure.]]></title>
@@ -49,25 +49,11 @@
             <pubDate>2026-03-28T06:05:45.907Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 30 High Park North: Detour southbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></title>
-            <description><![CDATA[30 High Park North: Detour southbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65211</guid>
-            <pubDate>2026-03-28T06:48:21.337Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 35 Jane: Detour via Old Mill Station due to a planned subway closure.]]></title>
             <description><![CDATA[Buses are diverting to Old Mill Station due to a planned subway closure.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65197</guid>
             <pubDate>2026-03-28T06:05:26Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 40 Junction-Dundas West: Detour westbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></title>
-            <description><![CDATA[40 Junction-Dundas West: Detour westbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65212</guid>
-            <pubDate>2026-03-28T06:48:22.107Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 55 Warren Park: Detour via Runnymede Station due to a planned subway closure.]]></title>
@@ -180,13 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bloor-Yonge: Elevator back in service between north concourse and Line 1 southbound platform.]]></title>
-            <description><![CDATA[Bloor-Yonge: Elevator back in service between north concourse and Line 1 southbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65192</guid>
-            <pubDate>2026-03-28T07:11:50.087Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sherbourne: Elevator 4D2L out of service between concourse and Line 2 Kipling (westbound) while we perform maintenance. Elevator is expected to be back in service March 28, 2026.]]></title>
