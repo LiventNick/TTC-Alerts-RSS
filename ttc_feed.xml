@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Mar 2026 17:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 17:58:50 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: Trains are not stopping at Union station due to a security incident.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Trains are not stopping at Union station due to a security incident.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65223</guid>
+            <pubDate>2026-03-28T13:56:22.427Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Kipling and Jane stations due to planned signal work. Shuttle buses are running.]]></title>
             <description><![CDATA[https://files.ttc.ca/public-images/public-image-639101814534147095.png]]></description>
@@ -159,13 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></title>
-            <description><![CDATA[Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65217</guid>
-            <pubDate>2026-03-28T10:13:37.977Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bloor-Yonge: Elevator 3D1L out of service between Line 1 northbound platform and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 28, 2026.]]></title>
