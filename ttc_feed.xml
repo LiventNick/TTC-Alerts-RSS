@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Mar 2026 04:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 05:45:49 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Lawrence West and St Andrew stations due to planned track work. Shuttle buses are running between Lawrence West and St George.]]></title>
@@ -28,39 +28,11 @@
             <pubDate>2026-03-27T04:10:52.09Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed eastbound at Lansdowne station.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed eastbound at Lansdowne station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65185</guid>
-            <pubDate>2026-03-28T00:35:17.837Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 505 Dundas: Detour via Bathurst St, College St and Spadina Ave due to construction.]]></title>
-            <description><![CDATA[505 Dundas: Detour via Bathurst St, College St and Spadina Ave due to construction.]]></description>
+            <title><![CDATA[🚋 505 Dundas: Regular service has resumed between Dundas St West at Bathurst St - Toronto Western Hospital and Dundas St West at Spadina Ave.]]></title>
+            <description><![CDATA[505 Dundas: Regular service has resumed between Dundas St West at Bathurst St - Toronto Western Hospital and Dundas St West at Spadina Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65138</guid>
-            <pubDate>2026-03-27T21:42:20.823Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></title>
-            <description><![CDATA[14 Glencairn: Detour eastbound via Glenmount Ave and Hillmount Ave due to construction.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65128</guid>
-            <pubDate>2026-03-27T13:05:53.21Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 41 Keele: Detour northbound via Weston Rd and Rogers Rd due to a blocked road.]]></title>
-            <description><![CDATA[41 Keele: Detour northbound via Weston Rd and Rogers Rd due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65179</guid>
-            <pubDate>2026-03-28T00:40:05.66Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 98 Willowdale-Senlac: Detour eastbound via Peckham Ave, Homewood Ave and Cactus Ave due to construction.]]></title>
-            <description><![CDATA[98 Willowdale-Senlac: Detour eastbound via Peckham Ave, Homewood Ave and Cactus Ave due to construction.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65134</guid>
-            <pubDate>2026-03-28T00:40:44.153Z</pubDate>
+            <pubDate>2026-03-28T01:44:02.077Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
