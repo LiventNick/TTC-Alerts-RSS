@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Mar 2026 06:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 07:35:40 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Lawrence West and St Andrew stations due to planned track work. Shuttle buses are running between Lawrence West and St George.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: There is no subway service between Lawrence West and St Andrew stations due to planned track work. Shuttle buses are running between Lawrence West and St George.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">64876</guid>
-            <pubDate>2026-03-27T23:59:02.247Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: On Sunday, March 29, there will be no subway service between Jane and Ossington stations, due to planned signal work. Shuttle buses will operate. Regular subway service will resume Monday, March 30 at 6:00 a.m.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: On Sunday, March 29, there will be no subway service between Jane and Ossington stations, due to planned signal work. Shuttle buses will operate. Regular subway service will resume Monday, March 30 at 6:00 a.m.]]></description>
@@ -26,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65116</guid>
             <pubDate>2026-03-27T04:10:52.09Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 301 Queen: Regular service has resumed between Humber Loop at the Queensway and Queen St West at Roncesvalles Ave East Side.]]></title>
+            <description><![CDATA[301 Queen: Regular service has resumed between Humber Loop at the Queensway and Queen St West at Roncesvalles Ave East Side.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65189</guid>
+            <pubDate>2026-03-28T03:29:03.74Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
