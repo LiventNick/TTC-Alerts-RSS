@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 20:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 20:48:52 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -21,13 +21,6 @@
             <pubDate>2026-03-27T04:16:47.933Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: Detour westbound via Spadina Ave, College St and Lansdowne Avenue due to police activity.]]></title>
-            <description><![CDATA[Please board shuttle buses at street level.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65250</guid>
-            <pubDate>2026-03-29T09:23:37.94Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚋 505 Dundas: Delays near Dundas St West at Bathurst St - Toronto Western Hospital due to traffic congestion.]]></title>
             <description><![CDATA[505 Dundas: Delays near Dundas St West at Bathurst St - Toronto Western Hospital due to traffic congestion.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -35,11 +28,25 @@
             <pubDate>2026-03-29T12:00:53.583Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚋 506 Carlton: Detour via Dundas St W and Spadina Ave due to a blocked track.]]></title>
+            <description><![CDATA[506 Carlton: Detour via Dundas St W and Spadina Ave due to a blocked track.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65267</guid>
+            <pubDate>2026-03-29T16:45:33.41Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 510 Spadina: Delays between Union Station Streetcar Platform and Spadina Station Streetcar Platform due to traffic congestion.]]></title>
             <description><![CDATA[510 Spadina: Delays between Union Station Streetcar Platform and Spadina Station Streetcar Platform due to traffic congestion.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65258</guid>
             <pubDate>2026-03-29T11:59:58.1Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Bathurst St and Eglinton Ave W due to a blocked road.]]></title>
+            <description><![CDATA[14 Glencairn: Detour eastbound via Bathurst St and Eglinton Ave W due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65266</guid>
+            <pubDate>2026-03-29T16:27:57.453Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 27 Jane South: Detour via Old Mill Station due to a planned subway closure.]]></title>
@@ -61,6 +68,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65213</guid>
             <pubDate>2026-03-29T07:00:02.453Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 33 Forest Hill: Detour southbound via Roselawn Ave, Castlewood Rd and Eglinton Ave W due to a blocked road.]]></title>
+            <description><![CDATA[33 Forest Hill: Detour southbound via Roselawn Ave, Castlewood Rd and Eglinton Ave W due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65265</guid>
+            <pubDate>2026-03-29T16:27:07.297Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 35 Jane: Detour via Old Mill Station due to a planned subway closure.]]></title>
