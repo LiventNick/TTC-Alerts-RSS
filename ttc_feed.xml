@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 14:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 15:16:38 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65250</guid>
             <pubDate>2026-03-29T09:23:37.94Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 16 Mccowan: Detour via Barrymore Rd, Lawrence Ave E, Brimley Rd and Brimorton Dr due to a collision.]]></title>
+            <description><![CDATA[16 Mccowan: Detour via Barrymore Rd, Lawrence Ave E, Brimley Rd and Brimorton Dr due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65256</guid>
+            <pubDate>2026-03-29T11:11:34.61Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 27 Jane South: Detour via Old Mill Station due to a planned subway closure.]]></title>
