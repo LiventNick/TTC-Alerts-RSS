@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 20:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 21:18:55 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -26,13 +26,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65259</guid>
             <pubDate>2026-03-29T12:00:53.583Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 506 Carlton: Detour via Dundas St W and Spadina Ave due to a blocked track.]]></title>
-            <description><![CDATA[506 Carlton: Detour via Dundas St W and Spadina Ave due to a blocked track.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65267</guid>
-            <pubDate>2026-03-29T16:45:33.41Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 510 Spadina: Delays between Union Station Streetcar Platform and Spadina Station Streetcar Platform due to traffic congestion.]]></title>
@@ -75,13 +68,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65265</guid>
             <pubDate>2026-03-29T16:27:07.297Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 35 Jane: Detour via Old Mill Station due to a planned subway closure.]]></title>
-            <description><![CDATA[Buses are diverting to Old Mill Station due to a planned subway closure.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65203</guid>
-            <pubDate>2026-03-29T08:00:03.047Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 40 Junction-Dundas West: Detour westbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></title>
