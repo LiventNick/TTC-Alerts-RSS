@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 22:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 23:03:03 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65118</guid>
             <pubDate>2026-03-27T04:16:47.933Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed eastbound at Chester station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed eastbound at Chester station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65271</guid>
+            <pubDate>2026-03-29T18:51:20.717Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚋 505 Dundas: Delays near Dundas St West at Bathurst St - Toronto Western Hospital due to traffic congestion.]]></title>
@@ -56,11 +63,11 @@
             <pubDate>2026-03-29T08:00:02.547Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 30 High Park North: Detour southbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></title>
-            <description><![CDATA[30 High Park North: Detour southbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></description>
+            <title><![CDATA[🚌 30 High Park North: Regular service has resumed southbound from Dundas St West at Runnymede Rd to Dundas St West at Clendenan Ave.]]></title>
+            <description><![CDATA[30 High Park North: Regular service has resumed southbound from Dundas St West at Runnymede Rd to Dundas St West at Clendenan Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65213</guid>
-            <pubDate>2026-03-29T07:00:02.453Z</pubDate>
+            <pubDate>2026-03-29T19:00:03.13Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 33 Forest Hill: Detour southbound via Roselawn Ave, Castlewood Rd and Eglinton Ave W due to a blocked road.]]></title>
@@ -70,11 +77,11 @@
             <pubDate>2026-03-29T16:27:07.297Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 40 Junction-Dundas West: Detour westbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></title>
-            <description><![CDATA[40 Junction-Dundas West: Detour westbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></description>
+            <title><![CDATA[🚌 40 Junction-Dundas West: Regular service has resumed westbound from Dundas St West at Runnymede Rd to Dundas St West at Clendenan Ave.]]></title>
+            <description><![CDATA[40 Junction-Dundas West: Regular service has resumed westbound from Dundas St West at Runnymede Rd to Dundas St West at Clendenan Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65214</guid>
-            <pubDate>2026-03-29T07:00:02.26Z</pubDate>
+            <pubDate>2026-03-29T19:00:02.16Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 55 Warren Park: Detour via Runnymede Station due to a planned subway closure.]]></title>
@@ -82,6 +89,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65200</guid>
             <pubDate>2026-03-29T08:00:02.357Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 102 Markham Rd: Detour northbound via Parkway Ave, Paramount Crt, Finch Ave E and 16th Ave due to a collision.]]></title>
+            <description><![CDATA[102 Markham Rd: Detour northbound via Parkway Ave, Paramount Crt, Finch Ave E and 16th Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65273</guid>
+            <pubDate>2026-03-29T18:49:05.86Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 102 Markham Rd: Detour southbound via Davidson Ave, Peter St and Beech Ave due to a collision.]]></title>
+            <description><![CDATA[102 Markham Rd: Detour southbound via Davidson Ave, Peter St and Beech Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65272</guid>
+            <pubDate>2026-03-29T18:47:56.497Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 149 Etobicoke-Bloor: Detour via Runnymede Station due to a planned subway closure.]]></title>
@@ -187,6 +208,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Scarborough Centre: Elevator 6RT1L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance.]]></title>
+            <description><![CDATA[Scarborough Centre: Elevator 6RT1L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65270</guid>
+            <pubDate>2026-03-29T18:41:16.083Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch: Elevator 22Y4L out of service between Passenger Pick-up and Drop-off entrance and fares concourse while we perform maintenance.]]></title>
