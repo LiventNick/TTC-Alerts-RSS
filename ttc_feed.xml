@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 13:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 14:42:19 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Broadview and St George stations while we fix a brake problem. Shuttle buses are on the way to operate between Broadview and St George.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: No service between Broadview and St George stations while we fix a brake problem. Shuttle buses are on the way to operate between Broadview and St George.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65255</guid>
-            <pubDate>2026-03-29T09:49:23.297Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></description>
@@ -180,13 +173,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Dupont: Elevator 2S3L out of service between concourse and Line 1 Vaughan while we perform maintenance.]]></title>
-            <description><![CDATA[Dupont: Elevator 2S3L out of service between concourse and Line 1 Vaughan while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65252</guid>
-            <pubDate>2026-03-29T08:19:19.913Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></title>
