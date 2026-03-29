@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 11:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 13:09:21 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -28,6 +28,20 @@
             <pubDate>2026-03-29T07:50:28.563Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚌 27 Jane South: Detour via Old Mill Station due to a planned subway closure.]]></title>
+            <description><![CDATA[Buses are diverting to Old Mill Station due to a planned subway closure.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65202</guid>
+            <pubDate>2026-03-29T08:00:03.123Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 27 Jane South: Detour via Runnymede Station due to a planned subway closure.]]></title>
+            <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65199</guid>
+            <pubDate>2026-03-29T08:00:02.547Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 29 Dufferin: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></title>
             <description><![CDATA[29 Dufferin: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -42,6 +56,13 @@
             <pubDate>2026-03-29T07:00:02.453Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚌 35 Jane: Detour via Old Mill Station due to a planned subway closure.]]></title>
+            <description><![CDATA[Buses are diverting to Old Mill Station due to a planned subway closure.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65203</guid>
+            <pubDate>2026-03-29T08:00:03.047Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 40 Junction-Dundas West: Detour westbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></title>
             <description><![CDATA[40 Junction-Dundas West: Detour westbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -49,11 +70,18 @@
             <pubDate>2026-03-29T07:00:02.26Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 329 Dufferin: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></title>
-            <description><![CDATA[329 Dufferin: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></description>
+            <title><![CDATA[🚌 55 Warren Park: Detour via Runnymede Station due to a planned subway closure.]]></title>
+            <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65245</guid>
-            <pubDate>2026-03-29T07:15:07.26Z</pubDate>
+            <guid isPermaLink="false">65200</guid>
+            <pubDate>2026-03-29T08:00:02.357Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 149 Etobicoke-Bloor: Detour via Runnymede Station due to a planned subway closure.]]></title>
+            <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65201</guid>
+            <pubDate>2026-03-29T08:00:02.703Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 929 Dufferin Express: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></title>
@@ -61,6 +89,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65248</guid>
             <pubDate>2026-03-29T07:17:20.447Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 935 Jane Express: Detour via Old Mill Station due to a planned subway closure.]]></title>
+            <description><![CDATA[Buses are diverting to Old Mill Station due to a planned subway closure.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65204</guid>
+            <pubDate>2026-03-29T08:00:03.517Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -152,6 +187,20 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Dupont: Elevator 2S3L out of service between concourse and Line 1 Vaughan while we perform maintenance.]]></title>
+            <description><![CDATA[Dupont: Elevator 2S3L out of service between concourse and Line 1 Vaughan while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65252</guid>
+            <pubDate>2026-03-29T08:19:19.913Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></title>
+            <description><![CDATA[Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65251</guid>
+            <pubDate>2026-03-29T08:06:59.577Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bathurst: Elevator 3B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 29, 2026.]]></title>
