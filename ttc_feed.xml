@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 21:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 21:50:38 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -84,11 +84,11 @@
             <pubDate>2026-03-29T08:00:02.357Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 71 Runnymede: Detour via Lambton Ave, Jane St and Alliance Ave due to a fire.]]></title>
-            <description><![CDATA[71 Runnymede: Detour via Lambton Ave, Jane St and Alliance Ave due to a fire.]]></description>
+            <title><![CDATA[🚌 71 Runnymede: Regular service has resumed between Rockcliffe Blvd at Outlook Ave and Rockcliffe Blvd at Alliance Ave.]]></title>
+            <description><![CDATA[71 Runnymede: Regular service has resumed between Rockcliffe Blvd at Outlook Ave and Rockcliffe Blvd at Alliance Ave.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65262</guid>
-            <pubDate>2026-03-29T15:28:10.763Z</pubDate>
+            <pubDate>2026-03-29T17:40:23.76Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 149 Etobicoke-Bloor: Detour via Runnymede Station due to a planned subway closure.]]></title>
@@ -98,11 +98,11 @@
             <pubDate>2026-03-29T08:00:02.703Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 171 Mount Dennis: Detour via Greendale Ave and Caesar Ave due to a fire.]]></title>
-            <description><![CDATA[171 Mount Dennis: Detour via Greendale Ave and Caesar Ave due to a fire.]]></description>
+            <title><![CDATA[🚌 171 Mount Dennis: Regular service has resumed between Rockcliffe Blvd at Outlook Ave and Rockcliffe Blvd at Caesar Ave South Side.]]></title>
+            <description><![CDATA[171 Mount Dennis: Regular service has resumed between Rockcliffe Blvd at Outlook Ave and Rockcliffe Blvd at Caesar Ave South Side.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65264</guid>
-            <pubDate>2026-03-29T16:01:02.3Z</pubDate>
+            <pubDate>2026-03-29T17:40:26.337Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 935 Jane Express: Detour via Old Mill Station due to a planned subway closure.]]></title>
@@ -201,6 +201,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Lawrence West: Elevator 6S1L out of service between Lawrence Ave W south side entrance and Line 1 centre platform while we perform maintenance.]]></title>
+            <description><![CDATA[Lawrence West: Elevator 6S1L out of service between Lawrence Ave W south side entrance and Line 1 centre platform while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65268</guid>
+            <pubDate>2026-03-29T17:19:20.92Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Vaughan Metropolitan Centre: Escalator 15S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></title>
