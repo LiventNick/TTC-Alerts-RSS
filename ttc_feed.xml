@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 13:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 13:58:31 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between Broadview and St George stations while we fix a brake problem. Shuttle buses are on the way to operate between Broadview and St George.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: No service between Broadview and St George stations while we fix a brake problem. Shuttle buses are on the way to operate between Broadview and St George.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65255</guid>
+            <pubDate>2026-03-29T09:49:23.297Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></description>
@@ -21,11 +28,11 @@
             <pubDate>2026-03-27T04:16:47.933Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: Detour via Spadina Ave, College St and Lansdowne Avenue due to police activity.]]></title>
+            <title><![CDATA[🚋 505 Dundas: Detour westbound via Spadina Ave, College St and Lansdowne Avenue due to police activity.]]></title>
             <description><![CDATA[Please board shuttle buses at street level.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65250</guid>
-            <pubDate>2026-03-29T07:50:28.563Z</pubDate>
+            <pubDate>2026-03-29T09:23:37.94Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 27 Jane South: Detour via Old Mill Station due to a planned subway closure.]]></title>
@@ -40,13 +47,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65199</guid>
             <pubDate>2026-03-29T08:00:02.547Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 29 Dufferin: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></title>
-            <description><![CDATA[29 Dufferin: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65247</guid>
-            <pubDate>2026-03-29T07:15:07.917Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 30 High Park North: Detour southbound via St Johns Rd, Runnymede Rd and Dundas St W due to a crane lift.]]></title>
@@ -82,13 +82,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65201</guid>
             <pubDate>2026-03-29T08:00:02.703Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 929 Dufferin Express: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></title>
-            <description><![CDATA[929 Dufferin Express: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65248</guid>
-            <pubDate>2026-03-29T07:17:20.447Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 935 Jane Express: Detour via Old Mill Station due to a planned subway closure.]]></title>
