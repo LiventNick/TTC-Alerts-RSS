@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 15:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 15:49:20 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: No service between St George and Jane stations while we fix a door problem. Shuttle buses are running between St George and Jane.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: No service between St George and Jane stations while we fix a door problem. Shuttle buses are running between St George and Jane.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65257</guid>
+            <pubDate>2026-03-29T11:43:16.427Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></description>
@@ -182,11 +189,11 @@
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></title>
-            <description><![CDATA[Don Mills: Elevator 61P5L out of service between Sheppard Ave E south side entrance and concourse due to a technical problem.]]></description>
+            <title><![CDATA[♿ Don Mills: Elevator back in service between Sheppard Ave E south side entrance and concourse.]]></title>
+            <description><![CDATA[Don Mills: Elevator back in service between Sheppard Ave E south side entrance and concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65251</guid>
-            <pubDate>2026-03-29T08:06:59.577Z</pubDate>
+            <pubDate>2026-03-29T11:47:06.607Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bathurst: Elevator 3B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 29, 2026.]]></title>
