@@ -4,15 +4,8 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 01:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 04:09:57 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 1 Yonge-University: Delays at Museum station while we respond to a medical emergency.]]></title>
-            <description><![CDATA[Line 1 Yonge-University: Delays at Museum station while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65236</guid>
-            <pubDate>2026-03-28T21:03:20.317Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Kipling and Jane stations due to planned signal work. Shuttle buses are running.]]></title>
             <description><![CDATA[https://files.ttc.ca/public-images/public-image-639101814534147095.png]]></description>
@@ -33,6 +26,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65116</guid>
             <pubDate>2026-03-28T04:42:30.613Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 501 Queen: No service between Lake Shore Blvd West at Kipling Ave and Long Branch Loop while we respond to a medical emergency.]]></title>
+            <description><![CDATA[501 Queen: No service between Lake Shore Blvd West at Kipling Ave and Long Branch Loop while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65243</guid>
+            <pubDate>2026-03-28T23:52:01.057Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 26 Dupont: Detour via Runnymede Station due to a planned subway closure.]]></title>
@@ -68,13 +68,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65195</guid>
             <pubDate>2026-03-28T05:58:07.977Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 169 Huntingwood: Detour via Don Mills Rd, Finch Ave E and Victoria Park Ave due to a collision.]]></title>
-            <description><![CDATA[169 Huntingwood: Detour via Don Mills Rd, Finch Ave E and Victoria Park Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65227</guid>
-            <pubDate>2026-03-28T18:29:30.517Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 935 Jane Express: Detour via Old Mill Station due to a planned subway closure.]]></title>
@@ -173,13 +166,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Lawrence: Escalator 19Y4E out of service from bus platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 28, 2026.]]></title>
-            <description><![CDATA[Lawrence: Escalator 19Y4E out of service from bus platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 28, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65224</guid>
-            <pubDate>2026-03-28T19:30:02.017Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dundas West: Escalator 8B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 29, 2026.]]></title>
