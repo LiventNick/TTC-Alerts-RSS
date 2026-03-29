@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 19:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 20:02:52 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -96,6 +96,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65201</guid>
             <pubDate>2026-03-29T08:00:02.703Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 171 Mount Dennis: Detour via Greendale Ave and Caesar Ave due to a fire.]]></title>
+            <description><![CDATA[171 Mount Dennis: Detour via Greendale Ave and Caesar Ave due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65264</guid>
+            <pubDate>2026-03-29T16:01:02.3Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 935 Jane Express: Detour via Old Mill Station due to a planned subway closure.]]></title>
