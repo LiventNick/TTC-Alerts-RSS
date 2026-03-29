@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 19:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 19:44:42 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -82,6 +82,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65200</guid>
             <pubDate>2026-03-29T08:00:02.357Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 71 Runnymede: Detour via Lambton Ave, Jane St and Alliance Ave due to a fire.]]></title>
+            <description><![CDATA[71 Runnymede: Detour via Lambton Ave, Jane St and Alliance Ave due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65262</guid>
+            <pubDate>2026-03-29T15:28:10.763Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 149 Etobicoke-Bloor: Detour via Runnymede Station due to a planned subway closure.]]></title>
@@ -189,11 +196,11 @@
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Bathurst: Elevator back in service between concourse and Line 2 eastbound platform.]]></title>
-            <description><![CDATA[Bathurst: Elevator back in service between concourse and Line 2 eastbound platform.]]></description>
+            <title><![CDATA[♿ Vaughan Metropolitan Centre: Escalator 15S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></title>
+            <description><![CDATA[Vaughan Metropolitan Centre: Escalator 15S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65235</guid>
-            <pubDate>2026-03-29T15:00:02.09Z</pubDate>
+            <guid isPermaLink="false">65263</guid>
+            <pubDate>2026-03-29T15:28:58.767Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dundas West: Escalator 8B1E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service March 29, 2026.]]></title>
