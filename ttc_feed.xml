@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 23:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 23:46:43 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -21,13 +21,6 @@
             <pubDate>2026-03-27T04:16:47.933Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed eastbound at Chester station.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed eastbound at Chester station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65271</guid>
-            <pubDate>2026-03-29T18:51:20.717Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚋 505 Dundas: Delays near Dundas St West at Bathurst St - Toronto Western Hospital due to traffic congestion.]]></title>
             <description><![CDATA[505 Dundas: Delays near Dundas St West at Bathurst St - Toronto Western Hospital due to traffic congestion.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -40,13 +33,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65258</guid>
             <pubDate>2026-03-29T11:59:58.1Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 14 Glencairn: Detour eastbound via Bathurst St and Eglinton Ave W due to a blocked road.]]></title>
-            <description><![CDATA[14 Glencairn: Detour eastbound via Bathurst St and Eglinton Ave W due to a blocked road.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65266</guid>
-            <pubDate>2026-03-29T16:27:57.453Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 27 Jane South: Detour via Old Mill Station due to a planned subway closure.]]></title>
@@ -63,13 +49,6 @@
             <pubDate>2026-03-29T08:00:02.547Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 30 High Park North: Regular service has resumed southbound from Dundas St West at Runnymede Rd to Dundas St West at Clendenan Ave.]]></title>
-            <description><![CDATA[30 High Park North: Regular service has resumed southbound from Dundas St West at Runnymede Rd to Dundas St West at Clendenan Ave.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65213</guid>
-            <pubDate>2026-03-29T19:00:03.13Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 33 Forest Hill: Detour southbound via Roselawn Ave, Castlewood Rd and Eglinton Ave W due to a blocked road.]]></title>
             <description><![CDATA[33 Forest Hill: Detour southbound via Roselawn Ave, Castlewood Rd and Eglinton Ave W due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -77,32 +56,11 @@
             <pubDate>2026-03-29T16:27:07.297Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 40 Junction-Dundas West: Regular service has resumed westbound from Dundas St West at Runnymede Rd to Dundas St West at Clendenan Ave.]]></title>
-            <description><![CDATA[40 Junction-Dundas West: Regular service has resumed westbound from Dundas St West at Runnymede Rd to Dundas St West at Clendenan Ave.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65214</guid>
-            <pubDate>2026-03-29T19:00:02.16Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 55 Warren Park: Detour via Runnymede Station due to a planned subway closure.]]></title>
             <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65200</guid>
             <pubDate>2026-03-29T08:00:02.357Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 102 Markham Rd: Detour northbound via Parkway Ave, Paramount Crt, Finch Ave E and 16th Ave due to a collision.]]></title>
-            <description><![CDATA[102 Markham Rd: Detour northbound via Parkway Ave, Paramount Crt, Finch Ave E and 16th Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65273</guid>
-            <pubDate>2026-03-29T18:49:05.86Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 102 Markham Rd: Detour southbound via Davidson Ave, Peter St and Beech Ave due to a collision.]]></title>
-            <description><![CDATA[102 Markham Rd: Detour southbound via Davidson Ave, Peter St and Beech Ave due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65272</guid>
-            <pubDate>2026-03-29T18:47:56.497Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 149 Etobicoke-Bloor: Detour via Runnymede Station due to a planned subway closure.]]></title>
@@ -222,13 +180,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65269</guid>
             <pubDate>2026-03-29T17:59:32.44Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Lawrence West: Elevator 6S1L out of service between Lawrence Ave W south side entrance and Line 1 centre platform while we perform maintenance.]]></title>
-            <description><![CDATA[Lawrence West: Elevator 6S1L out of service between Lawrence Ave W south side entrance and Line 1 centre platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65268</guid>
-            <pubDate>2026-03-29T17:19:20.92Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Vaughan Metropolitan Centre: Escalator 15S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></title>
