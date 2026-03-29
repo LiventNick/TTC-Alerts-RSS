@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 07:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 08:51:08 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: On Sunday, March 29, there will be no subway service between Jane and Ossington stations, due to planned signal work. Shuttle buses will operate. Regular subway service will resume Monday, March 30 at 6:00 a.m.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65118</guid>
             <pubDate>2026-03-27T04:16:47.933Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 329 Dufferin: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></title>
+            <description><![CDATA[329 Dufferin: Detour via Davenport Rd, Oakwood Ave and Rogers Rd due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65245</guid>
+            <pubDate>2026-03-29T04:00:42.637Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
