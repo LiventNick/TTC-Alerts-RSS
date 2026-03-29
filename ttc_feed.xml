@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sat, 28 Mar 2026 23:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 01:05:53 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: Delays at Museum station while we respond to a medical emergency.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Delays at Museum station while we respond to a medical emergency.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65236</guid>
+            <pubDate>2026-03-28T21:03:20.317Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Kipling and Jane stations due to planned signal work. Shuttle buses are running.]]></title>
             <description><![CDATA[https://files.ttc.ca/public-images/public-image-639101814534147095.png]]></description>
@@ -54,20 +61,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65194</guid>
             <pubDate>2026-03-28T05:58:06.307Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 89 Weston: Detour northbound via Eglinton Ave W and Jane St due to a collision.]]></title>
-            <description><![CDATA[89 Weston: Detour northbound via Eglinton Ave W and Jane St due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65232</guid>
-            <pubDate>2026-03-28T19:15:59.617Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 89 Weston: Detour southbound via Ray Ave, Industry St, Todd Baylis Blvd, Black Creek Dr and Eglinton Ave W due to a collision.]]></title>
-            <description><![CDATA[89 Weston: Detour southbound via Ray Ave, Industry St, Todd Baylis Blvd, Black Creek Dr and Eglinton Ave W due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65229</guid>
-            <pubDate>2026-03-28T19:09:01.97Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 149 Etobicoke-Bloor: Detour via Runnymede Station due to a planned subway closure.]]></title>
