@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 21:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 22:33:42 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -84,25 +84,11 @@
             <pubDate>2026-03-29T08:00:02.357Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚌 71 Runnymede: Regular service has resumed between Rockcliffe Blvd at Outlook Ave and Rockcliffe Blvd at Alliance Ave.]]></title>
-            <description><![CDATA[71 Runnymede: Regular service has resumed between Rockcliffe Blvd at Outlook Ave and Rockcliffe Blvd at Alliance Ave.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65262</guid>
-            <pubDate>2026-03-29T17:40:23.76Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 149 Etobicoke-Bloor: Detour via Runnymede Station due to a planned subway closure.]]></title>
             <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65201</guid>
             <pubDate>2026-03-29T08:00:02.703Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 171 Mount Dennis: Regular service has resumed between Rockcliffe Blvd at Outlook Ave and Rockcliffe Blvd at Caesar Ave South Side.]]></title>
-            <description><![CDATA[171 Mount Dennis: Regular service has resumed between Rockcliffe Blvd at Outlook Ave and Rockcliffe Blvd at Caesar Ave South Side.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65264</guid>
-            <pubDate>2026-03-29T17:40:26.337Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 935 Jane Express: Detour via Old Mill Station due to a planned subway closure.]]></title>
@@ -201,6 +187,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Finch: Elevator 22Y4L out of service between Passenger Pick-up and Drop-off entrance and fares concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Finch: Elevator 22Y4L out of service between Passenger Pick-up and Drop-off entrance and fares concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65269</guid>
+            <pubDate>2026-03-29T17:59:32.44Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Lawrence West: Elevator 6S1L out of service between Lawrence Ave W south side entrance and Line 1 centre platform while we perform maintenance.]]></title>
