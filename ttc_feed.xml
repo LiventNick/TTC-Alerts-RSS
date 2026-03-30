@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 30 Mar 2026 15:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 16:42:33 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65298</guid>
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 93 Parkview Hills: Detour via White Pine Ave due to construction.]]></title>
+            <description><![CDATA[93 Parkview Hills: Detour via White Pine Ave due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65319</guid>
+            <pubDate>2026-03-30T12:08:51.36Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -77,6 +84,13 @@
             <pubDate>2026-03-30T10:08:03.38Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Jane: Escalator 12B1E out of service from concourse to Jane St entrance while we perform maintenance.]]></title>
+            <description><![CDATA[Jane: Escalator 12B1E out of service from concourse to Jane St entrance while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65320</guid>
+            <pubDate>2026-03-30T12:29:25.507Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Don Mills: Escalator 61P4E out of service from Line 4 platform to concourse while we perform maintenance.]]></title>
             <description><![CDATA[Don Mills: Escalator 61P4E out of service from Line 4 platform to concourse while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -84,11 +98,11 @@
             <pubDate>2026-03-30T09:46:10.007Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Kipling: Elevator 16B2L out of service between bus platform and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 30, 2026.]]></title>
-            <description><![CDATA[Kipling: Elevator 16B2L out of service between bus platform and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 30, 2026.]]></description>
+            <title><![CDATA[♿ Kipling: Elevator 16B3L out of service between concourse and west passenger pick-up and drop-off entrance while we perform maintenance. Elevator is expected to be back in service March 30, 2026.]]></title>
+            <description><![CDATA[Kipling: Elevator 16B3L out of service between concourse and west passenger pick-up and drop-off entrance while we perform maintenance. Elevator is expected to be back in service March 30, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65310</guid>
-            <pubDate>2026-03-30T09:00:02.217Z</pubDate>
+            <guid isPermaLink="false">65311</guid>
+            <pubDate>2026-03-30T12:00:02.277Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Summerhill: Elevator 15Y2L out of service between Shaftesbury Avenue (West) and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 30, 2026.]]></title>
