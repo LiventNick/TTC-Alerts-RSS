@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 30 Mar 2026 21:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 22:03:20 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -103,13 +103,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65318</guid>
             <pubDate>2026-03-30T10:08:03.38Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Cedarvale: Elevator 4S2L out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance.]]></title>
-            <description><![CDATA[Cedarvale: Elevator 4S2L out of service between bus terminal entrance and Line 1 Finch via southbound platform while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65332</guid>
-            <pubDate>2026-03-30T15:52:13.613Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></title>
