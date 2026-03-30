@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 30 Mar 2026 10:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 11:43:47 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65298</guid>
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed between St George and Broadview stations.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed between St George and Broadview stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65309</guid>
+            <pubDate>2026-03-30T07:34:24.817Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -105,11 +112,74 @@
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Summerhill: Elevator 15Y1L out of service between Shaftesbury Avenue (East) and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 30, 2026.]]></title>
+            <description><![CDATA[Summerhill: Elevator 15Y1L out of service between Shaftesbury Avenue (East) and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 30, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65307</guid>
+            <pubDate>2026-03-30T07:15:19.573Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Union: Elevator 7Y1L out of service between concourse and Line 1 Vaughan platform while we perform maintenance. Elevator is expected to be back in service March 30, 2026.]]></title>
+            <description><![CDATA[Union: Elevator 7Y1L out of service between concourse and Line 1 Vaughan platform while we perform maintenance. Elevator is expected to be back in service March 30, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65305</guid>
+            <pubDate>2026-03-30T07:13:09.667Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Vaughan Metropolitan Centre: Escalator 15S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></title>
             <description><![CDATA[Vaughan Metropolitan Centre: Escalator 15S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65263</guid>
             <pubDate>2026-03-29T15:28:58.767Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Davisville: Escalator 17Y2E out of service from Line 1 Vaughan via Union platform to concourse while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></title>
+            <description><![CDATA[Davisville: Escalator 17Y2E out of service from Line 1 Vaughan via Union platform to concourse while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65157</guid>
+            <pubDate>2026-03-30T07:30:02.12Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Lawrence: Escalator 19Y1E out of service from south concourse to Yonge St west side entrance while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></title>
+            <description><![CDATA[Lawrence: Escalator 19Y1E out of service from south concourse to Yonge St west side entrance while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65156</guid>
+            <pubDate>2026-03-30T07:30:02.09Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Finch West: Escalator 11S3E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service April 2, 2026.]]></title>
+            <description><![CDATA[Finch West: Escalator 11S3E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service April 2, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65155</guid>
+            <pubDate>2026-03-30T07:30:02.26Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Queen: Escalator 9Y6E out of service from north underpass to Line 1 Finch platform while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></title>
+            <description><![CDATA[Queen: Escalator 9Y6E out of service from north underpass to Line 1 Finch platform while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65154</guid>
+            <pubDate>2026-03-30T07:30:02.23Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St Clair West: Escalator 3S2E out of service from south concourse to St Clair Ave W south side entrance while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></title>
+            <description><![CDATA[St Clair West: Escalator 3S2E out of service from south concourse to St Clair Ave W south side entrance while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65153</guid>
+            <pubDate>2026-03-30T07:30:02.2Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Ossington: Escalator 5B2E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></title>
+            <description><![CDATA[Ossington: Escalator 5B2E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65152</guid>
+            <pubDate>2026-03-30T07:30:02.153Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Lansdowne: Escalator 7B2E out of service from concourse to Lansdowne Ave east side entrance while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></title>
+            <description><![CDATA[Lansdowne: Escalator 7B2E out of service from concourse to Lansdowne Ave east side entrance while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65141</guid>
+            <pubDate>2026-03-30T07:30:02.167Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Coxwell: Escalator 11D1E out of service from concourse to Strathmore Blvd entrance while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></title>
