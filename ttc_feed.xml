@@ -4,70 +4,14 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 30 Mar 2026 06:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 08:03:20 GMT</lastBuildDate>
         
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65119</guid>
-            <pubDate>2026-03-29T05:00:02.233Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: On Sunday, March 29, there will be no subway service between Jane and Ossington stations, due to planned signal work. Shuttle buses will operate. Regular subway service will resume Monday, March 30 at 6:00 a.m.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: On Sunday, March 29, there will be no subway service between Jane and Ossington stations, due to planned signal work. Shuttle buses will operate. Regular subway service will resume Monday, March 30 at 6:00 a.m.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65118</guid>
-            <pubDate>2026-03-27T04:16:47.933Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 505 Dundas: Regular service has resumed near Dundas St West at Bathurst St - Toronto Western Hospital.]]></title>
-            <description><![CDATA[505 Dundas: Regular service has resumed near Dundas St West at Bathurst St - Toronto Western Hospital.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65259</guid>
-            <pubDate>2026-03-30T02:01:02.067Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 27 Jane South: Detour via Old Mill Station due to a planned subway closure.]]></title>
-            <description><![CDATA[Buses are diverting to Old Mill Station due to a planned subway closure.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65202</guid>
-            <pubDate>2026-03-29T08:00:03.123Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 27 Jane South: Detour via Runnymede Station due to a planned subway closure.]]></title>
-            <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65199</guid>
-            <pubDate>2026-03-29T08:00:02.547Z</pubDate>
-        </item>
         <item>
             <title><![CDATA[🚌 33 Forest Hill: Detour southbound via Roselawn Ave, Castlewood Rd and Eglinton Ave W due to a blocked road.]]></title>
             <description><![CDATA[33 Forest Hill: Detour southbound via Roselawn Ave, Castlewood Rd and Eglinton Ave W due to a blocked road.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65265</guid>
             <pubDate>2026-03-29T16:27:07.297Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 55 Warren Park: Detour via Runnymede Station due to a planned subway closure.]]></title>
-            <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65200</guid>
-            <pubDate>2026-03-29T08:00:02.357Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 149 Etobicoke-Bloor: Detour via Runnymede Station due to a planned subway closure.]]></title>
-            <description><![CDATA[Buses are diverting to Runnymede Station due to a planned subway closure.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65201</guid>
-            <pubDate>2026-03-29T08:00:02.703Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 935 Jane Express: Detour via Old Mill Station due to a planned subway closure.]]></title>
-            <description><![CDATA[Buses are diverting to Old Mill Station due to a planned subway closure.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65204</guid>
-            <pubDate>2026-03-29T08:00:03.517Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -159,20 +103,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">58846</guid>
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform due to a technical problem.]]></title>
-            <description><![CDATA[Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform due to a technical problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65294</guid>
-            <pubDate>2026-03-30T00:52:32.59Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Osgoode: Escalator 5Y2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></title>
-            <description><![CDATA[Osgoode: Escalator 5Y2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65281</guid>
-            <pubDate>2026-03-29T22:45:54.137Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Vaughan Metropolitan Centre: Escalator 15S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></title>
