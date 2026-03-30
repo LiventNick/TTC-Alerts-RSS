@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 30 Mar 2026 04:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 06:10:58 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
@@ -21,18 +21,11 @@
             <pubDate>2026-03-27T04:16:47.933Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 505 Dundas: Delays near Dundas St West at Bathurst St - Toronto Western Hospital due to traffic congestion.]]></title>
-            <description><![CDATA[505 Dundas: Delays near Dundas St West at Bathurst St - Toronto Western Hospital due to traffic congestion.]]></description>
+            <title><![CDATA[🚋 505 Dundas: Regular service has resumed near Dundas St West at Bathurst St - Toronto Western Hospital.]]></title>
+            <description><![CDATA[505 Dundas: Regular service has resumed near Dundas St West at Bathurst St - Toronto Western Hospital.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65259</guid>
-            <pubDate>2026-03-29T23:29:39.673Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 510 Spadina: Delays between Union Station Streetcar Platform and Spadina Station Streetcar Platform due to traffic congestion.]]></title>
-            <description><![CDATA[510 Spadina: Delays between Union Station Streetcar Platform and Spadina Station Streetcar Platform due to traffic congestion.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65258</guid>
-            <pubDate>2026-03-29T11:59:58.1Z</pubDate>
+            <pubDate>2026-03-30T02:01:02.067Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 27 Jane South: Detour via Old Mill Station due to a planned subway closure.]]></title>
@@ -168,18 +161,18 @@
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform due to a technical problem.]]></title>
+            <description><![CDATA[Greenwood: Elevator 10D1L out of service Street to Concourse to Line 2 Kennedy Platform due to a technical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65294</guid>
+            <pubDate>2026-03-30T00:52:32.59Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Osgoode: Escalator 5Y2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></title>
             <description><![CDATA[Osgoode: Escalator 5Y2E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65281</guid>
             <pubDate>2026-03-29T22:45:54.137Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bathurst: Elevator 3B2L out of service between concourse and Line 2 eastbound platform due to a technical problem.]]></title>
-            <description><![CDATA[Bathurst: Elevator 3B2L out of service between concourse and Line 2 eastbound platform due to a technical problem.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65280</guid>
-            <pubDate>2026-03-29T22:40:35.59Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Vaughan Metropolitan Centre: Escalator 15S4E out of service from Line 1 platform to concourse while we perform maintenance. Escalator is expected to be back in service March 30, 2026.]]></title>
