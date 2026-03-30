@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Sun, 29 Mar 2026 23:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 01:06:05 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: Regular service has resumed northbound at King station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Regular service has resumed northbound at King station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65275</guid>
+            <pubDate>2026-03-29T21:01:56.24Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></title>
             <description><![CDATA[Line 2 Bloor-Danforth: There is no subway service between Jane and Ossington stations due to planned signal work. Shuttle buses are running.]]></description>
@@ -168,11 +175,11 @@
             <pubDate>2026-03-26T11:40:56.667Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Scarborough Centre: Elevator 6RT1L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance.]]></title>
-            <description><![CDATA[Scarborough Centre: Elevator 6RT1L out of service between concourse and Scarborough Town Centre entrance and bus platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Scarborough Centre: Elevator back in service between concourse and Scarborough Town Centre entrance and bus platform.]]></title>
+            <description><![CDATA[Scarborough Centre: Elevator back in service between concourse and Scarborough Town Centre entrance and bus platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65270</guid>
-            <pubDate>2026-03-29T18:41:16.083Z</pubDate>
+            <pubDate>2026-03-29T20:54:01.507Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Finch: Elevator 22Y4L out of service between Passenger Pick-up and Drop-off entrance and fares concourse while we perform maintenance.]]></title>
