@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 30 Mar 2026 16:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 17:40:05 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,32 @@
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Signet Arrow and Milvan Rumike stations while the maintainer fixes a mechanical problem.]]></title>
+            <description><![CDATA[Line 6 Finch West: No service between Signet Arrow and Milvan Rumike stations while the maintainer fixes a mechanical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65324</guid>
+            <pubDate>2026-03-30T13:19:54.767Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 72 Pape: Detour via Mortimer Ave, Broadview Ave and Gerrard St E due to an event.]]></title>
+            <description><![CDATA[72 Pape: Detour via Mortimer Ave, Broadview Ave and Gerrard St E due to an event.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65253</guid>
+            <pubDate>2026-03-30T13:00:02.237Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚌 93 Parkview Hills: Detour via White Pine Ave due to construction.]]></title>
             <description><![CDATA[93 Parkview Hills: Detour via White Pine Ave due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65319</guid>
             <pubDate>2026-03-30T12:08:51.36Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 165 Weston Rd North: Detour eastbound via Finch Ave W, Signet Dr and Fenmar Dr due to a blocked road.]]></title>
+            <description><![CDATA[165 Weston Rd North: Detour eastbound via Finch Ave W, Signet Dr and Fenmar Dr due to a blocked road.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65325</guid>
+            <pubDate>2026-03-30T13:34:39.837Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
