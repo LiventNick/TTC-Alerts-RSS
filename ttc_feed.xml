@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 30 Mar 2026 17:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 18:39:28 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,18 @@
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: No service between Signet Arrow and Milvan Rumike stations while the maintainer fixes a mechanical problem.]]></title>
-            <description><![CDATA[Line 6 Finch West: No service between Signet Arrow and Milvan Rumike stations while the maintainer fixes a mechanical problem.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Signet Arrow and Milvan Rumike stations while the maintainer fixes a mechanical problem. Shuttle buses are running between Signet Arrow and Milvan Rumike.]]></title>
+            <description><![CDATA[Line 6 Finch West: No service between Signet Arrow and Milvan Rumike stations while the maintainer fixes a mechanical problem. Shuttle buses are running between Signet Arrow and Milvan Rumike.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65324</guid>
-            <pubDate>2026-03-30T13:19:54.767Z</pubDate>
+            <pubDate>2026-03-30T14:01:05.9Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚋 507 Long Branch: No service between Long Branch Loop and Lake Shore Blvd West at Kipling Ave due to a collision.]]></title>
+            <description><![CDATA[507 Long Branch: No service between Long Branch Loop and Lake Shore Blvd West at Kipling Ave due to a collision.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65327</guid>
+            <pubDate>2026-03-30T14:02:33.737Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 72 Pape: Detour via Mortimer Ave, Broadview Ave and Gerrard St E due to an event.]]></title>
@@ -103,6 +110,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65318</guid>
             <pubDate>2026-03-30T10:08:03.38Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></title>
+            <description><![CDATA[Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65328</guid>
+            <pubDate>2026-03-30T14:23:07.42Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Jane: Escalator 12B1E out of service from concourse to Jane St entrance while we perform maintenance.]]></title>
