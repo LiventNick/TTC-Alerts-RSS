@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Mon, 30 Mar 2026 11:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 12:42:42 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,11 @@
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed between St George and Broadview stations.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed between St George and Broadview stations.]]></description>
+            <title><![CDATA[🚌 31 Greenwood: Detour southbound via Leslie St, Lakeshore Ave and Emdaabiimok due to construction.]]></title>
+            <description><![CDATA[31 Greenwood: Detour southbound via Leslie St, Lakeshore Ave and Emdaabiimok due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65309</guid>
-            <pubDate>2026-03-30T07:34:24.817Z</pubDate>
+            <guid isPermaLink="false">65312</guid>
+            <pubDate>2026-03-30T08:19:41.42Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Sheppard-Yonge to York Mills stations while we work on track issues.]]></title>
@@ -315,18 +315,18 @@
             <pubDate>2026-03-02T13:48:03.42Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
-            <description><![CDATA[Warden: Elevator 15D2L out of service between concourse and Warden Avenue entrance due to construction. Elevator is expected to be back in service March 30, 2026.]]></description>
+            <title><![CDATA[♿ Warden: Elevator back in service between concourse and Warden Avenue entrance.]]></title>
+            <description><![CDATA[Warden: Elevator back in service between concourse and Warden Avenue entrance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63424</guid>
-            <pubDate>2026-03-02T06:30:01.457Z</pubDate>
+            <pubDate>2026-03-30T08:35:28.23Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Warden: Elevator 15D1L out of service between concourse and Line 2 platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></title>
-            <description><![CDATA[Warden: Elevator 15D1L out of service between concourse and Line 2 platform due to construction. Elevator is expected to be back in service March 30, 2026.]]></description>
+            <title><![CDATA[♿ Warden: Elevator back in service between concourse and Line 2 platform.]]></title>
+            <description><![CDATA[Warden: Elevator back in service between concourse and Line 2 platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">63423</guid>
-            <pubDate>2026-03-02T06:30:01.207Z</pubDate>
+            <pubDate>2026-03-30T08:35:20.663Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Sheppard-Yonge: Elevator out of service between Sheppard Ave E south side entrance and Line 4 eastbound platform while we perform maintenance.]]></title>
