@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 15:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 16:17:16 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,25 @@
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed between Keele and Ossington stations.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed between Keele and Ossington stations.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65383</guid>
+            <pubDate>2026-03-31T12:02:20.11Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 505 Dundas: Detour eastbound via Bathurst St, College St and Spadina Ave while we respond to a medical emergency.]]></title>
             <description><![CDATA[505 Dundas: Detour eastbound via Bathurst St, College St and Spadina Ave while we respond to a medical emergency.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65381</guid>
             <pubDate>2026-03-31T10:54:13.113Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 93 Parkview Hills: Detour via White Pine Ave, Hackberry St and Parkview Hill Cres due to construction.]]></title>
+            <description><![CDATA[93 Parkview Hills: Detour via White Pine Ave, Hackberry St and Parkview Hill Cres due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65382</guid>
+            <pubDate>2026-03-31T11:39:56.757Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 168 Symington: Detour southbound via Davenport Rd, Lansdowne Ave and Dupont St due to a watermain break.]]></title>
@@ -91,25 +105,11 @@
             <pubDate>2026-03-31T09:39:40.627Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform due to a technical problem.]]></title>
-            <description><![CDATA[Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform due to a technical problem.]]></description>
+            <title><![CDATA[♿ Castle Frank: Elevator back in service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform.]]></title>
+            <description><![CDATA[Castle Frank: Elevator back in service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65379</guid>
-            <pubDate>2026-03-31T10:16:51.55Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Queen's Park: Elevator back in service between College St northeast entrance and concourse.]]></title>
-            <description><![CDATA[Queen's Park: Elevator back in service between College St northeast entrance and concourse.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65378</guid>
-            <pubDate>2026-03-31T11:10:45.707Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Woodbine: Elevator back in service between Woodbine Ave east side entrance, concourse and Line 2 eastbound platform.]]></title>
-            <description><![CDATA[Woodbine: Elevator back in service between Woodbine Ave east side entrance, concourse and Line 2 eastbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65377</guid>
-            <pubDate>2026-03-31T11:07:00.917Z</pubDate>
+            <pubDate>2026-03-31T12:06:04.91Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bay: Elevator 2D1L out of service between concourse and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
@@ -119,13 +119,6 @@
             <pubDate>2026-03-31T11:00:02.547Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ St Patrick: Elevator back in service between concourse and Line 1 centre platform.]]></title>
-            <description><![CDATA[St Patrick: Elevator back in service between concourse and Line 1 centre platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65371</guid>
-            <pubDate>2026-03-31T11:00:02.643Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Kennedy: Escalator 16D4E out of service from Line 2 platform to bus platform due to a technical problem.]]></title>
             <description><![CDATA[Kennedy: Escalator 16D4E out of service from Line 2 platform to bus platform due to a technical problem.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
@@ -133,25 +126,18 @@
             <pubDate>2026-03-31T07:45:59.44Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[♿ Jane: Elevator 12B3L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
+            <description><![CDATA[Jane: Elevator 12B3L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65369</guid>
+            <pubDate>2026-03-31T12:00:02.363Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[♿ Bloor-Yonge: Elevator 13Y4L out of service between south concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
             <description><![CDATA[Bloor-Yonge: Elevator 13Y4L out of service between south concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65368</guid>
             <pubDate>2026-03-31T11:00:02.297Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Jane: Elevator 12B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[Jane: Elevator 12B2L out of service between concourse and Line 2 eastbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65367</guid>
-            <pubDate>2026-03-31T09:30:02.26Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bloor-Yonge: Elevator back in service between south concourse and Line 1 southbound platform.]]></title>
-            <description><![CDATA[Bloor-Yonge: Elevator back in service between south concourse and Line 1 southbound platform.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65366</guid>
-            <pubDate>2026-03-31T11:00:03.347Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to a technical problem.]]></title>
