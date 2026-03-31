@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 16:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 17:17:15 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,18 +14,11 @@
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed between Keele and Ossington stations.]]></title>
-            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed between Keele and Ossington stations.]]></description>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Rowntree Mills and Duncanwoods stations due to a medical emergency. Shuttle buses are on the way.]]></title>
+            <description><![CDATA[Line 6 Finch West: No service between Rowntree Mills and Duncanwoods stations due to a medical emergency. Shuttle buses are on the way.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65383</guid>
-            <pubDate>2026-03-31T12:02:20.11Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚋 505 Dundas: Detour eastbound via Bathurst St, College St and Spadina Ave while we respond to a medical emergency.]]></title>
-            <description><![CDATA[505 Dundas: Detour eastbound via Bathurst St, College St and Spadina Ave while we respond to a medical emergency.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65381</guid>
-            <pubDate>2026-03-31T10:54:13.113Z</pubDate>
+            <guid isPermaLink="false">65384</guid>
+            <pubDate>2026-03-31T12:47:43.49Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 93 Parkview Hills: Detour via White Pine Ave, Hackberry St and Parkview Hill Cres due to construction.]]></title>
@@ -105,11 +98,11 @@
             <pubDate>2026-03-31T09:39:40.627Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Castle Frank: Elevator back in service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform.]]></title>
-            <description><![CDATA[Castle Frank: Elevator back in service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform.]]></description>
+            <title><![CDATA[♿ Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform while we perform maintenance.]]></title>
+            <description><![CDATA[Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65379</guid>
-            <pubDate>2026-03-31T12:06:04.91Z</pubDate>
+            <guid isPermaLink="false">65385</guid>
+            <pubDate>2026-03-31T12:49:26.543Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bay: Elevator 2D1L out of service between concourse and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
