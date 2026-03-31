@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 08:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 09:16:40 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65298</guid>
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 6 Finch West: No service between Signet Arrow and Rowntree Mills stations while the maintainer fixes a switch problem. Shuttle buses are running between Humber College and Finch West.]]></title>
+            <description><![CDATA[Line 6 Finch West: No service between Signet Arrow and Rowntree Mills stations while the maintainer fixes a switch problem. Shuttle buses are running between Humber College and Finch West.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65360</guid>
+            <pubDate>2026-03-31T05:11:41.393Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
