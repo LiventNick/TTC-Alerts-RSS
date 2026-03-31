@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 18:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 19:30:33 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -84,11 +84,11 @@
             <pubDate>2026-03-31T09:39:40.627Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Castle Frank: Elevator back in service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform.]]></title>
-            <description><![CDATA[Castle Frank: Elevator back in service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform.]]></description>
+            <title><![CDATA[♿ Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform due to a technical problem.]]></title>
+            <description><![CDATA[Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform due to a technical problem.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65385</guid>
-            <pubDate>2026-03-31T14:05:54.287Z</pubDate>
+            <guid isPermaLink="false">65387</guid>
+            <pubDate>2026-03-31T14:49:28.963Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bay: Elevator 2D1L out of service between concourse and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
@@ -105,32 +105,11 @@
             <pubDate>2026-03-31T07:45:59.44Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Jane: Elevator 12B3L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[Jane: Elevator 12B3L out of service between concourse and Line 2 westbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65369</guid>
-            <pubDate>2026-03-31T12:00:02.363Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bloor-Yonge: Elevator 13Y4L out of service between south concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[Bloor-Yonge: Elevator 13Y4L out of service between south concourse and Line 1 northbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65368</guid>
-            <pubDate>2026-03-31T11:00:02.297Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to a technical problem.]]></title>
             <description><![CDATA[Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to a technical problem.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65363</guid>
             <pubDate>2026-03-31T06:12:41.43Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65328</guid>
-            <pubDate>2026-03-30T14:23:07.42Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Davisville: Escalator 17Y2E out of service from Line 1 Vaughan via Union platform to concourse while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></title>
@@ -165,7 +144,7 @@
             <description><![CDATA[St Clair West: Escalator 3S2E out of service from south concourse to St Clair Ave W south side entrance while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65153</guid>
-            <pubDate>2026-03-30T07:30:02.2Z</pubDate>
+            <pubDate>2026-03-31T14:34:41.997Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Ossington: Escalator 5B2E out of service from Line 2 Kipling platform to concourse while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></title>
@@ -245,11 +224,11 @@
             <pubDate>2026-03-24T22:30:03.33Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[North York Centre: Escalator 23Y3E out of service from Line 1 Vaughan via Union platform to concourse due to a technical problem. Escalator is expected to be back in service March 31, 2026.]]></description>
+            <title><![CDATA[♿ North York Centre: Escalator back in service from Line 1 Vaughan via Union platform to concourse.]]></title>
+            <description><![CDATA[North York Centre: Escalator back in service from Line 1 Vaughan via Union platform to concourse.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">64812</guid>
-            <pubDate>2026-03-27T08:14:58.017Z</pubDate>
+            <pubDate>2026-03-31T15:30:02.047Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Avenue: Elevator 2 out of service between Eglinton Avenue north side, west entrance and concourse due to a technical problem.]]></title>
