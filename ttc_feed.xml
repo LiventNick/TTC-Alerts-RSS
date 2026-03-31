@@ -4,8 +4,15 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 03:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 05:26:14 GMT</lastBuildDate>
         
+        <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Sheppard West and Lawrence West stations due to planned track work. Shuttle buses are running.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: There is no subway service between Sheppard West and Lawrence West stations due to planned track work. Shuttle buses are running.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65299</guid>
+            <pubDate>2026-03-30T23:59:02.197Z</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
             <description><![CDATA[Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></description>
@@ -14,25 +21,18 @@
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚋 506 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 due to a collision.]]></title>
-            <description><![CDATA[506 Carlton: No service between Gerrard St East at Coxwell Ave and Main Street Station at Bay 7 due to a collision.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65356</guid>
-            <pubDate>2026-03-30T23:15:29.617Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 86 Scarborough: Regular service has resumed between Meadowvale Rd at Ellesmere Rd and Meadowvale Rd at Sheppard Ave East.]]></title>
-            <description><![CDATA[86 Scarborough: Regular service has resumed between Meadowvale Rd at Ellesmere Rd and Meadowvale Rd at Sheppard Ave East.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65355</guid>
-            <pubDate>2026-03-30T23:17:20.993Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 93 Parkview Hills: Detour via White Pine Ave due to construction.]]></title>
-            <description><![CDATA[93 Parkview Hills: Detour via White Pine Ave due to construction.]]></description>
+            <title><![CDATA[🚌 93 Parkview Hills: Regular service has resumed between Parkview Hill Cres at Woodbine Heights Blvd and Parkview Hill Cres at Aspen Ave (South).]]></title>
+            <description><![CDATA[93 Parkview Hills: Regular service has resumed between Parkview Hill Cres at Woodbine Heights Blvd and Parkview Hill Cres at Aspen Ave (South).]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65319</guid>
-            <pubDate>2026-03-30T12:08:51.36Z</pubDate>
+            <pubDate>2026-03-31T01:13:05.417Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 97 Yonge: Regular service has resumed southbound from Yonge St at Dundas St West - Dundas Station to Yonge St at Queen St West - Queen Station.]]></title>
+            <description><![CDATA[97 Yonge: Regular service has resumed southbound from Yonge St at Dundas St West - Dundas Station to Yonge St at Queen St West - Queen Station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65359</guid>
+            <pubDate>2026-03-31T01:20:02.807Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -98,60 +98,11 @@
             <pubDate>2026-03-30T10:08:03.38Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Queen: Escalator 9Y1E out of service from north underpass to Line 1 Vaughan via Union platform while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[Queen: Escalator 9Y1E out of service from north underpass to Line 1 Vaughan via Union platform while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65348</guid>
-            <pubDate>2026-03-30T21:30:02.187Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Queen's Park: Escalator 3Y1E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[Queen's Park: Escalator 3Y1E out of service from concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65347</guid>
-            <pubDate>2026-03-30T21:30:02.17Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ King: Escalator 8Y1E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[King: Escalator 8Y1E out of service from Line 1 Vaughan via Union platform to south concourse while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65346</guid>
-            <pubDate>2026-03-30T21:30:02.107Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Wilson: Escalator 8S1E out of service from Wilson Ave north side entrance and concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[Wilson: Escalator 8S1E out of service from Wilson Ave north side entrance and concourse to Line 1 platform while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65345</guid>
-            <pubDate>2026-03-30T21:30:02.093Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Bloor-Yonge: Escalator 3D1E out of service from Line 1 Finch platform to north concourse while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></title>
-            <description><![CDATA[Bloor-Yonge: Escalator 3D1E out of service from Line 1 Finch platform to north concourse while we perform maintenance. Escalator is expected to be back in service March 31, 2026.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65344</guid>
-            <pubDate>2026-03-30T21:30:02.047Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[♿ Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></title>
             <description><![CDATA[Dufferin: Elevator 6B1L out of service between Dufferin St west side entrance and concourse while we perform maintenance.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65328</guid>
             <pubDate>2026-03-30T14:23:07.42Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Jane: Escalator 12B1E out of service from concourse to Jane St entrance while we perform maintenance.]]></title>
-            <description><![CDATA[Jane: Escalator 12B1E out of service from concourse to Jane St entrance while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65320</guid>
-            <pubDate>2026-03-30T12:29:25.507Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[♿ Don Mills: Escalator 61P4E out of service from Line 4 platform to concourse while we perform maintenance.]]></title>
-            <description><![CDATA[Don Mills: Escalator 61P4E out of service from Line 4 platform to concourse while we perform maintenance.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65316</guid>
-            <pubDate>2026-03-30T09:46:10.007Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Davisville: Escalator 17Y2E out of service from Line 1 Vaughan via Union platform to concourse while we perform maintenance. Escalator is expected to be back in service April 1, 2026.]]></title>
