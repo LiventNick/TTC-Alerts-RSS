@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 05:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 06:50:27 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There is no subway service between Sheppard West and Lawrence West stations due to planned track work. Shuttle buses are running.]]></title>
@@ -19,20 +19,6 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65298</guid>
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 93 Parkview Hills: Regular service has resumed between Parkview Hill Cres at Woodbine Heights Blvd and Parkview Hill Cres at Aspen Ave (South).]]></title>
-            <description><![CDATA[93 Parkview Hills: Regular service has resumed between Parkview Hill Cres at Woodbine Heights Blvd and Parkview Hill Cres at Aspen Ave (South).]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65319</guid>
-            <pubDate>2026-03-31T01:13:05.417Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 97 Yonge: Regular service has resumed southbound from Yonge St at Dundas St West - Dundas Station to Yonge St at Queen St West - Queen Station.]]></title>
-            <description><![CDATA[97 Yonge: Regular service has resumed southbound from Yonge St at Dundas St West - Dundas Station to Yonge St at Queen St West - Queen Station.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65359</guid>
-            <pubDate>2026-03-31T01:20:02.807Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
