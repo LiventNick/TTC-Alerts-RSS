@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 11:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 12:02:57 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -82,6 +82,34 @@
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65318</guid>
             <pubDate>2026-03-30T10:08:03.38Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ St Patrick: Elevator 4Y1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
+            <description><![CDATA[St Patrick: Elevator 4Y1L out of service between concourse and Line 1 centre platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65371</guid>
+            <pubDate>2026-03-31T07:50:59.34Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Kennedy: Escalator 16D4E out of service from Line 2 platform to bus platform due to a technical problem.]]></title>
+            <description><![CDATA[Kennedy: Escalator 16D4E out of service from Line 2 platform to bus platform due to a technical problem.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65370</guid>
+            <pubDate>2026-03-31T07:45:59.44Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Bloor-Yonge: Elevator 13Y3L out of service between south concourse and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
+            <description><![CDATA[Bloor-Yonge: Elevator 13Y3L out of service between south concourse and Line 1 southbound platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65366</guid>
+            <pubDate>2026-03-31T07:30:05.537Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[♿ Jane: Elevator 12B1L out of service between Jane St entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
+            <description><![CDATA[Jane: Elevator 12B1L out of service between Jane St entrance and concourse while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65365</guid>
+            <pubDate>2026-03-31T07:29:18.473Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Yorkdale: Escalator 7S4E out of service from Line 1 Centre platform to Yorkdale Service Rd entrance due to a technical problem.]]></title>
