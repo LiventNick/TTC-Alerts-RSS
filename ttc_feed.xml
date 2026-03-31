@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 17:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 18:10:33 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,25 +14,11 @@
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚇 Line 6 Finch West: No service between Rowntree Mills and Duncanwoods stations due to a medical emergency. Shuttle buses are on the way.]]></title>
-            <description><![CDATA[Line 6 Finch West: No service between Rowntree Mills and Duncanwoods stations due to a medical emergency. Shuttle buses are on the way.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65384</guid>
-            <pubDate>2026-03-31T12:47:43.49Z</pubDate>
-        </item>
-        <item>
             <title><![CDATA[🚌 93 Parkview Hills: Detour via White Pine Ave, Hackberry St and Parkview Hill Cres due to construction.]]></title>
             <description><![CDATA[93 Parkview Hills: Detour via White Pine Ave, Hackberry St and Parkview Hill Cres due to construction.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65382</guid>
             <pubDate>2026-03-31T11:39:56.757Z</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚌 168 Symington: Detour southbound via Davenport Rd, Lansdowne Ave and Dupont St due to a watermain break.]]></title>
-            <description><![CDATA[168 Symington: Detour southbound via Davenport Rd, Lansdowne Ave and Dupont St due to a watermain break.]]></description>
-            <link>https://www.ttc.ca/service-alerts</link>
-            <guid isPermaLink="false">65376</guid>
-            <pubDate>2026-03-31T09:25:45.837Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
@@ -98,18 +84,18 @@
             <pubDate>2026-03-31T09:39:40.627Z</pubDate>
         </item>
         <item>
-            <title><![CDATA[♿ Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform while we perform maintenance.]]></title>
-            <description><![CDATA[Castle Frank: Elevator 5D2L out of service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform while we perform maintenance.]]></description>
+            <title><![CDATA[♿ Castle Frank: Elevator back in service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform.]]></title>
+            <description><![CDATA[Castle Frank: Elevator back in service between Castle Frank Rd entrance and Line 2 Kennedy (eastbound) platform.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65385</guid>
-            <pubDate>2026-03-31T12:49:26.543Z</pubDate>
+            <pubDate>2026-03-31T14:05:54.287Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Bay: Elevator 2D1L out of service between concourse and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></title>
             <description><![CDATA[Bay: Elevator 2D1L out of service between concourse and Line 2 centre platform while we perform maintenance. Elevator is expected to be back in service March 31, 2026.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65372</guid>
-            <pubDate>2026-03-31T11:00:02.547Z</pubDate>
+            <pubDate>2026-03-31T14:08:16.143Z</pubDate>
         </item>
         <item>
             <title><![CDATA[♿ Kennedy: Escalator 16D4E out of service from Line 2 platform to bus platform due to a technical problem.]]></title>
