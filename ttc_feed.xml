@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 21:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 21:53:06 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,18 @@
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: Delays southbound at St Patrick station while we respond to an emergency alarm.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Delays southbound at St Patrick station while we respond to an emergency alarm.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65395</guid>
+            <pubDate>2026-03-31T17:49:12.737Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 508 Lake Shore: Delays near Distillery Loop while we deal with an operational problem.]]></title>
-            <description><![CDATA[508 Lake Shore: Delays near Distillery Loop while we deal with an operational problem.]]></description>
+            <description><![CDATA[Buses are running to supplement streetcar service.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65390</guid>
-            <pubDate>2026-03-31T16:30:51.27Z</pubDate>
+            <pubDate>2026-03-31T17:11:27.487Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🚌 93 Parkview Hills: Detour via White Pine Ave, Hackberry St and Parkview Hill Cres due to construction.]]></title>
