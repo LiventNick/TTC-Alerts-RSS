@@ -4,7 +4,7 @@
         <title>TTC Service Alerts</title>
         <link>https://www.ttc.ca/service-alerts</link>
         <description>Live service alerts for the Toronto Transit Commission</description>
-        <lastBuildDate>Tue, 31 Mar 2026 22:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 23:03:51 GMT</lastBuildDate>
         
         <item>
             <title><![CDATA[🚇 Line 1 Yonge-University: There will be no subway service between Sheppard West and Lawrence West stations, starting 11:59 p.m., nightly Monday, March 30 to Thursday, April 2, due to planned track work. Shuttle buses will operate.]]></title>
@@ -14,11 +14,46 @@
             <pubDate>2026-03-30T05:35:12.687Z</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚇 Line 1 Yonge-University: Regular service has resumed southbound at Bloor-Yonge station.]]></title>
+            <description><![CDATA[Line 1 Yonge-University: Regular service has resumed southbound at Bloor-Yonge station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65399</guid>
+            <pubDate>2026-03-31T18:49:13.937Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚇 Line 2 Bloor-Danforth: Regular service has resumed eastbound at Castle Frank station.]]></title>
+            <description><![CDATA[Line 2 Bloor-Danforth: Regular service has resumed eastbound at Castle Frank station.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65400</guid>
+            <pubDate>2026-03-31T18:49:58.407Z</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🚋 508 Lake Shore: Delays near Distillery Loop while we deal with an operational problem.]]></title>
             <description><![CDATA[Buses are running to supplement streetcar service.]]></description>
             <link>https://www.ttc.ca/service-alerts</link>
             <guid isPermaLink="false">65390</guid>
             <pubDate>2026-03-31T17:11:27.487Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 93 Parkview Hills: Detour via Parkview Hill Cres, Aspen Ave, Parkview Hill Cres and Hackberry St due to construction.]]></title>
+            <description><![CDATA[93 Parkview Hills: Detour via Parkview Hill Cres, Aspen Ave, Parkview Hill Cres and Hackberry St due to construction.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65396</guid>
+            <pubDate>2026-03-31T18:35:26.747Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 127 Davenport: Detour via Old Weston Rd, Junction Rd, Keele St and St Clair Ave W due to a fire.]]></title>
+            <description><![CDATA[127 Davenport: Detour via Old Weston Rd, Junction Rd, Keele St and St Clair Ave W due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65398</guid>
+            <pubDate>2026-03-31T18:41:21.257Z</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚌 168 Symington: Detour via St Clair Ave W and Laughton Ave due to a fire.]]></title>
+            <description><![CDATA[168 Symington: Detour via St Clair Ave W and Laughton Ave due to a fire.]]></description>
+            <link>https://www.ttc.ca/service-alerts</link>
+            <guid isPermaLink="false">65401</guid>
+            <pubDate>2026-03-31T18:54:03.61Z</pubDate>
         </item>
         <item>
             <title><![CDATA[🐢 Line 1 Yonge-University: Subway trains will move slower than usual southbound from Eglinton to Davisville stations while we work on track issues.]]></title>
