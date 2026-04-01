@@ -4,8 +4,8 @@ compatibility_date = "2026-02-25"
 
 [[kv_namespaces]]
 binding = "STATS"
-id = "f1e2d3c4b5a69780"
-preview_id = "stats-preview"
+id = "7e1b2f4b956d44e8a4126d8005dd385a"
+preview_id = "7e1b2f4b956d44e8a4126d8005dd385a"
 
 [observability]
 enabled = true
