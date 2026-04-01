@@ -1,7 +1,6 @@
 export default {
   async fetch(request, env, ctx) {
-    const COUNTER_NAMESPACE = "liventnick-ttc-alerts";
-    const COUNTER_KEY = "worker-feed-hits";
+    const COUNTER_KEY = "feed-hits";
     const url = new URL(request.url);
     const API_URL = "https://alerts.ttc.ca/api/alerts/live-alerts";
     const headers = { 
@@ -10,10 +9,7 @@ export default {
 
     if (url.pathname === "/stats.json") {
       try {
-        const statsRes = await fetch(`https://api.countapi.xyz/get/${COUNTER_NAMESPACE}/${COUNTER_KEY}`);
-        const stats = await statsRes.json();
-        const count = typeof stats.value === "number" ? stats.value : 0;
-
+        const count = parseInt(await env.STATS.get(COUNTER_KEY) || "0", 10);
         return new Response(
           JSON.stringify({
             schemaVersion: 1,
@@ -36,8 +32,17 @@ export default {
       }
     }
 
-    // Count feed requests without blocking the feed response path.
-    ctx.waitUntil(fetch(`https://api.countapi.xyz/hit/${COUNTER_NAMESPACE}/${COUNTER_KEY}`).catch(() => {}));
+    // Increment hit counter in background without blocking feed response.
+    ctx.waitUntil(
+      (async () => {
+        try {
+          const current = parseInt(await env.STATS.get(COUNTER_KEY) || "0", 10);
+          await env.STATS.put(COUNTER_KEY, String(current + 1));
+        } catch (e) {
+          console.error("Failed to update counter:", e);
+        }
+      })()
+    );
 
     try {
       const response = await fetch(API_URL, { headers });
