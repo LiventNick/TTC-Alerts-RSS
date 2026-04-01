@@ -2,8 +2,8 @@
 
 This project converts the official TTC (Toronto Transit Commission) JSON alerts into a clean, emoji-fied RSS feed served in real time by a Cloudflare Worker.
 
-![Uptime Robot status](https://img.shields.io/uptimerobot/status/m802427437-9f20f0d7d5d024cbc7761cf0?style=for-the-badge&logo=cloudflareworkers&v=1)
-![Worker Hits](https://img.shields.io/endpoint?url=https%3A%2F%2Fttc-alerts-rss.liventnick.xyz%2Fstats.json&style=for-the-badge&logo=cloudflare&v=1)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m802427437-9f20f0d7d5d024cbc7761cf0?up_color=57ae4b&style=for-the-badge&logo=cloudflareworkers&cacheSeconds=3600&v=1)
+![Worker Hits](https://img.shields.io/endpoint?url=https%3A%2F%2Fttc-alerts-rss.liventnick.xyz%2Fstats.json&style=for-the-badge&logo=cloudflare&cacheSeconds=3600&v=1)
 
 ## 📡 Feeds
 - **Live (Real-time):** [https://ttc-alerts-rss.liventnick.xyz](https://ttc-alerts-rss.liventnick.xyz)
