@@ -11,8 +11,8 @@
 // ---------------------------------------------------------------------------
 
 const COUNTER_KEY       = "feed-hits";
-const FLUSH_EVERY       = 50;          // flush after this many in-memory hits
-const FLUSH_INTERVAL_MS = 5 * 60_000; // or at least once every 5 minutes
+const FLUSH_EVERY       = 100;          // flush after this many in-memory hits
+const FLUSH_INTERVAL_MS = 30 * 60_000; // or at least once every 30 minutes
 
 // Shared state across requests in the same isolate
 if (!globalThis.__counter) {
